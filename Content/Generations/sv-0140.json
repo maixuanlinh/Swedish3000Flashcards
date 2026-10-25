@@ -1,0 +1,18 @@
+{
+  "id": "sv-0140",
+  "english": "appreciate",
+  "swedish": "uppskatta",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"uppskatta\". Smaller English meaning verbatim: \"appreciate\".\nScene: A grateful adult warmly thanks a helper while holding a small thank-you gift.\nMemory-link caption verbatim: \"uppskatta = value and appreciate.\".\nSwedish example in bottom strip verbatim: \"Jag uppskattar din hjälp.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nUse attached image as STYLE/LAYOUT reference only: warm photographic editorial scene, cream/gold heading, bold navy typography, gold memory caption and pale blue Swedish example strip. This card's supplied new scene and exact text, including å ä ö. Clear readable type fully inside margins. One square image. Adult educational presentation.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-37ee58c5-4804-48db-8bb2-da731babb72c.png",
+  "artwork": "Content/Artwork/sv-0140.png",
+  "sha256": "38965e4bdc4907ec379d645e9220f3f48d4c11db2beccd51556de209deca557b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

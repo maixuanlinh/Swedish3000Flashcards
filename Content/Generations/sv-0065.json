@@ -1,0 +1,18 @@
+{
+  "id": "sv-0065",
+  "english": "agent",
+  "swedish": "en agent",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en agent\". Smaller English meaning verbatim: \"agent\".\nScene: A professional agent negotiates a contract beside a client.\nMemory-link caption verbatim: \"agent → agent.\".\nSwedish example in bottom strip verbatim: \"Agenten hjälper sin klient.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nThe attached image is for STYLE/LAYOUT only: photographic/editorial scene, cream/gold heading, bold navy type, concise gold memory caption, pale blue example strip. New scene and teaching text from this card only. Exact Swedish å ä ö and spelling. Readable text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-2f2f8faa-115e-42b1-a1d0-6fd11b2b1c42.png",
+  "artwork": "Content/Artwork/sv-0065.png",
+  "sha256": "733f00a013d5fab6e1b7158fbc4e07d2236dd0f3fcd39c6c12c2731fc3b4f721",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

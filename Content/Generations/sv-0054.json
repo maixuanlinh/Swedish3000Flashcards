@@ -1,0 +1,18 @@
+{
+  "id": "sv-0054",
+  "english": "affect",
+  "swedish": "påverka",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"påverka\". Smaller English meaning verbatim: \"affect\".\nScene: Sunshine and rain visibly change the mood of the same adult in two connected scenes.\nMemory-link caption verbatim: \"påverka = influence, affect.\".\nSwedish example in bottom strip verbatim: \"Vädret påverkar vårt humör.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nThe attached image is for STYLE/LAYOUT only: photographic/editorial scene, cream/gold heading, bold navy type, concise gold memory caption, pale blue example strip. New scene and teaching text from this card only. Exact Swedish å ä ö and spelling. Readable text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-bc6cc399-9a5d-464a-9fea-2837f77aa204.png",
+  "artwork": "Content/Artwork/sv-0054.png",
+  "sha256": "092ecfd50cae4c2ff06f0963d7de00c7c95a7a396f758585dd6b0f6e5c0b1fb2",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

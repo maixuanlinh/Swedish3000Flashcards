@@ -951,11 +951,11 @@
       "sentenceEnglish": "I am afraid of the dog.",
       "topic": "Vocabulary",
       "memoryHook": "rädd: picture fear, then reassurance.",
-      "scene": "A nervous child stands safely behind a parent while a calm dog stays at a distance.",
-      "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"rädd\". Smaller English meaning verbatim: \"afraid\".\nScene: A nervous child stands safely behind a parent while a calm dog stays at a distance.\nMemory-link caption verbatim: \"rädd: picture fear, then reassurance.\".\nSwedish example in bottom strip verbatim: \"Jag är rädd för hunden.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+      "scene": "A slightly nervous adult woman, clearly around thirty years old, stands a comfortable distance from a small calm friendly dog in a bright park. Her adult friend reassures her. Gentle educational scene, no danger or distress, no children.",
+      "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"rädd\". Smaller English meaning verbatim: \"afraid\".\nScene: A slightly nervous adult woman, clearly around thirty years old, stands a comfortable distance from a small calm friendly dog in a bright park. Her adult friend reassures her. Gentle educational scene, no danger or distress, no children.\nMemory-link caption verbatim: \"rädd: picture fear, then reassurance.\".\nSwedish example in bottom strip verbatim: \"Jag är rädd för hunden.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0056.png",
       "generationMode": null
     },
     {
@@ -1124,8 +1124,8 @@
       "scene": "A dog bares its teeth behind a secure fence as an adult steps back safely.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"aggressiv\". Smaller English meaning verbatim: \"aggressive\".\nScene: A dog bares its teeth behind a secure fence as an adult steps back safely.\nMemory-link caption verbatim: \"aggressive → aggressiv.\".\nSwedish example in bottom strip verbatim: \"Hunden blev aggressiv.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0066.png",
       "generationMode": null
     },
     {
@@ -1141,8 +1141,8 @@
       "scene": "A calendar timeline links a past arrival to the present, with the earlier point clearly behind.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"för ... sedan\". Smaller English meaning verbatim: \"ago\".\nScene: A calendar timeline links a past arrival to the present, with the earlier point clearly behind.\nMemory-link caption verbatim: \"för + time + sedan = time ago.\".\nSwedish example in bottom strip verbatim: \"Hon kom hit för två år sedan.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0067.png",
       "generationMode": null
     },
     {
@@ -1158,8 +1158,8 @@
       "scene": "Two adults point to the same idea and nod together with matching green checks.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"hålla med\". Smaller English meaning verbatim: \"agree\".\nScene: Two adults point to the same idea and nod together with matching green checks.\nMemory-link caption verbatim: \"hålla med = agree with someone.\".\nSwedish example in bottom strip verbatim: \"Jag håller med dig.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0068.png",
       "generationMode": null
     },
     {
@@ -1175,8 +1175,8 @@
       "scene": "Two adults sign the same document and shake hands.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett avtal\". Smaller English meaning verbatim: \"agreement\".\nScene: Two adults sign the same document and shake hands.\nMemory-link caption verbatim: \"avtal = a formal agreement.\".\nSwedish example in bottom strip verbatim: \"Vi har skrivit under ett avtal.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0069.png",
       "generationMode": null
     },
     {
@@ -1192,8 +1192,8 @@
       "scene": "An adult suddenly understands a puzzle as a warm light glows above their head.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ah\". Smaller English meaning verbatim: \"ah\".\nScene: An adult suddenly understands a puzzle as a warm light glows above their head.\nMemory-link caption verbatim: \"ah = the sound of understanding.\".\nSwedish example in bottom strip verbatim: \"Ah, nu förstår jag!\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0070.png",
       "generationMode": null
     },
     {
@@ -1209,8 +1209,8 @@
       "scene": "A bus stands clearly in front of a house with the road stretching ahead.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"framför\". Smaller English meaning verbatim: \"ahead\".\nScene: A bus stands clearly in front of a house with the road stretching ahead.\nMemory-link caption verbatim: \"framför = in front of, ahead.\".\nSwedish example in bottom strip verbatim: \"Bussen står framför huset.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0071.png",
       "generationMode": null
     },
     {
@@ -1226,8 +1226,8 @@
       "scene": "An adult uses a helpful computer assistant to connect two languages across a glowing bridge.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"AI\". Smaller English meaning verbatim: \"AI\".\nScene: An adult uses a helpful computer assistant to connect two languages across a glowing bridge.\nMemory-link caption verbatim: \"AI = artificiell intelligens.\".\nSwedish example in bottom strip verbatim: \"AI kan hjälpa oss att översätta.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0072.png",
       "generationMode": null
     },
     {
@@ -1243,8 +1243,8 @@
       "scene": "Neighbors deliver water and blankets to adults outside a storm-damaged home.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"hjälp\". Smaller English meaning verbatim: \"aid\".\nScene: Neighbors deliver water and blankets to adults outside a storm-damaged home.\nMemory-link caption verbatim: \"hjälp = help or aid.\".\nSwedish example in bottom strip verbatim: \"De behöver hjälp efter stormen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0073.png",
       "generationMode": null
     },
     {
@@ -1260,8 +1260,8 @@
       "scene": "An adult archer carefully aims an arrow at a clear target on a safe range.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"sikta\". Smaller English meaning verbatim: \"aim\".\nScene: An adult archer carefully aims an arrow at a clear target on a safe range.\nMemory-link caption verbatim: \"sikta: focus your sight on the target.\".\nSwedish example in bottom strip verbatim: \"Hon siktar på målet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0074.png",
       "generationMode": null
     },
     {
@@ -1277,8 +1277,8 @@
       "scene": "An adult breathes deeply outdoors as a transparent balloon fills with fresh air.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"luft\". Smaller English meaning verbatim: \"air\".\nScene: An adult breathes deeply outdoors as a transparent balloon fills with fresh air.\nMemory-link caption verbatim: \"luft: imagine lifting a light balloon with air.\".\nSwedish example in bottom strip verbatim: \"Vi behöver frisk luft.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0075.png",
       "generationMode": null
     },
     {
@@ -1294,8 +1294,8 @@
       "scene": "A large passenger aircraft lands safely on a runway in warm daylight.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett flygplan\". Smaller English meaning verbatim: \"aircraft\".\nScene: A large passenger aircraft lands safely on a runway in warm daylight.\nMemory-link caption verbatim: \"flyga = fly; plan = plane.\".\nSwedish example in bottom strip verbatim: \"Ett flygplan landar på banan.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0076.png",
       "generationMode": null
     },
     {
@@ -1311,8 +1311,8 @@
       "scene": "An airline employee coordinates several matching unbranded passenger planes.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett flygbolag\". Smaller English meaning verbatim: \"airline\".\nScene: An airline employee coordinates several matching unbranded passenger planes.\nMemory-link caption verbatim: \"flyg = flight; bolag = company.\".\nSwedish example in bottom strip verbatim: \"Hon arbetar för ett flygbolag.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0077.png",
       "generationMode": null
     },
     {
@@ -1328,8 +1328,8 @@
       "scene": "Travelers with suitcases wait in an airport terminal overlooking aircraft.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en flygplats\". Smaller English meaning verbatim: \"airport\".\nScene: Travelers with suitcases wait in an airport terminal overlooking aircraft.\nMemory-link caption verbatim: \"flyg = flight; plats = place.\".\nSwedish example in bottom strip verbatim: \"Vi väntar på flygplatsen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0078.png",
       "generationMode": null
     },
     {
@@ -1345,8 +1345,8 @@
       "scene": "A wall alarm flashes and rings as an adult notices it.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett larm\". Smaller English meaning verbatim: \"alarm\".\nScene: A wall alarm flashes and rings as an adult notices it.\nMemory-link caption verbatim: \"alarm → larm.\".\nSwedish example in bottom strip verbatim: \"Larmet börjar tjuta.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0079.png",
       "generationMode": null
     },
     {
@@ -1362,8 +1362,8 @@
       "scene": "Two adults turn pages of a large photo album full of warm family memories.",
       "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett album\". Smaller English meaning verbatim: \"album\".\nScene: Two adults turn pages of a large photo album full of warm family memories.\nMemory-link caption verbatim: \"album → album.\".\nSwedish example in bottom strip verbatim: \"Vi tittar i ett gammalt album.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
       "contentStatus": "authored-draft",
-      "artworkStatus": "pending",
-      "artwork": null,
+      "artworkStatus": "reviewed",
+      "artwork": "Content/Artwork/sv-0080.png",
       "generationMode": null
     },
     {

@@ -2,5 +2,9 @@
   "sv-0001": {
     "path": "Content/Artwork/sv-0001.png",
     "reviewed": true
-  }
+  },
+  "sv-0002": { "path": "Content/Artwork/sv-0002.png", "reviewed": true },
+  "sv-0003": { "path": "Content/Artwork/sv-0003.png", "reviewed": true },
+  "sv-0004": { "path": "Content/Artwork/sv-0004.png", "reviewed": true },
+  "sv-0005": { "path": "Content/Artwork/sv-0005.png", "reviewed": true }
 }

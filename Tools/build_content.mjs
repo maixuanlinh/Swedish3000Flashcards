@@ -13,6 +13,10 @@ const artwork = read('Content/artwork.json');
 assert.equal(catalog.entries.length, 3000);
 assert.equal(new Set(catalog.entries.map((entry) => entry.id)).size, 3000);
 const ready = catalog.entries.filter((entry) => entry.contentStatus !== 'pending');
+for (const entry of ready) {
+  entry.artworkStatus = artwork[entry.id]?.reviewed ? 'reviewed' : 'pending';
+  entry.artwork = artwork[entry.id]?.path ?? null;
+}
 assert(ready.length > 0 && ready.length <= 3000);
 for (const entry of ready) {
   assert.equal(entry.id, `sv-${String(entry.sourceID).padStart(4, '0')}`);
@@ -45,6 +49,7 @@ for (const entry of ready) {
   images.push({ wordID: entry.id, assetID: `${entry.id}-r001`, filename, thumbnailFilename: filename, memoryHook: entry.memoryHook, prompt: entry.prompt });
 }
 write('Resources/BundledArtwork/manifest.json', images);
+write('Content/catalog.json', catalog);
 write('Content/status.json', {
   target: 3000, authored: ready.length, artwork: images.length,
   linguisticReview: 'Authored draft; independent Swedish review pending.',

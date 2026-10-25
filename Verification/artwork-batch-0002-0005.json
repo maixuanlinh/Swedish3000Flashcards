@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-25",
+  "ids": [
+    "sv-0002",
+    "sv-0003",
+    "sv-0004",
+    "sv-0005"
+  ],
+  "generator": "built-in",
+  "artworkCountAfterBatch": 5,
+  "aSetTotal": 211,
+  "review": "Visually checked integrated headings, English meanings, Swedish example sentences and memory-link captions.",
+  "assets": [
+    "Content/Artwork/sv-0002.png",
+    "Content/Artwork/sv-0003.png",
+    "Content/Artwork/sv-0004.png",
+    "Content/Artwork/sv-0005.png"
+  ],
+  "prompts": [
+    "Content/Generations/sv-0002.json",
+    "Content/Generations/sv-0003.json",
+    "Content/Generations/sv-0004.json",
+    "Content/Generations/sv-0005.json"
+  ],
+  "verification": {
+    "androidUnitTests": 26,
+    "androidFailures": 0,
+    "androidDebugBuild": "passed",
+    "androidContentHashesMatchIOS": true,
+    "ios": "native tests passed"
+  },
+  "pushed": false
+}

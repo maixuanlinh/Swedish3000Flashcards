@@ -2,7 +2,7 @@
 
 Native Kotlin/Jetpack Compose app copied from Finnish baseline `fa9932c`, retaining its design and interaction structure. Application ID: `com.linapps.swedish3000`. This installs separately from Finnish and uses its own storage and Swedish (`sv-SE`) speech. Version `0.1.0-dev`, code 1.
 
-The current development build includes 211 authored A-set word pairs and examples, with one finished card image. Other images and all B–Z content remain in progress. See `../Content/status.json` for completion counts. Finnish illustrations are never used as substitutes. Independent Swedish linguistic review is pending.
+The current development build includes 211 authored A-set word pairs and examples. Artwork is generated and reviewed in batches; other images and all B–Z content remain in progress. See `../Content/status.json` for completion counts. Finnish illustrations are never used as substitutes. Independent Swedish linguistic review is pending.
 
 Open this folder in Android Studio. Use its bundled JDK (17+) and Android SDK 36, then select `app` and a device or emulator. Minimum API: 26. Keep the adjacent `Resources/` directory in place.
 

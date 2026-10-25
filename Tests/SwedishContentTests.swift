@@ -19,9 +19,14 @@ final class SwedishContentTests: XCTestCase {
 
     func testArtworkCoverageIsHonestAndPromptsAreSwedish() throws {
         let store = try StudyStore(container: StudyStore.makeContainer(inMemory: true), seeds: StudyStore.readSeeds())
-        XCTAssertEqual(BundledArtwork.records.count, 1)
+        XCTAssertGreaterThanOrEqual(BundledArtwork.records.count, 1)
+        XCTAssertLessThanOrEqual(BundledArtwork.records.count, store.words.count)
         XCTAssertNotNil(BundledArtwork.image(for: "sv-0001"))
-        XCTAssertNil(BundledArtwork.image(for: "sv-0002"))
+        XCTAssertNil(BundledArtwork.image(for: "sv-0212"))
+        for id in BundledArtwork.records.keys {
+            XCTAssertNotNil(store.word(withID: id))
+            XCTAssertNotNil(BundledArtwork.image(for: id))
+        }
         XCTAssertNil(BundledArtwork.image(for: "fi-0001"))
         for word in store.words {
             XCTAssertFalse(ArtworkPromptBuilder.memoryHook(for: word).isEmpty)

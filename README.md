@@ -6,7 +6,7 @@ GitHub destination: https://github.com/maixuanlinh/Swedish3000Flashcards . Push 
 
 ## Current content
 
-The source index contains 3,000 stable Oxford-based English entries copied from the Finnish app, including 211 A entries. All 211 A entries have authored Swedish translations, example sentences, English translations, memory hooks, and image prompts. Independent Swedish linguistic review is pending. One completed image is present, for `sv-0001` (`a, an` → `en / ett`). Missing images remain empty; Finnish images are never substituted.
+The source index contains 3,000 stable Oxford-based English entries copied from the Finnish app, including 211 A entries. All 211 A entries have authored Swedish translations, example sentences, English translations, memory hooks, and image prompts. Independent Swedish linguistic review is pending. Artwork is generated and reviewed in batches; `Content/status.json` records current coverage, `Content/artwork.json` records approved assets, and `Content/Generations/` preserves final generation prompts. Missing images remain empty; Finnish images are never substituted.
 
 Only authored words are bundled. B–Z entries remain pending in `Content/catalog.json`; they are excluded from study until their content is authored. `Content/status.json` reports real completion counts. The original headword source is the Finnish project's American Oxford-based list; a UK-edition reconciliation has not been done.
 

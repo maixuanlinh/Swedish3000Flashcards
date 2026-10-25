@@ -1,13 +1,13 @@
 {
   "target": 3000,
   "authored": 211,
-  "artwork": 112,
+  "artwork": 128,
   "linguisticReview": "Authored draft; independent Swedish review pending.",
   "sets": {
     "A": {
       "total": 211,
       "authored": 211,
-      "artwork": 112
+      "artwork": 128
     },
     "B": {
       "total": 152,

@@ -1,0 +1,18 @@
+{
+  "id": "sv-0031",
+  "english": "actual",
+  "swedish": "verklig",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"verklig\". Smaller English meaning verbatim: \"actual\".\nScene: A real bill is revealed beneath an optimistic estimate, with the real total highlighted.\nMemory-link caption verbatim: \"verklig = real, the actual thing.\".\nSwedish example in bottom strip verbatim: \"Det här är den verkliga kostnaden.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nUse the attached image ONLY as style/layout reference: cream/gold header, bold navy rounded typography, warm vivid photographic editorial illustration, gold memory caption, pale blue example strip. Use this card's NEW scene and supplied Swedish lesson. Render all teaching text exactly, with correct å ä ö and doubled letters; no crop. One square individual card.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-305dd30f-9b9c-477d-8937-814b58d750a8.png",
+  "artwork": "Content/Artwork/sv-0031.png",
+  "sha256": "f80b31c117b52eb4cb37a2d127fa1b554c14b44e4500361c97ba74db56ffc7e8",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

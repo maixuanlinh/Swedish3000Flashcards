@@ -1,0 +1,18 @@
+{
+  "id": "sv-0019",
+  "english": "accuse",
+  "swedish": "anklaga",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"anklaga\". Smaller English meaning verbatim: \"accuse\".\nScene: One adult points toward another beside a missing-object outline while a neutral investigator listens.\nMemory-link caption verbatim: \"anklaga = accuse someone of something.\".\nSwedish example in bottom strip verbatim: \"Hon anklagar honom för stöld.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nUse the attached card ONLY as a style/layout reference: cream/gold header, navy bold rounded letters, vivid photographic/editorial illustration, gold memory caption, pale blue example strip. Make the NEW scene and supplied Swedish lesson. All Swedish text must match exactly, including å ä ö and doubled letters. Keep the whole example legible within generous margins. One square card.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-b8727488-cdd0-41f4-b16e-3850614b9faf.png",
+  "artwork": "Content/Artwork/sv-0019.png",
+  "sha256": "e2172e4288cb530d55a0725496e673d8e4bab1b5cb23d51ca112164aa8a81896",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

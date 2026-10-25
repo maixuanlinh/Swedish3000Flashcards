@@ -1,0 +1,18 @@
+{
+  "id": "sv-0022",
+  "english": "acknowledge",
+  "swedish": "erkänna",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"erkänna\". Smaller English meaning verbatim: \"acknowledge\".\nScene: An adult owns up to spilling a vase, gesturing honestly toward the spill.\nMemory-link caption verbatim: \"erkänna: openly recognize what is true.\".\nSwedish example in bottom strip verbatim: \"Han erkänner sitt misstag.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nUse the attached image ONLY as style/layout reference: cream/gold header, bold navy rounded typography, warm vivid photographic editorial illustration, gold memory caption, pale blue example strip. Use this card's NEW scene and supplied Swedish lesson. Render all teaching text exactly, with correct å ä ö and doubled letters; no crop. One square individual card.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-343a968f-f2b8-4862-8d7a-bd1a1a9a7872.png",
+  "artwork": "Content/Artwork/sv-0022.png",
+  "sha256": "aa3b49835e4aa18222c4693005d3755019e754e5969e81f224cc365ea3201fdf",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

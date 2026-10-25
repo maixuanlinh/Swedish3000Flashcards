@@ -1,0 +1,18 @@
+{
+  "id": "sv-0013",
+  "english": "access",
+  "swedish": "tillgång",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"tillgång\". Smaller English meaning verbatim: \"access\".\nScene: An open library doorway welcomes several adults, with a key opening the gate.\nMemory-link caption verbatim: \"till + gång: a way to reach and use something.\".\nSwedish example in bottom strip verbatim: \"Alla har tillgång till biblioteket.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nThe provided image is a STYLE AND LAYOUT reference only. Match its cream header with fine gold edging, photographic/editorial scene, navy rounded typography, gold memory-link caption and pale blue bottom example strip. Create only the new scene described above. Include all supplied teaching text exactly, with Swedish å ä ö. Keep the example sentence fully inside generous margins. A single square card, not multiple panels or a sheet.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-767252b6-badf-422b-83df-7f5d0f4da4d4.png",
+  "artwork": "Content/Artwork/sv-0013.png",
+  "sha256": "ea314a94a54728a015dc7c5fcd29220e6c18f99faffca6ab1ac4057af42ebe0e",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

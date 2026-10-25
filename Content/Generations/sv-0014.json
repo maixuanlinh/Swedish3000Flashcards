@@ -1,0 +1,18 @@
+{
+  "id": "sv-0014",
+  "english": "accident",
+  "swedish": "en olycka",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en olycka\". Smaller English meaning verbatim: \"accident\".\nScene: Two bicycles have bumped gently; unhurt riders check the fallen wheels with surprised faces.\nMemory-link caption verbatim: \"o- + lycka: misfortune instead of good fortune.\".\nSwedish example in bottom strip verbatim: \"Ingen skadades i olyckan.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nThe provided image is a STYLE AND LAYOUT reference only. Match its cream header with fine gold edging, photographic/editorial scene, navy rounded typography, gold memory-link caption and pale blue bottom example strip. Create only the new scene described above. Include all supplied teaching text exactly, with Swedish å ä ö. Keep the example sentence fully inside generous margins. A single square card, not multiple panels or a sheet.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-8e0818a1-fe13-4787-96ce-280755d57631.png",
+  "artwork": "Content/Artwork/sv-0014.png",
+  "sha256": "c1f9ff227b3b085d79e692b5d13874bdfa7d9bc8f63b92ef7651160973057e92",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

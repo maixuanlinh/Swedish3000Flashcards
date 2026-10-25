@@ -3,8 +3,68 @@
     "path": "Content/Artwork/sv-0001.png",
     "reviewed": true
   },
-  "sv-0002": { "path": "Content/Artwork/sv-0002.png", "reviewed": true },
-  "sv-0003": { "path": "Content/Artwork/sv-0003.png", "reviewed": true },
-  "sv-0004": { "path": "Content/Artwork/sv-0004.png", "reviewed": true },
-  "sv-0005": { "path": "Content/Artwork/sv-0005.png", "reviewed": true }
+  "sv-0002": {
+    "path": "Content/Artwork/sv-0002.png",
+    "reviewed": true
+  },
+  "sv-0003": {
+    "path": "Content/Artwork/sv-0003.png",
+    "reviewed": true
+  },
+  "sv-0004": {
+    "path": "Content/Artwork/sv-0004.png",
+    "reviewed": true
+  },
+  "sv-0005": {
+    "path": "Content/Artwork/sv-0005.png",
+    "reviewed": true
+  },
+  "sv-0006": {
+    "path": "Content/Artwork/sv-0006.png",
+    "reviewed": true
+  },
+  "sv-0007": {
+    "path": "Content/Artwork/sv-0007.png",
+    "reviewed": true
+  },
+  "sv-0008": {
+    "path": "Content/Artwork/sv-0008.png",
+    "reviewed": true
+  },
+  "sv-0009": {
+    "path": "Content/Artwork/sv-0009.png",
+    "reviewed": true
+  },
+  "sv-0010": {
+    "path": "Content/Artwork/sv-0010.png",
+    "reviewed": true
+  },
+  "sv-0011": {
+    "path": "Content/Artwork/sv-0011.png",
+    "reviewed": true
+  },
+  "sv-0012": {
+    "path": "Content/Artwork/sv-0012.png",
+    "reviewed": true
+  },
+  "sv-0013": {
+    "path": "Content/Artwork/sv-0013.png",
+    "reviewed": true
+  },
+  "sv-0014": {
+    "path": "Content/Artwork/sv-0014.png",
+    "reviewed": true
+  },
+  "sv-0015": {
+    "path": "Content/Artwork/sv-0015.png",
+    "reviewed": true
+  },
+  "sv-0016": {
+    "path": "Content/Artwork/sv-0016.png",
+    "reviewed": true
+  },
+  "sv-0017": {
+    "path": "Content/Artwork/sv-0017.png",
+    "reviewed": true
+  }
 }

@@ -1,0 +1,18 @@
+{
+  "id": "sv-0006",
+  "english": "above",
+  "swedish": "ovanför",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ovanför\". Smaller English meaning verbatim: \"above\".\nScene: A glowing lamp floats clearly above a wooden table; a vertical arrow shows their relationship.\nMemory-link caption verbatim: \"ovan = above; ovanför = above something.\".\nSwedish example in bottom strip verbatim: \"Lampan hänger ovanför bordet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nThe provided image is a STYLE AND LAYOUT reference only. Match its cream header with fine gold edging, photographic/editorial scene, navy rounded typography, gold memory-link caption and pale blue bottom example strip. Create only the new scene described above. Include all supplied teaching text exactly, with Swedish å ä ö. Keep the example sentence fully inside generous margins. A single square card, not multiple panels or a sheet.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-27738c19-c6ec-4b1a-843f-c02f7b60e11e.png",
+  "artwork": "Content/Artwork/sv-0006.png",
+  "sha256": "fdb765888c1ac98098433539aae6de4bdf4063ce0625bfc252533dcd1120ea99",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

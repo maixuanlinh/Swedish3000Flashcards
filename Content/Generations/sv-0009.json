@@ -1,0 +1,18 @@
+{
+  "id": "sv-0009",
+  "english": "absolutely",
+  "swedish": "absolut",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"absolut\". Smaller English meaning verbatim: \"absolutely\".\nScene: A cheerful adult gives an emphatic thumbs-up with a large bright check mark.\nMemory-link caption verbatim: \"absolut = absolutely, a confident YES.\".\nSwedish example in bottom strip verbatim: \"Ja, absolut!\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nThe provided image is a STYLE AND LAYOUT reference only. Match its cream header with fine gold edging, photographic/editorial scene, navy rounded typography, gold memory-link caption and pale blue bottom example strip. Create only the new scene described above. Include all supplied teaching text exactly, with Swedish å ä ö. Keep the example sentence fully inside generous margins. A single square card, not multiple panels or a sheet.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-addff49d-2a18-4e06-8161-c6d5bb21a81a.png",
+  "artwork": "Content/Artwork/sv-0009.png",
+  "sha256": "546e858dbddc18c8bbbd27db4b0b0c24459e34e32a512b026de8365cb8687fb7",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

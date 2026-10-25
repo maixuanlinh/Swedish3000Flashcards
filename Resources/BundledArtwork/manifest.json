@@ -1,0 +1,10 @@
+[
+  {
+    "wordID": "sv-0001",
+    "assetID": "sv-0001-r001",
+    "filename": "sv-0001-r001.png",
+    "thumbnailFilename": "sv-0001-r001.png",
+    "memoryHook": "Learn each noun with en or ett.",
+    "prompt": "Use case: scientific-educational.\nCreate ONE finished square illustrated Swedish vocabulary card for an adult-learning mobile app. The attached Finnish card is a STYLE AND LAYOUT REFERENCE only; create entirely Swedish teaching content.\nMatch its polished tactile editorial realism, warm light, bold highly legible navy typography, cream header with thin warm gold edging, central memorable scene, short integrated teaching caption, and pale blue bottom example strip. No app chrome or watermark.\nLesson: English \"a, an\" corresponds to Swedish indefinite articles \"en / ett\"; Swedish noun gender determines which article, not the following sound.\nTop header text VERBATIM: \"en / ett\"\nBelow header smaller VERBATIM: \"a, an\"\nCentral scene: one adorable realistic tabby CAT seated on a wooden table beside one juicy red APPLE. Clean blue Scandinavian room behind. Two large cream speech bubbles with clearly pointing tails: cat label VERBATIM \"en katt\"; apple label VERBATIM \"ett äpple\". Highlight \"en\" and \"ett\" in gold, keeping the noun words navy. The cat and apple should be separate clear silhouettes. Never use an English cat or apple label.\nShort cream/gold caption near bottom of scene VERBATIM: \"Learn each noun with en or ett.\"\nBottom pale blue strip with large exact Swedish sentence: \"Jag ser en katt och ett äpple.\"\nOnly these supplied words may appear. Preserve Swedish ä exactly (two dots). Sentence spelling: J-a-g s-e-r e-n k-a-t-t o-c-h e-t-t ä-p-p-l-e. Use generous margins and clear hierarchy. Integrated text is essential. Single image, not a contact sheet."
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-25",
+  "baseline": "Finnish3000Flashcards fa9932c6e5c7942bfc1ddc60e08d4185bf939d94",
+  "remote": "git@github.com:maixuanlinh/Swedish3000Flashcards.git",
+  "pushed": false,
+  "content": {
+    "sourceEntries": 3000,
+    "authoredSwedishEntries": 211,
+    "reviewedImages": 1,
+    "independentLinguisticReview": "pending",
+    "pendingEntriesExcludedFromApp": true,
+    "androidPackagedContentMatchesIOSResources": true
+  },
+  "ios": {
+    "bundleID": "com.linapps.swedish3000",
+    "build": "passed",
+    "device": "iPhone 16 Pro simulator, iOS 26.5",
+    "tests": 11,
+    "failures": 0,
+    "skipped": 0,
+    "includesInterfaceTest": true,
+    "manualVisualCheck": "Native Study screen and embedded en/ett artwork inspected",
+    "screenshot": "Verification/iPhone-study.png",
+    "testResult": "build/DerivedData/Logs/Test/Test-3000 Swedish Words-2026.10.25_22-46-50-+0200.xcresult"
+  },
+  "android": {
+    "applicationID": "com.linapps.swedish3000",
+    "debugAPK": "passed",
+    "instrumentationAPK": "compiled",
+    "unitTests": 26,
+    "failures": 0,
+    "skipped": 0,
+    "lintErrors": 0,
+    "lintWarnings": 13,
+    "deviceTest": "pending: no connected Android device or configured emulator"
+  },
+  "releaseWork": [
+    "Remaining Swedish artwork and B-Z content",
+    "Independent linguistic review",
+    "UK Oxford source reconciliation if required",
+    "Final app icons",
+    "Swedish support and privacy publication",
+    "Store products, signing and distribution configuration",
+    "Physical-device speech, notification and store testing"
+  ]
+}

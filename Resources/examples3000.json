@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "sv-0001",
+    "sentence": "Jag ser en katt och ett äpple.",
+    "sentenceEnglish": "I see a cat and an apple."
+  },
+  {
+    "id": "sv-0002",
+    "sentence": "De tvingades överge båten.",
+    "sentenceEnglish": "They had to abandon the boat."
+  },
+  {
+    "id": "sv-0003",
+    "sentence": "Hon har förmåga att lära sig snabbt.",
+    "sentenceEnglish": "She has the ability to learn quickly."
+  },
+  {
+    "id": "sv-0004",
+    "sentence": "Jag kan simma.",
+    "sentenceEnglish": "I am able to swim."
+  },
+  {
+    "id": "sv-0005",
+    "sentence": "Det tar ungefär en timme.",
+    "sentenceEnglish": "It takes about an hour."
+  },
+  {
+    "id": "sv-0006",
+    "sentence": "Lampan hänger ovanför bordet.",
+    "sentenceEnglish": "The lamp hangs above the table."
+  },
+  {
+    "id": "sv-0007",
+    "sentence": "Min syster bor utomlands.",
+    "sentenceEnglish": "My sister lives abroad."
+  },
+  {
+    "id": "sv-0008",
+    "sentence": "Det råder ett absolut förbud mot rökning.",
+    "sentenceEnglish": "There is an absolute ban on smoking."
+  },
+  {
+    "id": "sv-0009",
+    "sentence": "Ja, absolut!",
+    "sentenceEnglish": "Yes, absolutely!"
+  },
+  {
+    "id": "sv-0010",
+    "sentence": "Hon skriver en akademisk uppsats.",
+    "sentenceEnglish": "She is writing an academic essay."
+  },
+  {
+    "id": "sv-0011",
+    "sentence": "Jag accepterar ditt erbjudande.",
+    "sentenceEnglish": "I accept your offer."
+  },
+  {
+    "id": "sv-0012",
+    "sentence": "Priset är acceptabelt.",
+    "sentenceEnglish": "The price is acceptable."
+  },
+  {
+    "id": "sv-0013",
+    "sentence": "Alla har tillgång till biblioteket.",
+    "sentenceEnglish": "Everyone has access to the library."
+  },
+  {
+    "id": "sv-0014",
+    "sentence": "Ingen skadades i olyckan.",
+    "sentenceEnglish": "No one was hurt in the accident."
+  },
+  {
+    "id": "sv-0015",
+    "sentence": "Vill du följa med till stationen?",
+    "sentenceEnglish": "Would you like to accompany me to the station?"
+  },
+  {
+    "id": "sv-0016",
+    "sentence": "Enligt kartan ligger sjön här.",
+    "sentenceEnglish": "According to the map, the lake is here."
+  },
+  {
+    "id": "sv-0017",
+    "sentence": "Jag har ett konto på banken.",
+    "sentenceEnglish": "I have an account at the bank."
+  },
+  {
+    "id": "sv-0018",
+    "sentence": "Alla uppgifter är korrekta.",
+    "sentenceEnglish": "All the details are accurate."
+  },
+  {
+    "id": "sv-0019",
+    "sentence": "Hon anklagar honom för stöld.",
+    "sentenceEnglish": "She accuses him of theft."
+  },
+  {
+    "id": "sv-0020",
+    "sentence": "Hon uppnår sitt mål.",
+    "sentenceEnglish": "She achieves her goal."
+  },
+  {
+    "id": "sv-0021",
+    "sentence": "Att klara provet var en stor prestation.",
+    "sentenceEnglish": "Passing the exam was a great achievement."
+  },
+  {
+    "id": "sv-0022",
+    "sentence": "Han erkänner sitt misstag.",
+    "sentenceEnglish": "He acknowledges his mistake."
+  },
+  {
+    "id": "sv-0023",
+    "sentence": "Vi behöver skaffa en ny dator.",
+    "sentenceEnglish": "We need to acquire a new computer."
+  },
+  {
+    "id": "sv-0024",
+    "sentence": "Vi går över bron.",
+    "sentenceEnglish": "We walk across the bridge."
+  },
+  {
+    "id": "sv-0025",
+    "sentence": "Vi måste agera snabbt.",
+    "sentenceEnglish": "We must act quickly."
+  },
+  {
+    "id": "sv-0026",
+    "sentence": "En liten handling kan göra stor skillnad.",
+    "sentenceEnglish": "A small action can make a big difference."
+  },
+  {
+    "id": "sv-0027",
+    "sentence": "Hon lever ett aktivt liv.",
+    "sentenceEnglish": "She leads an active life."
+  },
+  {
+    "id": "sv-0028",
+    "sentence": "Simning är en rolig aktivitet.",
+    "sentenceEnglish": "Swimming is a fun activity."
+  },
+  {
+    "id": "sv-0029",
+    "sentence": "Han arbetar som skådespelare.",
+    "sentenceEnglish": "He works as an actor."
+  },
+  {
+    "id": "sv-0030",
+    "sentence": "Hon är en berömd skådespelerska.",
+    "sentenceEnglish": "She is a famous actress."
+  },
+  {
+    "id": "sv-0031",
+    "sentence": "Det här är den verkliga kostnaden.",
+    "sentenceEnglish": "This is the actual cost."
+  },
+  {
+    "id": "sv-0032",
+    "sentence": "Det är faktiskt sant.",
+    "sentenceEnglish": "It is actually true."
+  },
+  {
+    "id": "sv-0033",
+    "sentence": "Jag såg en annons för jobbet.",
+    "sentenceEnglish": "I saw an ad for the job."
+  },
+  {
+    "id": "sv-0034",
+    "sentence": "Vi anpassar planen efter vädret.",
+    "sentenceEnglish": "We adapt the plan to the weather."
+  },
+  {
+    "id": "sv-0035",
+    "sentence": "Lägg till lite salt.",
+    "sentenceEnglish": "Add a little salt."
+  },
+  {
+    "id": "sv-0036",
+    "sentence": "Rapporten har ett viktigt tillägg.",
+    "sentenceEnglish": "The report has an important addition."
+  },
+  {
+    "id": "sv-0037",
+    "sentence": "Vi behöver ytterligare en stol.",
+    "sentenceEnglish": "We need an additional chair."
+  },
+  {
+    "id": "sv-0038",
+    "sentence": "Skriv din adress här.",
+    "sentenceEnglish": "Write your address here."
+  },
+  {
+    "id": "sv-0039",
+    "sentence": "Kommunens förvaltning ansvarar för skolorna.",
+    "sentenceEnglish": "The municipal administration is responsible for the schools."
+  },
+  {
+    "id": "sv-0040",
+    "sentence": "Jag beundrar hennes mod.",
+    "sentenceEnglish": "I admire her courage."
+  },
+  {
+    "id": "sv-0041",
+    "sentence": "Jag måste erkänna att jag hade fel.",
+    "sentenceEnglish": "I must admit that I was wrong."
+  },
+  {
+    "id": "sv-0042",
+    "sentence": "De vill adoptera ett barn.",
+    "sentenceEnglish": "They want to adopt a child."
+  },
+  {
+    "id": "sv-0043",
+    "sentence": "En vuxen måste följa med barnet.",
+    "sentenceEnglish": "An adult must accompany the child."
+  },
+  {
+    "id": "sv-0044",
+    "sentence": "Hon gör stora framsteg i svenska.",
+    "sentenceEnglish": "She is making great advances in Swedish."
+  },
+  {
+    "id": "sv-0045",
+    "sentence": "Hon går en avancerad kurs.",
+    "sentenceEnglish": "She is taking an advanced course."
+  },
+  {
+    "id": "sv-0046",
+    "sentence": "Erfarenhet är en stor fördel.",
+    "sentenceEnglish": "Experience is a great advantage."
+  },
+  {
+    "id": "sv-0047",
+    "sentence": "Resan blev ett riktigt äventyr.",
+    "sentenceEnglish": "The journey became a real adventure."
+  },
+  {
+    "id": "sv-0048",
+    "sentence": "Företaget annonserar efter personal.",
+    "sentenceEnglish": "The company is advertising for staff."
+  },
+  {
+    "id": "sv-0049",
+    "sentence": "Jag läste en annons i tidningen.",
+    "sentenceEnglish": "I read an advertisement in the newspaper."
+  },
+  {
+    "id": "sv-0050",
+    "sentence": "Filmen avbryts av reklam.",
+    "sentenceEnglish": "The film is interrupted by advertising."
+  },
+  {
+    "id": "sv-0051",
+    "sentence": "Tack för ditt goda råd.",
+    "sentenceEnglish": "Thank you for your good advice."
+  },
+  {
+    "id": "sv-0052",
+    "sentence": "Läkaren ger mig råd om motion.",
+    "sentenceEnglish": "The doctor advises me about exercise."
+  },
+  {
+    "id": "sv-0053",
+    "sentence": "Det är en privat affär.",
+    "sentenceEnglish": "It is a private affair."
+  },
+  {
+    "id": "sv-0054",
+    "sentence": "Vädret påverkar vårt humör.",
+    "sentenceEnglish": "The weather affects our mood."
+  },
+  {
+    "id": "sv-0055",
+    "sentence": "Jag har råd med biljetten.",
+    "sentenceEnglish": "I can afford the ticket."
+  },
+  {
+    "id": "sv-0056",
+    "sentence": "Barnet är rädd för hunden.",
+    "sentenceEnglish": "The child is afraid of the dog."
+  },
+  {
+    "id": "sv-0057",
+    "sentence": "Vi går ut efter middagen.",
+    "sentenceEnglish": "We go out after dinner."
+  },
+  {
+    "id": "sv-0058",
+    "sentence": "Vi ses i eftermiddag.",
+    "sentenceEnglish": "See you this afternoon."
+  },
+  {
+    "id": "sv-0059",
+    "sentence": "Vi tar en promenad efteråt.",
+    "sentenceEnglish": "We take a walk afterward."
+  },
+  {
+    "id": "sv-0060",
+    "sentence": "Kan du säga det igen?",
+    "sentenceEnglish": "Can you say it again?"
+  },
+  {
+    "id": "sv-0061",
+    "sentence": "Vi spelar mot ett annat lag.",
+    "sentenceEnglish": "We play against another team."
+  },
+  {
+    "id": "sv-0062",
+    "sentence": "Hon frågar om min ålder.",
+    "sentenceEnglish": "She asks about my age."
+  },
+  {
+    "id": "sv-0063",
+    "sentence": "Hon arbetar på en resebyrå.",
+    "sentenceEnglish": "She works at a travel agency."
+  },
+  {
+    "id": "sv-0064",
+    "sentence": "Mötet har en tydlig dagordning.",
+    "sentenceEnglish": "The meeting has a clear agenda."
+  },
+  {
+    "id": "sv-0065",
+    "sentence": "Agenten hjälper sin klient.",
+    "sentenceEnglish": "The agent helps their client."
+  },
+  {
+    "id": "sv-0066",
+    "sentence": "Hunden blev aggressiv.",
+    "sentenceEnglish": "The dog became aggressive."
+  },
+  {
+    "id": "sv-0067",
+    "sentence": "Hon kom hit för två år sedan.",
+    "sentenceEnglish": "She came here two years ago."
+  },
+  {
+    "id": "sv-0068",
+    "sentence": "Jag håller med dig.",
+    "sentenceEnglish": "I agree with you."
+  },
+  {
+    "id": "sv-0069",
+    "sentence": "Vi har skrivit under ett avtal.",
+    "sentenceEnglish": "We have signed an agreement."
+  },
+  {
+    "id": "sv-0070",
+    "sentence": "Ah, nu förstår jag!",
+    "sentenceEnglish": "Ah, now I understand!"
+  },
+  {
+    "id": "sv-0071",
+    "sentence": "Bussen står framför huset.",
+    "sentenceEnglish": "The bus is ahead of the house."
+  },
+  {
+    "id": "sv-0072",
+    "sentence": "AI kan hjälpa oss att översätta.",
+    "sentenceEnglish": "AI can help us translate."
+  },
+  {
+    "id": "sv-0073",
+    "sentence": "De behöver hjälp efter stormen.",
+    "sentenceEnglish": "They need aid after the storm."
+  },
+  {
+    "id": "sv-0074",
+    "sentence": "Hon siktar på målet.",
+    "sentenceEnglish": "She aims at the target."
+  },
+  {
+    "id": "sv-0075",
+    "sentence": "Vi behöver frisk luft.",
+    "sentenceEnglish": "We need fresh air."
+  },
+  {
+    "id": "sv-0076",
+    "sentence": "Ett flygplan landar på banan.",
+    "sentenceEnglish": "An aircraft lands on the runway."
+  },
+  {
+    "id": "sv-0077",
+    "sentence": "Hon arbetar för ett flygbolag.",
+    "sentenceEnglish": "She works for an airline."
+  },
+  {
+    "id": "sv-0078",
+    "sentence": "Vi väntar på flygplatsen.",
+    "sentenceEnglish": "We are waiting at the airport."
+  },
+  {
+    "id": "sv-0079",
+    "sentence": "Larmet börjar tjuta.",
+    "sentenceEnglish": "The alarm starts sounding."
+  },
+  {
+    "id": "sv-0080",
+    "sentence": "Vi tittar i ett gammalt album.",
+    "sentenceEnglish": "We look through an old album."
+  },
+  {
+    "id": "sv-0081",
+    "sentence": "Drycken innehåller ingen alkohol.",
+    "sentenceEnglish": "The drink contains no alcohol."
+  },
+  {
+    "id": "sv-0082",
+    "sentence": "Det här är en alkoholhaltig dryck.",
+    "sentenceEnglish": "This is an alcoholic drink."
+  },
+  {
+    "id": "sv-0083",
+    "sentence": "Fisken är fortfarande levande.",
+    "sentenceEnglish": "The fish is still alive."
+  },
+  {
+    "id": "sv-0084",
+    "sentence": "Alla är välkomna.",
+    "sentenceEnglish": "All are welcome."
+  },
+  {
+    "id": "sv-0085",
+    "sentence": "Är allt okej?",
+    "sentenceEnglish": "Is everything all right?"
+  },
+  {
+    "id": "sv-0086",
+    "sentence": "Reglerna tillåter hundar här.",
+    "sentenceEnglish": "The rules allow dogs here."
+  },
+  {
+    "id": "sv-0087",
+    "sentence": "Jag är nästan klar.",
+    "sentenceEnglish": "I am almost finished."
+  },
+  {
+    "id": "sv-0088",
+    "sentence": "Hon bor ensam.",
+    "sentenceEnglish": "She lives alone."
+  },
+  {
+    "id": "sv-0089",
+    "sentence": "Vi går längs stranden.",
+    "sentenceEnglish": "We walk along the beach."
+  },
+  {
+    "id": "sv-0090",
+    "sentence": "Jag har redan ätit.",
+    "sentenceEnglish": "I have already eaten."
+  },
+  {
+    "id": "sv-0091",
+    "sentence": "Jag vill också följa med.",
+    "sentenceEnglish": "I also want to come along."
+  },
+  {
+    "id": "sv-0092",
+    "sentence": "Vi måste ändra planen.",
+    "sentenceEnglish": "We must alter the plan."
+  },
+  {
+    "id": "sv-0093",
+    "sentence": "Vi behöver ett annat alternativ.",
+    "sentenceEnglish": "We need another alternative."
+  },
+  {
+    "id": "sv-0094",
+    "sentence": "Vi går ut trots att det regnar.",
+    "sentenceEnglish": "We go out although it is raining."
+  },
+  {
+    "id": "sv-0095",
+    "sentence": "Hon kommer alltid i tid.",
+    "sentenceEnglish": "She always arrives on time."
+  },
+  {
+    "id": "sv-0096",
+    "sentence": "Jag blev förvånad över nyheten.",
+    "sentenceEnglish": "I was amazed by the news."
+  },
+  {
+    "id": "sv-0097",
+    "sentence": "Utsikten är fantastisk.",
+    "sentenceEnglish": "The view is amazing."
+  },
+  {
+    "id": "sv-0098",
+    "sentence": "Hennes ambition är att bli läkare.",
+    "sentenceEnglish": "Her ambition is to become a doctor."
+  },
+  {
+    "id": "sv-0099",
+    "sentence": "Jag hittade nyckeln bland böckerna.",
+    "sentenceEnglish": "I found the key among the books."
+  },
+  {
+    "id": "sv-0100",
+    "sentence": "Det är en stor mängd vatten.",
+    "sentenceEnglish": "It is a large amount of water."
+  },
+  {
+    "id": "sv-0101",
+    "sentence": "Analysen visar ett tydligt mönster.",
+    "sentenceEnglish": "The analysis shows a clear pattern."
+  },
+  {
+    "id": "sv-0102",
+    "sentence": "Vi analyserar resultatet.",
+    "sentenceEnglish": "We analyze the result."
+  },
+  {
+    "id": "sv-0103",
+    "sentence": "De besöker en forntida stad.",
+    "sentenceEnglish": "They visit an ancient city."
+  },
+  {
+    "id": "sv-0104",
+    "sentence": "Jag vill ha kaffe och te.",
+    "sentenceEnglish": "I want coffee and tea."
+  },
+  {
+    "id": "sv-0105",
+    "sentence": "Han försöker kontrollera sin ilska.",
+    "sentenceEnglish": "He tries to control his anger."
+  },
+  {
+    "id": "sv-0106",
+    "sentence": "Vinkeln är nittio grader.",
+    "sentenceEnglish": "The angle is ninety degrees."
+  },
+  {
+    "id": "sv-0107",
+    "sentence": "Hon blev arg på mig.",
+    "sentenceEnglish": "She became angry with me."
+  },
+  {
+    "id": "sv-0108",
+    "sentence": "En häst är ett stort djur.",
+    "sentenceEnglish": "A horse is a large animal."
+  },
+  {
+    "id": "sv-0109",
+    "sentence": "Hon har ont i fotleden.",
+    "sentenceEnglish": "Her ankle hurts."
+  },
+  {
+    "id": "sv-0110",
+    "sentence": "Vi firar årsdagen av vårt bröllop.",
+    "sentenceEnglish": "We celebrate the anniversary of our wedding."
+  },
+  {
+    "id": "sv-0111",
+    "sentence": "Hon meddelar resultatet i morgon.",
+    "sentenceEnglish": "She will announce the result tomorrow."
+  },
+  {
+    "id": "sv-0112",
+    "sentence": "Vi hörde ett viktigt meddelande.",
+    "sentenceEnglish": "We heard an important announcement."
+  },
+  {
+    "id": "sv-0113",
+    "sentence": "Ljudet börjar irritera mig.",
+    "sentenceEnglish": "The noise is beginning to annoy me."
+  },
+  {
+    "id": "sv-0114",
+    "sentence": "Hon är irriterad på oljudet.",
+    "sentenceEnglish": "She is annoyed by the noise."
+  },
+  {
+    "id": "sv-0115",
+    "sentence": "Det är ett irriterande ljud.",
+    "sentenceEnglish": "It is an annoying noise."
+  },
+  {
+    "id": "sv-0116",
+    "sentence": "Det är vår årliga fest.",
+    "sentenceEnglish": "It is our annual party."
+  },
+  {
+    "id": "sv-0117",
+    "sentence": "Jag vill läsa en annan bok.",
+    "sentenceEnglish": "I want to read another book."
+  },
+  {
+    "id": "sv-0118",
+    "sentence": "Jag väntar på ett svar.",
+    "sentenceEnglish": "I am waiting for an answer."
+  },
+  {
+    "id": "sv-0119",
+    "sentence": "Jag är orolig inför provet.",
+    "sentenceEnglish": "I am anxious about the exam."
+  },
+  {
+    "id": "sv-0120",
+    "sentence": "Har du någon fråga?",
+    "sentenceEnglish": "Do you have any question?"
+  },
+  {
+    "id": "sv-0121",
+    "sentence": "Är det någon hemma?",
+    "sentenceEnglish": "Is anybody home?"
+  },
+  {
+    "id": "sv-0122",
+    "sentence": "Jag bor inte här längre.",
+    "sentenceEnglish": "I do not live here anymore."
+  },
+  {
+    "id": "sv-0123",
+    "sentence": "Kan någon hjälpa mig?",
+    "sentenceEnglish": "Can anyone help me?"
+  },
+  {
+    "id": "sv-0124",
+    "sentence": "Vill du ha något att dricka?",
+    "sentenceEnglish": "Would you like anything to drink?"
+  },
+  {
+    "id": "sv-0125",
+    "sentence": "Det regnade, men vi gick ändå.",
+    "sentenceEnglish": "It rained, but we went anyway."
+  },
+  {
+    "id": "sv-0126",
+    "sentence": "Du kan sitta var som helst.",
+    "sentenceEnglish": "You can sit anywhere."
+  },
+  {
+    "id": "sv-0127",
+    "sentence": "Håll stolarna isär.",
+    "sentenceEnglish": "Keep the chairs apart."
+  },
+  {
+    "id": "sv-0128",
+    "sentence": "Vi bor i en liten lägenhet.",
+    "sentenceEnglish": "We live in a small apartment."
+  },
+  {
+    "id": "sv-0129",
+    "sentence": "Jag vill be om ursäkt för mitt misstag.",
+    "sentenceEnglish": "I want to apologize for my mistake."
+  },
+  {
+    "id": "sv-0130",
+    "sentence": "Jag använder en app för att lära mig svenska.",
+    "sentenceEnglish": "I use an app to learn Swedish."
+  },
+  {
+    "id": "sv-0131",
+    "sentence": "Det finns en uppenbar risk.",
+    "sentenceEnglish": "There is an apparent risk."
+  },
+  {
+    "id": "sv-0132",
+    "sentence": "Tydligen är butiken stängd.",
+    "sentenceEnglish": "Apparently, the shop is closed."
+  },
+  {
+    "id": "sv-0133",
+    "sentence": "De gjorde en vädjan om hjälp.",
+    "sentenceEnglish": "They made an appeal for help."
+  },
+  {
+    "id": "sv-0134",
+    "sentence": "Hon dyker upp vid dörren.",
+    "sentenceEnglish": "She appears at the door."
+  },
+  {
+    "id": "sv-0135",
+    "sentence": "Byggnaden har ett modernt utseende.",
+    "sentenceEnglish": "The building has a modern appearance."
+  },
+  {
+    "id": "sv-0136",
+    "sentence": "Jag äter ett äpple.",
+    "sentenceEnglish": "I am eating an apple."
+  },
+  {
+    "id": "sv-0137",
+    "sentence": "Jag skickar min ansökan i dag.",
+    "sentenceEnglish": "I am sending my application today."
+  },
+  {
+    "id": "sv-0138",
+    "sentence": "Hon ansöker om ett nytt jobb.",
+    "sentenceEnglish": "She applies for a new job."
+  },
+  {
+    "id": "sv-0139",
+    "sentence": "Jag har en bokad tid hos läkaren.",
+    "sentenceEnglish": "I have an appointment with the doctor."
+  },
+  {
+    "id": "sv-0140",
+    "sentence": "Jag uppskattar din hjälp.",
+    "sentenceEnglish": "I appreciate your help."
+  },
+  {
+    "id": "sv-0141",
+    "sentence": "Tåget närmar sig stationen.",
+    "sentenceEnglish": "The train approaches the station."
+  },
+  {
+    "id": "sv-0142",
+    "sentence": "Det här är en lämplig plats för en picknick.",
+    "sentenceEnglish": "This is an appropriate place for a picnic."
+  },
+  {
+    "id": "sv-0143",
+    "sentence": "Vi behöver ditt godkännande.",
+    "sentenceEnglish": "We need your approval."
+  },
+  {
+    "id": "sv-0144",
+    "sentence": "Chefen godkänner planen.",
+    "sentenceEnglish": "The manager approves the plan."
+  },
+  {
+    "id": "sv-0145",
+    "sentence": "Det kostar ungefär hundra kronor.",
+    "sentenceEnglish": "It costs approximately one hundred kronor."
+  },
+  {
+    "id": "sv-0146",
+    "sentence": "Vi reser i april.",
+    "sentenceEnglish": "We travel in April."
+  },
+  {
+    "id": "sv-0147",
+    "sentence": "Arkitekten ritar ett nytt hus.",
+    "sentenceEnglish": "The architect designs a new house."
+  },
+  {
+    "id": "sv-0148",
+    "sentence": "Jag är intresserad av arkitektur.",
+    "sentenceEnglish": "I am interested in architecture."
+  },
+  {
+    "id": "sv-0149",
+    "sentence": "Det här är ett lugnt område.",
+    "sentenceEnglish": "This is a quiet area."
+  },
+  {
+    "id": "sv-0150",
+    "sentence": "De grälar om pengar.",
+    "sentenceEnglish": "They argue about money."
+  },
+  {
+    "id": "sv-0151",
+    "sentence": "De hade ett gräl i går.",
+    "sentenceEnglish": "They had an argument yesterday."
+  },
+  {
+    "id": "sv-0152",
+    "sentence": "Ett problem kan uppstå.",
+    "sentenceEnglish": "A problem can arise."
+  },
+  {
+    "id": "sv-0153",
+    "sentence": "Han lyfter sin högra arm.",
+    "sentenceEnglish": "He raises his right arm."
+  },
+  {
+    "id": "sv-0154",
+    "sentence": "Vakterna är beväpnade.",
+    "sentenceEnglish": "The guards are armed."
+  },
+  {
+    "id": "sv-0155",
+    "sentence": "Polisen hittade vapen i bilen.",
+    "sentenceEnglish": "The police found arms in the car."
+  },
+  {
+    "id": "sv-0156",
+    "sentence": "Han tjänstgör i armén.",
+    "sentenceEnglish": "He serves in the army."
+  },
+  {
+    "id": "sv-0157",
+    "sentence": "Vi går runt sjön.",
+    "sentenceEnglish": "We walk around the lake."
+  },
+  {
+    "id": "sv-0158",
+    "sentence": "Vi måste ordna ett möte.",
+    "sentenceEnglish": "We must arrange a meeting."
+  },
+  {
+    "id": "sv-0159",
+    "sentence": "Allt är klart för kvällens arrangemang.",
+    "sentenceEnglish": "Everything is ready for this evening's event arrangement."
+  },
+  {
+    "id": "sv-0160",
+    "sentence": "Polisen griper den misstänkte.",
+    "sentenceEnglish": "The police arrest the suspect."
+  },
+  {
+    "id": "sv-0161",
+    "sentence": "Vi väntar på hennes ankomst.",
+    "sentenceEnglish": "We are waiting for her arrival."
+  },
+  {
+    "id": "sv-0162",
+    "sentence": "Tåget anländer klockan tre.",
+    "sentenceEnglish": "The train arrives at three o'clock."
+  },
+  {
+    "id": "sv-0163",
+    "sentence": "Museet visar modern konst.",
+    "sentenceEnglish": "The museum displays modern art."
+  },
+  {
+    "id": "sv-0164",
+    "sentence": "Jag läser en artikel om hälsa.",
+    "sentenceEnglish": "I am reading an article about health."
+  },
+  {
+    "id": "sv-0165",
+    "sentence": "Blomman är konstgjord.",
+    "sentenceEnglish": "The flower is artificial."
+  },
+  {
+    "id": "sv-0166",
+    "sentence": "Hon arbetar som konstnär.",
+    "sentenceEnglish": "She works as an artist."
+  },
+  {
+    "id": "sv-0167",
+    "sentence": "Hon har en konstnärlig talang.",
+    "sentenceEnglish": "She has artistic talent."
+  },
+  {
+    "id": "sv-0168",
+    "sentence": "Hon arbetar som lärare.",
+    "sentenceEnglish": "She works as a teacher."
+  },
+  {
+    "id": "sv-0169",
+    "sentence": "Han känner sig skamsen efter lögnen.",
+    "sentenceEnglish": "He feels ashamed after the lie."
+  },
+  {
+    "id": "sv-0170",
+    "sentence": "Hon lägger boken åt sidan.",
+    "sentenceEnglish": "She puts the book aside."
+  },
+  {
+    "id": "sv-0171",
+    "sentence": "Barnet ligger sovande i sängen.",
+    "sentenceEnglish": "The child is asleep in bed."
+  },
+  {
+    "id": "sv-0172",
+    "sentence": "Får jag fråga en sak?",
+    "sentenceEnglish": "May I ask something?"
+  },
+  {
+    "id": "sv-0173",
+    "sentence": "Vi måste tänka på varje aspekt.",
+    "sentenceEnglish": "We must consider every aspect."
+  },
+  {
+    "id": "sv-0174",
+    "sentence": "Läraren bedömer elevernas arbete.",
+    "sentenceEnglish": "The teacher assesses the students' work."
+  },
+  {
+    "id": "sv-0175",
+    "sentence": "Läkaren gör en noggrann bedömning.",
+    "sentenceEnglish": "The doctor makes a careful assessment."
+  },
+  {
+    "id": "sv-0176",
+    "sentence": "Jag måste lämna in min uppgift.",
+    "sentenceEnglish": "I must hand in my assignment."
+  },
+  {
+    "id": "sv-0177",
+    "sentence": "Kan du hjälpa mig med väskan?",
+    "sentenceEnglish": "Can you assist me with the bag?"
+  },
+  {
+    "id": "sv-0178",
+    "sentence": "Assistenten förbereder mötet.",
+    "sentenceEnglish": "The assistant prepares the meeting."
+  },
+  {
+    "id": "sv-0179",
+    "sentence": "Jag förknippar sommaren med havet.",
+    "sentenceEnglish": "I associate summer with the sea."
+  },
+  {
+    "id": "sv-0180",
+    "sentence": "Doften är förknippad med min barndom.",
+    "sentenceEnglish": "The scent is associated with my childhood."
+  },
+  {
+    "id": "sv-0181",
+    "sentence": "Hon är med i en lokal förening.",
+    "sentenceEnglish": "She belongs to a local association."
+  },
+  {
+    "id": "sv-0182",
+    "sentence": "Jag antar att du är trött.",
+    "sentenceEnglish": "I assume that you are tired."
+  },
+  {
+    "id": "sv-0183",
+    "sentence": "Vi möts vid stationen.",
+    "sentenceEnglish": "We meet at the station."
+  },
+  {
+    "id": "sv-0184",
+    "sentence": "Hon är en skicklig idrottare.",
+    "sentenceEnglish": "She is a skilled athlete."
+  },
+  {
+    "id": "sv-0185",
+    "sentence": "Det är en vänlig atmosfär här.",
+    "sentenceEnglish": "There is a friendly atmosphere here."
+  },
+  {
+    "id": "sv-0186",
+    "sentence": "Fäst bilden på väggen.",
+    "sentenceEnglish": "Attach the picture to the wall."
+  },
+  {
+    "id": "sv-0187",
+    "sentence": "Staden utsattes för en attack.",
+    "sentenceEnglish": "The city was subjected to an attack."
+  },
+  {
+    "id": "sv-0188",
+    "sentence": "Det var ett bra försök.",
+    "sentenceEnglish": "It was a good attempt."
+  },
+  {
+    "id": "sv-0189",
+    "sentence": "Hon deltar i mötet.",
+    "sentenceEnglish": "She attends the meeting."
+  },
+  {
+    "id": "sv-0190",
+    "sentence": "Tack för er uppmärksamhet.",
+    "sentenceEnglish": "Thank you for your attention."
+  },
+  {
+    "id": "sv-0191",
+    "sentence": "Han har en positiv attityd.",
+    "sentenceEnglish": "He has a positive attitude."
+  },
+  {
+    "id": "sv-0192",
+    "sentence": "Hon talar med sin advokat.",
+    "sentenceEnglish": "She speaks with her attorney."
+  },
+  {
+    "id": "sv-0193",
+    "sentence": "Blommorna lockar bin.",
+    "sentenceEnglish": "The flowers attract bees."
+  },
+  {
+    "id": "sv-0194",
+    "sentence": "Slottet är en populär attraktion.",
+    "sentenceEnglish": "The castle is a popular attraction."
+  },
+  {
+    "id": "sv-0195",
+    "sentence": "Det är ett attraktivt erbjudande.",
+    "sentenceEnglish": "It is an attractive offer."
+  },
+  {
+    "id": "sv-0196",
+    "sentence": "Publiken applåderar högt.",
+    "sentenceEnglish": "The audience applauds loudly."
+  },
+  {
+    "id": "sv-0197",
+    "sentence": "Appen spelar upp ljud.",
+    "sentenceEnglish": "The app plays audio."
+  },
+  {
+    "id": "sv-0198",
+    "sentence": "Vi flyttar i augusti.",
+    "sentenceEnglish": "We are moving in August."
+  },
+  {
+    "id": "sv-0199",
+    "sentence": "Min moster är min mammas syster.",
+    "sentenceEnglish": "My aunt is my mother's sister."
+  },
+  {
+    "id": "sv-0200",
+    "sentence": "Författaren skriver en ny bok.",
+    "sentenceEnglish": "The author is writing a new book."
+  },
+  {
+    "id": "sv-0201",
+    "sentence": "Kontakta rätt myndighet.",
+    "sentenceEnglish": "Contact the correct authority."
+  },
+  {
+    "id": "sv-0202",
+    "sentence": "Dörren är automatisk.",
+    "sentenceEnglish": "The door is automatic."
+  },
+  {
+    "id": "sv-0203",
+    "sentence": "Lampan tänds automatiskt.",
+    "sentenceEnglish": "The light turns on automatically."
+  },
+  {
+    "id": "sv-0204",
+    "sentence": "Läkaren är tillgänglig i morgon.",
+    "sentenceEnglish": "The doctor is available tomorrow."
+  },
+  {
+    "id": "sv-0205",
+    "sentence": "Genomsnittet är tio poäng.",
+    "sentenceEnglish": "The average is ten points."
+  },
+  {
+    "id": "sv-0206",
+    "sentence": "Försök att undvika misstag.",
+    "sentenceEnglish": "Try to avoid mistakes."
+  },
+  {
+    "id": "sv-0207",
+    "sentence": "Hon fick ett pris för sin bok.",
+    "sentenceEnglish": "She received an award for her book."
+  },
+  {
+    "id": "sv-0208",
+    "sentence": "Jag är medveten om risken.",
+    "sentenceEnglish": "I am aware of the risk."
+  },
+  {
+    "id": "sv-0209",
+    "sentence": "Han går bort från huset.",
+    "sentenceEnglish": "He walks away from the house."
+  },
+  {
+    "id": "sv-0210",
+    "sentence": "Konserten var fantastisk.",
+    "sentenceEnglish": "The concert was awesome."
+  },
+  {
+    "id": "sv-0211",
+    "sentence": "Det var en hemsk upplevelse.",
+    "sentenceEnglish": "It was an awful experience."
+  }
+]

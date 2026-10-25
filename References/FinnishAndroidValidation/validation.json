@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-19",
+  "baseline": "iOS 0.21",
+  "build": "PASS :app:assembleDebug",
+  "tests": [
+    {
+      "name": "com.finnishcards.sisucards.DomainTest",
+      "tests": "6",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0"
+    },
+    {
+      "name": "com.finnishcards.sisucards.RepositoryTest",
+      "tests": "3",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0"
+    },
+    {
+      "name": "com.finnishcards.sisucards.ViewModelTest",
+      "tests": "4",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0"
+    }
+  ],
+  "lint": {
+    "errors": 0,
+    "warnings": 12
+  },
+  "content": "PASS 3000 IDs, bilingual sentences and artwork pairs; 211 A words",
+  "packaged_assets": "PASS SHA-256 match of all canonical packaged JSON and 6000 JPEGs",
+  "apk": {
+    "path": "app/build/outputs/apk/debug/app-debug.apk",
+    "bytes": 599723410,
+    "sha256": "2edaf7917361a6cbdb52f052d0845715aa27aaeafbc48982bb31901857138457"
+  },
+  "emulator": "NOT RUN: no existing AVD; temporary emulator could not allocate userdata with available disk space",
+  "physical_device": "NOT RUN",
+  "full_parity": false,
+  "note": "Historical first-build evidence; current APK was rebuilt after the YKI Flashcards rename. See CommercialValidation/yki-rebrand-validation.json for current application ID/tests; this historical APK hash is not the current APK hash."
+}

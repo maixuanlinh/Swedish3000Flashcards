@@ -1,0 +1,790 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		00177C392A92A466C65C81A1 /* SwedishCards.storekit in Resources */ = {isa = PBXBuildFile; fileRef = CF9EEE749E2537A2E28040CB /* SwedishCards.storekit */; };
+		0358A73FA437409BAF8691D2 /* StudyStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF3140C6A3ECF766DBFCE39 /* StudyStore.swift */; };
+		0C305FC31D3651C5B72B8BD4 /* examples3000.json in Resources */ = {isa = PBXBuildFile; fileRef = 0D9C90D753A4BA9B479F0AA5 /* examples3000.json */; };
+		0EF627DDB6B524CE5F09BBAA /* artworkBriefs.json in Resources */ = {isa = PBXBuildFile; fileRef = 9BA9E3D194545EF066AC7A15 /* artworkBriefs.json */; };
+		1D3AE6E0488446F2C4E36860 /* PremiumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82671D17D06019292E495B8E /* PremiumView.swift */; };
+		2777F5BA3DCC66EB9400539B /* WordLibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001A02DF524E169845440D88 /* WordLibraryView.swift */; };
+		2C232E2B1E7820E81EE86D4D /* SwedishCardsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2869265799759C9DBD7341AD /* SwedishCardsApp.swift */; };
+		2D9ECBBE7E12D7AE3AE58CAA /* WordReminders.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3F5E12D3B7C2DDFAA08C9F /* WordReminders.swift */; };
+		345CAE1D0FD26A2D811F707A /* ProgressViewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1220F5DC388EAE5C1C476922 /* ProgressViewScreen.swift */; };
+		3A772BCB87E3E9E684F080E7 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913E95CC25E0DF6DB96FE1D /* Models.swift */; };
+		423C9884CF93E085D73D623B /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73DFA62243A8A48B7C1BC036 /* RootView.swift */; };
+		49FEDF405F4A4FA32D2596AF /* starter100.json in Resources */ = {isa = PBXBuildFile; fileRef = A78F8CD6F696299AF995C409 /* starter100.json */; };
+		57C8805ECD097FA3983D9366 /* WordDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF02EE9A8A8B5C829FA623A /* WordDetailView.swift */; };
+		5881A3188D1A8478D579E219 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697A9204482487B7508F8D6B /* Theme.swift */; };
+		5A472D78506B7D7F473D136A /* WordReminderSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A4848C22D9C5FC439B33AE3 /* WordReminderSettingsView.swift */; };
+		5CDEB6FD44C71BFDA09954A8 /* SwedishFlowTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 805DB9FEB25FDD3131BACF1B /* SwedishFlowTests.swift */; };
+		604406D36CE82EABC0EF118D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF271270F3CFF4A9E22F0F2B /* Assets.xcassets */; };
+		6C54157AC77F1449BFC15983 /* catalog3000.json in Resources */ = {isa = PBXBuildFile; fileRef = 81DDAC27B6A1F312CFD929BE /* catalog3000.json */; };
+		799D3056E957502F3F421C63 /* PremiumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3DC701A99C50C8F0D59D729 /* PremiumStore.swift */; };
+		82189A41F98B4490189830EB /* SupportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7735EE485593A65EAA4317A0 /* SupportView.swift */; };
+		828DF8312E56B4DAA80F9C9E /* BundledArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 77296A8E8BF8E06D8A06DADD /* BundledArtwork */; };
+		90A6CD52CE90B203ED7EBDA0 /* AutoStudyPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF978739C6E2E96B1A286E6F /* AutoStudyPlayerTests.swift */; };
+		93A53AD35137555D97B6A76B /* EnglishAlphabet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCA881FCCC33B09C14C757A /* EnglishAlphabet.swift */; };
+		953EE29A56FE750E9FE2E5E6 /* SwedishContentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DD2A781644CF4EB2E483CBC /* SwedishContentTests.swift */; };
+		95458A6C81094807B2855CC3 /* AutoStudyPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C46096CDFECA7C6F86E93B77 /* AutoStudyPlayer.swift */; };
+		B01EF61294137CECB8981C7F /* SwedishCards.storekit in Resources */ = {isa = PBXBuildFile; fileRef = CF9EEE749E2537A2E28040CB /* SwedishCards.storekit */; };
+		D1990B8E6697054EBAB60006 /* AutoStudyOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D6C4C97E6C8852C4B21D05 /* AutoStudyOptions.swift */; };
+		DC8BA177A0CCD7972E2E49A4 /* StudyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B36054E97DDCF1F21E2A72A /* StudyView.swift */; };
+		E2C84CE1B2171E7972D83A35 /* Artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A44FAF7AF1E1E966CC7F7F /* Artwork.swift */; };
+		FA4022C21A50A5305102A5EF /* WordReminderPlan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C98E3B4597199B131970F9 /* WordReminderPlan.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F3C6867E4E1BCF1C97132C5F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CA2951839CBD6253EE9D9648 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BD89B29213DD34AD7198A4DB;
+			remoteInfo = SwedishCards;
+		};
+		FF80A2037B13E373A37712ED /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CA2951839CBD6253EE9D9648 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BD89B29213DD34AD7198A4DB;
+			remoteInfo = SwedishCards;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		001A02DF524E169845440D88 /* WordLibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordLibraryView.swift; sourceTree = "<group>"; };
+		0CF3140C6A3ECF766DBFCE39 /* StudyStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyStore.swift; sourceTree = "<group>"; };
+		0D9C90D753A4BA9B479F0AA5 /* examples3000.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = examples3000.json; sourceTree = "<group>"; };
+		1220F5DC388EAE5C1C476922 /* ProgressViewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewScreen.swift; sourceTree = "<group>"; };
+		142A6AA403A29A135EDAB651 /* SwedishCardsTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = SwedishCardsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2869265799759C9DBD7341AD /* SwedishCardsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwedishCardsApp.swift; sourceTree = "<group>"; };
+		2913E95CC25E0DF6DB96FE1D /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		2CCA881FCCC33B09C14C757A /* EnglishAlphabet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnglishAlphabet.swift; sourceTree = "<group>"; };
+		3A4848C22D9C5FC439B33AE3 /* WordReminderSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordReminderSettingsView.swift; sourceTree = "<group>"; };
+		459EE843491C7BB4E727228F /* SwedishCards.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = SwedishCards.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		56C98E3B4597199B131970F9 /* WordReminderPlan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordReminderPlan.swift; sourceTree = "<group>"; };
+		6943F14B81F30DE5C622FD80 /* SwedishCardsUITests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = SwedishCardsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		697A9204482487B7508F8D6B /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		73DFA62243A8A48B7C1BC036 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		77296A8E8BF8E06D8A06DADD /* BundledArtwork */ = {isa = PBXFileReference; lastKnownFileType = folder; name = BundledArtwork; path = Resources/BundledArtwork; sourceTree = SOURCE_ROOT; };
+		7735EE485593A65EAA4317A0 /* SupportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupportView.swift; sourceTree = "<group>"; };
+		7BF02EE9A8A8B5C829FA623A /* WordDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordDetailView.swift; sourceTree = "<group>"; };
+		805DB9FEB25FDD3131BACF1B /* SwedishFlowTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwedishFlowTests.swift; sourceTree = "<group>"; };
+		81DDAC27B6A1F312CFD929BE /* catalog3000.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = catalog3000.json; sourceTree = "<group>"; };
+		82671D17D06019292E495B8E /* PremiumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremiumView.swift; sourceTree = "<group>"; };
+		89A44FAF7AF1E1E966CC7F7F /* Artwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
+		8B36054E97DDCF1F21E2A72A /* StudyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyView.swift; sourceTree = "<group>"; };
+		9BA9E3D194545EF066AC7A15 /* artworkBriefs.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = artworkBriefs.json; sourceTree = "<group>"; };
+		9DD2A781644CF4EB2E483CBC /* SwedishContentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwedishContentTests.swift; sourceTree = "<group>"; };
+		A78F8CD6F696299AF995C409 /* starter100.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = starter100.json; sourceTree = "<group>"; };
+		BF978739C6E2E96B1A286E6F /* AutoStudyPlayerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoStudyPlayerTests.swift; sourceTree = "<group>"; };
+		C46096CDFECA7C6F86E93B77 /* AutoStudyPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoStudyPlayer.swift; sourceTree = "<group>"; };
+		CF9EEE749E2537A2E28040CB /* SwedishCards.storekit */ = {isa = PBXFileReference; path = SwedishCards.storekit; sourceTree = "<group>"; };
+		D9D6C4C97E6C8852C4B21D05 /* AutoStudyOptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoStudyOptions.swift; sourceTree = "<group>"; };
+		DF271270F3CFF4A9E22F0F2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F3DC701A99C50C8F0D59D729 /* PremiumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremiumStore.swift; sourceTree = "<group>"; };
+		FB3F5E12D3B7C2DDFAA08C9F /* WordReminders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordReminders.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1309E6A33F3EF3D34ABA6033 = {
+			isa = PBXGroup;
+			children = (
+				77296A8E8BF8E06D8A06DADD /* BundledArtwork */,
+				A5A913EA76E7577FF3060AA7 /* Resources */,
+				E7471C988AF0BBDCA7A2ADB1 /* Sources */,
+				82221523622F514BA3E84B3E /* StoreKit */,
+				87C293F299638CFBA43A2683 /* Tests */,
+				29C7B66BF89F200C07313CA7 /* UITests */,
+				77FDA6C7DEBF5B9BDF714CF0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		29C7B66BF89F200C07313CA7 /* UITests */ = {
+			isa = PBXGroup;
+			children = (
+				805DB9FEB25FDD3131BACF1B /* SwedishFlowTests.swift */,
+			);
+			path = UITests;
+			sourceTree = "<group>";
+		};
+		77FDA6C7DEBF5B9BDF714CF0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				459EE843491C7BB4E727228F /* SwedishCards.app */,
+				142A6AA403A29A135EDAB651 /* SwedishCardsTests.xctest */,
+				6943F14B81F30DE5C622FD80 /* SwedishCardsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		82221523622F514BA3E84B3E /* StoreKit */ = {
+			isa = PBXGroup;
+			children = (
+				CF9EEE749E2537A2E28040CB /* SwedishCards.storekit */,
+			);
+			path = StoreKit;
+			sourceTree = "<group>";
+		};
+		87C293F299638CFBA43A2683 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				BF978739C6E2E96B1A286E6F /* AutoStudyPlayerTests.swift */,
+				9DD2A781644CF4EB2E483CBC /* SwedishContentTests.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		A5A913EA76E7577FF3060AA7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9BA9E3D194545EF066AC7A15 /* artworkBriefs.json */,
+				DF271270F3CFF4A9E22F0F2B /* Assets.xcassets */,
+				81DDAC27B6A1F312CFD929BE /* catalog3000.json */,
+				0D9C90D753A4BA9B479F0AA5 /* examples3000.json */,
+				A78F8CD6F696299AF995C409 /* starter100.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E7471C988AF0BBDCA7A2ADB1 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				89A44FAF7AF1E1E966CC7F7F /* Artwork.swift */,
+				D9D6C4C97E6C8852C4B21D05 /* AutoStudyOptions.swift */,
+				C46096CDFECA7C6F86E93B77 /* AutoStudyPlayer.swift */,
+				2CCA881FCCC33B09C14C757A /* EnglishAlphabet.swift */,
+				2913E95CC25E0DF6DB96FE1D /* Models.swift */,
+				F3DC701A99C50C8F0D59D729 /* PremiumStore.swift */,
+				82671D17D06019292E495B8E /* PremiumView.swift */,
+				1220F5DC388EAE5C1C476922 /* ProgressViewScreen.swift */,
+				73DFA62243A8A48B7C1BC036 /* RootView.swift */,
+				0CF3140C6A3ECF766DBFCE39 /* StudyStore.swift */,
+				8B36054E97DDCF1F21E2A72A /* StudyView.swift */,
+				7735EE485593A65EAA4317A0 /* SupportView.swift */,
+				2869265799759C9DBD7341AD /* SwedishCardsApp.swift */,
+				697A9204482487B7508F8D6B /* Theme.swift */,
+				7BF02EE9A8A8B5C829FA623A /* WordDetailView.swift */,
+				001A02DF524E169845440D88 /* WordLibraryView.swift */,
+				56C98E3B4597199B131970F9 /* WordReminderPlan.swift */,
+				FB3F5E12D3B7C2DDFAA08C9F /* WordReminders.swift */,
+				3A4848C22D9C5FC439B33AE3 /* WordReminderSettingsView.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B81EF91413D6C0DB7F7E6E3C /* SwedishCardsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E33AE6A2DB7FAE18DBE3A8D3 /* Build configuration list for PBXNativeTarget "SwedishCardsTests" */;
+			buildPhases = (
+				ECACE0517870FEE7439E5FD3 /* Sources */,
+				51D52E7F96480DD4177BF2FE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B76AC1C9889AADE2FBC54385 /* PBXTargetDependency */,
+			);
+			name = SwedishCardsTests;
+			productName = SwedishCardsTests;
+			productReference = 142A6AA403A29A135EDAB651 /* SwedishCardsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		BD89B29213DD34AD7198A4DB /* SwedishCards */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C3A471DB561DA63275C8715A /* Build configuration list for PBXNativeTarget "SwedishCards" */;
+			buildPhases = (
+				419E8F256188DB560D0B3569 /* Sources */,
+				3CBC23EE2D43BF57BDF987F1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SwedishCards;
+			productName = SwedishCards;
+			productReference = 459EE843491C7BB4E727228F /* SwedishCards.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FD72D1ED50096636466A1ABE /* SwedishCardsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3964D1791629EA4E97E20DE0 /* Build configuration list for PBXNativeTarget "SwedishCardsUITests" */;
+			buildPhases = (
+				E9E0221C41FCF1F92F627F3B /* Sources */,
+				B5D3238947565F649C2EE2E6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BA14E74FA5FF7F1F0AA76295 /* PBXTargetDependency */,
+			);
+			name = SwedishCardsUITests;
+			productName = SwedishCardsUITests;
+			productReference = 6943F14B81F30DE5C622FD80 /* SwedishCardsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CA2951839CBD6253EE9D9648 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					B81EF91413D6C0DB7F7E6E3C = {
+						DevelopmentTeam = 2FN25VD7TR;
+						ProvisioningStyle = Automatic;
+					};
+					BD89B29213DD34AD7198A4DB = {
+						DevelopmentTeam = 2FN25VD7TR;
+						ProvisioningStyle = Automatic;
+					};
+					FD72D1ED50096636466A1ABE = {
+						DevelopmentTeam = 2FN25VD7TR;
+						ProvisioningStyle = Automatic;
+						TestTargetID = BD89B29213DD34AD7198A4DB;
+					};
+				};
+			};
+			buildConfigurationList = 27F162315227BEC3671CE8A6 /* Build configuration list for PBXProject "SwedishCards" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 1309E6A33F3EF3D34ABA6033;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BD89B29213DD34AD7198A4DB /* SwedishCards */,
+				B81EF91413D6C0DB7F7E6E3C /* SwedishCardsTests */,
+				FD72D1ED50096636466A1ABE /* SwedishCardsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3CBC23EE2D43BF57BDF987F1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				604406D36CE82EABC0EF118D /* Assets.xcassets in Resources */,
+				828DF8312E56B4DAA80F9C9E /* BundledArtwork in Resources */,
+				0EF627DDB6B524CE5F09BBAA /* artworkBriefs.json in Resources */,
+				6C54157AC77F1449BFC15983 /* catalog3000.json in Resources */,
+				0C305FC31D3651C5B72B8BD4 /* examples3000.json in Resources */,
+				49FEDF405F4A4FA32D2596AF /* starter100.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		51D52E7F96480DD4177BF2FE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B01EF61294137CECB8981C7F /* SwedishCards.storekit in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B5D3238947565F649C2EE2E6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00177C392A92A466C65C81A1 /* SwedishCards.storekit in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		419E8F256188DB560D0B3569 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2C84CE1B2171E7972D83A35 /* Artwork.swift in Sources */,
+				D1990B8E6697054EBAB60006 /* AutoStudyOptions.swift in Sources */,
+				95458A6C81094807B2855CC3 /* AutoStudyPlayer.swift in Sources */,
+				93A53AD35137555D97B6A76B /* EnglishAlphabet.swift in Sources */,
+				3A772BCB87E3E9E684F080E7 /* Models.swift in Sources */,
+				799D3056E957502F3F421C63 /* PremiumStore.swift in Sources */,
+				1D3AE6E0488446F2C4E36860 /* PremiumView.swift in Sources */,
+				345CAE1D0FD26A2D811F707A /* ProgressViewScreen.swift in Sources */,
+				423C9884CF93E085D73D623B /* RootView.swift in Sources */,
+				0358A73FA437409BAF8691D2 /* StudyStore.swift in Sources */,
+				DC8BA177A0CCD7972E2E49A4 /* StudyView.swift in Sources */,
+				82189A41F98B4490189830EB /* SupportView.swift in Sources */,
+				2C232E2B1E7820E81EE86D4D /* SwedishCardsApp.swift in Sources */,
+				5881A3188D1A8478D579E219 /* Theme.swift in Sources */,
+				57C8805ECD097FA3983D9366 /* WordDetailView.swift in Sources */,
+				2777F5BA3DCC66EB9400539B /* WordLibraryView.swift in Sources */,
+				FA4022C21A50A5305102A5EF /* WordReminderPlan.swift in Sources */,
+				5A472D78506B7D7F473D136A /* WordReminderSettingsView.swift in Sources */,
+				2D9ECBBE7E12D7AE3AE58CAA /* WordReminders.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E9E0221C41FCF1F92F627F3B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5CDEB6FD44C71BFDA09954A8 /* SwedishFlowTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECACE0517870FEE7439E5FD3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				90A6CD52CE90B203ED7EBDA0 /* AutoStudyPlayerTests.swift in Sources */,
+				953EE29A56FE750E9FE2E5E6 /* SwedishContentTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B76AC1C9889AADE2FBC54385 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BD89B29213DD34AD7198A4DB /* SwedishCards */;
+			targetProxy = FF80A2037B13E373A37712ED /* PBXContainerItemProxy */;
+		};
+		BA14E74FA5FF7F1F0AA76295 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BD89B29213DD34AD7198A4DB /* SwedishCards */;
+			targetProxy = F3C6867E4E1BCF1C97132C5F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0851C873E803F12620C7E160 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 2FN25VD7TR;
+				ENABLE_PREVIEWS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 0.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0A2ADEE07C4FF8E88EB6799B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_KEY_CFBundleDisplayName = "3000 Swedish Words";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.linapps.swedish3000;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		31ED681AAA0BA7FF17809D69 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.linapps.SwedishCardsUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SwedishCards;
+			};
+			name = Debug;
+		};
+		3814ECF4BDE30DF21D9F0EEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.linapps.SwedishCardsUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SwedishCards;
+			};
+			name = Release;
+		};
+		58897316CA8D3E49DE89C57C /* Personal */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 2FN25VD7TR;
+				ENABLE_PREVIEWS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 0.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG SWEDISHCARDS_PERSONAL";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Personal;
+		};
+		74E7EDC973F67A400330C921 /* Personal */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.linapps.SwedishCardsTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwedishCards.app/SwedishCards";
+			};
+			name = Personal;
+		};
+		8B5E5314ED6D11B56509F6A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 2FN25VD7TR;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 0.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8D5751FF8A178B120C8412CB /* Personal */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.linapps.SwedishCardsUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SwedishCards;
+			};
+			name = Personal;
+		};
+		B0C4817DE6E25784AE9FDB4A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.linapps.SwedishCardsTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwedishCards.app/SwedishCards";
+			};
+			name = Debug;
+		};
+		BB0F1FB56CC65C4F55A5D6EA /* Personal */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = PersonalIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				INFOPLIST_KEY_CFBundleDisplayName = "Swedish Words Dev";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.linapps.swedish3000.personal;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Personal;
+		};
+		DD5705E4929DA0FB872BDF77 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_KEY_CFBundleDisplayName = "3000 Swedish Words";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.linapps.swedish3000;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E7523B5293B6EABF523135BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.linapps.SwedishCardsTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwedishCards.app/SwedishCards";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		27F162315227BEC3671CE8A6 /* Build configuration list for PBXProject "SwedishCards" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0851C873E803F12620C7E160 /* Debug */,
+				58897316CA8D3E49DE89C57C /* Personal */,
+				8B5E5314ED6D11B56509F6A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		3964D1791629EA4E97E20DE0 /* Build configuration list for PBXNativeTarget "SwedishCardsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				31ED681AAA0BA7FF17809D69 /* Debug */,
+				8D5751FF8A178B120C8412CB /* Personal */,
+				3814ECF4BDE30DF21D9F0EEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		C3A471DB561DA63275C8715A /* Build configuration list for PBXNativeTarget "SwedishCards" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A2ADEE07C4FF8E88EB6799B /* Debug */,
+				BB0F1FB56CC65C4F55A5D6EA /* Personal */,
+				DD5705E4929DA0FB872BDF77 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		E33AE6A2DB7FAE18DBE3A8D3 /* Build configuration list for PBXNativeTarget "SwedishCardsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B0C4817DE6E25784AE9FDB4A /* Debug */,
+				74E7EDC973F67A400330C921 /* Personal */,
+				E7523B5293B6EABF523135BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CA2951839CBD6253EE9D9648 /* Project object */;
+}

@@ -1,0 +1,11 @@
+Use case: ads-marketing.
+Asset type: a finished Google Play feature graphic for the Android vocabulary app "3000 Finnish Words".
+Canvas: exactly 1024 by 500 pixels, wide landscape, opaque RGB background, designed for small storefront previews.
+Input image 1 is a brand reference only: forest green and warm ivory with elegant serif and clean sans-serif typography. Do not repeat the square app icon.
+Input image 2 is actual in-app vocabulary artwork to insert as one square card. Preserve its illustration and all Finnish/English lettering faithfully; do not invent new vocabulary or claim it is a screenshot.
+Composition: warm ivory (#F6F4EE) background, confident forest-green (#30644F) text on the left, and the actual apple/omena artwork card on the right with a quiet rounded ivory border and subtle shadow. Leave comfortable outer margins, no cropping of required words. Simple, premium, calm adult language-learning design.
+Text, verbatim:
+small brand line "3000 Finnish Words"
+large headline split across lines "Remember Finnish" and "with the full picture"
+small supporting line "Illustrated flashcards · Examples · Offline study"
+Avoid: app-store badges, phone/device frames, rankings, prices, discounts, call-to-action buttons, claims of official YKI affiliation, extra logos, watermarks, additional text.

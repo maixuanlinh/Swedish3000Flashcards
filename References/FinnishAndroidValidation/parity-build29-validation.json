@@ -1,0 +1,26 @@
+{
+  "reference": "iOS 1.0 build 29",
+  "androidVersion": "1.0.0-dev29 (2)",
+  "applicationId": "com.linapps.ykiflashcards",
+  "date": "2026-10-25",
+  "unitTests": 26,
+  "unitFailures": 0,
+  "samsungUiScenarios": 5,
+  "samsungUiFailures": 0,
+  "emulatorNotificationScenarios": 1,
+  "emulatorNotificationFailures": 0,
+  "phoneDataCheck": {
+    "meaningful_learning_progress_preserved": true,
+    "review_events_preserved": true,
+    "integrity": "ok"
+  },
+  "apkBytes": 602568517,
+  "apkSha256": "aebf76a421f4a9cb80090a26646549935f9a99414d04b320e9831982b8653b34",
+  "remaining": [
+    "Actual Google Play product/public-key configuration and test-track purchases",
+    "Manual installed-voice listening and interruptions",
+    "Real picker/provider, TalkBack, large-font, API 26/tablet checks",
+    "Real notification reboot/Doze/timezone behavior",
+    "Release signing, asset delivery and store-size acceptance"
+  ]
+}

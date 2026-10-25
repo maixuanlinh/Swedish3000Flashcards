@@ -1,0 +1,10 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.iml
+.idea/
+# Private upload signing material must stay outside source control.
+*.jks
+*.keystore
+keystore.properties

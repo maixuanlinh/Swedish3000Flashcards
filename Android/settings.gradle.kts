@@ -1,0 +1,8 @@
+pluginManagement { repositories { google(); mavenCentral(); gradlePluginPortal() } }
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories { google(); mavenCentral() }
+}
+rootProject.name = "SwedishCardsAndroid"
+include(":app")
+if (providers.gradleProperty("playDistribution").orNull == "true") include(":illustrations")

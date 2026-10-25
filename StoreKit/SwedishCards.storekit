@@ -1,0 +1,37 @@
+{
+  "identifier": "48090E79-46CD-48F3-ABCB-50810FC7B832",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "11.99",
+      "familyShareable": false,
+      "internalID": "8219510020",
+      "localizations": [
+        {
+          "description": "All 3,000 illustrated lessons, example sentences, sentence audio and automatic study. One-time purchase.",
+          "displayName": "3000 Swedish Words Complete",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.linapps.swedish3000.complete",
+      "referenceName": "3000 Swedish Words Complete",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false,
+    "_billingGracePeriodEnabled": false,
+    "_billingIssuesEnabled": false,
+    "_disableDialogs": false,
+    "_failTransactionsEnabled": false,
+    "_locale": "en_US",
+    "_renewalBillingIssuesEnabled": false,
+    "_storefront": "FIN",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}

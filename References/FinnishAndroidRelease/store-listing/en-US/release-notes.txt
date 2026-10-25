@@ -1,0 +1,5 @@
+First Android test release of 3000 Finnish Words.
+• 3,000 English–Finnish flashcards and 211 complete free A-set lessons.
+• Illustrated lessons, example sentences, study filters and progress tracking.
+• Automatic study, optional word reminders and personal artwork tools.
+• Compact navigation with more room for your flashcards.

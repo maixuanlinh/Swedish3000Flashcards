@@ -1,0 +1,133 @@
+{
+  "target": 3000,
+  "authored": 211,
+  "artwork": 1,
+  "linguisticReview": "Authored draft; independent Swedish review pending.",
+  "sets": {
+    "A": {
+      "total": 211,
+      "authored": 211,
+      "artwork": 1
+    },
+    "B": {
+      "total": 152,
+      "authored": 0,
+      "artwork": 0
+    },
+    "C": {
+      "total": 292,
+      "authored": 0,
+      "artwork": 0
+    },
+    "D": {
+      "total": 163,
+      "authored": 0,
+      "artwork": 0
+    },
+    "E": {
+      "total": 162,
+      "authored": 0,
+      "artwork": 0
+    },
+    "F": {
+      "total": 155,
+      "authored": 0,
+      "artwork": 0
+    },
+    "G": {
+      "total": 73,
+      "authored": 0,
+      "artwork": 0
+    },
+    "H": {
+      "total": 100,
+      "authored": 0,
+      "artwork": 0
+    },
+    "I": {
+      "total": 121,
+      "authored": 0,
+      "artwork": 0
+    },
+    "J": {
+      "total": 23,
+      "authored": 0,
+      "artwork": 0
+    },
+    "K": {
+      "total": 18,
+      "authored": 0,
+      "artwork": 0
+    },
+    "L": {
+      "total": 108,
+      "authored": 0,
+      "artwork": 0
+    },
+    "M": {
+      "total": 134,
+      "authored": 0,
+      "artwork": 0
+    },
+    "N": {
+      "total": 65,
+      "authored": 0,
+      "artwork": 0
+    },
+    "O": {
+      "total": 82,
+      "authored": 0,
+      "artwork": 0
+    },
+    "P": {
+      "total": 238,
+      "authored": 0,
+      "artwork": 0
+    },
+    "Q": {
+      "total": 16,
+      "authored": 0,
+      "artwork": 0
+    },
+    "R": {
+      "total": 163,
+      "authored": 0,
+      "artwork": 0
+    },
+    "S": {
+      "total": 351,
+      "authored": 0,
+      "artwork": 0
+    },
+    "T": {
+      "total": 166,
+      "authored": 0,
+      "artwork": 0
+    },
+    "U": {
+      "total": 50,
+      "authored": 0,
+      "artwork": 0
+    },
+    "V": {
+      "total": 36,
+      "authored": 0,
+      "artwork": 0
+    },
+    "W": {
+      "total": 106,
+      "authored": 0,
+      "artwork": 0
+    },
+    "Y": {
+      "total": 13,
+      "authored": 0,
+      "artwork": 0
+    },
+    "Z": {
+      "total": 2,
+      "authored": 0,
+      "artwork": 0
+    }
+  }
+}

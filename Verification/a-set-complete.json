@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-26",
+  "sourceCount": 3000,
+  "authoredCount": 211,
+  "reviewedArtworkCount": 211,
+  "firstID": "sv-0001",
+  "lastID": "sv-0211",
+  "generationMode": "built-in",
+  "masterArtwork": "Content/Artwork/",
+  "exactPrompts": "Content/Generations/sv-XXXX.json",
+  "review": "Visually checked Swedish headings, English meanings, memory captions and Swedish examples. Attitude image regenerated to match Han.",
+  "linguisticReview": "Independent Swedish review pending; translations remain authored drafts.",
+  "verification": {
+    "ios": {
+      "result": "passed",
+      "tests": 11,
+      "failures": 0,
+      "device": "iPhone 16 Pro simulator",
+      "os": "26.5"
+    },
+    "android": {
+      "result": "passed",
+      "unitTests": 26,
+      "failures": 0,
+      "errors": 0,
+      "debugBuild": "passed",
+      "lint": "passed",
+      "deviceTesting": "pending; no connected Android device or configured AVD"
+    },
+    "packagedAndroidSHA256MatchesSharedIOSResources": true
+  },
+  "pushed": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-0180",
+  "english": "associated",
+  "swedish": "förknippad",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"förknippad\". Smaller English meaning verbatim: \"associated\".\nScene: The scent of fresh bread connects an adult to a warm childhood kitchen memory.\nMemory-link caption verbatim: \"förknippa → förknippad: linked in memory.\".\nSwedish example in bottom strip verbatim: \"Doften är förknippad med min barndom.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nUse attached image as STYLE/LAYOUT reference only: warm photographic editorial scene, cream/gold heading, bold navy typography, gold memory caption and pale blue Swedish example strip. This card's supplied new scene and exact text, including å ä ö. Clear readable type fully inside margins. One square image. Adult educational presentation.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-1311ce4e-affe-4828-ba9c-40b07690ed58.png",
+  "artwork": "Content/Artwork/sv-0180.png",
+  "sha256": "138f29daeee5f30c0c03ab44ab2f59a5c505ea4c64e33c5d41f091630752fa01",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

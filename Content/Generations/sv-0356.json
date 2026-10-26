@@ -1,0 +1,18 @@
+{
+  "id": "sv-0356",
+  "english": "businessman",
+  "swedish": "en affärsman",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en affärsman\". Smaller English meaning verbatim: \"businessman\".\nScene: Adult businessman presents a growing company chart at office.\nMemory-link caption verbatim: \"affär = business; man = man.\".\nSwedish example in bottom strip verbatim: \"Han är en framgångsrik affärsman.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nUse attached image as STYLE/LAYOUT reference only: warm photographic editorial scene, cream/gold heading, bold navy typography, gold memory caption and pale blue Swedish example strip. This card's supplied new scene and exact text, including å ä ö. Clear readable type fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-1e54a7b9-ba1f-47ae-8d40-f020fa1a7a6d.png",
+  "artwork": "Content/Artwork/sv-0356.png",
+  "sha256": "ca084faed1e0b01f692218484edd05c3215056e1c382d6a7bf5ea56ae0786639",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

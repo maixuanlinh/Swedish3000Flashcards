@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-26",
+  "sourceCount": 3000,
+  "authoredCount": 363,
+  "reviewedArtworkCount": 363,
+  "sets": {
+    "A": 211,
+    "B": 152
+  },
+  "bFirstID": "sv-0212",
+  "bLastID": "sv-0363",
+  "generationMode": "built-in",
+  "masterArtwork": "Content/Artwork/",
+  "exactPrompts": "Content/Generations/sv-XXXX.json",
+  "review": "Visually checked headings, English meanings, memory captions and Swedish examples. Brief regenerated for clear caption spelling; build retried after one transient permission error.",
+  "linguisticReview": "Independent Swedish review pending; translations remain authored drafts.",
+  "sourceEdition": "Inherited American Oxford-based index; UK-edition reconciliation pending.",
+  "verification": {
+    "ios": {
+      "result": "passed",
+      "tests": 11,
+      "failures": 0,
+      "device": "iPhone 16 Pro simulator",
+      "os": "26.5"
+    },
+    "android": {
+      "result": "passed",
+      "unitTests": 26,
+      "failures": 0,
+      "errors": 0,
+      "debugBuild": "passed",
+      "lint": "passed",
+      "deviceTesting": "pending; no connected Android device or configured AVD"
+    },
+    "packagedAndroidSHA256MatchesSharedIOSResources": true,
+    "all363MasterArtworkSHA256MatchesProvenance": true
+  },
+  "pushed": false
+}

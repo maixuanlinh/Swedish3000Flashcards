@@ -26,9 +26,8 @@ class RepositoryTest {
         val apple=words.single { it.id=="sv-0136" }
         assertEquals("Vocabulary",apple.topic)
         assertEquals("ett äpple",apple.swedish)
-        if (apple.image.isNotEmpty()) {
-            context.assets.open("BundledArtwork/${apple.image}").use { assertTrue(it.read()>0) }
-        }
+        assertTrue(apple.image.isNotEmpty())
+        context.assets.open("BundledArtwork/${apple.image}").use { assertTrue(it.read()>0) }
         val article=words.single { it.id=="sv-0001" }
         assertEquals("en / ett",article.swedish)
         context.assets.open("BundledArtwork/${article.image}").use { assertTrue(it.read()>0) }

@@ -23,12 +23,13 @@ assert len({e['wordID'] for e in art}) == len(art)
 assert {w['id'] for w in starter} <= ids
 assert all(e['sentence'].strip() and e['sentenceEnglish'].strip() for e in examples)
 assert sum(w['english'].lower().startswith('a') for w in catalog) == 211
+assert sum(w['english'].lower().startswith('b') for w in catalog) == 152
 for row in art:
     for key in ('filename', 'thumbnailFilename'):
         path = resources / 'BundledArtwork' / row[key]
         assert path.parent == resources / 'BundledArtwork'
         assert path.is_file() and path.stat().st_size > 0, path
-print(f'PASS: {len(catalog)}/3000 authored Swedish words, bilingual examples; {len(art)} images; 211 A words.')
+print(f'PASS: {len(catalog)}/3000 authored Swedish words, bilingual examples; {len(art)} images; 211 A and 152 B words.')
 apk = root / 'Android/app/build/outputs/apk/debug/app-debug.apk'
 if apk.exists():
     with zipfile.ZipFile(apk) as archive:

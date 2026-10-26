@@ -1053,5 +1053,765 @@
     "id": "sv-0211",
     "sentence": "Det var en hemsk upplevelse.",
     "sentenceEnglish": "It was an awful experience."
+  },
+  {
+    "id": "sv-0212",
+    "sentence": "En bebis sover i vaggan.",
+    "sentenceEnglish": "A baby is sleeping in the cradle."
+  },
+  {
+    "id": "sv-0213",
+    "sentence": "Hon bär ryggsäcken på ryggen.",
+    "sentenceEnglish": "She carries the backpack on her back."
+  },
+  {
+    "id": "sv-0214",
+    "sentence": "Bergen syns i bakgrunden.",
+    "sentenceEnglish": "The mountains are visible in the background."
+  },
+  {
+    "id": "sv-0215",
+    "sentence": "Han tar ett steg bakåt.",
+    "sentenceEnglish": "He takes one step backward."
+  },
+  {
+    "id": "sv-0216",
+    "sentence": "Det finns bakterier på händerna.",
+    "sentenceEnglish": "There are bacteria on the hands."
+  },
+  {
+    "id": "sv-0217",
+    "sentence": "Det var en dålig idé.",
+    "sentenceEnglish": "That was a bad idea."
+  },
+  {
+    "id": "sv-0218",
+    "sentence": "Jag sov dåligt i natt.",
+    "sentenceEnglish": "I slept badly last night."
+  },
+  {
+    "id": "sv-0219",
+    "sentence": "Jag packar min väska.",
+    "sentenceEnglish": "I am packing my bag."
+  },
+  {
+    "id": "sv-0220",
+    "sentence": "Vi ska baka bröd.",
+    "sentenceEnglish": "We are going to bake bread."
+  },
+  {
+    "id": "sv-0221",
+    "sentence": "Hon håller balansen på ett ben.",
+    "sentenceEnglish": "She keeps her balance on one leg."
+  },
+  {
+    "id": "sv-0222",
+    "sentence": "Barnet kastar en boll.",
+    "sentenceEnglish": "The child throws a ball."
+  },
+  {
+    "id": "sv-0223",
+    "sentence": "Det finns ett förbud mot rökning här.",
+    "sentenceEnglish": "There is a ban on smoking here."
+  },
+  {
+    "id": "sv-0224",
+    "sentence": "Jag äter en banan till mellanmål.",
+    "sentenceEnglish": "I eat a banana as a snack."
+  },
+  {
+    "id": "sv-0225",
+    "sentence": "Bandet spelar på scenen.",
+    "sentenceEnglish": "The band is playing on stage."
+  },
+  {
+    "id": "sv-0226",
+    "sentence": "Jag sätter in pengar på banken.",
+    "sentenceEnglish": "I deposit money at the bank."
+  },
+  {
+    "id": "sv-0227",
+    "sentence": "Vi sitter på flodbanken.",
+    "sentenceEnglish": "We are sitting on the river bank."
+  },
+  {
+    "id": "sv-0228",
+    "sentence": "Vi träffas på en bar.",
+    "sentenceEnglish": "We meet at a bar."
+  },
+  {
+    "id": "sv-0229",
+    "sentence": "En barriär blockerar vägen.",
+    "sentenceEnglish": "A barrier blocks the road."
+  },
+  {
+    "id": "sv-0230",
+    "sentence": "Tornet har en stabil bas.",
+    "sentenceEnglish": "The tower has a stable base."
+  },
+  {
+    "id": "sv-0231",
+    "sentence": "De spelar baseboll i parken.",
+    "sentenceEnglish": "They play baseball in the park."
+  },
+  {
+    "id": "sv-0232",
+    "sentence": "Filmen är baserad på en bok.",
+    "sentenceEnglish": "The film is based on a book."
+  },
+  {
+    "id": "sv-0233",
+    "sentence": "Vi spelar basket efter skolan.",
+    "sentenceEnglish": "We play basketball after school."
+  },
+  {
+    "id": "sv-0234",
+    "sentence": "Kursen ger grundläggande kunskaper.",
+    "sentenceEnglish": "The course provides basic knowledge."
+  },
+  {
+    "id": "sv-0235",
+    "sentence": "Vi har i grunden samma mål.",
+    "sentenceEnglish": "We basically have the same goal."
+  },
+  {
+    "id": "sv-0236",
+    "sentence": "Förtroende är en grund för vänskap.",
+    "sentenceEnglish": "Trust is a basis for friendship."
+  },
+  {
+    "id": "sv-0237",
+    "sentence": "Jag tar ett varmt bad.",
+    "sentenceEnglish": "I take a warm bath."
+  },
+  {
+    "id": "sv-0238",
+    "sentence": "Badrummet ligger på övervåningen.",
+    "sentenceEnglish": "The bathroom is upstairs."
+  },
+  {
+    "id": "sv-0239",
+    "sentence": "Telefonens batteri är nästan tomt.",
+    "sentenceEnglish": "The phone's battery is almost empty."
+  },
+  {
+    "id": "sv-0240",
+    "sentence": "Ett historiskt slag ägde rum här.",
+    "sentenceEnglish": "A historical battle took place here."
+  },
+  {
+    "id": "sv-0241",
+    "sentence": "Jag vill vara hemma i kväll.",
+    "sentenceEnglish": "I want to be at home tonight."
+  },
+  {
+    "id": "sv-0242",
+    "sentence": "Vi promenerar på stranden.",
+    "sentenceEnglish": "We walk on the beach."
+  },
+  {
+    "id": "sv-0243",
+    "sentence": "Jag planterar en böna i jorden.",
+    "sentenceEnglish": "I plant a bean in the soil."
+  },
+  {
+    "id": "sv-0244",
+    "sentence": "Jag kan inte stå ut med oljudet.",
+    "sentenceEnglish": "I cannot bear the noise."
+  },
+  {
+    "id": "sv-0245",
+    "sentence": "En björn går genom skogen.",
+    "sentenceEnglish": "A bear walks through the forest."
+  },
+  {
+    "id": "sv-0246",
+    "sentence": "Vårt lag kan slå deras lag.",
+    "sentenceEnglish": "Our team can beat their team."
+  },
+  {
+    "id": "sv-0247",
+    "sentence": "Vilken vacker utsikt!",
+    "sentenceEnglish": "What a beautiful view!"
+  },
+  {
+    "id": "sv-0248",
+    "sentence": "Vi beundrar naturens skönhet.",
+    "sentenceEnglish": "We admire the beauty of nature."
+  },
+  {
+    "id": "sv-0249",
+    "sentence": "Jag stannar hemma eftersom jag är trött.",
+    "sentenceEnglish": "I am staying home because I am tired."
+  },
+  {
+    "id": "sv-0250",
+    "sentence": "Matchen ställdes in på grund av regnet.",
+    "sentenceEnglish": "The match was cancelled because of the rain."
+  },
+  {
+    "id": "sv-0251",
+    "sentence": "Hon vill bli lärare.",
+    "sentenceEnglish": "She wants to become a teacher."
+  },
+  {
+    "id": "sv-0252",
+    "sentence": "Jag bäddar min säng.",
+    "sentenceEnglish": "I make my bed."
+  },
+  {
+    "id": "sv-0253",
+    "sentence": "Sovrummet har två fönster.",
+    "sentenceEnglish": "The bedroom has two windows."
+  },
+  {
+    "id": "sv-0254",
+    "sentence": "Ett bi landar på blomman.",
+    "sentenceEnglish": "A bee lands on the flower."
+  },
+  {
+    "id": "sv-0255",
+    "sentence": "Vi lagar en gryta med nötkött.",
+    "sentenceEnglish": "We cook a stew with beef."
+  },
+  {
+    "id": "sv-0256",
+    "sentence": "Han beställer en öl.",
+    "sentenceEnglish": "He orders a beer."
+  },
+  {
+    "id": "sv-0257",
+    "sentence": "Vi äter före mötet.",
+    "sentenceEnglish": "We eat before the meeting."
+  },
+  {
+    "id": "sv-0258",
+    "sentence": "Jag ber dig att stanna.",
+    "sentenceEnglish": "I beg you to stay."
+  },
+  {
+    "id": "sv-0259",
+    "sentence": "Vi börjar lektionen klockan nio.",
+    "sentenceEnglish": "We begin the lesson at nine."
+  },
+  {
+    "id": "sv-0260",
+    "sentence": "Det här är början på en ny resa.",
+    "sentenceEnglish": "This is the beginning of a new journey."
+  },
+  {
+    "id": "sv-0261",
+    "sentence": "Barnen uppför sig väl.",
+    "sentenceEnglish": "The children behave well."
+  },
+  {
+    "id": "sv-0262",
+    "sentence": "Hundens beteende är lugnt.",
+    "sentenceEnglish": "The dog's behavior is calm."
+  },
+  {
+    "id": "sv-0263",
+    "sentence": "Cykeln står bakom huset.",
+    "sentenceEnglish": "The bicycle is behind the house."
+  },
+  {
+    "id": "sv-0264",
+    "sentence": "En människa är en levande varelse.",
+    "sentenceEnglish": "A human is a living being."
+  },
+  {
+    "id": "sv-0265",
+    "sentence": "Hon har en stark övertygelse om rättvisa.",
+    "sentenceEnglish": "She has a strong belief in justice."
+  },
+  {
+    "id": "sv-0266",
+    "sentence": "Jag tror på dig.",
+    "sentenceEnglish": "I believe in you."
+  },
+  {
+    "id": "sv-0267",
+    "sentence": "Kyrkans klocka ringer.",
+    "sentenceEnglish": "The church bell is ringing."
+  },
+  {
+    "id": "sv-0268",
+    "sentence": "Den här väskan tillhör mig.",
+    "sentenceEnglish": "This bag belongs to me."
+  },
+  {
+    "id": "sv-0269",
+    "sentence": "Stigen går nedanför huset.",
+    "sentenceEnglish": "The path runs below the house."
+  },
+  {
+    "id": "sv-0270",
+    "sentence": "Han spänner sitt bälte.",
+    "sentenceEnglish": "He fastens his belt."
+  },
+  {
+    "id": "sv-0271",
+    "sentence": "Böj knäna långsamt.",
+    "sentenceEnglish": "Bend your knees slowly."
+  },
+  {
+    "id": "sv-0272",
+    "sentence": "Det är en fördel att kunna svenska.",
+    "sentenceEnglish": "It is a benefit to know Swedish."
+  },
+  {
+    "id": "sv-0273",
+    "sentence": "Pinnen är böjd.",
+    "sentenceEnglish": "The stick is bent."
+  },
+  {
+    "id": "sv-0274",
+    "sentence": "Det här är den bästa lösningen.",
+    "sentenceEnglish": "This is the best solution."
+  },
+  {
+    "id": "sv-0275",
+    "sentence": "Jag slår vad om att det blir sol.",
+    "sentenceEnglish": "I bet it will be sunny."
+  },
+  {
+    "id": "sv-0276",
+    "sentence": "Jag mår bättre i dag.",
+    "sentenceEnglish": "I feel better today."
+  },
+  {
+    "id": "sv-0277",
+    "sentence": "Stolen står mellan två bord.",
+    "sentenceEnglish": "The chair is between two tables."
+  },
+  {
+    "id": "sv-0278",
+    "sentence": "Bortom bergen ligger havet.",
+    "sentenceEnglish": "Beyond the mountains lies the sea."
+  },
+  {
+    "id": "sv-0279",
+    "sentence": "Jag cyklar till jobbet.",
+    "sentenceEnglish": "I cycle to work."
+  },
+  {
+    "id": "sv-0280",
+    "sentence": "De bor i ett stort hus.",
+    "sentenceEnglish": "They live in a big house."
+  },
+  {
+    "id": "sv-0281",
+    "sentence": "Kan vi få räkningen, tack?",
+    "sentenceEnglish": "Can we have the bill, please?"
+  },
+  {
+    "id": "sv-0282",
+    "sentence": "En miljard är tusen miljoner.",
+    "sentenceEnglish": "A billion is a thousand million."
+  },
+  {
+    "id": "sv-0283",
+    "sentence": "Hon studerar biologi.",
+    "sentenceEnglish": "She studies biology."
+  },
+  {
+    "id": "sv-0284",
+    "sentence": "En fågel sitter i trädet.",
+    "sentenceEnglish": "A bird is sitting in the tree."
+  },
+  {
+    "id": "sv-0285",
+    "sentence": "Vi firar barnets födelse.",
+    "sentenceEnglish": "We celebrate the child's birth."
+  },
+  {
+    "id": "sv-0286",
+    "sentence": "Min födelsedag är i maj.",
+    "sentenceEnglish": "My birthday is in May."
+  },
+  {
+    "id": "sv-0287",
+    "sentence": "Vill du ha en bit kaka?",
+    "sentenceEnglish": "Would you like a bit of cake?"
+  },
+  {
+    "id": "sv-0288",
+    "sentence": "Hunden kan bita.",
+    "sentenceEnglish": "The dog can bite."
+  },
+  {
+    "id": "sv-0289",
+    "sentence": "Medicinen smakar bittert.",
+    "sentenceEnglish": "The medicine tastes bitter."
+  },
+  {
+    "id": "sv-0290",
+    "sentence": "Jag har en svart jacka.",
+    "sentenceEnglish": "I have a black jacket."
+  },
+  {
+    "id": "sv-0291",
+    "sentence": "Skyll inte på mig.",
+    "sentenceEnglish": "Do not blame me."
+  },
+  {
+    "id": "sv-0292",
+    "sentence": "Hon är blind och använder en vit käpp.",
+    "sentenceEnglish": "She is blind and uses a white cane."
+  },
+  {
+    "id": "sv-0293",
+    "sentence": "Vi bor i samma kvarter.",
+    "sentenceEnglish": "We live on the same block."
+  },
+  {
+    "id": "sv-0294",
+    "sentence": "Hon skriver en blogg om mat.",
+    "sentenceEnglish": "She writes a blog about food."
+  },
+  {
+    "id": "sv-0295",
+    "sentence": "Han har blont hår.",
+    "sentenceEnglish": "He has blond hair."
+  },
+  {
+    "id": "sv-0296",
+    "sentence": "Blodet transporterar syre i kroppen.",
+    "sentenceEnglish": "Blood carries oxygen through the body."
+  },
+  {
+    "id": "sv-0297",
+    "sentence": "Hon blåser ut ljusen.",
+    "sentenceEnglish": "She blows out the candles."
+  },
+  {
+    "id": "sv-0298",
+    "sentence": "Himlen är blå.",
+    "sentenceEnglish": "The sky is blue."
+  },
+  {
+    "id": "sv-0299",
+    "sentence": "Han sågar en bräda.",
+    "sentenceEnglish": "He saws a board."
+  },
+  {
+    "id": "sv-0300",
+    "sentence": "Vi åker båt på sjön.",
+    "sentenceEnglish": "We travel by boat on the lake."
+  },
+  {
+    "id": "sv-0301",
+    "sentence": "Träning är bra för kroppen.",
+    "sentenceEnglish": "Exercise is good for the body."
+  },
+  {
+    "id": "sv-0302",
+    "sentence": "Vattnet börjar koka.",
+    "sentenceEnglish": "The water begins to boil."
+  },
+  {
+    "id": "sv-0303",
+    "sentence": "Polisen spärrade av området runt bomben.",
+    "sentenceEnglish": "The police cordoned off the area around the bomb."
+  },
+  {
+    "id": "sv-0304",
+    "sentence": "De har ett starkt band till varandra.",
+    "sentenceEnglish": "They have a strong bond with each other."
+  },
+  {
+    "id": "sv-0305",
+    "sentence": "Skelettet består av ben.",
+    "sentenceEnglish": "The skeleton consists of bones."
+  },
+  {
+    "id": "sv-0306",
+    "sentence": "Jag läser en bok.",
+    "sentenceEnglish": "I am reading a book."
+  },
+  {
+    "id": "sv-0307",
+    "sentence": "Jag tar på mig en stövel.",
+    "sentenceEnglish": "I put on a boot."
+  },
+  {
+    "id": "sv-0308",
+    "sentence": "Vi passerar gränsen till Norge.",
+    "sentenceEnglish": "We cross the border into Norway."
+  },
+  {
+    "id": "sv-0309",
+    "sentence": "Jag blir uttråkad av att vänta.",
+    "sentenceEnglish": "I get bored with waiting."
+  },
+  {
+    "id": "sv-0310",
+    "sentence": "Filmen är tråkig.",
+    "sentenceEnglish": "The film is boring."
+  },
+  {
+    "id": "sv-0311",
+    "sentence": "Hon är född i Sverige.",
+    "sentenceEnglish": "She was born in Sweden."
+  },
+  {
+    "id": "sv-0312",
+    "sentence": "Kan jag låna din penna?",
+    "sentenceEnglish": "Can I borrow your pen?"
+  },
+  {
+    "id": "sv-0313",
+    "sentence": "Min chef leder mötet.",
+    "sentenceEnglish": "My boss leads the meeting."
+  },
+  {
+    "id": "sv-0314",
+    "sentence": "Båda barnen kan simma.",
+    "sentenceEnglish": "Both children can swim."
+  },
+  {
+    "id": "sv-0315",
+    "sentence": "Förlåt att jag stör dig.",
+    "sentenceEnglish": "Sorry to bother you."
+  },
+  {
+    "id": "sv-0316",
+    "sentence": "Flaskan är full med vatten.",
+    "sentenceEnglish": "The bottle is full of water."
+  },
+  {
+    "id": "sv-0317",
+    "sentence": "Nyckeln ligger på botten av lådan.",
+    "sentenceEnglish": "The key is at the bottom of the box."
+  },
+  {
+    "id": "sv-0318",
+    "sentence": "Jag äter soppa ur en skål.",
+    "sentenceEnglish": "I eat soup from a bowl."
+  },
+  {
+    "id": "sv-0319",
+    "sentence": "Böckerna ligger i en låda.",
+    "sentenceEnglish": "The books are in a box."
+  },
+  {
+    "id": "sv-0320",
+    "sentence": "En pojke leker i parken.",
+    "sentenceEnglish": "A boy plays in the park."
+  },
+  {
+    "id": "sv-0321",
+    "sentence": "Hon går på bio med sin pojkvän.",
+    "sentenceEnglish": "She goes to the cinema with her boyfriend."
+  },
+  {
+    "id": "sv-0322",
+    "sentence": "Hjärnan hjälper oss att tänka.",
+    "sentenceEnglish": "The brain helps us think."
+  },
+  {
+    "id": "sv-0323",
+    "sentence": "Fågeln sitter på en gren.",
+    "sentenceEnglish": "The bird sits on a branch."
+  },
+  {
+    "id": "sv-0324",
+    "sentence": "Hon skapar ett nytt varumärke.",
+    "sentenceEnglish": "She creates a new brand."
+  },
+  {
+    "id": "sv-0325",
+    "sentence": "Hon är modig och vågar prova.",
+    "sentenceEnglish": "She is brave and dares to try."
+  },
+  {
+    "id": "sv-0326",
+    "sentence": "Jag köper ett nybakat bröd.",
+    "sentenceEnglish": "I buy a freshly baked loaf of bread."
+  },
+  {
+    "id": "sv-0327",
+    "sentence": "Glaset kan gå sönder.",
+    "sentenceEnglish": "The glass can break."
+  },
+  {
+    "id": "sv-0328",
+    "sentence": "Jag äter frukost klockan sju.",
+    "sentenceEnglish": "I eat breakfast at seven."
+  },
+  {
+    "id": "sv-0329",
+    "sentence": "Läkaren lyssnar på patientens bröst.",
+    "sentenceEnglish": "The doctor listens to the patient's chest."
+  },
+  {
+    "id": "sv-0330",
+    "sentence": "Ta ett djupt andetag.",
+    "sentenceEnglish": "Take a deep breath."
+  },
+  {
+    "id": "sv-0331",
+    "sentence": "Vi andas frisk luft.",
+    "sentenceEnglish": "We breathe fresh air."
+  },
+  {
+    "id": "sv-0332",
+    "sentence": "Lugn andning hjälper mig att slappna av.",
+    "sentenceEnglish": "Calm breathing helps me relax."
+  },
+  {
+    "id": "sv-0333",
+    "sentence": "Bruden bär en vit klänning.",
+    "sentenceEnglish": "The bride wears a white dress."
+  },
+  {
+    "id": "sv-0334",
+    "sentence": "Vi går över bron.",
+    "sentenceEnglish": "We walk across the bridge."
+  },
+  {
+    "id": "sv-0335",
+    "sentence": "Hon gav ett kortfattat svar.",
+    "sentenceEnglish": "She gave a brief answer."
+  },
+  {
+    "id": "sv-0336",
+    "sentence": "Rummet är ljust och soligt.",
+    "sentenceEnglish": "The room is bright and sunny."
+  },
+  {
+    "id": "sv-0337",
+    "sentence": "Det var en briljant idé.",
+    "sentenceEnglish": "That was a brilliant idea."
+  },
+  {
+    "id": "sv-0338",
+    "sentence": "Kan du ta med en bok?",
+    "sentenceEnglish": "Can you bring a book?"
+  },
+  {
+    "id": "sv-0339",
+    "sentence": "Floden är bred.",
+    "sentenceEnglish": "The river is broad."
+  },
+  {
+    "id": "sv-0340",
+    "sentence": "De sänder matchen på tv.",
+    "sentenceEnglish": "They broadcast the match on TV."
+  },
+  {
+    "id": "sv-0341",
+    "sentence": "Min telefon är trasig.",
+    "sentenceEnglish": "My phone is broken."
+  },
+  {
+    "id": "sv-0342",
+    "sentence": "Min bror bor i Göteborg.",
+    "sentenceEnglish": "My brother lives in Gothenburg."
+  },
+  {
+    "id": "sv-0343",
+    "sentence": "Hunden är brun.",
+    "sentenceEnglish": "The dog is brown."
+  },
+  {
+    "id": "sv-0344",
+    "sentence": "Jag rengör skorna med en borste.",
+    "sentenceEnglish": "I clean the shoes with a brush."
+  },
+  {
+    "id": "sv-0345",
+    "sentence": "En bubbla svävar i luften.",
+    "sentenceEnglish": "A bubble floats in the air."
+  },
+  {
+    "id": "sv-0346",
+    "sentence": "Vi gör en budget för resan.",
+    "sentenceEnglish": "We make a budget for the trip."
+  },
+  {
+    "id": "sv-0347",
+    "sentence": "De ska bygga ett hus.",
+    "sentenceEnglish": "They are going to build a house."
+  },
+  {
+    "id": "sv-0348",
+    "sentence": "Byggnaden har fem våningar.",
+    "sentenceEnglish": "The building has five floors."
+  },
+  {
+    "id": "sv-0349",
+    "sentence": "En kula låg på marken.",
+    "sentenceEnglish": "A bullet lay on the ground."
+  },
+  {
+    "id": "sv-0350",
+    "sentence": "Jag köper en klase vindruvor.",
+    "sentenceEnglish": "I buy a bunch of grapes."
+  },
+  {
+    "id": "sv-0351",
+    "sentence": "Veden börjar brinna i kaminen.",
+    "sentenceEnglish": "The wood begins to burn in the stove."
+  },
+  {
+    "id": "sv-0352",
+    "sentence": "De begraver en tidskapsel i trädgården.",
+    "sentenceEnglish": "They bury a time capsule in the garden."
+  },
+  {
+    "id": "sv-0353",
+    "sentence": "Jag tar bussen till jobbet.",
+    "sentenceEnglish": "I take the bus to work."
+  },
+  {
+    "id": "sv-0354",
+    "sentence": "En fågel gömmer sig i busken.",
+    "sentenceEnglish": "A bird hides in the bush."
+  },
+  {
+    "id": "sv-0355",
+    "sentence": "Hon driver ett litet företag.",
+    "sentenceEnglish": "She runs a small business."
+  },
+  {
+    "id": "sv-0356",
+    "sentence": "Han är en framgångsrik affärsman.",
+    "sentenceEnglish": "He is a successful businessman."
+  },
+  {
+    "id": "sv-0357",
+    "sentence": "Jag är upptagen just nu.",
+    "sentenceEnglish": "I am busy right now."
+  },
+  {
+    "id": "sv-0358",
+    "sentence": "Jag vill gå ut, men det regnar.",
+    "sentenceEnglish": "I want to go out, but it is raining."
+  },
+  {
+    "id": "sv-0359",
+    "sentence": "Jag brer smör på brödet.",
+    "sentenceEnglish": "I spread butter on the bread."
+  },
+  {
+    "id": "sv-0360",
+    "sentence": "Tryck på den gröna knappen.",
+    "sentenceEnglish": "Press the green button."
+  },
+  {
+    "id": "sv-0361",
+    "sentence": "Jag vill köpa en ny cykel.",
+    "sentenceEnglish": "I want to buy a new bicycle."
+  },
+  {
+    "id": "sv-0362",
+    "sentence": "Boken är skriven av en svensk författare.",
+    "sentenceEnglish": "The book is written by a Swedish author."
+  },
+  {
+    "id": "sv-0363",
+    "sentence": "Vi säger hej då vid stationen.",
+    "sentenceEnglish": "We say bye at the station."
   }
 ]

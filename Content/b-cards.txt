@@ -1,0 +1,152 @@
+212|en bebis|En bebis sover i vaggan.|A baby is sleeping in the cradle.|bebis = baby; learn en bebis.|A sleeping fully clothed baby tucked safely in a cradle, parent nearby.
+213|en rygg|Hon bär ryggsäcken på ryggen.|She carries the backpack on her back.|rygg = back; ryggsäck = backpack.|Adult woman viewed from behind carrying a backpack; subtle arrow identifies her back.
+214|en bakgrund|Bergen syns i bakgrunden.|The mountains are visible in the background.|bak = back; grund = ground: background.|Woman takes a landscape photograph; crisp foreground flowers and distant mountains highlighted.
+215|bakåt|Han tar ett steg bakåt.|He takes one step backward.|bakåt = backward; follow the arrow back.|Adult man steps backwards on a clear level path; arrow points opposite his gaze.
+216|bakterier|Det finns bakterier på händerna.|There are bacteria on the hands.|bacteria → bakterier.|Hands beside a microscope view of enlarged bacteria; educational inset, no frightening disease.
+217|dålig|Det var en dålig idé.|That was a bad idea.|dålig = bad; a poor idea.|Adult regrets taking a flimsy paper umbrella out into heavy rain.
+218|dåligt|Jag sov dåligt i natt.|I slept badly last night.|dålig → dåligt: bad → badly.|Tired adult sits on bed after a restless night with tangled blanket and clock.
+219|en väska|Jag packar min väska.|I am packing my bag.|väska = bag; learn en väska.|Adult neatly packs a large travel bag on a bed.
+220|baka|Vi ska baka bröd.|We are going to bake bread.|bake → baka.|Two adults knead bread dough beside a warm oven and fresh loaves.
+221|en balans|Hon håller balansen på ett ben.|She keeps her balance on one leg.|balance → balans.|Adult woman balances on one leg on a level exercise mat, arms out.
+222|en boll|Barnet kastar en boll.|The child throws a ball.|ball → boll.|Child in ordinary sports clothes throws a bright ball in a sunny park.
+223|ett förbud|Det finns ett förbud mot rökning här.|There is a ban on smoking here.|förbud mot = ban on.|Large clear no-smoking symbol at a cafe entrance; adult puts cigarette away.
+224|en banan|Jag äter en banan till mellanmål.|I eat a banana as a snack.|banana → banan.|Adult peels a yellow banana at a kitchen table beside fruit bowl.
+225|ett band|Bandet spelar på scenen.|The band is playing on stage.|band → band: musicians together.|Four adult musicians perform with guitar, drums, keyboard and microphone.
+226|en bank|Jag sätter in pengar på banken.|I deposit money at the bank.|bank = a bank for money.|Adult customer deposits banknotes at a bank counter.
+227|en flodbank|Vi sitter på flodbanken.|We are sitting on the river bank.|flod = river; bank = bank of the river.|Two adults sit on the grassy raised bank beside a flowing river.
+228|en bar|Vi träffas på en bar.|We meet at a bar.|bar → bar.|Two clearly adult friends meet at a polished bar counter with stools.
+229|en barriär|En barriär blockerar vägen.|A barrier blocks the road.|barrier → barriär.|Road barrier clearly spans a closed road; adult cyclist waits before it.
+230|en bas|Tornet har en stabil bas.|The tower has a stable base.|base → bas.|Wooden model tower with a broad stable base highlighted below.
+231|baseboll|De spelar baseboll i parken.|They play baseball in the park.|baseball → baseboll.|Adults play baseball on a clear diamond with bat, glove and ball.
+232|baserad|Filmen är baserad på en bok.|The film is based on a book.|baserad på = based on.|Open book visually leads by an arrow to a cinema screen showing the same story.
+233|basket|Vi spelar basket efter skolan.|We play basketball after school.|basket = basketball.|Young adults play basketball on an outdoor court beside a hoop.
+234|grundläggande|Kursen ger grundläggande kunskaper.|The course provides basic knowledge.|grund = foundation; grundläggande = basic.|Adult learner builds a simple foundation of wooden learning blocks.
+235|i grunden|Vi har i grunden samma mål.|We basically have the same goal.|i grunden = basically, at the core.|Two adult teammates with different route sketches point to one shared finish flag.
+236|en grund|Förtroende är en grund för vänskap.|Trust is a basis for friendship.|grund = foundation or basis.|Two friends support each other on a small sturdy bridge with foundation highlighted.
+237|ett bad|Jag tar ett varmt bad.|I take a warm bath.|bad = bath; learn ett bad.|Inviting empty bathtub filled with warm foamy water, towel and bathrobe; no person in bath.
+238|ett badrum|Badrummet ligger på övervåningen.|The bathroom is upstairs.|bad = bath; rum = room.|House cutaway with stairs leading to a clearly furnished upstairs bathroom.
+239|ett batteri|Telefonens batteri är nästan tomt.|The phone's battery is almost empty.|battery → batteri.|Adult looks at phone showing a nearly empty battery symbol.
+240|ett slag|Ett historiskt slag ägde rum här.|A historical battle took place here.|slag = battle in this historical scene.|Museum diorama of a historical battle with distant formations and shields, no injury.
+241|vara|Jag vill vara hemma i kväll.|I want to be at home tonight.|vara → är: be → am, is, are.|Adult relaxes at home on a cozy sofa during evening.
+242|en strand|Vi promenerar på stranden.|We walk on the beach.|strand = beach or shore.|Two adults stroll along a sandy beach with gentle waves.
+243|en böna|Jag planterar en böna i jorden.|I plant a bean in the soil.|böna = bean; learn en böna.|Close view of adult planting one large bean in a soil-filled pot beside sprout.
+244|stå ut med|Jag kan inte stå ut med oljudet.|I cannot bear the noise.|stå ut med = bear or put up with.|Adult covering ears beside a loud rattling machine; no distress beyond annoyance.
+245|en björn|En björn går genom skogen.|A bear walks through the forest.|björn = bear, the animal.|Brown bear walks peacefully through a forest, observed at a distance.
+246|slå|Vårt lag kan slå deras lag.|Our team can beat their team.|slå = beat, here in a match.|Adult sports team celebrates a win beside scoreboard with higher score.
+247|vacker|Vilken vacker utsikt!|What a beautiful view!|vacker = beautiful.|Adult admires a beautiful lake and mountain sunset.
+248|skönhet|Vi beundrar naturens skönhet.|We admire the beauty of nature.|skönhet = beauty.|Two adults admire a flower meadow, shimmering lake and mountain light.
+249|eftersom|Jag stannar hemma eftersom jag är trött.|I am staying home because I am tired.|eftersom = because; gives the reason.|Tired adult rests on a home sofa; thought bubble shows yawning after work.
+250|på grund av|Matchen ställdes in på grund av regnet.|The match was cancelled because of the rain.|på grund av = because of.|Rain pours on an empty sports field; cancelled match represented by crossed-out ball symbol.
+251|bli|Hon vill bli lärare.|She wants to become a teacher.|bli → blir: become → becomes.|Adult student imagines herself teaching a classroom.
+252|en säng|Jag bäddar min säng.|I make my bed.|säng = bed; learn en säng.|Adult smooths a duvet and pillows on a neatly made bed.
+253|ett sovrum|Sovrummet har två fönster.|The bedroom has two windows.|sova = sleep; rum = room.|Cozy bedroom with bed and exactly two windows.
+254|ett bi|Ett bi landar på blomman.|A bee lands on the flower.|bee → bi.|Macro image of a bee landing gently on a bright flower.
+255|nötkött|Vi lagar en gryta med nötkött.|We cook a stew with beef.|nöt = cattle here; kött = meat.|Adults cook a beef stew; ingredients and browned beef cubes on a kitchen counter.
+256|en öl|Han beställer en öl.|He orders a beer.|öl = beer; learn en öl.|Clearly adult man orders one glass of beer at a restaurant.
+257|före|Vi äter före mötet.|We eat before the meeting.|före = before; first on the timeline.|Adults eat lunch with a simple timeline showing plate before meeting table.
+258|be|Jag ber dig att stanna.|I beg you to stay.|be → ber: beg or ask.|Adult earnestly asks a friend holding travel bag to stay a little longer.
+259|börja|Vi börjar lektionen klockan nio.|We begin the lesson at nine.|börja = begin or start.|Adult teacher opens a lesson as clock clearly shows nine.
+260|en början|Det här är början på en ny resa.|This is the beginning of a new journey.|börja → början: begin → beginning.|Adult traveler stands at the first step of a scenic path with a suitcase.
+261|uppföra sig|Barnen uppför sig väl.|The children behave well.|uppföra sig = behave.|Children sit politely at a classroom table sharing materials.
+262|ett beteende|Hundens beteende är lugnt.|The dog's behavior is calm.|beteende = behavior, how someone acts.|Calm dog sits patiently beside its owner in a park.
+263|bakom|Cykeln står bakom huset.|The bicycle is behind the house.|bakom = behind.|House seen at an angle with a bicycle clearly behind it.
+264|en varelse|En människa är en levande varelse.|A human is a living being.|varelse = being or creature.|Adult person beside a tree and bird, subtle glow links living things.
+265|en övertygelse|Hon har en stark övertygelse om rättvisa.|She has a strong belief in justice.|övertygelse = a firm belief.|Adult woman stands confidently beside balanced scales representing justice.
+266|tro|Jag tror på dig.|I believe in you.|tro på = believe in.|Adult reassures a friend preparing for a presentation with a supportive hand gesture.
+267|en klocka|Kyrkans klocka ringer.|The church bell is ringing.|klocka = bell here; also clock elsewhere.|Large church bell swings in a tower with gentle sound lines.
+268|tillhöra|Den här väskan tillhör mig.|This bag belongs to me.|tillhöra → tillhör: belong to → belongs to.|Adult points to their own travel bag with a matching luggage tag.
+269|nedanför|Stigen går nedanför huset.|The path runs below the house.|ned = down; nedanför = below.|Hillside house above a clearly lower winding footpath.
+270|ett bälte|Han spänner sitt bälte.|He fastens his belt.|bälte = belt.|Adult man fastens a leather belt around trousers, ordinary clothing.
+271|böja|Böj knäna långsamt.|Bend your knees slowly.|böja = bend.|Adult demonstrates a controlled shallow knee bend on exercise mat.
+272|en fördel|Det är en fördel att kunna svenska.|It is a benefit to know Swedish.|fördel = benefit or advantage.|Swedish learner confidently receives directions and finds a destination.
+273|böjd|Pinnen är böjd.|The stick is bent.|böja → böjd: bend → bent.|One visibly bent wooden stick beside a straight stick for comparison.
+274|bäst|Det här är den bästa lösningen.|This is the best solution.|bra → bättre → bäst: good → better → best.|Adult chooses the strongest completed bridge model among three options.
+275|slå vad|Jag slår vad om att det blir sol.|I bet it will be sunny.|slå vad = bet.|Two adults playfully predict tomorrow's weather with sun and cloud cards, no money.
+276|bättre|Jag mår bättre i dag.|I feel better today.|bra → bättre: good → better.|Adult recovering from a cold smiles with tea; tissues set aside.
+277|mellan|Stolen står mellan två bord.|The chair is between two tables.|mellan = between.|One chair is exactly between two small tables.
+278|bortom|Bortom bergen ligger havet.|Beyond the mountains lies the sea.|bortom = beyond, on the far side.|Panoramic view across mountain ridge to a distant sea beyond.
+279|en cykel|Jag cyklar till jobbet.|I cycle to work.|cykel = bicycle; cykla = cycle.|Adult rides a bicycle on a safe city cycle lane to an office.
+280|stor|De bor i ett stort hus.|They live in a big house.|stor → stort with an ett-word.|Large house towers over two adults in the front garden.
+281|en räkning|Kan vi få räkningen, tack?|Can we have the bill, please?|räkning = bill; räkna = count.|Adult restaurant guest politely asks waiter for the bill.
+282|en miljard|En miljard är tusen miljoner.|A billion is a thousand million.|miljard = billion, one thousand million.|Large clean digit display 1 000 000 000 with blocks grouping thousands of millions.
+283|biologi|Hon studerar biologi.|She studies biology.|biology → biologi.|Adult student studies plants and cells beside microscope.
+284|en fågel|En fågel sitter i trädet.|A bird is sitting in the tree.|fågel = bird.|One small colorful bird perched clearly on a tree branch.
+285|en födelse|Vi firar barnets födelse.|We celebrate the child's birth.|födas = be born; födelse = birth.|Happy parents with fully clothed newborn wrapped safely in blanket, no medical procedure.
+286|en födelsedag|Min födelsedag är i maj.|My birthday is in May.|födelse = birth; dag = day.|Adult birthday celebration with cake and a calendar headed maj.
+287|en bit|Vill du ha en bit kaka?|Would you like a bit of cake?|bit = a small piece.|Adult offers a small slice cut from a cake.
+288|bita|Hunden kan bita.|The dog can bite.|bita = bite.|Dog bites a sturdy chew toy while owner watches; no injury or person bitten.
+289|bitter|Medicinen smakar bittert.|The medicine tastes bitter.|bitter → bitter; bittert describes the taste.|Adult tastes a spoon of medicine and makes a bitter-taste face.
+290|svart|Jag har en svart jacka.|I have a black jacket.|svart = black.|Adult holds up a plain black jacket against a light background.
+291|skylla på|Skyll inte på mig.|Do not blame me.|skylla på = blame.|Two adults beside an overturned cup; one points, the other raises open palms.
+292|blind|Hon är blind och använder en vit käpp.|She is blind and uses a white cane.|blind → blind.|Adult blind woman navigates a safe tactile walkway using a white cane.
+293|ett kvarter|Vi bor i samma kvarter.|We live on the same block.|kvarter = a city block.|Two friendly neighbors point to homes within one outlined city block.
+294|en blogg|Hon skriver en blogg om mat.|She writes a blog about food.|blog → blogg.|Adult writes a food blog on laptop beside a freshly prepared meal.
+295|blond|Han har blont hår.|He has blond hair.|blond → blont before hår.|Adult man with clearly blond hair in natural daylight.
+296|blod|Blodet transporterar syre i kroppen.|Blood carries oxygen through the body.|blod = blood.|Clean educational human silhouette with red and blue blood vessels and oxygen symbols, no wound.
+297|blåsa|Hon blåser ut ljusen.|She blows out the candles.|blåsa = blow.|Adult woman blows out birthday candles on a cake.
+298|blå|Himlen är blå.|The sky is blue.|blå = blue.|Clear vivid blue sky over a quiet Scandinavian landscape.
+299|en bräda|Han sågar en bräda.|He saws a board.|bräda = a wooden board.|Adult woodworker saws a wooden board at workbench with appropriate eye protection.
+300|en båt|Vi åker båt på sjön.|We travel by boat on the lake.|båt = boat.|Adults wearing life jackets travel in a small boat on calm lake.
+301|en kropp|Träning är bra för kroppen.|Exercise is good for the body.|kropp = body.|Adult stretches whole body on an exercise mat, fully clothed.
+302|koka|Vattnet börjar koka.|The water begins to boil.|koka = boil.|Kitchen pot of water bubbles vigorously with steam rising.
+303|en bomb|Polisen spärrade av området runt bomben.|The police cordoned off the area around the bomb.|bomb → bomb.|Distant closed suspicious package behind police cordon, officers safely far away, no mechanism or explosion.
+304|ett band|De har ett starkt band till varandra.|They have a strong bond with each other.|band = a bond or connection here.|Two adult siblings embrace warmly; subtle gold loop connects them.
+305|ett ben|Skelettet består av ben.|The skeleton consists of bones.|ben = bone here; also leg elsewhere.|Clean educational skeleton model with a single bone highlighted.
+306|en bok|Jag läser en bok.|I am reading a book.|bok = book.|Adult reads an open book beside a window.
+307|en stövel|Jag tar på mig en stövel.|I put on a boot.|stövel = boot; learn en stövel.|Adult pulls on a tall rubber boot beside its matching boot.
+308|en gräns|Vi passerar gränsen till Norge.|We cross the border into Norway.|gräns = border or boundary.|Travelers cross a marked country border with Sweden and Norway flags.
+309|uttråkad|Jag blir uttråkad av att vänta.|I get bored with waiting.|uttråkad = feeling bored.|Adult waits at an empty bus stop staring at watch with bored expression.
+310|tråkig|Filmen är tråkig.|The film is boring.|tråkig = causing boredom.|Adult viewers yawn while watching a dull movie on television.
+311|född|Hon är född i Sverige.|She was born in Sweden.|född i = born in.|Adult woman holds a baby photo beside a simple map of Sweden.
+312|låna|Kan jag låna din penna?|Can I borrow your pen?|låna = borrow; give it back later.|Adult borrows a pen from a friend, return arrow subtly indicates temporary use.
+313|en chef|Min chef leder mötet.|My boss leads the meeting.|chef = boss, not a cook here.|Office manager leads adult coworkers in a meeting.
+314|båda|Båda barnen kan simma.|Both children can swim.|båda = both, the two together.|Exactly two children in modest swimwear with swimming aids in safe pool, adult supervision.
+315|störa|Förlåt att jag stör dig.|Sorry to bother you.|störa = disturb or bother.|Adult gently interrupts a coworker reading at a desk.
+316|en flaska|Flaskan är full med vatten.|The bottle is full of water.|flaska = bottle.|One clear reusable bottle filled with water on table.
+317|en botten|Nyckeln ligger på botten av lådan.|The key is at the bottom of the box.|botten = bottom.|Open empty wooden box with one key at its bottom, downward arrow.
+318|en skål|Jag äter soppa ur en skål.|I eat soup from a bowl.|skål = bowl here.|Adult eats warm soup from a ceramic bowl at table.
+319|en låda|Böckerna ligger i en låda.|The books are in a box.|låda = box.|Several books neatly inside an open cardboard box.
+320|en pojke|En pojke leker i parken.|A boy plays in the park.|pojke = boy.|Boy in ordinary clothes plays with toy car in sunny park.
+321|en pojkvän|Hon går på bio med sin pojkvän.|She goes to the cinema with her boyfriend.|pojke + vän: boyfriend.|Adult woman and her adult boyfriend enter a cinema together.
+322|en hjärna|Hjärnan hjälper oss att tänka.|The brain helps us think.|hjärna = brain.|Clean educational brain model beside an adult thinking, no surgery.
+323|en gren|Fågeln sitter på en gren.|The bird sits on a branch.|gren = branch.|Bird perched on one tree branch highlighted against sky.
+324|ett varumärke|Hon skapar ett nytt varumärke.|She creates a new brand.|vara = product; märke = mark.|Adult designer develops a simple original leaf symbol on unbranded product packaging.
+325|modig|Hon är modig och vågar prova.|She is brave and dares to try.|mod = courage; modig = brave.|Adult woman confidently begins a low safe climbing wall with instructor and harness.
+326|ett bröd|Jag köper ett nybakat bröd.|I buy a freshly baked loaf of bread.|bröd = bread.|Adult buys a warm loaf of bread at bakery counter.
+327|gå sönder|Glaset kan gå sönder.|The glass can break.|gå sönder = break into pieces.|Glass tumbler tipped off table, next to a few clear pieces, no people or injury.
+328|en frukost|Jag äter frukost klockan sju.|I eat breakfast at seven.|frukost = breakfast.|Adult eats breakfast with bread, egg and coffee; clock shows seven.
+329|ett bröst|Läkaren lyssnar på patientens bröst.|The doctor listens to the patient's chest.|bröst = breast or chest.|Clinical adult doctor uses stethoscope over an adult patient's covered upper chest; fully clothed.
+330|ett andetag|Ta ett djupt andetag.|Take a deep breath.|ett andetag = one breath.|Adult takes a calm deep breath by an open window, gentle airflow arrow.
+331|andas|Vi andas frisk luft.|We breathe fresh air.|andas = breathe.|Two adults breathe calmly in fresh air in a forest.
+332|andning|Lugn andning hjälper mig att slappna av.|Calm breathing helps me relax.|andas → andning: breathe → breathing.|Adult sits calmly with hand on abdomen, soft inhale-exhale cycle arrows.
+333|en brud|Bruden bär en vit klänning.|The bride wears a white dress.|brud = bride.|Adult bride in elegant white wedding dress holds flowers.
+334|en bro|Vi går över bron.|We walk across the bridge.|bro = bridge.|Two adults cross a sturdy wooden bridge over stream.
+335|kortfattad|Hon gav ett kortfattat svar.|She gave a brief answer.|kort = short; kortfattad = brief.|Adult compares one short clear reply bubble with a long dense document.
+336|ljus|Rummet är ljust och soligt.|The room is bright and sunny.|ljus = light or bright.|Sunlight fills a bright Scandinavian room through large windows.
+337|briljant|Det var en briljant idé.|That was a brilliant idea.|brilliant → briljant.|Adult has an inspired idea with a glowing light bulb above a simple invention.
+338|ta med|Kan du ta med en bok?|Can you bring a book?|ta med = bring along.|Adult brings a book in hand to a waiting friend.
+339|bred|Floden är bred.|The river is broad.|bred = broad or wide.|Wide river spans landscape with a horizontal width arrow.
+340|sända|De sänder matchen på tv.|They broadcast the match on TV.|sända = send or broadcast.|TV camera films sports match; signal leads to a home television showing it.
+341|trasig|Min telefon är trasig.|My phone is broken.|trasig = broken, no longer working.|Adult holds a phone with cracked screen and blank display.
+342|en bror|Min bror bor i Göteborg.|My brother lives in Gothenburg.|bror = brother.|Two adult brothers greet each other near a Gothenburg tram.
+343|brun|Hunden är brun.|The dog is brown.|brun = brown.|Clearly brown dog sits against pale background.
+344|en borste|Jag rengör skorna med en borste.|I clean the shoes with a brush.|borste = brush.|Adult cleans muddy shoes with a stiff brush.
+345|en bubbla|En bubbla svävar i luften.|A bubble floats in the air.|bubble → bubbla.|One large iridescent soap bubble floats above a garden.
+346|en budget|Vi gör en budget för resan.|We make a budget for the trip.|budget → budget.|Two adults plan travel costs with notebook, calculator and suitcase.
+347|bygga|De ska bygga ett hus.|They are going to build a house.|bygga = build.|Adult builders wearing protective gear construct timber frame of house.
+348|en byggnad|Byggnaden har fem våningar.|The building has five floors.|bygga → byggnad: build → building.|One clear building with exactly five visibly separated storeys.
+349|en kula|En kula låg på marken.|A bullet lay on the ground.|kula = bullet here.|Single inert bullet lying on ground in a neutral evidence photograph, no gun or injury.
+350|en klase|Jag köper en klase vindruvor.|I buy a bunch of grapes.|klase = bunch, as with grapes.|Adult buys one connected bunch of grapes at fruit stall.
+351|brinna|Veden börjar brinna i kaminen.|The wood begins to burn in the stove.|brinna = burn; wood burns.|Firewood burns safely behind glass of a closed wood stove.
+352|begrava|De begraver en tidskapsel i trädgården.|They bury a time capsule in the garden.|begrava = bury.|Adults gently lower a sealed time capsule into a garden hole, shovel beside it.
+353|en buss|Jag tar bussen till jobbet.|I take the bus to work.|bus → buss.|Adult boards a city bus on the way to work.
+354|en buske|En fågel gömmer sig i busken.|A bird hides in the bush.|buske = bush.|Small bird peeks from one leafy garden bush.
+355|ett företag|Hon driver ett litet företag.|She runs a small business.|företag = business or company.|Adult entrepreneur opens her small pottery shop and serves a customer.
+356|en affärsman|Han är en framgångsrik affärsman.|He is a successful businessman.|affär = business; man = man.|Adult businessman presents a growing company chart at office.
+357|upptagen|Jag är upptagen just nu.|I am busy right now.|upptagen = busy, already occupied.|Adult works at desk with several tasks and a ringing phone.
+358|men|Jag vill gå ut, men det regnar.|I want to go out, but it is raining.|men = but; introduces a contrast.|Adult in walking shoes looks out at pouring rain from doorway.
+359|smör|Jag brer smör på brödet.|I spread butter on the bread.|smör = butter.|Close view of butter spread on bread at breakfast table.
+360|en knapp|Tryck på den gröna knappen.|Press the green button.|knapp = button.|Adult finger presses a single clearly green button on a simple panel.
+361|köpa|Jag vill köpa en ny cykel.|I want to buy a new bicycle.|köpa = buy.|Adult buys a new bicycle from a shop assistant at counter.
+362|av|Boken är skriven av en svensk författare.|The book is written by a Swedish author.|av = by, naming the creator.|Adult author hands their freshly written book to a reader.
+363|hej då|Vi säger hej då vid stationen.|We say bye at the station.|hej = hello; hej då = goodbye.|Two adult friends wave goodbye beside a departing train.

@@ -18,9 +18,10 @@ class RepositoryTest {
     @Before fun setup() { context=ApplicationProvider.getApplicationContext();context.deleteDatabase("swedish-progress.db") }
     @Test fun actualAssetsHaveCompleteStableContentAndFreeASet() = runTest {
         val words=LocalStudyRepository(context).loadWords()
-        assertEquals(211,words.size)
-        assertEquals(211,words.map { it.id }.toSet().size)
+        assertEquals(363,words.size)
+        assertEquals(363,words.map { it.id }.toSet().size)
         assertEquals(211,words.count { it.initial=="A" })
+        assertEquals(152,words.count { it.initial=="B" })
         assertTrue(words.all { it.sentence.isNotBlank() && it.sentenceEnglish.isNotBlank() })
         assertEquals("a, an",words.first().english)
         val apple=words.single { it.id=="sv-0136" }

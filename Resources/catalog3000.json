@@ -5,7 +5,7 @@
     "note": "Headwords and IDs preserved from the existing iOS app. This is its American Oxford-based 3000-entry index, not an independently verified UK edition. Swedish translations and examples are original authored drafts."
   },
   "targetCount": 3000,
-  "entryCount": 211,
+  "entryCount": 363,
   "entries": [
     {
       "id": "sv-0001",
@@ -1272,6 +1272,918 @@
       "sourceID": 211,
       "english": "awful",
       "swedish": "hemsk"
+    },
+    {
+      "id": "sv-0212",
+      "sourceID": 212,
+      "english": "baby",
+      "swedish": "en bebis"
+    },
+    {
+      "id": "sv-0213",
+      "sourceID": 213,
+      "english": "back",
+      "swedish": "en rygg"
+    },
+    {
+      "id": "sv-0214",
+      "sourceID": 214,
+      "english": "background",
+      "swedish": "en bakgrund"
+    },
+    {
+      "id": "sv-0215",
+      "sourceID": 215,
+      "english": "backward",
+      "swedish": "bakåt"
+    },
+    {
+      "id": "sv-0216",
+      "sourceID": 216,
+      "english": "bacteria",
+      "swedish": "bakterier"
+    },
+    {
+      "id": "sv-0217",
+      "sourceID": 217,
+      "english": "bad",
+      "swedish": "dålig"
+    },
+    {
+      "id": "sv-0218",
+      "sourceID": 218,
+      "english": "badly",
+      "swedish": "dåligt"
+    },
+    {
+      "id": "sv-0219",
+      "sourceID": 219,
+      "english": "bag",
+      "swedish": "en väska"
+    },
+    {
+      "id": "sv-0220",
+      "sourceID": 220,
+      "english": "bake",
+      "swedish": "baka"
+    },
+    {
+      "id": "sv-0221",
+      "sourceID": 221,
+      "english": "balance",
+      "swedish": "en balans"
+    },
+    {
+      "id": "sv-0222",
+      "sourceID": 222,
+      "english": "ball",
+      "swedish": "en boll"
+    },
+    {
+      "id": "sv-0223",
+      "sourceID": 223,
+      "english": "ban",
+      "swedish": "ett förbud"
+    },
+    {
+      "id": "sv-0224",
+      "sourceID": 224,
+      "english": "banana",
+      "swedish": "en banan"
+    },
+    {
+      "id": "sv-0225",
+      "sourceID": 225,
+      "english": "band",
+      "swedish": "ett band"
+    },
+    {
+      "id": "sv-0226",
+      "sourceID": 226,
+      "english": "bank (money)",
+      "swedish": "en bank"
+    },
+    {
+      "id": "sv-0227",
+      "sourceID": 227,
+      "english": "bank (river)",
+      "swedish": "en flodbank"
+    },
+    {
+      "id": "sv-0228",
+      "sourceID": 228,
+      "english": "bar",
+      "swedish": "en bar"
+    },
+    {
+      "id": "sv-0229",
+      "sourceID": 229,
+      "english": "barrier",
+      "swedish": "en barriär"
+    },
+    {
+      "id": "sv-0230",
+      "sourceID": 230,
+      "english": "base",
+      "swedish": "en bas"
+    },
+    {
+      "id": "sv-0231",
+      "sourceID": 231,
+      "english": "baseball",
+      "swedish": "baseboll"
+    },
+    {
+      "id": "sv-0232",
+      "sourceID": 232,
+      "english": "based",
+      "swedish": "baserad"
+    },
+    {
+      "id": "sv-0233",
+      "sourceID": 233,
+      "english": "basketball",
+      "swedish": "basket"
+    },
+    {
+      "id": "sv-0234",
+      "sourceID": 234,
+      "english": "basic",
+      "swedish": "grundläggande"
+    },
+    {
+      "id": "sv-0235",
+      "sourceID": 235,
+      "english": "basically",
+      "swedish": "i grunden"
+    },
+    {
+      "id": "sv-0236",
+      "sourceID": 236,
+      "english": "basis",
+      "swedish": "en grund"
+    },
+    {
+      "id": "sv-0237",
+      "sourceID": 237,
+      "english": "bath",
+      "swedish": "ett bad"
+    },
+    {
+      "id": "sv-0238",
+      "sourceID": 238,
+      "english": "bathroom",
+      "swedish": "ett badrum"
+    },
+    {
+      "id": "sv-0239",
+      "sourceID": 239,
+      "english": "battery",
+      "swedish": "ett batteri"
+    },
+    {
+      "id": "sv-0240",
+      "sourceID": 240,
+      "english": "battle",
+      "swedish": "ett slag"
+    },
+    {
+      "id": "sv-0241",
+      "sourceID": 241,
+      "english": "be",
+      "swedish": "vara"
+    },
+    {
+      "id": "sv-0242",
+      "sourceID": 242,
+      "english": "beach",
+      "swedish": "en strand"
+    },
+    {
+      "id": "sv-0243",
+      "sourceID": 243,
+      "english": "bean",
+      "swedish": "en böna"
+    },
+    {
+      "id": "sv-0244",
+      "sourceID": 244,
+      "english": "bear (deal with)",
+      "swedish": "stå ut med"
+    },
+    {
+      "id": "sv-0245",
+      "sourceID": 245,
+      "english": "bear (animal)",
+      "swedish": "en björn"
+    },
+    {
+      "id": "sv-0246",
+      "sourceID": 246,
+      "english": "beat",
+      "swedish": "slå"
+    },
+    {
+      "id": "sv-0247",
+      "sourceID": 247,
+      "english": "beautiful",
+      "swedish": "vacker"
+    },
+    {
+      "id": "sv-0248",
+      "sourceID": 248,
+      "english": "beauty",
+      "swedish": "skönhet"
+    },
+    {
+      "id": "sv-0249",
+      "sourceID": 249,
+      "english": "because",
+      "swedish": "eftersom"
+    },
+    {
+      "id": "sv-0250",
+      "sourceID": 250,
+      "english": "because of",
+      "swedish": "på grund av"
+    },
+    {
+      "id": "sv-0251",
+      "sourceID": 251,
+      "english": "become",
+      "swedish": "bli"
+    },
+    {
+      "id": "sv-0252",
+      "sourceID": 252,
+      "english": "bed",
+      "swedish": "en säng"
+    },
+    {
+      "id": "sv-0253",
+      "sourceID": 253,
+      "english": "bedroom",
+      "swedish": "ett sovrum"
+    },
+    {
+      "id": "sv-0254",
+      "sourceID": 254,
+      "english": "bee",
+      "swedish": "ett bi"
+    },
+    {
+      "id": "sv-0255",
+      "sourceID": 255,
+      "english": "beef",
+      "swedish": "nötkött"
+    },
+    {
+      "id": "sv-0256",
+      "sourceID": 256,
+      "english": "beer",
+      "swedish": "en öl"
+    },
+    {
+      "id": "sv-0257",
+      "sourceID": 257,
+      "english": "before",
+      "swedish": "före"
+    },
+    {
+      "id": "sv-0258",
+      "sourceID": 258,
+      "english": "beg",
+      "swedish": "be"
+    },
+    {
+      "id": "sv-0259",
+      "sourceID": 259,
+      "english": "begin",
+      "swedish": "börja"
+    },
+    {
+      "id": "sv-0260",
+      "sourceID": 260,
+      "english": "beginning",
+      "swedish": "en början"
+    },
+    {
+      "id": "sv-0261",
+      "sourceID": 261,
+      "english": "behave",
+      "swedish": "uppföra sig"
+    },
+    {
+      "id": "sv-0262",
+      "sourceID": 262,
+      "english": "behavior",
+      "swedish": "ett beteende"
+    },
+    {
+      "id": "sv-0263",
+      "sourceID": 263,
+      "english": "behind",
+      "swedish": "bakom"
+    },
+    {
+      "id": "sv-0264",
+      "sourceID": 264,
+      "english": "being",
+      "swedish": "en varelse"
+    },
+    {
+      "id": "sv-0265",
+      "sourceID": 265,
+      "english": "belief",
+      "swedish": "en övertygelse"
+    },
+    {
+      "id": "sv-0266",
+      "sourceID": 266,
+      "english": "believe",
+      "swedish": "tro"
+    },
+    {
+      "id": "sv-0267",
+      "sourceID": 267,
+      "english": "bell",
+      "swedish": "en klocka"
+    },
+    {
+      "id": "sv-0268",
+      "sourceID": 268,
+      "english": "belong",
+      "swedish": "tillhöra"
+    },
+    {
+      "id": "sv-0269",
+      "sourceID": 269,
+      "english": "below",
+      "swedish": "nedanför"
+    },
+    {
+      "id": "sv-0270",
+      "sourceID": 270,
+      "english": "belt",
+      "swedish": "ett bälte"
+    },
+    {
+      "id": "sv-0271",
+      "sourceID": 271,
+      "english": "bend",
+      "swedish": "böja"
+    },
+    {
+      "id": "sv-0272",
+      "sourceID": 272,
+      "english": "benefit",
+      "swedish": "en fördel"
+    },
+    {
+      "id": "sv-0273",
+      "sourceID": 273,
+      "english": "bent",
+      "swedish": "böjd"
+    },
+    {
+      "id": "sv-0274",
+      "sourceID": 274,
+      "english": "best",
+      "swedish": "bäst"
+    },
+    {
+      "id": "sv-0275",
+      "sourceID": 275,
+      "english": "bet",
+      "swedish": "slå vad"
+    },
+    {
+      "id": "sv-0276",
+      "sourceID": 276,
+      "english": "better",
+      "swedish": "bättre"
+    },
+    {
+      "id": "sv-0277",
+      "sourceID": 277,
+      "english": "between",
+      "swedish": "mellan"
+    },
+    {
+      "id": "sv-0278",
+      "sourceID": 278,
+      "english": "beyond",
+      "swedish": "bortom"
+    },
+    {
+      "id": "sv-0279",
+      "sourceID": 279,
+      "english": "bicycle / bike",
+      "swedish": "en cykel"
+    },
+    {
+      "id": "sv-0280",
+      "sourceID": 280,
+      "english": "big",
+      "swedish": "stor"
+    },
+    {
+      "id": "sv-0281",
+      "sourceID": 281,
+      "english": "bill",
+      "swedish": "en räkning"
+    },
+    {
+      "id": "sv-0282",
+      "sourceID": 282,
+      "english": "billion",
+      "swedish": "en miljard"
+    },
+    {
+      "id": "sv-0283",
+      "sourceID": 283,
+      "english": "biology",
+      "swedish": "biologi"
+    },
+    {
+      "id": "sv-0284",
+      "sourceID": 284,
+      "english": "bird",
+      "swedish": "en fågel"
+    },
+    {
+      "id": "sv-0285",
+      "sourceID": 285,
+      "english": "birth",
+      "swedish": "en födelse"
+    },
+    {
+      "id": "sv-0286",
+      "sourceID": 286,
+      "english": "birthday",
+      "swedish": "en födelsedag"
+    },
+    {
+      "id": "sv-0287",
+      "sourceID": 287,
+      "english": "bit",
+      "swedish": "en bit"
+    },
+    {
+      "id": "sv-0288",
+      "sourceID": 288,
+      "english": "bite",
+      "swedish": "bita"
+    },
+    {
+      "id": "sv-0289",
+      "sourceID": 289,
+      "english": "bitter",
+      "swedish": "bitter"
+    },
+    {
+      "id": "sv-0290",
+      "sourceID": 290,
+      "english": "black",
+      "swedish": "svart"
+    },
+    {
+      "id": "sv-0291",
+      "sourceID": 291,
+      "english": "blame",
+      "swedish": "skylla på"
+    },
+    {
+      "id": "sv-0292",
+      "sourceID": 292,
+      "english": "blind",
+      "swedish": "blind"
+    },
+    {
+      "id": "sv-0293",
+      "sourceID": 293,
+      "english": "block",
+      "swedish": "ett kvarter"
+    },
+    {
+      "id": "sv-0294",
+      "sourceID": 294,
+      "english": "blog",
+      "swedish": "en blogg"
+    },
+    {
+      "id": "sv-0295",
+      "sourceID": 295,
+      "english": "blond",
+      "swedish": "blond"
+    },
+    {
+      "id": "sv-0296",
+      "sourceID": 296,
+      "english": "blood",
+      "swedish": "blod"
+    },
+    {
+      "id": "sv-0297",
+      "sourceID": 297,
+      "english": "blow",
+      "swedish": "blåsa"
+    },
+    {
+      "id": "sv-0298",
+      "sourceID": 298,
+      "english": "blue",
+      "swedish": "blå"
+    },
+    {
+      "id": "sv-0299",
+      "sourceID": 299,
+      "english": "board",
+      "swedish": "en bräda"
+    },
+    {
+      "id": "sv-0300",
+      "sourceID": 300,
+      "english": "boat",
+      "swedish": "en båt"
+    },
+    {
+      "id": "sv-0301",
+      "sourceID": 301,
+      "english": "body",
+      "swedish": "en kropp"
+    },
+    {
+      "id": "sv-0302",
+      "sourceID": 302,
+      "english": "boil",
+      "swedish": "koka"
+    },
+    {
+      "id": "sv-0303",
+      "sourceID": 303,
+      "english": "bomb",
+      "swedish": "en bomb"
+    },
+    {
+      "id": "sv-0304",
+      "sourceID": 304,
+      "english": "bond",
+      "swedish": "ett band"
+    },
+    {
+      "id": "sv-0305",
+      "sourceID": 305,
+      "english": "bone",
+      "swedish": "ett ben"
+    },
+    {
+      "id": "sv-0306",
+      "sourceID": 306,
+      "english": "book",
+      "swedish": "en bok"
+    },
+    {
+      "id": "sv-0307",
+      "sourceID": 307,
+      "english": "boot",
+      "swedish": "en stövel"
+    },
+    {
+      "id": "sv-0308",
+      "sourceID": 308,
+      "english": "border",
+      "swedish": "en gräns"
+    },
+    {
+      "id": "sv-0309",
+      "sourceID": 309,
+      "english": "bored",
+      "swedish": "uttråkad"
+    },
+    {
+      "id": "sv-0310",
+      "sourceID": 310,
+      "english": "boring",
+      "swedish": "tråkig"
+    },
+    {
+      "id": "sv-0311",
+      "sourceID": 311,
+      "english": "born",
+      "swedish": "född"
+    },
+    {
+      "id": "sv-0312",
+      "sourceID": 312,
+      "english": "borrow",
+      "swedish": "låna"
+    },
+    {
+      "id": "sv-0313",
+      "sourceID": 313,
+      "english": "boss",
+      "swedish": "en chef"
+    },
+    {
+      "id": "sv-0314",
+      "sourceID": 314,
+      "english": "both",
+      "swedish": "båda"
+    },
+    {
+      "id": "sv-0315",
+      "sourceID": 315,
+      "english": "bother",
+      "swedish": "störa"
+    },
+    {
+      "id": "sv-0316",
+      "sourceID": 316,
+      "english": "bottle",
+      "swedish": "en flaska"
+    },
+    {
+      "id": "sv-0317",
+      "sourceID": 317,
+      "english": "bottom",
+      "swedish": "en botten"
+    },
+    {
+      "id": "sv-0318",
+      "sourceID": 318,
+      "english": "bowl",
+      "swedish": "en skål"
+    },
+    {
+      "id": "sv-0319",
+      "sourceID": 319,
+      "english": "box",
+      "swedish": "en låda"
+    },
+    {
+      "id": "sv-0320",
+      "sourceID": 320,
+      "english": "boy",
+      "swedish": "en pojke"
+    },
+    {
+      "id": "sv-0321",
+      "sourceID": 321,
+      "english": "boyfriend",
+      "swedish": "en pojkvän"
+    },
+    {
+      "id": "sv-0322",
+      "sourceID": 322,
+      "english": "brain",
+      "swedish": "en hjärna"
+    },
+    {
+      "id": "sv-0323",
+      "sourceID": 323,
+      "english": "branch",
+      "swedish": "en gren"
+    },
+    {
+      "id": "sv-0324",
+      "sourceID": 324,
+      "english": "brand",
+      "swedish": "ett varumärke"
+    },
+    {
+      "id": "sv-0325",
+      "sourceID": 325,
+      "english": "brave",
+      "swedish": "modig"
+    },
+    {
+      "id": "sv-0326",
+      "sourceID": 326,
+      "english": "bread",
+      "swedish": "ett bröd"
+    },
+    {
+      "id": "sv-0327",
+      "sourceID": 327,
+      "english": "break",
+      "swedish": "gå sönder"
+    },
+    {
+      "id": "sv-0328",
+      "sourceID": 328,
+      "english": "breakfast",
+      "swedish": "en frukost"
+    },
+    {
+      "id": "sv-0329",
+      "sourceID": 329,
+      "english": "breast",
+      "swedish": "ett bröst"
+    },
+    {
+      "id": "sv-0330",
+      "sourceID": 330,
+      "english": "breath",
+      "swedish": "ett andetag"
+    },
+    {
+      "id": "sv-0331",
+      "sourceID": 331,
+      "english": "breathe",
+      "swedish": "andas"
+    },
+    {
+      "id": "sv-0332",
+      "sourceID": 332,
+      "english": "breathing",
+      "swedish": "andning"
+    },
+    {
+      "id": "sv-0333",
+      "sourceID": 333,
+      "english": "bride",
+      "swedish": "en brud"
+    },
+    {
+      "id": "sv-0334",
+      "sourceID": 334,
+      "english": "bridge",
+      "swedish": "en bro"
+    },
+    {
+      "id": "sv-0335",
+      "sourceID": 335,
+      "english": "brief",
+      "swedish": "kortfattad"
+    },
+    {
+      "id": "sv-0336",
+      "sourceID": 336,
+      "english": "bright",
+      "swedish": "ljus"
+    },
+    {
+      "id": "sv-0337",
+      "sourceID": 337,
+      "english": "brilliant",
+      "swedish": "briljant"
+    },
+    {
+      "id": "sv-0338",
+      "sourceID": 338,
+      "english": "bring",
+      "swedish": "ta med"
+    },
+    {
+      "id": "sv-0339",
+      "sourceID": 339,
+      "english": "broad",
+      "swedish": "bred"
+    },
+    {
+      "id": "sv-0340",
+      "sourceID": 340,
+      "english": "broadcast",
+      "swedish": "sända"
+    },
+    {
+      "id": "sv-0341",
+      "sourceID": 341,
+      "english": "broken",
+      "swedish": "trasig"
+    },
+    {
+      "id": "sv-0342",
+      "sourceID": 342,
+      "english": "brother",
+      "swedish": "en bror"
+    },
+    {
+      "id": "sv-0343",
+      "sourceID": 343,
+      "english": "brown",
+      "swedish": "brun"
+    },
+    {
+      "id": "sv-0344",
+      "sourceID": 344,
+      "english": "brush",
+      "swedish": "en borste"
+    },
+    {
+      "id": "sv-0345",
+      "sourceID": 345,
+      "english": "bubble",
+      "swedish": "en bubbla"
+    },
+    {
+      "id": "sv-0346",
+      "sourceID": 346,
+      "english": "budget",
+      "swedish": "en budget"
+    },
+    {
+      "id": "sv-0347",
+      "sourceID": 347,
+      "english": "build",
+      "swedish": "bygga"
+    },
+    {
+      "id": "sv-0348",
+      "sourceID": 348,
+      "english": "building",
+      "swedish": "en byggnad"
+    },
+    {
+      "id": "sv-0349",
+      "sourceID": 349,
+      "english": "bullet",
+      "swedish": "en kula"
+    },
+    {
+      "id": "sv-0350",
+      "sourceID": 350,
+      "english": "bunch",
+      "swedish": "en klase"
+    },
+    {
+      "id": "sv-0351",
+      "sourceID": 351,
+      "english": "burn",
+      "swedish": "brinna"
+    },
+    {
+      "id": "sv-0352",
+      "sourceID": 352,
+      "english": "bury",
+      "swedish": "begrava"
+    },
+    {
+      "id": "sv-0353",
+      "sourceID": 353,
+      "english": "bus",
+      "swedish": "en buss"
+    },
+    {
+      "id": "sv-0354",
+      "sourceID": 354,
+      "english": "bush",
+      "swedish": "en buske"
+    },
+    {
+      "id": "sv-0355",
+      "sourceID": 355,
+      "english": "business",
+      "swedish": "ett företag"
+    },
+    {
+      "id": "sv-0356",
+      "sourceID": 356,
+      "english": "businessman",
+      "swedish": "en affärsman"
+    },
+    {
+      "id": "sv-0357",
+      "sourceID": 357,
+      "english": "busy",
+      "swedish": "upptagen"
+    },
+    {
+      "id": "sv-0358",
+      "sourceID": 358,
+      "english": "but",
+      "swedish": "men"
+    },
+    {
+      "id": "sv-0359",
+      "sourceID": 359,
+      "english": "butter",
+      "swedish": "smör"
+    },
+    {
+      "id": "sv-0360",
+      "sourceID": 360,
+      "english": "button",
+      "swedish": "en knapp"
+    },
+    {
+      "id": "sv-0361",
+      "sourceID": 361,
+      "english": "buy",
+      "swedish": "köpa"
+    },
+    {
+      "id": "sv-0362",
+      "sourceID": 362,
+      "english": "by",
+      "swedish": "av"
+    },
+    {
+      "id": "sv-0363",
+      "sourceID": 363,
+      "english": "bye",
+      "swedish": "hej då"
     }
   ]
 }

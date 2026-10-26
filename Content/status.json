@@ -1,7 +1,7 @@
 {
   "target": 3000,
-  "authored": 211,
-  "artwork": 211,
+  "authored": 363,
+  "artwork": 227,
   "linguisticReview": "Authored draft; independent Swedish review pending.",
   "sets": {
     "A": {
@@ -11,8 +11,8 @@
     },
     "B": {
       "total": 152,
-      "authored": 0,
-      "artwork": 0
+      "authored": 152,
+      "artwork": 16
     },
     "C": {
       "total": 292,

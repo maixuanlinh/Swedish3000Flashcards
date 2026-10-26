@@ -33,4 +33,4 @@ for (const item of batch) {
   manifest[item.id] = { path: relative, reviewed: true };
 }
 fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n');
-console.log(`Imported ${batch.length} reviewed cards; artwork coverage ${Object.keys(manifest).length}/211 A cards.`);
+console.log(`Imported ${batch.length} reviewed cards; artwork coverage ${Object.keys(manifest).length}/${catalog.entries.filter(e => e.contentStatus !== 'pending').length} authored cards.`);

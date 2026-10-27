@@ -4,11 +4,11 @@ import SwiftData
 
 @MainActor
 final class SwedishContentTests: XCTestCase {
-    func testCurrentABSetsUseStableSwedishIDsAndMatchingExamples() throws {
+    func testCurrentABCSetsUseStableSwedishIDsAndMatchingExamples() throws {
         let seeds = try StudyStore.readSeeds()
-        XCTAssertEqual(seeds.count, 363)
-        XCTAssertEqual(Set(seeds.map(\.id)).count, 363)
-        XCTAssertEqual(Set(seeds.map(\.sourceID)), Set(1...363))
+        XCTAssertEqual(seeds.count, 655)
+        XCTAssertEqual(Set(seeds.map(\.id)).count, 655)
+        XCTAssertEqual(Set(seeds.map(\.sourceID)), Set(1...655))
         XCTAssertTrue(seeds.allSatisfy { $0.id.hasPrefix("sv-") && !$0.swedish.isEmpty && !$0.sentence.isEmpty && !$0.sentenceEnglish.isEmpty })
         XCTAssertEqual(seeds.first?.english, "a, an")
         XCTAssertEqual(seeds.first?.swedish, "en / ett")
@@ -16,7 +16,7 @@ final class SwedishContentTests: XCTestCase {
         XCTAssertEqual(seeds.first { $0.id == "sv-0136" }?.swedish, "ett äpple")
         XCTAssertEqual(seeds.first { $0.id == "sv-0211" }?.english, "awful")
         XCTAssertEqual(seeds.first { $0.id == "sv-0212" }?.swedish, "en bebis")
-        XCTAssertEqual(seeds.last?.english, "bye")
+        XCTAssertEqual(seeds.last?.english, "cycle")
     }
 
     func testArtworkCoverageIsHonestAndPromptsAreSwedish() throws {
@@ -24,7 +24,7 @@ final class SwedishContentTests: XCTestCase {
         XCTAssertGreaterThanOrEqual(BundledArtwork.records.count, 1)
         XCTAssertLessThanOrEqual(BundledArtwork.records.count, store.words.count)
         XCTAssertNotNil(BundledArtwork.image(for: "sv-0001"))
-        XCTAssertNil(BundledArtwork.image(for: "sv-0364"))
+        XCTAssertNil(BundledArtwork.image(for: "sv-0656"))
         for id in BundledArtwork.records.keys {
             XCTAssertNotNil(store.word(withID: id))
             XCTAssertNotNil(BundledArtwork.image(for: id))
@@ -43,9 +43,9 @@ final class SwedishContentTests: XCTestCase {
         let abandon = try XCTUnwrap(first.word(withID: "sv-0002"))
         XCTAssertTrue(first.searchWords("ÖVERGE").contains { $0.id == abandon.id })
         try first.rate(abandon, as: .known)
-        let next = WordSeed(id: "sv-0364", sourceID: 364, order: 363, english: "cable", swedish: "en kabel", sentence: "Jag behöver en kabel.", sentenceEnglish: "I need a cable.", topic: "Vocabulary", symbol: "person", imageName: nil, imageContainsText: false)
+        let next = WordSeed(id: "sv-0656", sourceID: 656, order: 655, english: "dad", swedish: "en pappa", sentence: "Min pappa är hemma.", sentenceEnglish: "My dad is at home.", topic: "Vocabulary", symbol: "person", imageName: nil, imageContainsText: false)
         let expanded = try StudyStore(container: container, seeds: seeds + [next])
-        XCTAssertEqual(expanded.words.count, 364)
+        XCTAssertEqual(expanded.words.count, 656)
         XCTAssertEqual(expanded.word(withID: abandon.id)?.status, .known)
         XCTAssertEqual(expanded.word(withID: abandon.id)?.reviewCount, 1)
         XCTAssertEqual(expanded.word(withID: next.id)?.status, .new)

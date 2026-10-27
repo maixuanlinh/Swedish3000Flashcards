@@ -1,0 +1,18 @@
+{
+  "id": "sv-0530",
+  "english": "complicated",
+  "swedish": "komplicerad",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"komplicerad\". Smaller English meaning verbatim: \"complicated\".\nScene: Adult looks puzzled at overly tangled assembly instructions.\nMemory-link caption verbatim: \"complicated → komplicerad.\".\nSwedish example in bottom strip verbatim: \"Instruktionen är komplicerad.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nAttached image is STYLE/LAYOUT reference only. Use the new scene and exact supplied teaching text. Cream/gold heading, bold navy typography, gold memory caption, pale blue example strip, warm editorial photo. Accurate Swedish å ä ö, readable text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-d3cd0c13-27c9-4843-80ea-bb3dbc6d3728.png",
+  "artwork": "Content/Artwork/sv-0530.png",
+  "sha256": "4a6e13453d6c47f373b91fc4978e60ab1b1c4c211317765ff64dda23d0573f6b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

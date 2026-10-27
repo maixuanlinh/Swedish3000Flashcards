@@ -1813,5 +1813,1465 @@
     "id": "sv-0363",
     "sentence": "Vi säger hej då vid stationen.",
     "sentenceEnglish": "We say bye at the station."
+  },
+  {
+    "id": "sv-0364",
+    "sentence": "Jag ansluter en kabel till datorn.",
+    "sentenceEnglish": "I connect a cable to the computer."
+  },
+  {
+    "id": "sv-0365",
+    "sentence": "Vi fikar på ett kafé.",
+    "sentenceEnglish": "We have coffee at a cafe."
+  },
+  {
+    "id": "sv-0366",
+    "sentence": "Hon bakar en tårta till festen.",
+    "sentenceEnglish": "She bakes a cake for the party."
+  },
+  {
+    "id": "sv-0367",
+    "sentence": "Vi beräknar kostnaden för resan.",
+    "sentenceEnglish": "We calculate the cost of the trip."
+  },
+  {
+    "id": "sv-0368",
+    "sentence": "Jag ska ringa min syster.",
+    "sentenceEnglish": "I will call my sister."
+  },
+  {
+    "id": "sv-0369",
+    "sentence": "Sjön är lugn i dag.",
+    "sentenceEnglish": "The lake is calm today."
+  },
+  {
+    "id": "sv-0370",
+    "sentence": "Jag tar ett foto med min kamera.",
+    "sentenceEnglish": "I take a photo with my camera."
+  },
+  {
+    "id": "sv-0371",
+    "sentence": "Barnen åker på läger i sommar.",
+    "sentenceEnglish": "The children go to camp this summer."
+  },
+  {
+    "id": "sv-0372",
+    "sentence": "Vi startar en kampanj för renare stränder.",
+    "sentenceEnglish": "We start a campaign for cleaner beaches."
+  },
+  {
+    "id": "sv-0373",
+    "sentence": "Vi gillar camping på sommaren.",
+    "sentenceEnglish": "We like camping in summer."
+  },
+  {
+    "id": "sv-0374",
+    "sentence": "Biblioteket ligger på campus.",
+    "sentenceEnglish": "The library is on campus."
+  },
+  {
+    "id": "sv-0375",
+    "sentence": "Jag kan simma.",
+    "sentenceEnglish": "I can swim."
+  },
+  {
+    "id": "sv-0376",
+    "sentence": "Jag öppnar en burk bönor.",
+    "sentenceEnglish": "I open a can of beans."
+  },
+  {
+    "id": "sv-0377",
+    "sentence": "Vi måste ställa in mötet.",
+    "sentenceEnglish": "We must cancel the meeting."
+  },
+  {
+    "id": "sv-0378",
+    "sentence": "Läkaren behandlar patienter med cancer.",
+    "sentenceEnglish": "The doctor treats patients with cancer."
+  },
+  {
+    "id": "sv-0379",
+    "sentence": "Hon är kandidat till ordförandeposten.",
+    "sentenceEnglish": "She is a candidate for the chairperson position."
+  },
+  {
+    "id": "sv-0380",
+    "sentence": "Barnet får lite godis på lördag.",
+    "sentenceEnglish": "The child gets some candy on Saturday."
+  },
+  {
+    "id": "sv-0381",
+    "sentence": "Jag kan inte komma i morgon.",
+    "sentenceEnglish": "I cannot come tomorrow."
+  },
+  {
+    "id": "sv-0382",
+    "sentence": "Han har en blå keps.",
+    "sentenceEnglish": "He has a blue cap."
+  },
+  {
+    "id": "sv-0383",
+    "sentence": "Hon är kapabel att lösa problemet.",
+    "sentenceEnglish": "She is capable of solving the problem."
+  },
+  {
+    "id": "sv-0384",
+    "sentence": "Hallen har en kapacitet på hundra personer.",
+    "sentenceEnglish": "The hall has a capacity of one hundred people."
+  },
+  {
+    "id": "sv-0385",
+    "sentence": "Stockholm är Sveriges huvudstad.",
+    "sentenceEnglish": "Stockholm is the capital of Sweden."
+  },
+  {
+    "id": "sv-0386",
+    "sentence": "Kaptenen styr fartyget.",
+    "sentenceEnglish": "The captain steers the ship."
+  },
+  {
+    "id": "sv-0387",
+    "sentence": "Kameran fångar ett vackert ögonblick.",
+    "sentenceEnglish": "The camera captures a beautiful moment."
+  },
+  {
+    "id": "sv-0388",
+    "sentence": "Vi åker bil till jobbet.",
+    "sentenceEnglish": "We go to work by car."
+  },
+  {
+    "id": "sv-0389",
+    "sentence": "Jag skickar ett kort till min vän.",
+    "sentenceEnglish": "I send a card to my friend."
+  },
+  {
+    "id": "sv-0390",
+    "sentence": "Barnen behöver kärlek och omsorg.",
+    "sentenceEnglish": "The children need love and care."
+  },
+  {
+    "id": "sv-0391",
+    "sentence": "Hon vill göra karriär inom forskning.",
+    "sentenceEnglish": "She wants a career in research."
+  },
+  {
+    "id": "sv-0392",
+    "sentence": "Var försiktig med glaset.",
+    "sentenceEnglish": "Be careful with the glass."
+  },
+  {
+    "id": "sv-0393",
+    "sentence": "Hon öppnar paketet försiktigt.",
+    "sentenceEnglish": "She opens the package carefully."
+  },
+  {
+    "id": "sv-0394",
+    "sentence": "Han är slarvig med sina nycklar.",
+    "sentenceEnglish": "He is careless with his keys."
+  },
+  {
+    "id": "sv-0395",
+    "sentence": "Det ligger en matta på golvet.",
+    "sentenceEnglish": "There is a carpet on the floor."
+  },
+  {
+    "id": "sv-0396",
+    "sentence": "Jag skär en morot till soppan.",
+    "sentenceEnglish": "I cut a carrot for the soup."
+  },
+  {
+    "id": "sv-0397",
+    "sentence": "Hon bär två kassar.",
+    "sentenceEnglish": "She carries two bags."
+  },
+  {
+    "id": "sv-0398",
+    "sentence": "Vi tittar på en tecknad film.",
+    "sentenceEnglish": "We watch a cartoon."
+  },
+  {
+    "id": "sv-0399",
+    "sentence": "Det här är ett ovanligt fall.",
+    "sentenceEnglish": "This is an unusual case."
+  },
+  {
+    "id": "sv-0400",
+    "sentence": "Jag betalar med kontanter.",
+    "sentenceEnglish": "I pay with cash."
+  },
+  {
+    "id": "sv-0401",
+    "sentence": "Filmen har en stor rollbesättning.",
+    "sentenceEnglish": "The film has a large cast."
+  },
+  {
+    "id": "sv-0402",
+    "sentence": "En katt sover på soffan.",
+    "sentenceEnglish": "A cat sleeps on the sofa."
+  },
+  {
+    "id": "sv-0403",
+    "sentence": "Hon fångar bollen.",
+    "sentenceEnglish": "She catches the ball."
+  },
+  {
+    "id": "sv-0404",
+    "sentence": "Boken hör till kategorin historia.",
+    "sentenceEnglish": "The book belongs to the history category."
+  },
+  {
+    "id": "sv-0405",
+    "sentence": "Regnet kan orsaka översvämningar.",
+    "sentenceEnglish": "The rain can cause floods."
+  },
+  {
+    "id": "sv-0406",
+    "sentence": "Lampan hänger i taket.",
+    "sentenceEnglish": "The lamp hangs from the ceiling."
+  },
+  {
+    "id": "sv-0407",
+    "sentence": "Vi firar hennes födelsedag.",
+    "sentenceEnglish": "We celebrate her birthday."
+  },
+  {
+    "id": "sv-0408",
+    "sentence": "Firandet fortsätter hela kvällen.",
+    "sentenceEnglish": "The celebration continues all evening."
+  },
+  {
+    "id": "sv-0409",
+    "sentence": "En kändis skriver autografer.",
+    "sentenceEnglish": "A celebrity signs autographs."
+  },
+  {
+    "id": "sv-0410",
+    "sentence": "Kroppen består av celler.",
+    "sentenceEnglish": "The body consists of cells."
+  },
+  {
+    "id": "sv-0411",
+    "sentence": "En euro är hundra cent.",
+    "sentenceEnglish": "One euro is one hundred cents."
+  },
+  {
+    "id": "sv-0412",
+    "sentence": "Vi träffas i centrum.",
+    "sentenceEnglish": "We meet in the town center."
+  },
+  {
+    "id": "sv-0413",
+    "sentence": "Stationen har ett centralt läge.",
+    "sentenceEnglish": "The station has a central location."
+  },
+  {
+    "id": "sv-0414",
+    "sentence": "Ett århundrade är hundra år.",
+    "sentenceEnglish": "A century is one hundred years."
+  },
+  {
+    "id": "sv-0415",
+    "sentence": "Ceremonin börjar klockan tolv.",
+    "sentenceEnglish": "The ceremony begins at twelve."
+  },
+  {
+    "id": "sv-0416",
+    "sentence": "Jag är säker på svaret.",
+    "sentenceEnglish": "I am certain of the answer."
+  },
+  {
+    "id": "sv-0417",
+    "sentence": "Hon kommer säkert i morgon.",
+    "sentenceEnglish": "She will certainly come tomorrow."
+  },
+  {
+    "id": "sv-0418",
+    "sentence": "Cykelns kedja behöver olja.",
+    "sentenceEnglish": "The bicycle chain needs oil."
+  },
+  {
+    "id": "sv-0419",
+    "sentence": "Jag sitter på en stol.",
+    "sentenceEnglish": "I sit on a chair."
+  },
+  {
+    "id": "sv-0420",
+    "sentence": "Det är en utmaning att lära sig ett språk.",
+    "sentenceEnglish": "Learning a language is a challenge."
+  },
+  {
+    "id": "sv-0421",
+    "sentence": "Hon blev svensk mästare i simning.",
+    "sentenceEnglish": "She became Swedish swimming champion."
+  },
+  {
+    "id": "sv-0422",
+    "sentence": "Alla får en chans att vinna.",
+    "sentenceEnglish": "Everyone gets a chance to win."
+  },
+  {
+    "id": "sv-0423",
+    "sentence": "Vi måste ändra planen.",
+    "sentenceEnglish": "We must change the plan."
+  },
+  {
+    "id": "sv-0424",
+    "sentence": "Vi byter till en annan kanal.",
+    "sentenceEnglish": "We switch to another channel."
+  },
+  {
+    "id": "sv-0425",
+    "sentence": "Jag läser ett kapitel varje kväll.",
+    "sentenceEnglish": "I read a chapter every evening."
+  },
+  {
+    "id": "sv-0426",
+    "sentence": "Hon är en viktig karaktär i berättelsen.",
+    "sentenceEnglish": "She is an important character in the story."
+  },
+  {
+    "id": "sv-0427",
+    "sentence": "Ränderna är ett kännetecken för zebran.",
+    "sentenceEnglish": "The stripes are a characteristic of the zebra."
+  },
+  {
+    "id": "sv-0428",
+    "sentence": "Jag behöver ladda telefonen.",
+    "sentenceEnglish": "I need to charge the phone."
+  },
+  {
+    "id": "sv-0429",
+    "sentence": "De samlar in pengar till välgörenhet.",
+    "sentenceEnglish": "They raise money for charity."
+  },
+  {
+    "id": "sv-0430",
+    "sentence": "Diagrammet visar försäljningen.",
+    "sentenceEnglish": "The chart shows sales."
+  },
+  {
+    "id": "sv-0431",
+    "sentence": "Vi chattar på nätet.",
+    "sentenceEnglish": "We chat online."
+  },
+  {
+    "id": "sv-0432",
+    "sentence": "Den här jackan är billig.",
+    "sentenceEnglish": "This jacket is cheap."
+  },
+  {
+    "id": "sv-0433",
+    "sentence": "Det är fel att fuska på prov.",
+    "sentenceEnglish": "It is wrong to cheat on tests."
+  },
+  {
+    "id": "sv-0434",
+    "sentence": "Kontrollera att dörren är låst.",
+    "sentenceEnglish": "Check that the door is locked."
+  },
+  {
+    "id": "sv-0435",
+    "sentence": "Hon är alltid glad och vänlig.",
+    "sentenceEnglish": "She is always cheerful and friendly."
+  },
+  {
+    "id": "sv-0436",
+    "sentence": "Jag köper en svensk ost.",
+    "sentenceEnglish": "I buy a Swedish cheese."
+  },
+  {
+    "id": "sv-0437",
+    "sentence": "Kocken lagar middag.",
+    "sentenceEnglish": "The chef cooks dinner."
+  },
+  {
+    "id": "sv-0438",
+    "sentence": "Den här kemikalien ska förvaras säkert.",
+    "sentenceEnglish": "This chemical must be stored safely."
+  },
+  {
+    "id": "sv-0439",
+    "sentence": "Vi studerar kemi i skolan.",
+    "sentenceEnglish": "We study chemistry at school."
+  },
+  {
+    "id": "sv-0440",
+    "sentence": "Bröstkorgen skyddar hjärtat.",
+    "sentenceEnglish": "The chest protects the heart."
+  },
+  {
+    "id": "sv-0441",
+    "sentence": "En kyckling går på gården.",
+    "sentenceEnglish": "A chicken walks in the yard."
+  },
+  {
+    "id": "sv-0442",
+    "sentence": "Hon är chef för avdelningen.",
+    "sentenceEnglish": "She is chief of the department."
+  },
+  {
+    "id": "sv-0443",
+    "sentence": "Ett barn leker med klossar.",
+    "sentenceEnglish": "A child plays with blocks."
+  },
+  {
+    "id": "sv-0444",
+    "sentence": "Hon minns sin barndom.",
+    "sentenceEnglish": "She remembers her childhood."
+  },
+  {
+    "id": "sv-0445",
+    "sentence": "Han tar ett chips ur skålen.",
+    "sentenceEnglish": "He takes a chip from the bowl."
+  },
+  {
+    "id": "sv-0446",
+    "sentence": "Jag tycker om mörk choklad.",
+    "sentenceEnglish": "I like dark chocolate."
+  },
+  {
+    "id": "sv-0447",
+    "sentence": "Du har ett val mellan två kurser.",
+    "sentenceEnglish": "You have a choice between two courses."
+  },
+  {
+    "id": "sv-0448",
+    "sentence": "Jag vill välja en bok.",
+    "sentenceEnglish": "I want to choose a book."
+  },
+  {
+    "id": "sv-0449",
+    "sentence": "Kyrkan ligger vid torget.",
+    "sentenceEnglish": "The church is by the square."
+  },
+  {
+    "id": "sv-0450",
+    "sentence": "Han släcker sin cigarett.",
+    "sentenceEnglish": "He puts out his cigarette."
+  },
+  {
+    "id": "sv-0451",
+    "sentence": "Rita en cirkel på papperet.",
+    "sentenceEnglish": "Draw a circle on the paper."
+  },
+  {
+    "id": "sv-0452",
+    "sentence": "Vi måste ta hänsyn till alla omständigheter.",
+    "sentenceEnglish": "We must consider all circumstances."
+  },
+  {
+    "id": "sv-0453",
+    "sentence": "Hon citerar en mening ur boken.",
+    "sentenceEnglish": "She cites a sentence from the book."
+  },
+  {
+    "id": "sv-0454",
+    "sentence": "Hon är svensk medborgare.",
+    "sentenceEnglish": "She is a Swedish citizen."
+  },
+  {
+    "id": "sv-0455",
+    "sentence": "Göteborg är en stor stad.",
+    "sentenceEnglish": "Gothenburg is a large city."
+  },
+  {
+    "id": "sv-0456",
+    "sentence": "Civila rättigheter gäller alla.",
+    "sentenceEnglish": "Civil rights apply to everyone."
+  },
+  {
+    "id": "sv-0457",
+    "sentence": "Han påstår att han såg en varg.",
+    "sentenceEnglish": "He claims that he saw a wolf."
+  },
+  {
+    "id": "sv-0458",
+    "sentence": "Vår klass har tjugo elever.",
+    "sentenceEnglish": "Our class has twenty students."
+  },
+  {
+    "id": "sv-0459",
+    "sentence": "Den här romanen är en klassiker.",
+    "sentenceEnglish": "This novel is a classic."
+  },
+  {
+    "id": "sv-0460",
+    "sentence": "Hon lyssnar på klassisk musik.",
+    "sentenceEnglish": "She listens to classical music."
+  },
+  {
+    "id": "sv-0461",
+    "sentence": "Eleverna sitter i klassrummet.",
+    "sentenceEnglish": "The students sit in the classroom."
+  },
+  {
+    "id": "sv-0462",
+    "sentence": "En mening kan innehålla flera satser.",
+    "sentenceEnglish": "A sentence can contain several clauses."
+  },
+  {
+    "id": "sv-0463",
+    "sentence": "Skjortan är ren.",
+    "sentenceEnglish": "The shirt is clean."
+  },
+  {
+    "id": "sv-0464",
+    "sentence": "Instruktionen är tydlig.",
+    "sentenceEnglish": "The instruction is clear."
+  },
+  {
+    "id": "sv-0465",
+    "sentence": "Tala tydligt, tack.",
+    "sentenceEnglish": "Speak clearly, please."
+  },
+  {
+    "id": "sv-0466",
+    "sentence": "Kontoristen ordnar dokumenten.",
+    "sentenceEnglish": "The clerk organizes the documents."
+  },
+  {
+    "id": "sv-0467",
+    "sentence": "Det var ett klokt beslut.",
+    "sentenceEnglish": "That was a clever decision."
+  },
+  {
+    "id": "sv-0468",
+    "sentence": "Klicka på länken.",
+    "sentenceEnglish": "Click the link."
+  },
+  {
+    "id": "sv-0469",
+    "sentence": "Advokaten träffar sin klient.",
+    "sentenceEnglish": "The lawyer meets her client."
+  },
+  {
+    "id": "sv-0470",
+    "sentence": "Sverige har ett kallt klimat.",
+    "sentenceEnglish": "Sweden has a cold climate."
+  },
+  {
+    "id": "sv-0471",
+    "sentence": "Vi klättrar uppför backen.",
+    "sentenceEnglish": "We climb up the hill."
+  },
+  {
+    "id": "sv-0472",
+    "sentence": "Klockan på väggen visar tre.",
+    "sentenceEnglish": "The clock on the wall shows three."
+  },
+  {
+    "id": "sv-0473",
+    "sentence": "Stäng dörren, tack.",
+    "sentenceEnglish": "Close the door, please."
+  },
+  {
+    "id": "sv-0474",
+    "sentence": "Skolan ligger nära vårt hus.",
+    "sentenceEnglish": "The school is close to our house."
+  },
+  {
+    "id": "sv-0475",
+    "sentence": "Butiken är stängd i dag.",
+    "sentenceEnglish": "The shop is closed today."
+  },
+  {
+    "id": "sv-0476",
+    "sentence": "Läs instruktionerna noga.",
+    "sentenceEnglish": "Read the instructions closely."
+  },
+  {
+    "id": "sv-0477",
+    "sentence": "Jackan hänger i garderoben.",
+    "sentenceEnglish": "The jacket hangs in the closet."
+  },
+  {
+    "id": "sv-0478",
+    "sentence": "Jag torkar bordet med en trasa.",
+    "sentenceEnglish": "I wipe the table with a cloth."
+  },
+  {
+    "id": "sv-0479",
+    "sentence": "Mina kläder ligger i väskan.",
+    "sentenceEnglish": "My clothes are in the bag."
+  },
+  {
+    "id": "sv-0480",
+    "sentence": "Varm klädsel behövs på vintern.",
+    "sentenceEnglish": "Warm clothing is needed in winter."
+  },
+  {
+    "id": "sv-0481",
+    "sentence": "Ett moln täcker solen.",
+    "sentenceEnglish": "A cloud covers the sun."
+  },
+  {
+    "id": "sv-0482",
+    "sentence": "Hon är med i en schackklubb.",
+    "sentenceEnglish": "She belongs to a chess club."
+  },
+  {
+    "id": "sv-0483",
+    "sentence": "Fotspåret är en viktig ledtråd.",
+    "sentenceEnglish": "The footprint is an important clue."
+  },
+  {
+    "id": "sv-0484",
+    "sentence": "Tränaren hjälper laget.",
+    "sentenceEnglish": "The coach helps the team."
+  },
+  {
+    "id": "sv-0485",
+    "sentence": "Kol används som bränsle.",
+    "sentenceEnglish": "Coal is used as fuel."
+  },
+  {
+    "id": "sv-0486",
+    "sentence": "Vi bor vid kusten.",
+    "sentenceEnglish": "We live on the coast."
+  },
+  {
+    "id": "sv-0487",
+    "sentence": "Hon tar på sig sin kappa.",
+    "sentenceEnglish": "She puts on her coat."
+  },
+  {
+    "id": "sv-0488",
+    "sentence": "Ange din kod för att öppna dörren.",
+    "sentenceEnglish": "Enter your code to open the door."
+  },
+  {
+    "id": "sv-0489",
+    "sentence": "Jag dricker kaffe på morgonen.",
+    "sentenceEnglish": "I drink coffee in the morning."
+  },
+  {
+    "id": "sv-0490",
+    "sentence": "Jag hittar ett mynt på gatan.",
+    "sentenceEnglish": "I find a coin in the street."
+  },
+  {
+    "id": "sv-0491",
+    "sentence": "Vattnet är kallt.",
+    "sentenceEnglish": "The water is cold."
+  },
+  {
+    "id": "sv-0492",
+    "sentence": "Det gamla taket kan kollapsa.",
+    "sentenceEnglish": "The old roof can collapse."
+  },
+  {
+    "id": "sv-0493",
+    "sentence": "Min kollega hjälper mig.",
+    "sentenceEnglish": "My colleague helps me."
+  },
+  {
+    "id": "sv-0494",
+    "sentence": "Hon samlar frimärken.",
+    "sentenceEnglish": "She collects stamps."
+  },
+  {
+    "id": "sv-0495",
+    "sentence": "Museet har en stor samling tavlor.",
+    "sentenceEnglish": "The museum has a large collection of paintings."
+  },
+  {
+    "id": "sv-0496",
+    "sentence": "Hon studerar på en högskola.",
+    "sentenceEnglish": "She studies at a college."
+  },
+  {
+    "id": "sv-0497",
+    "sentence": "Vilken färg tycker du om?",
+    "sentenceEnglish": "Which color do you like?"
+  },
+  {
+    "id": "sv-0498",
+    "sentence": "Hon använder färgat papper.",
+    "sentenceEnglish": "She uses colored paper."
+  },
+  {
+    "id": "sv-0499",
+    "sentence": "Skriv namnen i den första kolumnen.",
+    "sentenceEnglish": "Write the names in the first column."
+  },
+  {
+    "id": "sv-0500",
+    "sentence": "Det är en bra kombination av smaker.",
+    "sentenceEnglish": "It is a good combination of flavors."
+  },
+  {
+    "id": "sv-0501",
+    "sentence": "Vi kombinerar arbete med studier.",
+    "sentenceEnglish": "We combine work with studies."
+  },
+  {
+    "id": "sv-0502",
+    "sentence": "Kan du komma hit?",
+    "sentenceEnglish": "Can you come here?"
+  },
+  {
+    "id": "sv-0503",
+    "sentence": "Vi ser en rolig komedi.",
+    "sentenceEnglish": "We watch a funny comedy."
+  },
+  {
+    "id": "sv-0504",
+    "sentence": "Hon hittar tröst hos sin vän.",
+    "sentenceEnglish": "She finds comfort in her friend."
+  },
+  {
+    "id": "sv-0505",
+    "sentence": "Den här stolen är bekväm.",
+    "sentenceEnglish": "This chair is comfortable."
+  },
+  {
+    "id": "sv-0506",
+    "sentence": "Hunden följer ett enkelt kommando.",
+    "sentenceEnglish": "The dog follows a simple command."
+  },
+  {
+    "id": "sv-0507",
+    "sentence": "Hon skriver en kommentar till bilden.",
+    "sentenceEnglish": "She writes a comment on the picture."
+  },
+  {
+    "id": "sv-0508",
+    "sentence": "Det är en kommersiell verksamhet.",
+    "sentenceEnglish": "It is a commercial business."
+  },
+  {
+    "id": "sv-0509",
+    "sentence": "Säljaren får provision på varje försäljning.",
+    "sentenceEnglish": "The seller earns commission on every sale."
+  },
+  {
+    "id": "sv-0510",
+    "sentence": "Han har begått ett brott.",
+    "sentenceEnglish": "He has committed a crime."
+  },
+  {
+    "id": "sv-0511",
+    "sentence": "Hennes engagemang för laget är starkt.",
+    "sentenceEnglish": "Her commitment to the team is strong."
+  },
+  {
+    "id": "sv-0512",
+    "sentence": "Kommittén fattar beslutet.",
+    "sentenceEnglish": "The committee makes the decision."
+  },
+  {
+    "id": "sv-0513",
+    "sentence": "Det är en vanlig fråga.",
+    "sentenceEnglish": "It is a common question."
+  },
+  {
+    "id": "sv-0514",
+    "sentence": "Vi äter vanligtvis middag klockan sex.",
+    "sentenceEnglish": "We commonly eat dinner at six."
+  },
+  {
+    "id": "sv-0515",
+    "sentence": "Vi kommunicerar via e-post.",
+    "sentenceEnglish": "We communicate by email."
+  },
+  {
+    "id": "sv-0516",
+    "sentence": "God kommunikation hjälper laget.",
+    "sentenceEnglish": "Good communication helps the team."
+  },
+  {
+    "id": "sv-0517",
+    "sentence": "Vi känner gemenskap i föreningen.",
+    "sentenceEnglish": "We feel community in the association."
+  },
+  {
+    "id": "sv-0518",
+    "sentence": "Min syster arbetar på ett företag.",
+    "sentenceEnglish": "My sister works for a company."
+  },
+  {
+    "id": "sv-0519",
+    "sentence": "Vi jämför priserna i två butiker.",
+    "sentenceEnglish": "We compare prices in two shops."
+  },
+  {
+    "id": "sv-0520",
+    "sentence": "Jämförelsen visar stora skillnader.",
+    "sentenceEnglish": "The comparison shows large differences."
+  },
+  {
+    "id": "sv-0521",
+    "sentence": "De tävlar i löpning.",
+    "sentenceEnglish": "They compete in running."
+  },
+  {
+    "id": "sv-0522",
+    "sentence": "Hon deltar i en tävling.",
+    "sentenceEnglish": "She takes part in a competition."
+  },
+  {
+    "id": "sv-0523",
+    "sentence": "Företaget erbjuder konkurrenskraftiga priser.",
+    "sentenceEnglish": "The company offers competitive prices."
+  },
+  {
+    "id": "sv-0524",
+    "sentence": "Hon har en stark konkurrent i finalen.",
+    "sentenceEnglish": "She has a strong competitor in the final."
+  },
+  {
+    "id": "sv-0525",
+    "sentence": "Han klagar på bullret.",
+    "sentenceEnglish": "He complains about the noise."
+  },
+  {
+    "id": "sv-0526",
+    "sentence": "Kunden lämnar ett klagomål.",
+    "sentenceEnglish": "The customer makes a complaint."
+  },
+  {
+    "id": "sv-0527",
+    "sentence": "Listan är fullständig.",
+    "sentenceEnglish": "The list is complete."
+  },
+  {
+    "id": "sv-0528",
+    "sentence": "Rummet är helt tomt.",
+    "sentenceEnglish": "The room is completely empty."
+  },
+  {
+    "id": "sv-0529",
+    "sentence": "Problemet är komplext.",
+    "sentenceEnglish": "The problem is complex."
+  },
+  {
+    "id": "sv-0530",
+    "sentence": "Instruktionen är komplicerad.",
+    "sentenceEnglish": "The instruction is complicated."
+  },
+  {
+    "id": "sv-0531",
+    "sentence": "Batteriet är en viktig komponent.",
+    "sentenceEnglish": "The battery is an important component."
+  },
+  {
+    "id": "sv-0532",
+    "sentence": "Jag arbetar vid en dator.",
+    "sentenceEnglish": "I work at a computer."
+  },
+  {
+    "id": "sv-0533",
+    "sentence": "Jag måste koncentrera mig på uppgiften.",
+    "sentenceEnglish": "I must concentrate on the task."
+  },
+  {
+    "id": "sv-0534",
+    "sentence": "Uppgiften kräver koncentration.",
+    "sentenceEnglish": "The task requires concentration."
+  },
+  {
+    "id": "sv-0535",
+    "sentence": "Vi lär oss ett nytt begrepp.",
+    "sentenceEnglish": "We learn a new concept."
+  },
+  {
+    "id": "sv-0536",
+    "sentence": "Hon känner oro inför provet.",
+    "sentenceEnglish": "She feels concern about the exam."
+  },
+  {
+    "id": "sv-0537",
+    "sentence": "Jag är orolig för min vän.",
+    "sentenceEnglish": "I am concerned about my friend."
+  },
+  {
+    "id": "sv-0538",
+    "sentence": "Vi går på konsert i kväll.",
+    "sentenceEnglish": "We go to a concert tonight."
+  },
+  {
+    "id": "sv-0539",
+    "sentence": "Vi drar slutsatsen att planen fungerar.",
+    "sentenceEnglish": "We conclude that the plan works."
+  },
+  {
+    "id": "sv-0540",
+    "sentence": "Resultaten leder till samma slutsats.",
+    "sentenceEnglish": "The results lead to the same conclusion."
+  },
+  {
+    "id": "sv-0541",
+    "sentence": "Cykeln är i gott skick.",
+    "sentenceEnglish": "The bicycle is in good condition."
+  },
+  {
+    "id": "sv-0542",
+    "sentence": "Forskarna genomför en undersökning.",
+    "sentenceEnglish": "The researchers conduct a study."
+  },
+  {
+    "id": "sv-0543",
+    "sentence": "Hon deltar i en konferens.",
+    "sentenceEnglish": "She attends a conference."
+  },
+  {
+    "id": "sv-0544",
+    "sentence": "Övning ger mig självförtroende.",
+    "sentenceEnglish": "Practice gives me confidence."
+  },
+  {
+    "id": "sv-0545",
+    "sentence": "Hon verkar självsäker på scenen.",
+    "sentenceEnglish": "She looks confident on stage."
+  },
+  {
+    "id": "sv-0546",
+    "sentence": "Kan du bekräfta bokningen?",
+    "sentenceEnglish": "Can you confirm the booking?"
+  },
+  {
+    "id": "sv-0547",
+    "sentence": "De försöker lösa en konflikt.",
+    "sentenceEnglish": "They try to resolve a conflict."
+  },
+  {
+    "id": "sv-0548",
+    "sentence": "De olika skyltarna förvirrar mig.",
+    "sentenceEnglish": "The different signs confuse me."
+  },
+  {
+    "id": "sv-0549",
+    "sentence": "Jag är förvirrad av kartan.",
+    "sentenceEnglish": "I am confused by the map."
+  },
+  {
+    "id": "sv-0550",
+    "sentence": "Instruktionerna är förvirrande.",
+    "sentenceEnglish": "The instructions are confusing."
+  },
+  {
+    "id": "sv-0551",
+    "sentence": "Kongressen samlar deltagare från hela landet.",
+    "sentenceEnglish": "The congress gathers participants from across the country."
+  },
+  {
+    "id": "sv-0552",
+    "sentence": "Jag ansluter datorn till nätverket.",
+    "sentenceEnglish": "I connect the computer to the network."
+  },
+  {
+    "id": "sv-0553",
+    "sentence": "Skrivaren är ansluten till datorn.",
+    "sentenceEnglish": "The printer is connected to the computer."
+  },
+  {
+    "id": "sv-0554",
+    "sentence": "Vi har en snabb anslutning till internet.",
+    "sentenceEnglish": "We have a fast connection to the internet."
+  },
+  {
+    "id": "sv-0555",
+    "sentence": "Patienten är vid medvetande.",
+    "sentenceEnglish": "The patient is conscious."
+  },
+  {
+    "id": "sv-0556",
+    "sentence": "Förseningen får en viktig konsekvens.",
+    "sentenceEnglish": "The delay has an important consequence."
+  },
+  {
+    "id": "sv-0557",
+    "sentence": "Han har konservativa åsikter.",
+    "sentenceEnglish": "He has conservative views."
+  },
+  {
+    "id": "sv-0558",
+    "sentence": "Vi överväger att flytta.",
+    "sentenceEnglish": "We consider moving."
+  },
+  {
+    "id": "sv-0559",
+    "sentence": "Visa hänsyn till dina grannar.",
+    "sentenceEnglish": "Show consideration for your neighbors."
+  },
+  {
+    "id": "sv-0560",
+    "sentence": "Salladen består av tomater och gurka.",
+    "sentenceEnglish": "The salad consists of tomatoes and cucumber."
+  },
+  {
+    "id": "sv-0561",
+    "sentence": "Hon är konsekvent i sina beslut.",
+    "sentenceEnglish": "She is consistent in her decisions."
+  },
+  {
+    "id": "sv-0562",
+    "sentence": "Temperaturen är konstant.",
+    "sentenceEnglish": "The temperature is constant."
+  },
+  {
+    "id": "sv-0563",
+    "sentence": "Telefonen ringer ständigt.",
+    "sentenceEnglish": "The phone rings constantly."
+  },
+  {
+    "id": "sv-0564",
+    "sentence": "Ingenjörerna konstruerar en bro.",
+    "sentenceEnglish": "The engineers construct a bridge."
+  },
+  {
+    "id": "sv-0565",
+    "sentence": "Bron har en stark konstruktion.",
+    "sentenceEnglish": "The bridge has a strong construction."
+  },
+  {
+    "id": "sv-0566",
+    "sentence": "Den här lampan förbrukar lite el.",
+    "sentenceEnglish": "This lamp consumes little electricity."
+  },
+  {
+    "id": "sv-0567",
+    "sentence": "Konsumenten jämför olika produkter.",
+    "sentenceEnglish": "The consumer compares different products."
+  },
+  {
+    "id": "sv-0568",
+    "sentence": "Jag har kontakt med min gamla lärare.",
+    "sentenceEnglish": "I have contact with my former teacher."
+  },
+  {
+    "id": "sv-0569",
+    "sentence": "Flaskan innehåller vatten.",
+    "sentenceEnglish": "The bottle contains water."
+  },
+  {
+    "id": "sv-0570",
+    "sentence": "Lägg maten i en behållare.",
+    "sentenceEnglish": "Put the food in a container."
+  },
+  {
+    "id": "sv-0571",
+    "sentence": "Museet visar samtida konst.",
+    "sentenceEnglish": "The museum displays contemporary art."
+  },
+  {
+    "id": "sv-0572",
+    "sentence": "Bokens innehåll är intressant.",
+    "sentenceEnglish": "The book's content is interesting."
+  },
+  {
+    "id": "sv-0573",
+    "sentence": "Hon vann en tävling i fotografering.",
+    "sentenceEnglish": "She won a photography contest."
+  },
+  {
+    "id": "sv-0574",
+    "sentence": "Ordet får sin betydelse i ett sammanhang.",
+    "sentenceEnglish": "The word gets its meaning in a context."
+  },
+  {
+    "id": "sv-0575",
+    "sentence": "Afrika är en stor kontinent.",
+    "sentenceEnglish": "Africa is a large continent."
+  },
+  {
+    "id": "sv-0576",
+    "sentence": "Vi fortsätter att gå.",
+    "sentenceEnglish": "We continue walking."
+  },
+  {
+    "id": "sv-0577",
+    "sentence": "Maskinen kräver kontinuerlig tillsyn.",
+    "sentenceEnglish": "The machine requires continuous supervision."
+  },
+  {
+    "id": "sv-0578",
+    "sentence": "Hon skriver under ett kontrakt.",
+    "sentenceEnglish": "She signs a contract."
+  },
+  {
+    "id": "sv-0579",
+    "sentence": "Det är en stark kontrast mellan ljust och mörkt.",
+    "sentenceEnglish": "There is a strong contrast between light and dark."
+  },
+  {
+    "id": "sv-0580",
+    "sentence": "Alla kan bidra till projektet.",
+    "sentenceEnglish": "Everyone can contribute to the project."
+  },
+  {
+    "id": "sv-0581",
+    "sentence": "Ditt bidrag är viktigt för laget.",
+    "sentenceEnglish": "Your contribution is important to the team."
+  },
+  {
+    "id": "sv-0582",
+    "sentence": "Hon kontrollerar maskinen med en spak.",
+    "sentenceEnglish": "She controls the machine with a lever."
+  },
+  {
+    "id": "sv-0583",
+    "sentence": "Det är en praktisk lösning.",
+    "sentenceEnglish": "It is a convenient solution."
+  },
+  {
+    "id": "sv-0584",
+    "sentence": "Vi har ett trevligt samtal.",
+    "sentenceEnglish": "We have a pleasant conversation."
+  },
+  {
+    "id": "sv-0585",
+    "sentence": "Solceller omvandlar solljus till el.",
+    "sentenceEnglish": "Solar cells convert sunlight into electricity."
+  },
+  {
+    "id": "sv-0586",
+    "sentence": "Hon försöker övertyga mig om sin idé.",
+    "sentenceEnglish": "She tries to convince me of her idea."
+  },
+  {
+    "id": "sv-0587",
+    "sentence": "Jag är övertygad om att det fungerar.",
+    "sentenceEnglish": "I am convinced that it works."
+  },
+  {
+    "id": "sv-0588",
+    "sentence": "Vi lagar mat tillsammans.",
+    "sentenceEnglish": "We cook together."
+  },
+  {
+    "id": "sv-0589",
+    "sentence": "Jag äter en kaka till kaffet.",
+    "sentenceEnglish": "I eat a cookie with my coffee."
+  },
+  {
+    "id": "sv-0590",
+    "sentence": "Han tycker om matlagning.",
+    "sentenceEnglish": "He enjoys cooking."
+  },
+  {
+    "id": "sv-0591",
+    "sentence": "Kvällen är sval.",
+    "sentenceEnglish": "The evening is cool."
+  },
+  {
+    "id": "sv-0592",
+    "sentence": "Jag behöver en kopia av brevet.",
+    "sentenceEnglish": "I need a copy of the letter."
+  },
+  {
+    "id": "sv-0593",
+    "sentence": "Jordens kärna är mycket varm.",
+    "sentenceEnglish": "The Earth's core is very hot."
+  },
+  {
+    "id": "sv-0594",
+    "sentence": "Vi grillar majs till middagen.",
+    "sentenceEnglish": "We grill corn for dinner."
+  },
+  {
+    "id": "sv-0595",
+    "sentence": "Lampan står i hörnet.",
+    "sentenceEnglish": "The lamp stands in the corner."
+  },
+  {
+    "id": "sv-0596",
+    "sentence": "Hon ansvarar för företagskommunikation.",
+    "sentenceEnglish": "She is responsible for corporate communication."
+  },
+  {
+    "id": "sv-0597",
+    "sentence": "Svaret är rätt.",
+    "sentenceEnglish": "The answer is correct."
+  },
+  {
+    "id": "sv-0598",
+    "sentence": "Hon uttalar ordet korrekt.",
+    "sentenceEnglish": "She pronounces the word correctly."
+  },
+  {
+    "id": "sv-0599",
+    "sentence": "Vad kostar biljetten?",
+    "sentenceEnglish": "What does the ticket cost?"
+  },
+  {
+    "id": "sv-0600",
+    "sentence": "Han bär en kostym på scenen.",
+    "sentenceEnglish": "He wears a costume on stage."
+  },
+  {
+    "id": "sv-0601",
+    "sentence": "Tröjan är gjord av bomull.",
+    "sentenceEnglish": "The shirt is made of cotton."
+  },
+  {
+    "id": "sv-0602",
+    "sentence": "När jag var liten kunde jag simma.",
+    "sentenceEnglish": "When I was little I could swim."
+  },
+  {
+    "id": "sv-0603",
+    "sentence": "Rådet samlas varje måndag.",
+    "sentenceEnglish": "The council meets every Monday."
+  },
+  {
+    "id": "sv-0604",
+    "sentence": "Barnet räknar till tio.",
+    "sentenceEnglish": "The child counts to ten."
+  },
+  {
+    "id": "sv-0605",
+    "sentence": "Sverige är ett land i Europa.",
+    "sentenceEnglish": "Sweden is a country in Europe."
+  },
+  {
+    "id": "sv-0606",
+    "sentence": "Vi bor på landsbygden.",
+    "sentenceEnglish": "We live in the countryside."
+  },
+  {
+    "id": "sv-0607",
+    "sentence": "Uppsala ligger i Uppsala län.",
+    "sentenceEnglish": "Uppsala is in Uppsala County."
+  },
+  {
+    "id": "sv-0608",
+    "sentence": "Ett par promenerar i parken.",
+    "sentenceEnglish": "A couple walks in the park."
+  },
+  {
+    "id": "sv-0609",
+    "sentence": "Det krävs mod att säga sanningen.",
+    "sentenceEnglish": "It takes courage to tell the truth."
+  },
+  {
+    "id": "sv-0610",
+    "sentence": "Jag går en kurs i svenska.",
+    "sentenceEnglish": "I take a course in Swedish."
+  },
+  {
+    "id": "sv-0611",
+    "sentence": "Målet prövas i domstol.",
+    "sentenceEnglish": "The case is heard in court."
+  },
+  {
+    "id": "sv-0612",
+    "sentence": "Min kusin bor i Malmö.",
+    "sentenceEnglish": "My cousin lives in Malmö."
+  },
+  {
+    "id": "sv-0613",
+    "sentence": "Snön täcker marken.",
+    "sentenceEnglish": "The snow covers the ground."
+  },
+  {
+    "id": "sv-0614",
+    "sentence": "Bordet är täckt med en duk.",
+    "sentenceEnglish": "The table is covered with a cloth."
+  },
+  {
+    "id": "sv-0615",
+    "sentence": "En ko betar på ängen.",
+    "sentenceEnglish": "A cow grazes in the meadow."
+  },
+  {
+    "id": "sv-0616",
+    "sentence": "Det blev en krock mellan två bilar.",
+    "sentenceEnglish": "There was a crash between two cars."
+  },
+  {
+    "id": "sv-0617",
+    "sentence": "Det var en galen idé.",
+    "sentenceEnglish": "That was a crazy idea."
+  },
+  {
+    "id": "sv-0618",
+    "sentence": "Jag häller grädde i såsen.",
+    "sentenceEnglish": "I pour cream into the sauce."
+  },
+  {
+    "id": "sv-0619",
+    "sentence": "Hon skapar en ny figur av lera.",
+    "sentenceEnglish": "She creates a new figure from clay."
+  },
+  {
+    "id": "sv-0620",
+    "sentence": "Skulpturen är hennes senaste skapelse.",
+    "sentenceEnglish": "The sculpture is her latest creation."
+  },
+  {
+    "id": "sv-0621",
+    "sentence": "Hon är kreativ och får många idéer.",
+    "sentenceEnglish": "She is creative and has many ideas."
+  },
+  {
+    "id": "sv-0622",
+    "sentence": "En liten varelse gömmer sig under stenen.",
+    "sentenceEnglish": "A small creature hides under the stone."
+  },
+  {
+    "id": "sv-0623",
+    "sentence": "Hon köper cykeln på kredit.",
+    "sentenceEnglish": "She buys the bicycle on credit."
+  },
+  {
+    "id": "sv-0624",
+    "sentence": "Fartygets besättning arbetar tillsammans.",
+    "sentenceEnglish": "The ship's crew works together."
+  },
+  {
+    "id": "sv-0625",
+    "sentence": "Stöld är ett brott.",
+    "sentenceEnglish": "Theft is a crime."
+  },
+  {
+    "id": "sv-0626",
+    "sentence": "Polisen griper en brottsling.",
+    "sentenceEnglish": "The police arrest a criminal."
+  },
+  {
+    "id": "sv-0627",
+    "sentence": "Företaget går igenom en kris.",
+    "sentenceEnglish": "The company is going through a crisis."
+  },
+  {
+    "id": "sv-0628",
+    "sentence": "Erfarenhet är ett viktigt kriterium.",
+    "sentenceEnglish": "Experience is an important criterion."
+  },
+  {
+    "id": "sv-0629",
+    "sentence": "Kritikern skriver om filmen.",
+    "sentenceEnglish": "The critic writes about the film."
+  },
+  {
+    "id": "sv-0630",
+    "sentence": "Hon är kritisk till förslaget.",
+    "sentenceEnglish": "She is critical of the proposal."
+  },
+  {
+    "id": "sv-0631",
+    "sentence": "Han tar emot kritik av sitt arbete.",
+    "sentenceEnglish": "He receives criticism of his work."
+  },
+  {
+    "id": "sv-0632",
+    "sentence": "Hon kritiserar den nya planen.",
+    "sentenceEnglish": "She criticizes the new plan."
+  },
+  {
+    "id": "sv-0633",
+    "sentence": "Vete är en viktig gröda.",
+    "sentenceEnglish": "Wheat is an important crop."
+  },
+  {
+    "id": "sv-0634",
+    "sentence": "Vi korsar gatan vid övergångsstället.",
+    "sentenceEnglish": "We cross the street at the pedestrian crossing."
+  },
+  {
+    "id": "sv-0635",
+    "sentence": "En folkmassa väntar utanför arenan.",
+    "sentenceEnglish": "A crowd waits outside the arena."
+  },
+  {
+    "id": "sv-0636",
+    "sentence": "Bussen är fullsatt.",
+    "sentenceEnglish": "The bus is crowded with passengers."
+  },
+  {
+    "id": "sv-0637",
+    "sentence": "Det här beslutet är avgörande.",
+    "sentenceEnglish": "This decision is crucial."
+  },
+  {
+    "id": "sv-0638",
+    "sentence": "Det är grymt att plåga djur.",
+    "sentenceEnglish": "It is cruel to torment animals."
+  },
+  {
+    "id": "sv-0639",
+    "sentence": "Barnet börjar gråta.",
+    "sentenceEnglish": "The child begins to cry."
+  },
+  {
+    "id": "sv-0640",
+    "sentence": "Staden har många kulturella aktiviteter.",
+    "sentenceEnglish": "The city has many cultural activities."
+  },
+  {
+    "id": "sv-0641",
+    "sentence": "Vi lär oss om svensk kultur.",
+    "sentenceEnglish": "We learn about Swedish culture."
+  },
+  {
+    "id": "sv-0642",
+    "sentence": "Jag dricker te ur en kopp.",
+    "sentenceEnglish": "I drink tea from a cup."
+  },
+  {
+    "id": "sv-0643",
+    "sentence": "Tallrikarna står i skåpet.",
+    "sentenceEnglish": "The plates are in the cupboard."
+  },
+  {
+    "id": "sv-0644",
+    "sentence": "Behandlingen kan bota sjukdomen.",
+    "sentenceEnglish": "The treatment can cure the disease."
+  },
+  {
+    "id": "sv-0645",
+    "sentence": "Hon har lockigt hår.",
+    "sentenceEnglish": "She has curly hair."
+  },
+  {
+    "id": "sv-0646",
+    "sentence": "Kronan är Sveriges valuta.",
+    "sentenceEnglish": "The krona is Sweden's currency."
+  },
+  {
+    "id": "sv-0647",
+    "sentence": "Vad är den aktuella temperaturen?",
+    "sentenceEnglish": "What is the current temperature?"
+  },
+  {
+    "id": "sv-0648",
+    "sentence": "Hon arbetar för närvarande hemma.",
+    "sentenceEnglish": "She is currently working at home."
+  },
+  {
+    "id": "sv-0649",
+    "sentence": "Jag drar för gardinen.",
+    "sentenceEnglish": "I close the curtain."
+  },
+  {
+    "id": "sv-0650",
+    "sentence": "Vägen har en skarp kurva.",
+    "sentenceEnglish": "The road has a sharp curve."
+  },
+  {
+    "id": "sv-0651",
+    "sentence": "Linjen är böjd.",
+    "sentenceEnglish": "The line is curved."
+  },
+  {
+    "id": "sv-0652",
+    "sentence": "Det är en gammal sed i byn.",
+    "sentenceEnglish": "It is an old custom in the village."
+  },
+  {
+    "id": "sv-0653",
+    "sentence": "Kunden betalar vid kassan.",
+    "sentenceEnglish": "The customer pays at the checkout."
+  },
+  {
+    "id": "sv-0654",
+    "sentence": "Jag skär brödet i skivor.",
+    "sentenceEnglish": "I cut the bread into slices."
+  },
+  {
+    "id": "sv-0655",
+    "sentence": "Jag tar en cykel till skolan.",
+    "sentenceEnglish": "I take a bicycle to school."
   }
 ]

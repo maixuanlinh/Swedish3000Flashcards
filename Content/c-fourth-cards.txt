@@ -1,0 +1,84 @@
+572|ett innehåll|Bokens innehåll är intressant.|The book's content is interesting.|innehåll = content.|Adult browses illustrated book with varied interesting chapters.
+573|en tävling|Hon vann en tävling i fotografering.|She won a photography contest.|tävling = contest.|Adult photographer wins ribbon beside original landscape photo.
+574|ett sammanhang|Ordet får sin betydelse i ett sammanhang.|The word gets its meaning in a context.|sammanhang = context.|Highlighted word surrounded by sentence and scene.
+575|en kontinent|Afrika är en stor kontinent.|Africa is a large continent.|continent → kontinent.|Accurate globe with Africa highlighted.
+576|fortsätta|Vi fortsätter att gå.|We continue walking.|fortsätta → fortsätter: continue → continues.|Adult hikers continue along path beyond resting bench.
+577|kontinuerlig|Maskinen kräver kontinuerlig tillsyn.|The machine requires continuous supervision.|continuous → kontinuerlig.|Adult monitors machine with uninterrupted timeline.
+578|ett kontrakt|Hon skriver under ett kontrakt.|She signs a contract.|contract → kontrakt.|Adult signs contract at desk with another adult.
+579|en kontrast|Det är en stark kontrast mellan ljust och mörkt.|There is a strong contrast between light and dark.|contrast → kontrast.|Same room split between bright light and deep shadow.
+580|bidra|Alla kan bidra till projektet.|Everyone can contribute to the project.|bidra till = contribute to.|Adults each add one piece to a shared model.
+581|ett bidrag|Ditt bidrag är viktigt för laget.|Your contribution is important to the team.|bidra → bidrag: contribute → contribution.|One adult adds essential final part to team project.
+582|kontrollera|Hon kontrollerar maskinen med en spak.|She controls the machine with a lever.|kontrollera = control here.|Adult operates a simple machine using a clear lever.
+583|praktisk|Det är en praktisk lösning.|It is a convenient solution.|praktisk = practical or convenient.|Adult uses a foldable shopping trolley comfortably.
+584|ett samtal|Vi har ett trevligt samtal.|We have a pleasant conversation.|samtal = conversation.|Two adults talk pleasantly over coffee.
+585|omvandla|Solceller omvandlar solljus till el.|Solar cells convert sunlight into electricity.|omvandla = convert or transform.|Sunlight reaches solar panel, arrow leads to glowing lamp.
+586|övertyga|Hon försöker övertyga mig om sin idé.|She tries to convince me of her idea.|övertyga = convince.|Adult explains idea using evidence board to thoughtful listener.
+587|övertygad|Jag är övertygad om att det fungerar.|I am convinced that it works.|övertyga → övertygad: convince → convinced.|Adult confidently watches successfully working model.
+588|laga mat|Vi lagar mat tillsammans.|We cook together.|laga mat = cook.|Adults prepare vegetables and meal together in kitchen.
+589|en kaka|Jag äter en kaka till kaffet.|I eat a cookie with my coffee.|kaka = cookie or small cake.|Adult takes one small cookie beside coffee cup.
+590|matlagning|Han tycker om matlagning.|He enjoys cooking.|mat + lagning = cooking.|Adult enjoys preparing a meal at kitchen counter.
+591|sval|Kvällen är sval.|The evening is cool.|sval = pleasantly cool.|Adult wears light cardigan in cool evening garden.
+592|en kopia|Jag behöver en kopia av brevet.|I need a copy of the letter.|copy → kopia.|Adult compares original letter with identical photocopy.
+593|en kärna|Jordens kärna är mycket varm.|The Earth's core is very hot.|kärna = core.|Educational cutaway of Earth with central core highlighted.
+594|majs|Vi grillar majs till middagen.|We grill corn for dinner.|majs = corn.|Corn cobs grill beside prepared dinner.
+595|ett hörn|Lampan står i hörnet.|The lamp stands in the corner.|hörn = corner.|Floor lamp clearly stands where two walls meet.
+596|företags-|Hon ansvarar för företagskommunikation.|She is responsible for corporate communication.|företags- = corporate, relating to a company.|Adult presents company communications plan to coworkers.
+597|rätt|Svaret är rätt.|The answer is correct.|rätt = correct.|Adult sees a check mark beside correct quiz answer.
+598|korrekt|Hon uttalar ordet korrekt.|She pronounces the word correctly.|correctly → korrekt.|Adult learner speaks while teacher gives confirming check mark.
+599|kosta|Vad kostar biljetten?|What does the ticket cost?|kosta = cost.|Adult asks ticket seller about price.
+600|en kostym|Han bär en kostym på scenen.|He wears a costume on stage.|costume → kostym in theatre.|Adult actor wears colorful historical stage costume.
+601|bomull|Tröjan är gjord av bomull.|The shirt is made of cotton.|bomull = cotton.|Cotton shirt beside fluffy cotton bolls.
+602|kunde|När jag var liten kunde jag simma.|When I was little I could swim.|kan → kunde: can → could in the past.|Adult remembers childhood swimming, clear memory frame.
+603|ett råd|Rådet samlas varje måndag.|The council meets every Monday.|råd = council here.|Adults discuss local planning around civic meeting table.
+604|räkna|Barnet räknar till tio.|The child counts to ten.|räkna = count.|Child counts ten wooden blocks with adult nearby.
+605|ett land|Sverige är ett land i Europa.|Sweden is a country in Europe.|land = country.|Map of Europe with Sweden clearly highlighted.
+606|landsbygd|Vi bor på landsbygden.|We live in the countryside.|land + bygd = countryside.|Adult outside rural house with fields and trees.
+607|ett län|Uppsala ligger i Uppsala län.|Uppsala is in Uppsala County.|län = Swedish county.|Simple Sweden map highlights Uppsala County.
+608|ett par|Ett par promenerar i parken.|A couple walks in the park.|par = couple or pair.|Exactly two adult partners walk together in park.
+609|mod|Det krävs mod att säga sanningen.|It takes courage to tell the truth.|mod = courage.|Adult speaks honestly at respectful group discussion.
+610|en kurs|Jag går en kurs i svenska.|I take a course in Swedish.|course → kurs.|Adult attends Swedish language course.
+611|en domstol|Målet prövas i domstol.|The case is heard in court.|domstol = court of law.|Neutral courtroom with judge and adult participants.
+612|en kusin|Min kusin bor i Malmö.|My cousin lives in Malmö.|cousin → kusin.|Adult cousins greet each other near Malmö landmark.
+613|täcka|Snön täcker marken.|The snow covers the ground.|täcka = cover.|Fresh snow covers ground in garden.
+614|täckt|Bordet är täckt med en duk.|The table is covered with a cloth.|täcka → täckt: cover → covered.|Dining table covered with tablecloth.
+615|en ko|En ko betar på ängen.|A cow grazes in the meadow.|ko = cow.|One cow grazes peacefully in meadow.
+616|en krock|Det blev en krock mellan två bilar.|There was a crash between two cars.|krock = vehicle crash.|Two cars with minor collision damage stopped, no injury.
+617|galen|Det var en galen idé.|That was a crazy idea.|galen = crazy, here a wild idea.|Adult imagines an absurd bicycle with giant square wheels.
+618|grädde|Jag häller grädde i såsen.|I pour cream into the sauce.|grädde = dairy cream.|Adult pours cream into saucepan.
+619|skapa|Hon skapar en ny figur av lera.|She creates a new figure from clay.|skapa = create.|Adult sculpts original clay figure.
+620|en skapelse|Skulpturen är hennes senaste skapelse.|The sculpture is her latest creation.|skapa → skapelse: create → creation.|Adult artist proudly displays original sculpture.
+621|kreativ|Hon är kreativ och får många idéer.|She is creative and has many ideas.|creative → kreativ.|Adult sketches several imaginative designs.
+622|en varelse|En liten varelse gömmer sig under stenen.|A small creature hides under the stone.|varelse = creature or being.|Small harmless beetle shelters under a stone.
+623|kredit|Hon köper cykeln på kredit.|She buys the bicycle on credit.|credit → kredit.|Adult buys bicycle with installment plan calendar at shop.
+624|en besättning|Fartygets besättning arbetar tillsammans.|The ship's crew works together.|besättning = crew.|Adult ship crew works together on deck wearing appropriate gear.
+625|ett brott|Stöld är ett brott.|Theft is a crime.|brott = crime.|Crossed-out theft symbol beside wallet, neutral educational scene.
+626|en brottsling|Polisen griper en brottsling.|The police arrest a criminal.|brott + person: brottsling = criminal.|Police calmly escort adult suspect, no violence.
+627|en kris|Företaget går igenom en kris.|The company is going through a crisis.|crisis → kris.|Adult team responds to a sharp fall in company sales graph.
+628|ett kriterium|Erfarenhet är ett viktigt kriterium.|Experience is an important criterion.|criterion → kriterium.|Adult evaluates applications using experience checklist.
+629|en kritiker|Kritikern skriver om filmen.|The critic writes about the film.|critic → kritiker.|Adult film critic writes review after cinema screening.
+630|kritisk|Hon är kritisk till förslaget.|She is critical of the proposal.|critical → kritisk.|Adult carefully questions weak points in a proposal.
+631|kritik|Han tar emot kritik av sitt arbete.|He receives criticism of his work.|criticism → kritik.|Adult receives constructive feedback on a design.
+632|kritisera|Hon kritiserar den nya planen.|She criticizes the new plan.|criticize → kritisera.|Adult points out problems in plan during calm discussion.
+633|en gröda|Vete är en viktig gröda.|Wheat is an important crop.|gröda = crop.|Farmer inspects golden wheat field.
+634|korsa|Vi korsar gatan vid övergångsstället.|We cross the street at the pedestrian crossing.|korsa = cross.|Adults cross street at marked pedestrian crossing.
+635|en folkmassa|En folkmassa väntar utanför arenan.|A crowd waits outside the arena.|folk = people; massa = mass.|Crowd waits calmly outside concert arena.
+636|fullsatt|Bussen är fullsatt.|The bus is crowded with passengers.|fullsatt = crowded, all seats taken.|City bus with all seats occupied and standing passengers.
+637|avgörande|Det här beslutet är avgörande.|This decision is crucial.|avgörande = crucial or decisive.|Adult chooses essential final piece that lets bridge model work.
+638|grym|Det är grymt att plåga djur.|It is cruel to torment animals.|grym = cruel.|Crossed-out unkind gesture toward a pet beside caring hands, no animal injury or abuse shown.
+639|gråta|Barnet börjar gråta.|The child begins to cry.|gråta = cry.|Child cries mildly over dropped toy while adult comforts them.
+640|kulturell|Staden har många kulturella aktiviteter.|The city has many cultural activities.|cultural → kulturell.|Adults enjoy museum, music and theatre in one coherent city scene.
+641|en kultur|Vi lär oss om svensk kultur.|We learn about Swedish culture.|culture → kultur.|Adults share Swedish traditions, food and music at community gathering.
+642|en kopp|Jag dricker te ur en kopp.|I drink tea from a cup.|kopp = cup.|Adult holds cup of tea.
+643|ett skåp|Tallrikarna står i skåpet.|The plates are in the cupboard.|skåp = cupboard or cabinet.|Open kitchen cupboard contains neatly stacked plates.
+644|bota|Behandlingen kan bota sjukdomen.|The treatment can cure the disease.|bota = cure.|Generic educational doctor-patient conversation with recovery symbol, no specific drug or promise.
+645|lockig|Hon har lockigt hår.|She has curly hair.|lockig → lockigt before hår.|Adult woman with clearly curly hair.
+646|en valuta|Kronan är Sveriges valuta.|The krona is Sweden's currency.|valuta = currency.|Swedish krona banknotes and coins beside Swedish flag.
+647|aktuell|Vad är den aktuella temperaturen?|What is the current temperature?|aktuell = current, relevant now.|Adult checks present temperature on outdoor thermometer.
+648|för närvarande|Hon arbetar för närvarande hemma.|She is currently working at home.|för närvarande = currently.|Adult works from home with current day highlighted on calendar.
+649|en gardin|Jag drar för gardinen.|I close the curtain.|gardin = curtain.|Adult draws curtain across window.
+650|en kurva|Vägen har en skarp kurva.|The road has a sharp curve.|curve → kurva.|Road bends sharply through countryside with warning sign.
+651|böjd|Linjen är böjd.|The line is curved.|böjd = bent or curved.|One clearly curved line drawn beside straight line.
+652|en sed|Det är en gammal sed i byn.|It is an old custom in the village.|sed = custom or tradition.|Villagers share a traditional annual community meal.
+653|en kund|Kunden betalar vid kassan.|The customer pays at the checkout.|kund = customer.|Adult customer pays cashier at shop.
+654|skära|Jag skär brödet i skivor.|I cut the bread into slices.|skära = cut with a blade.|Adult slices bread on cutting board.
+655|en cykel|Jag tar en cykel till skolan.|I take a bicycle to school.|cykel = bicycle; cykla = cycle.|Adult cycles safely to a language school wearing helmet.

@@ -1,0 +1,18 @@
+{
+  "id": "sv-0481",
+  "english": "cloud",
+  "swedish": "ett moln",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett moln\". Smaller English meaning verbatim: \"cloud\".\nScene: One large cloud partly covers the sun.\nMemory-link caption verbatim: \"moln = cloud.\".\nSwedish example in bottom strip verbatim: \"Ett moln täcker solen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nAttached image is STYLE/LAYOUT reference only. Use the new scene and exact supplied teaching text. Cream/gold heading, bold navy typography, gold memory caption, pale blue example strip, warm editorial photo. Accurate Swedish å ä ö, readable text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-4924e06d-f7de-4f5d-ac96-40254123e987.png",
+  "artwork": "Content/Artwork/sv-0481.png",
+  "sha256": "54242ee45e2a4d513ff47634425af43e77a2bb9cd90dd60a715c6639f061f9aa",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

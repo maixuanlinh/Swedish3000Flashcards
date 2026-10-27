@@ -1,0 +1,18 @@
+{
+  "id": "sv-0504",
+  "english": "comfort",
+  "swedish": "tröst",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"tröst\". Smaller English meaning verbatim: \"comfort\".\nScene: Adult friend consoles another with a warm supportive embrace.\nMemory-link caption verbatim: \"tröst = emotional comfort.\".\nSwedish example in bottom strip verbatim: \"Hon hittar tröst hos sin vän.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nAttached image is STYLE/LAYOUT reference only. Use the new scene and exact supplied teaching text. Cream/gold heading, bold navy typography, gold memory caption, pale blue example strip, warm editorial photo. Accurate Swedish å ä ö, readable text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-019ee91e-05fb-4b83-acbb-fa864da95a3a.png",
+  "artwork": "Content/Artwork/sv-0504.png",
+  "sha256": "2801488e45e5b16de932b2987f324c5b2612ef2faefefc8180f74369f4860913",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

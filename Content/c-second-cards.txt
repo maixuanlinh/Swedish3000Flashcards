@@ -1,0 +1,80 @@
+412|ett centrum|Vi träffas i centrum.|We meet in the town center.|centrum = center.|Adults meet in a central town square.
+413|central|Stationen har ett centralt läge.|The station has a central location.|central → central.|City map with railway station highlighted in the middle.
+414|ett århundrade|Ett århundrade är hundra år.|A century is one hundred years.|år = year; hundra = hundred.|Timeline spanning exactly 100 years with large clear number 100.
+415|en ceremoni|Ceremonin börjar klockan tolv.|The ceremony begins at twelve.|ceremony → ceremoni.|Adults attend a formal graduation ceremony, clock shows twelve.
+416|säker|Jag är säker på svaret.|I am certain of the answer.|säker på = certain of.|Confident adult selects an answer on a quiz sheet.
+417|säkert|Hon kommer säkert i morgon.|She will certainly come tomorrow.|säkert = certainly here.|Adult confidently points to friend's arrival on tomorrow's calendar.
+418|en kedja|Cykelns kedja behöver olja.|The bicycle chain needs oil.|kedja = chain.|Close view of bicycle chain being oiled.
+419|en stol|Jag sitter på en stol.|I sit on a chair.|stol = chair.|Adult sits on a clearly visible wooden chair.
+420|en utmaning|Det är en utmaning att lära sig ett språk.|Learning a language is a challenge.|utmaning = challenge.|Adult learner climbs symbolic steps made of language books.
+421|en mästare|Hon blev svensk mästare i simning.|She became Swedish swimming champion.|mästare = champion or master.|Adult swimmer receives gold medal near pool.
+422|en chans|Alla får en chans att vinna.|Everyone gets a chance to win.|chance → chans.|Adults each receive one entry token for a friendly prize draw.
+423|ändra|Vi måste ändra planen.|We must change the plan.|ändra = change something.|Adult redraws a route on a travel plan.
+424|en kanal|Vi byter till en annan kanal.|We switch to another channel.|channel → kanal.|Adult uses remote to switch TV channels.
+425|ett kapitel|Jag läser ett kapitel varje kväll.|I read a chapter every evening.|chapter → kapitel.|Adult reads book with one chapter visibly separated by bookmark.
+426|en karaktär|Hon är en viktig karaktär i berättelsen.|She is an important character in the story.|character → karaktär.|Adult reader imagines an original female story character emerging from a book.
+427|ett kännetecken|Ränderna är ett kännetecken för zebran.|The stripes are a characteristic of the zebra.|kännetecken = identifying characteristic.|Zebra with clearly visible black and white stripes.
+428|ladda|Jag behöver ladda telefonen.|I need to charge the phone.|ladda = charge a battery.|Adult plugs phone into charger; battery symbol fills.
+429|välgörenhet|De samlar in pengar till välgörenhet.|They raise money for charity.|välgörenhet = charity.|Adults collect donations at a community fundraiser.
+430|ett diagram|Diagrammet visar försäljningen.|The chart shows sales.|diagram = chart.|Adult points to a simple rising bar chart.
+431|chatta|Vi chattar på nätet.|We chat online.|chat → chatta.|Adults exchange short messages on phones in separate rooms.
+432|billig|Den här jackan är billig.|This jacket is cheap.|billig = inexpensive.|Adult finds a jacket with a small price tag beside higher-priced jackets.
+433|fuska|Det är fel att fuska på prov.|It is wrong to cheat on tests.|fuska = cheat.|Adult student tempted to peek at hidden notes; crossed-out cheating symbol.
+434|kontrollera|Kontrollera att dörren är låst.|Check that the door is locked.|kontrollera = check.|Adult checks locked door by gently trying handle.
+435|glad|Hon är alltid glad och vänlig.|She is always cheerful and friendly.|glad = cheerful or happy.|Smiling adult woman greets neighbors.
+436|en ost|Jag köper en svensk ost.|I buy a Swedish cheese.|ost = cheese.|Adult buys a wheel of cheese at a shop.
+437|en kock|Kocken lagar middag.|The chef cooks dinner.|kock = chef who cooks.|Adult chef prepares dinner in a restaurant kitchen.
+438|en kemikalie|Den här kemikalien ska förvaras säkert.|This chemical must be stored safely.|chemical → kemikalie.|Adult laboratory worker stores sealed labeled chemical bottle in cabinet, goggles and gloves.
+439|kemi|Vi studerar kemi i skolan.|We study chemistry at school.|chemistry → kemi.|Adult students study molecular models in a chemistry classroom.
+440|en bröstkorg|Bröstkorgen skyddar hjärtat.|The chest protects the heart.|bröstkorg = chest or rib cage.|Clean educational torso model shows ribs protecting heart.
+441|en kyckling|En kyckling går på gården.|A chicken walks in the yard.|kyckling = chicken.|Young chicken walks in a farmyard.
+442|en chef|Hon är chef för avdelningen.|She is chief of the department.|chef = chief or manager.|Adult woman leads a department team in an office.
+443|ett barn|Ett barn leker med klossar.|A child plays with blocks.|barn = child.|Child in ordinary clothes builds with colorful blocks.
+444|en barndom|Hon minns sin barndom.|She remembers her childhood.|barn = child; barndom = childhood.|Adult looks at family album showing herself playing as a child.
+445|ett chips|Han tar ett chips ur skålen.|He takes a chip from the bowl.|chips = potato crisps; ett chips = one.|Adult takes one potato crisp from a bowl.
+446|choklad|Jag tycker om mörk choklad.|I like dark chocolate.|chocolate → choklad.|Dark chocolate bar with one piece broken off.
+447|ett val|Du har ett val mellan två kurser.|You have a choice between two courses.|val = choice.|Adult chooses between exactly two course brochures.
+448|välja|Jag vill välja en bok.|I want to choose a book.|välja = choose.|Adult selects one book from a shelf.
+449|en kyrka|Kyrkan ligger vid torget.|The church is by the square.|kyrka = church.|Traditional church beside a town square.
+450|en cigarett|Han släcker sin cigarett.|He puts out his cigarette.|cigarette → cigarett.|Adult extinguishes cigarette in outdoor ashtray.
+451|en cirkel|Rita en cirkel på papperet.|Draw a circle on the paper.|circle → cirkel.|Adult draws one neat circle on paper.
+452|en omständighet|Vi måste ta hänsyn till alla omständigheter.|We must consider all circumstances.|omständighet = circumstance.|Adults examine weather, time and transport cards before a trip.
+453|citera|Hon citerar en mening ur boken.|She cites a sentence from the book.|cite → citera.|Adult copies a short highlighted sentence from an open book into notes.
+454|en medborgare|Hon är svensk medborgare.|She is a Swedish citizen.|medborgare = citizen.|Adult woman holds closed Swedish passport beside Swedish flag.
+455|en stad|Göteborg är en stor stad.|Gothenburg is a large city.|stad = city.|Gothenburg city skyline, streets and trams.
+456|civil|Civila rättigheter gäller alla.|Civil rights apply to everyone.|civil → civil.|Diverse adults stand together before civic building with equal-sign symbol.
+457|påstå|Han påstår att han såg en varg.|He claims that he saw a wolf.|påstå = claim something is true.|Adult tells friend about a distant wolf seen in forest, thought bubble.
+458|en klass|Vår klass har tjugo elever.|Our class has twenty students.|class → klass.|Classroom group with teacher and students; simple 20 on board.
+459|en klassiker|Den här romanen är en klassiker.|This novel is a classic.|classic → klassiker as a noun.|Well-loved old novel displayed among books.
+460|klassisk|Hon lyssnar på klassisk musik.|She listens to classical music.|classical → klassisk.|Adult listens to an orchestra with violins and cello.
+461|ett klassrum|Eleverna sitter i klassrummet.|The students sit in the classroom.|klass + rum = classroom.|Students sit at desks in a bright classroom.
+462|en sats|En mening kan innehålla flera satser.|A sentence can contain several clauses.|sats = clause in grammar.|Adult teacher divides one sentence into two colored grammar blocks.
+463|ren|Skjortan är ren.|The shirt is clean.|ren = clean.|Freshly washed white shirt hangs neatly.
+464|tydlig|Instruktionen är tydlig.|The instruction is clear.|tydlig = clear, easy to understand.|Adult follows simple clear pictorial assembly instructions.
+465|tydligt|Tala tydligt, tack.|Speak clearly, please.|tydlig → tydligt: clear → clearly.|Adult speaks distinctly to attentive listener, clear sound waves.
+466|en kontorist|Kontoristen ordnar dokumenten.|The clerk organizes the documents.|kontor = office; kontorist = clerk.|Adult office clerk sorts documents into trays.
+467|klok|Det var ett klokt beslut.|That was a clever decision.|klok = wise or clever.|Adult selects a sensible safe route on map.
+468|klicka|Klicka på länken.|Click the link.|click → klicka.|Adult clicks a visible link with computer mouse.
+469|en klient|Advokaten träffar sin klient.|The lawyer meets her client.|client → klient.|Adult lawyer meets client across a desk, neutral folders.
+470|ett klimat|Sverige har ett kallt klimat.|Sweden has a cold climate.|climate → klimat.|Swedish landscape with seasons shown in small consistent insets.
+471|klättra|Vi klättrar uppför backen.|We climb up the hill.|klättra = climb.|Adult hikers climb a steep grassy hill.
+472|en klocka|Klockan på väggen visar tre.|The clock on the wall shows three.|klocka = clock here.|Wall clock clearly shows three o'clock.
+473|stänga|Stäng dörren, tack.|Close the door, please.|stänga = close or shut.|Adult closes an open door.
+474|nära|Skolan ligger nära vårt hus.|The school is close to our house.|nära = close in distance.|House and school a short walk apart on a simple neighborhood view.
+475|stängd|Butiken är stängd i dag.|The shop is closed today.|stänga → stängd: close → closed.|Shop has closed door and lowered blind; adult checks entrance.
+476|noga|Läs instruktionerna noga.|Read the instructions closely.|noga = closely or carefully.|Adult studies instructions attentively with finger following lines.
+477|en garderob|Jackan hänger i garderoben.|The jacket hangs in the closet.|garderob = closet or wardrobe.|Open wardrobe with jacket hanging inside.
+478|en trasa|Jag torkar bordet med en trasa.|I wipe the table with a cloth.|trasa = cleaning cloth.|Adult wipes table using a small cloth.
+479|kläder|Mina kläder ligger i väskan.|My clothes are in the bag.|kläder = clothes.|Open travel bag contains folded clothes.
+480|klädsel|Varm klädsel behövs på vintern.|Warm clothing is needed in winter.|klädsel = clothing or attire.|Adult puts on warm winter layers, coat, scarf and gloves.
+481|ett moln|Ett moln täcker solen.|A cloud covers the sun.|moln = cloud.|One large cloud partly covers the sun.
+482|en klubb|Hon är med i en schackklubb.|She belongs to a chess club.|club → klubb.|Adults play chess together at a club.
+483|en ledtråd|Fotspåret är en viktig ledtråd.|The footprint is an important clue.|leda = lead; tråd = thread: clue.|Adult investigator notices a clear footprint on a muddy path.
+484|en tränare|Tränaren hjälper laget.|The coach helps the team.|träna = train; tränare = coach.|Adult sports coach explains tactics to team.
+485|kol|Kol används som bränsle.|Coal is used as fuel.|kol = coal.|Chunks of black coal beside a closed furnace.
+486|en kust|Vi bor vid kusten.|We live on the coast.|kust = coast.|Coastal houses beside the sea.
+487|en kappa|Hon tar på sig sin kappa.|She puts on her coat.|kappa = coat.|Adult woman puts on a long wool coat.
+488|en kod|Ange din kod för att öppna dörren.|Enter your code to open the door.|code → kod.|Adult enters code on door keypad, digits obscured.
+489|kaffe|Jag dricker kaffe på morgonen.|I drink coffee in the morning.|coffee → kaffe.|Adult enjoys a cup of coffee in morning light.
+490|ett mynt|Jag hittar ett mynt på gatan.|I find a coin in the street.|mynt = coin.|Adult finds one coin on pavement.
+491|kall|Vattnet är kallt.|The water is cold.|kall → kallt with vatten.|Adult tests cold water with fingertips beside ice cubes.

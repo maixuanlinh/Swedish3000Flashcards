@@ -1,0 +1,48 @@
+364|en kabel|Jag ansluter en kabel till datorn.|I connect a cable to the computer.|cable → kabel.|Adult connects a cable to a laptop, connector clearly visible.
+365|ett kafé|Vi fikar på ett kafé.|We have coffee at a cafe.|cafe → kafé.|Two adults enjoy coffee and pastries in a cozy cafe.
+366|en tårta|Hon bakar en tårta till festen.|She bakes a cake for the party.|tårta = cake for a celebration.|Adult decorates a layered celebration cake with berries.
+367|beräkna|Vi beräknar kostnaden för resan.|We calculate the cost of the trip.|räkna = count; beräkna = calculate.|Adults calculate travel costs with calculator, notebook and suitcase.
+368|ringa|Jag ska ringa min syster.|I will call my sister.|ringa = call by phone.|Adult makes a phone call, sister visible in a small separate scene.
+369|lugn|Sjön är lugn i dag.|The lake is calm today.|lugn = calm; still water.|Still lake with mirror reflections and a small dock.
+370|en kamera|Jag tar ett foto med min kamera.|I take a photo with my camera.|camera → kamera.|Adult takes a landscape photograph with a clearly visible camera.
+371|ett läger|Barnen åker på läger i sommar.|The children go to camp this summer.|läger = camp.|Children and adult leaders gather at an organized summer camp with cabins.
+372|en kampanj|Vi startar en kampanj för renare stränder.|We start a campaign for cleaner beaches.|campaign → kampanj.|Adults launch a beach cleanup campaign with reusable bags and a simple beach symbol.
+373|camping|Vi gillar camping på sommaren.|We like camping in summer.|camping → camping.|Adults set up a tent at a peaceful lakeside campsite.
+374|ett campus|Biblioteket ligger på campus.|The library is on campus.|campus → campus.|University campus with library, lecture buildings and adult students.
+375|kunna|Jag kan simma.|I can swim.|kunna → kan: can, be able to.|Adult swims confidently in a supervised pool.
+376|en burk|Jag öppnar en burk bönor.|I open a can of beans.|burk = can or tin.|Adult opens a metal can of beans on a kitchen counter.
+377|ställa in|Vi måste ställa in mötet.|We must cancel the meeting.|ställa in = cancel an event.|Adult crosses out a meeting symbol on a calendar.
+378|cancer|Läkaren behandlar patienter med cancer.|The doctor treats patients with cancer.|cancer → cancer.|Adult doctor talks compassionately with fully clothed adult patient in a clinic.
+379|en kandidat|Hon är kandidat till ordförandeposten.|She is a candidate for the chairperson position.|candidate → kandidat.|Adult candidate introduces herself to a small club meeting.
+380|godis|Barnet får lite godis på lördag.|The child gets some candy on Saturday.|godis = sweets or candy.|Small bowl of colorful sweets beside a Saturday calendar.
+381|kan inte|Jag kan inte komma i morgon.|I cannot come tomorrow.|kan inte = cannot.|Adult declines a next-day invitation using a calendar and apologetic gesture.
+382|en keps|Han har en blå keps.|He has a blue cap.|keps = cap with a peak.|Adult man wears a clearly blue baseball cap.
+383|kapabel|Hon är kapabel att lösa problemet.|She is capable of solving the problem.|capable → kapabel.|Adult woman confidently solves a mechanical puzzle.
+384|en kapacitet|Hallen har en kapacitet på hundra personer.|The hall has a capacity of one hundred people.|capacity → kapacitet.|Hall seating plan with large clear 100 and rows of seats.
+385|en huvudstad|Stockholm är Sveriges huvudstad.|Stockholm is the capital of Sweden.|huvud = head; stad = city.|Recognizable Stockholm waterfront beside Swedish flag.
+386|en kapten|Kaptenen styr fartyget.|The captain steers the ship.|captain → kapten.|Adult ship captain at wheel on a ship bridge.
+387|fånga|Kameran fångar ett vackert ögonblick.|The camera captures a beautiful moment.|fånga = capture or catch.|Photographer captures two friends jumping joyfully; camera preview shows the same moment.
+388|en bil|Vi åker bil till jobbet.|We go to work by car.|bil = car.|Adults travel in a small car toward an office.
+389|ett kort|Jag skickar ett kort till min vän.|I send a card to my friend.|kort = card here.|Adult writes a greeting card beside envelope.
+390|omsorg|Barnen behöver kärlek och omsorg.|The children need love and care.|omsorg = care for someone.|Adult caregiver gently helps a child put on a coat.
+391|en karriär|Hon vill göra karriär inom forskning.|She wants a career in research.|career → karriär.|Adult researcher progresses from study desk to laboratory in a simple visual sequence.
+392|försiktig|Var försiktig med glaset.|Be careful with the glass.|försiktig = careful.|Adult carefully holds a delicate glass with both hands.
+393|försiktigt|Hon öppnar paketet försiktigt.|She opens the package carefully.|försiktig → försiktigt: careful → carefully.|Adult gently unwraps a fragile ceramic gift.
+394|slarvig|Han är slarvig med sina nycklar.|He is careless with his keys.|slarvig = careless.|Adult searches for keys among a cluttered table and open bag.
+395|en matta|Det ligger en matta på golvet.|There is a carpet on the floor.|matta = carpet or rug.|Large woven rug clearly lies on a wooden floor.
+396|en morot|Jag skär en morot till soppan.|I cut a carrot for the soup.|morot = carrot.|Adult cuts an orange carrot at a kitchen counter beside soup pot.
+397|bära|Hon bär två kassar.|She carries two bags.|bära → bär: carry → carries.|Adult woman carries exactly two grocery bags.
+398|en tecknad film|Vi tittar på en tecknad film.|We watch a cartoon.|tecknad film = animated cartoon.|Adults watch a television showing an original friendly animated fox.
+399|ett fall|Det här är ett ovanligt fall.|This is an unusual case.|fall = case or instance here.|Adult investigator compares one unusual case folder with ordinary folders.
+400|kontanter|Jag betalar med kontanter.|I pay with cash.|kontanter = cash.|Adult pays shopkeeper with Swedish banknotes and coins.
+401|en rollbesättning|Filmen har en stor rollbesättning.|The film has a large cast.|roll = role; besättning = cast here.|Group of adult actors pose together on a film set.
+402|en katt|En katt sover på soffan.|A cat sleeps on the sofa.|katt = cat.|Tabby cat sleeps on a cozy sofa.
+403|fånga|Hon fångar bollen.|She catches the ball.|fånga = catch.|Adult woman catches a bright ball with both hands.
+404|en kategori|Boken hör till kategorin historia.|The book belongs to the history category.|category → kategori.|Adult sorts history books into one marked section using a simple historical castle icon.
+405|orsaka|Regnet kan orsaka översvämningar.|The rain can cause floods.|orsaka = cause something to happen.|Heavy rain leads by a clear arrow to a flooded road, viewed safely from a distance.
+406|ett tak|Lampan hänger i taket.|The lamp hangs from the ceiling.|tak = ceiling indoors, roof outdoors.|Pendant lamp clearly attached to an interior ceiling.
+407|fira|Vi firar hennes födelsedag.|We celebrate her birthday.|fira = celebrate.|Adult friends celebrate a birthday with cake and balloons.
+408|ett firande|Firandet fortsätter hela kvällen.|The celebration continues all evening.|fira → firande: celebrate → celebration.|Adult friends celebrate outdoors under evening string lights.
+409|en kändis|En kändis skriver autografer.|A celebrity signs autographs.|känd = known; kändis = celebrity.|Fictional adult celebrity signs autographs for a small crowd.
+410|en cell|Kroppen består av celler.|The body consists of cells.|cell → cell.|Clear educational model of one biological cell beside microscope.
+411|en cent|En euro är hundra cent.|One euro is one hundred cents.|cent → cent.|Euro coin beside a clear 100 and small cent coins.

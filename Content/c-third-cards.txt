@@ -1,0 +1,80 @@
+492|kollapsa|Det gamla taket kan kollapsa.|The old roof can collapse.|collapse → kollapsa.|Old empty shed roof sags, collapse shown in small sequence, no people nearby.
+493|en kollega|Min kollega hjälper mig.|My colleague helps me.|colleague → kollega.|Adult coworker helps another at office desk.
+494|samla|Hon samlar frimärken.|She collects stamps.|samla = collect.|Adult arranges stamps in album.
+495|en samling|Museet har en stor samling tavlor.|The museum has a large collection of paintings.|samla → samling: collect → collection.|Adult visitor views collection of framed paintings.
+496|en högskola|Hon studerar på en högskola.|She studies at a college.|hög = high; skola = school.|Adult students outside a higher education college.
+497|en färg|Vilken färg tycker du om?|Which color do you like?|färg = color.|Adult chooses among vivid paint swatches.
+498|färgad|Hon använder färgat papper.|She uses colored paper.|färg → färgad: color → colored.|Adult crafts with sheets of colored paper.
+499|en kolumn|Skriv namnen i den första kolumnen.|Write the names in the first column.|column → kolumn.|Adult fills first column of a simple table.
+500|en kombination|Det är en bra kombination av smaker.|It is a good combination of flavors.|combination → kombination.|Adult combines berries and yogurt in bowl.
+501|kombinera|Vi kombinerar arbete med studier.|We combine work with studies.|combine → kombinera.|Adult balances work laptop and study books on desk.
+502|komma|Kan du komma hit?|Can you come here?|komma → kommer: come → comes.|Adult beckons a friend closer.
+503|en komedi|Vi ser en rolig komedi.|We watch a funny comedy.|comedy → komedi.|Adults laugh watching a comedy at cinema.
+504|tröst|Hon hittar tröst hos sin vän.|She finds comfort in her friend.|tröst = emotional comfort.|Adult friend consoles another with a warm supportive embrace.
+505|bekväm|Den här stolen är bekväm.|This chair is comfortable.|bekväm = comfortable.|Adult relaxes in a plush armchair.
+506|ett kommando|Hunden följer ett enkelt kommando.|The dog follows a simple command.|command → kommando.|Adult gives sit gesture; dog sits attentively.
+507|en kommentar|Hon skriver en kommentar till bilden.|She writes a comment on the picture.|comment → kommentar.|Adult types a short comment below a photograph on screen.
+508|kommersiell|Det är en kommersiell verksamhet.|It is a commercial business.|commercial → kommersiell.|Shop owner sells products at a busy store.
+509|en provision|Säljaren får provision på varje försäljning.|The seller earns commission on every sale.|provision = sales commission.|Adult salesperson receives a small share from each completed sale, simple coin diagram.
+510|begå|Han har begått ett brott.|He has committed a crime.|begå = commit, as in a crime.|An investigator reviews evidence of a burglary, without violence.
+511|ett engagemang|Hennes engagemang för laget är starkt.|Her commitment to the team is strong.|engagemang = commitment.|Adult team volunteer prepares equipment and supports teammates.
+512|en kommitté|Kommittén fattar beslutet.|The committee makes the decision.|committee → kommitté.|Adults sit around meeting table making a joint decision.
+513|vanlig|Det är en vanlig fråga.|It is a common question.|vanlig = common or usual.|Teacher sees the same question raised by several adult learners.
+514|vanligtvis|Vi äter vanligtvis middag klockan sex.|We commonly eat dinner at six.|vanlig → vanligtvis: usual → usually.|Adults share dinner; clock clearly shows six.
+515|kommunicera|Vi kommunicerar via e-post.|We communicate by email.|communicate → kommunicera.|Adults exchange emails shown by envelope icons between laptops.
+516|kommunikation|God kommunikation hjälper laget.|Good communication helps the team.|communication → kommunikation.|Adult teammates exchange clear ideas around a table.
+517|en gemenskap|Vi känner gemenskap i föreningen.|We feel community in the association.|gemenskap = sense of community.|Diverse adults share a community meal.
+518|ett företag|Min syster arbetar på ett företag.|My sister works for a company.|företag = company.|Adult woman works with colleagues at a small company.
+519|jämföra|Vi jämför priserna i två butiker.|We compare prices in two shops.|jämföra = compare.|Adult compares two price tags for the same product.
+520|en jämförelse|Jämförelsen visar stora skillnader.|The comparison shows large differences.|jämföra → jämförelse: compare → comparison.|Two clearly different product charts side by side.
+521|tävla|De tävlar i löpning.|They compete in running.|tävla = compete.|Adult runners race on a track.
+522|en tävling|Hon deltar i en tävling.|She takes part in a competition.|tävla → tävling: compete → competition.|Adult joins a friendly running competition at start line.
+523|konkurrenskraftig|Företaget erbjuder konkurrenskraftiga priser.|The company offers competitive prices.|konkurrenskraftig = competitive in the market.|Shop owner compares attractive price with other market prices.
+524|en konkurrent|Hon har en stark konkurrent i finalen.|She has a strong competitor in the final.|competitor → konkurrent.|Two adult athletes prepare for a final race.
+525|klaga|Han klagar på bullret.|He complains about the noise.|klaga på = complain about.|Adult politely complains about nearby construction noise.
+526|ett klagomål|Kunden lämnar ett klagomål.|The customer makes a complaint.|klaga → klagomål: complain → complaint.|Adult customer explains problem with damaged product to service desk.
+527|fullständig|Listan är fullständig.|The list is complete.|fullständig = complete, nothing missing.|Checklist has every item checked.
+528|helt|Rummet är helt tomt.|The room is completely empty.|helt = completely.|Completely empty room with bare floor and walls.
+529|komplex|Problemet är komplext.|The problem is complex.|complex → komplex.|Adult studies a network of connected puzzle pieces.
+530|komplicerad|Instruktionen är komplicerad.|The instruction is complicated.|complicated → komplicerad.|Adult looks puzzled at overly tangled assembly instructions.
+531|en komponent|Batteriet är en viktig komponent.|The battery is an important component.|component → komponent.|Disassembled simple device with battery highlighted.
+532|en dator|Jag arbetar vid en dator.|I work at a computer.|dator = computer.|Adult works at a laptop on desk.
+533|koncentrera sig|Jag måste koncentrera mig på uppgiften.|I must concentrate on the task.|koncentrera sig = concentrate.|Adult focuses on a puzzle with distractions set aside.
+534|koncentration|Uppgiften kräver koncentration.|The task requires concentration.|concentration → koncentration.|Adult carefully balances small wooden pieces with focused expression.
+535|ett begrepp|Vi lär oss ett nytt begrepp.|We learn a new concept.|begrepp = concept.|Adult teacher connects an idea symbol to related examples on board.
+536|oro|Hon känner oro inför provet.|She feels concern about the exam.|oro = concern or worry.|Adult learner looks worried at approaching exam date.
+537|orolig|Jag är orolig för min vän.|I am concerned about my friend.|oro → orolig: worry → worried.|Adult checks phone waiting for friend's arrival.
+538|en konsert|Vi går på konsert i kväll.|We go to a concert tonight.|concert → konsert.|Adult audience watches musicians on stage.
+539|dra slutsatsen|Vi drar slutsatsen att planen fungerar.|We conclude that the plan works.|dra slutsatsen = conclude.|Adults examine successful model and agree on conclusion.
+540|en slutsats|Resultaten leder till samma slutsats.|The results lead to the same conclusion.|slut = end; slutsats = conclusion.|Several evidence cards lead by arrows to one final conclusion card.
+541|ett skick|Cykeln är i gott skick.|The bicycle is in good condition.|skick = condition of an object.|Adult checks a clean well-maintained bicycle.
+542|genomföra|Forskarna genomför en undersökning.|The researchers conduct a study.|genomföra = conduct or carry out.|Adult researchers collect survey responses and examine results.
+543|en konferens|Hon deltar i en konferens.|She attends a conference.|conference → konferens.|Adult audience attends professional conference in hall.
+544|självförtroende|Övning ger mig självförtroende.|Practice gives me confidence.|själv = self; förtroende = trust.|Adult practices speech then confidently faces audience.
+545|självsäker|Hon verkar självsäker på scenen.|She looks confident on stage.|självsäker = confident.|Adult woman speaks confidently on stage.
+546|bekräfta|Kan du bekräfta bokningen?|Can you confirm the booking?|bekräfta = confirm.|Adult checks booking confirmation on phone, check mark.
+547|en konflikt|De försöker lösa en konflikt.|They try to resolve a conflict.|conflict → konflikt.|Adults discuss disagreement with mediator at table.
+548|förvirra|De olika skyltarna förvirrar mig.|The different signs confuse me.|förvirra = confuse.|Adult faces contradictory direction signs.
+549|förvirrad|Jag är förvirrad av kartan.|I am confused by the map.|förvirrad = feeling confused.|Adult looks puzzled at map.
+550|förvirrande|Instruktionerna är förvirrande.|The instructions are confusing.|förvirrande = causing confusion.|Instruction sheet has conflicting arrows; adult looks puzzled.
+551|en kongress|Kongressen samlar deltagare från hela landet.|The congress gathers participants from across the country.|congress → kongress.|Large formal assembly of adult delegates, neutral event.
+552|ansluta|Jag ansluter datorn till nätverket.|I connect the computer to the network.|ansluta = connect.|Adult connects laptop to network shown by linked device symbols.
+553|ansluten|Skrivaren är ansluten till datorn.|The printer is connected to the computer.|ansluta → ansluten: connect → connected.|Printer and computer connected by a clearly visible cable.
+554|en anslutning|Vi har en snabb anslutning till internet.|We have a fast connection to the internet.|anslutning = connection.|Laptop links to router with clear strong signal symbol.
+555|vid medvetande|Patienten är vid medvetande.|The patient is conscious.|vid medvetande = conscious, awake and aware.|Fully clothed adult patient awake and talking with doctor in clinic.
+556|en konsekvens|Förseningen får en viktig konsekvens.|The delay has an important consequence.|consequence → konsekvens.|Late bus leads to missed train in clear two-step scene.
+557|konservativ|Han har konservativa åsikter.|He has conservative views.|conservative → konservativ.|Adult favors preserving a traditional building during respectful civic discussion, neutral political framing.
+558|överväga|Vi överväger att flytta.|We consider moving.|överväga = consider or weigh up.|Adults weigh pros and cons beside home brochures.
+559|hänsyn|Visa hänsyn till dina grannar.|Show consideration for your neighbors.|hänsyn = consideration for others.|Adult turns music down near sleeping neighbor's apartment.
+560|bestå av|Salladen består av tomater och gurka.|The salad consists of tomatoes and cucumber.|bestå av = consist of.|Salad bowl contains only tomatoes and cucumber.
+561|konsekvent|Hon är konsekvent i sina beslut.|She is consistent in her decisions.|consistent → konsekvent.|Adult applies the same rule to three similar situations.
+562|konstant|Temperaturen är konstant.|The temperature is constant.|constant → konstant.|Thermometer beside flat temperature graph.
+563|ständigt|Telefonen ringer ständigt.|The phone rings constantly.|ständigt = constantly.|Adult notices repeated incoming calls, repeated small ringing symbols.
+564|konstruera|Ingenjörerna konstruerar en bro.|The engineers construct a bridge.|construct → konstruera.|Adult engineers design and build bridge model.
+565|en konstruktion|Bron har en stark konstruktion.|The bridge has a strong construction.|construction → konstruktion.|Bridge structure with supporting beams clearly visible.
+566|förbruka|Den här lampan förbrukar lite el.|This lamp consumes little electricity.|förbruka = consume or use up.|Efficient lamp beside small electricity meter.
+567|en konsument|Konsumenten jämför olika produkter.|The consumer compares different products.|consumer → konsument.|Adult shopper compares products on shelf.
+568|en kontakt|Jag har kontakt med min gamla lärare.|I have contact with my former teacher.|contact → kontakt.|Adults keep in touch by phone, teacher in inset.
+569|innehålla|Flaskan innehåller vatten.|The bottle contains water.|innehålla → innehåller: contain → contains.|Transparent bottle visibly contains water.
+570|en behållare|Lägg maten i en behållare.|Put the food in a container.|behållare = container.|Adult places food into reusable storage container.
+571|samtida|Museet visar samtida konst.|The museum displays contemporary art.|samtida = contemporary, of our time.|Adults view modern original artworks in museum.

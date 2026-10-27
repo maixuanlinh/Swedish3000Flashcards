@@ -5,7 +5,7 @@
     "note": "Headwords and IDs preserved from the existing iOS app. This is its American Oxford-based 3000-entry index, not an independently verified UK edition. Swedish translations and examples are original authored drafts."
   },
   "targetCount": 3000,
-  "entryCount": 363,
+  "entryCount": 655,
   "entries": [
     {
       "id": "sv-0001",
@@ -2184,6 +2184,1758 @@
       "sourceID": 363,
       "english": "bye",
       "swedish": "hej då"
+    },
+    {
+      "id": "sv-0364",
+      "sourceID": 364,
+      "english": "cable",
+      "swedish": "en kabel"
+    },
+    {
+      "id": "sv-0365",
+      "sourceID": 365,
+      "english": "cafe",
+      "swedish": "ett kafé"
+    },
+    {
+      "id": "sv-0366",
+      "sourceID": 366,
+      "english": "cake",
+      "swedish": "en tårta"
+    },
+    {
+      "id": "sv-0367",
+      "sourceID": 367,
+      "english": "calculate",
+      "swedish": "beräkna"
+    },
+    {
+      "id": "sv-0368",
+      "sourceID": 368,
+      "english": "call",
+      "swedish": "ringa"
+    },
+    {
+      "id": "sv-0369",
+      "sourceID": 369,
+      "english": "calm",
+      "swedish": "lugn"
+    },
+    {
+      "id": "sv-0370",
+      "sourceID": 370,
+      "english": "camera",
+      "swedish": "en kamera"
+    },
+    {
+      "id": "sv-0371",
+      "sourceID": 371,
+      "english": "camp",
+      "swedish": "ett läger"
+    },
+    {
+      "id": "sv-0372",
+      "sourceID": 372,
+      "english": "campaign",
+      "swedish": "en kampanj"
+    },
+    {
+      "id": "sv-0373",
+      "sourceID": 373,
+      "english": "camping",
+      "swedish": "camping"
+    },
+    {
+      "id": "sv-0374",
+      "sourceID": 374,
+      "english": "campus",
+      "swedish": "ett campus"
+    },
+    {
+      "id": "sv-0375",
+      "sourceID": 375,
+      "english": "can (modal verb)",
+      "swedish": "kunna"
+    },
+    {
+      "id": "sv-0376",
+      "sourceID": 376,
+      "english": "can (container)",
+      "swedish": "en burk"
+    },
+    {
+      "id": "sv-0377",
+      "sourceID": 377,
+      "english": "cancel",
+      "swedish": "ställa in"
+    },
+    {
+      "id": "sv-0378",
+      "sourceID": 378,
+      "english": "cancer",
+      "swedish": "cancer"
+    },
+    {
+      "id": "sv-0379",
+      "sourceID": 379,
+      "english": "candidate",
+      "swedish": "en kandidat"
+    },
+    {
+      "id": "sv-0380",
+      "sourceID": 380,
+      "english": "candy",
+      "swedish": "godis"
+    },
+    {
+      "id": "sv-0381",
+      "sourceID": 381,
+      "english": "cannot",
+      "swedish": "kan inte"
+    },
+    {
+      "id": "sv-0382",
+      "sourceID": 382,
+      "english": "cap",
+      "swedish": "en keps"
+    },
+    {
+      "id": "sv-0383",
+      "sourceID": 383,
+      "english": "capable",
+      "swedish": "kapabel"
+    },
+    {
+      "id": "sv-0384",
+      "sourceID": 384,
+      "english": "capacity",
+      "swedish": "en kapacitet"
+    },
+    {
+      "id": "sv-0385",
+      "sourceID": 385,
+      "english": "capital",
+      "swedish": "en huvudstad"
+    },
+    {
+      "id": "sv-0386",
+      "sourceID": 386,
+      "english": "captain",
+      "swedish": "en kapten"
+    },
+    {
+      "id": "sv-0387",
+      "sourceID": 387,
+      "english": "capture",
+      "swedish": "fånga"
+    },
+    {
+      "id": "sv-0388",
+      "sourceID": 388,
+      "english": "car",
+      "swedish": "en bil"
+    },
+    {
+      "id": "sv-0389",
+      "sourceID": 389,
+      "english": "card",
+      "swedish": "ett kort"
+    },
+    {
+      "id": "sv-0390",
+      "sourceID": 390,
+      "english": "care",
+      "swedish": "omsorg"
+    },
+    {
+      "id": "sv-0391",
+      "sourceID": 391,
+      "english": "career",
+      "swedish": "en karriär"
+    },
+    {
+      "id": "sv-0392",
+      "sourceID": 392,
+      "english": "careful",
+      "swedish": "försiktig"
+    },
+    {
+      "id": "sv-0393",
+      "sourceID": 393,
+      "english": "carefully",
+      "swedish": "försiktigt"
+    },
+    {
+      "id": "sv-0394",
+      "sourceID": 394,
+      "english": "careless",
+      "swedish": "slarvig"
+    },
+    {
+      "id": "sv-0395",
+      "sourceID": 395,
+      "english": "carpet",
+      "swedish": "en matta"
+    },
+    {
+      "id": "sv-0396",
+      "sourceID": 396,
+      "english": "carrot",
+      "swedish": "en morot"
+    },
+    {
+      "id": "sv-0397",
+      "sourceID": 397,
+      "english": "carry",
+      "swedish": "bära"
+    },
+    {
+      "id": "sv-0398",
+      "sourceID": 398,
+      "english": "cartoon",
+      "swedish": "en tecknad film"
+    },
+    {
+      "id": "sv-0399",
+      "sourceID": 399,
+      "english": "case",
+      "swedish": "ett fall"
+    },
+    {
+      "id": "sv-0400",
+      "sourceID": 400,
+      "english": "cash",
+      "swedish": "kontanter"
+    },
+    {
+      "id": "sv-0401",
+      "sourceID": 401,
+      "english": "cast",
+      "swedish": "en rollbesättning"
+    },
+    {
+      "id": "sv-0402",
+      "sourceID": 402,
+      "english": "cat",
+      "swedish": "en katt"
+    },
+    {
+      "id": "sv-0403",
+      "sourceID": 403,
+      "english": "catch",
+      "swedish": "fånga"
+    },
+    {
+      "id": "sv-0404",
+      "sourceID": 404,
+      "english": "category",
+      "swedish": "en kategori"
+    },
+    {
+      "id": "sv-0405",
+      "sourceID": 405,
+      "english": "cause",
+      "swedish": "orsaka"
+    },
+    {
+      "id": "sv-0406",
+      "sourceID": 406,
+      "english": "ceiling",
+      "swedish": "ett tak"
+    },
+    {
+      "id": "sv-0407",
+      "sourceID": 407,
+      "english": "celebrate",
+      "swedish": "fira"
+    },
+    {
+      "id": "sv-0408",
+      "sourceID": 408,
+      "english": "celebration",
+      "swedish": "ett firande"
+    },
+    {
+      "id": "sv-0409",
+      "sourceID": 409,
+      "english": "celebrity",
+      "swedish": "en kändis"
+    },
+    {
+      "id": "sv-0410",
+      "sourceID": 410,
+      "english": "cell",
+      "swedish": "en cell"
+    },
+    {
+      "id": "sv-0411",
+      "sourceID": 411,
+      "english": "cent",
+      "swedish": "en cent"
+    },
+    {
+      "id": "sv-0412",
+      "sourceID": 412,
+      "english": "center",
+      "swedish": "ett centrum"
+    },
+    {
+      "id": "sv-0413",
+      "sourceID": 413,
+      "english": "central",
+      "swedish": "central"
+    },
+    {
+      "id": "sv-0414",
+      "sourceID": 414,
+      "english": "century",
+      "swedish": "ett århundrade"
+    },
+    {
+      "id": "sv-0415",
+      "sourceID": 415,
+      "english": "ceremony",
+      "swedish": "en ceremoni"
+    },
+    {
+      "id": "sv-0416",
+      "sourceID": 416,
+      "english": "certain",
+      "swedish": "säker"
+    },
+    {
+      "id": "sv-0417",
+      "sourceID": 417,
+      "english": "certainly",
+      "swedish": "säkert"
+    },
+    {
+      "id": "sv-0418",
+      "sourceID": 418,
+      "english": "chain",
+      "swedish": "en kedja"
+    },
+    {
+      "id": "sv-0419",
+      "sourceID": 419,
+      "english": "chair",
+      "swedish": "en stol"
+    },
+    {
+      "id": "sv-0420",
+      "sourceID": 420,
+      "english": "challenge",
+      "swedish": "en utmaning"
+    },
+    {
+      "id": "sv-0421",
+      "sourceID": 421,
+      "english": "champion",
+      "swedish": "en mästare"
+    },
+    {
+      "id": "sv-0422",
+      "sourceID": 422,
+      "english": "chance",
+      "swedish": "en chans"
+    },
+    {
+      "id": "sv-0423",
+      "sourceID": 423,
+      "english": "change",
+      "swedish": "ändra"
+    },
+    {
+      "id": "sv-0424",
+      "sourceID": 424,
+      "english": "channel",
+      "swedish": "en kanal"
+    },
+    {
+      "id": "sv-0425",
+      "sourceID": 425,
+      "english": "chapter",
+      "swedish": "ett kapitel"
+    },
+    {
+      "id": "sv-0426",
+      "sourceID": 426,
+      "english": "character",
+      "swedish": "en karaktär"
+    },
+    {
+      "id": "sv-0427",
+      "sourceID": 427,
+      "english": "characteristic",
+      "swedish": "ett kännetecken"
+    },
+    {
+      "id": "sv-0428",
+      "sourceID": 428,
+      "english": "charge",
+      "swedish": "ladda"
+    },
+    {
+      "id": "sv-0429",
+      "sourceID": 429,
+      "english": "charity",
+      "swedish": "välgörenhet"
+    },
+    {
+      "id": "sv-0430",
+      "sourceID": 430,
+      "english": "chart",
+      "swedish": "ett diagram"
+    },
+    {
+      "id": "sv-0431",
+      "sourceID": 431,
+      "english": "chat",
+      "swedish": "chatta"
+    },
+    {
+      "id": "sv-0432",
+      "sourceID": 432,
+      "english": "cheap",
+      "swedish": "billig"
+    },
+    {
+      "id": "sv-0433",
+      "sourceID": 433,
+      "english": "cheat",
+      "swedish": "fuska"
+    },
+    {
+      "id": "sv-0434",
+      "sourceID": 434,
+      "english": "check",
+      "swedish": "kontrollera"
+    },
+    {
+      "id": "sv-0435",
+      "sourceID": 435,
+      "english": "cheerful",
+      "swedish": "glad"
+    },
+    {
+      "id": "sv-0436",
+      "sourceID": 436,
+      "english": "cheese",
+      "swedish": "en ost"
+    },
+    {
+      "id": "sv-0437",
+      "sourceID": 437,
+      "english": "chef",
+      "swedish": "en kock"
+    },
+    {
+      "id": "sv-0438",
+      "sourceID": 438,
+      "english": "chemical",
+      "swedish": "en kemikalie"
+    },
+    {
+      "id": "sv-0439",
+      "sourceID": 439,
+      "english": "chemistry",
+      "swedish": "kemi"
+    },
+    {
+      "id": "sv-0440",
+      "sourceID": 440,
+      "english": "chest",
+      "swedish": "en bröstkorg"
+    },
+    {
+      "id": "sv-0441",
+      "sourceID": 441,
+      "english": "chicken",
+      "swedish": "en kyckling"
+    },
+    {
+      "id": "sv-0442",
+      "sourceID": 442,
+      "english": "chief",
+      "swedish": "en chef"
+    },
+    {
+      "id": "sv-0443",
+      "sourceID": 443,
+      "english": "child",
+      "swedish": "ett barn"
+    },
+    {
+      "id": "sv-0444",
+      "sourceID": 444,
+      "english": "childhood",
+      "swedish": "en barndom"
+    },
+    {
+      "id": "sv-0445",
+      "sourceID": 445,
+      "english": "chip",
+      "swedish": "ett chips"
+    },
+    {
+      "id": "sv-0446",
+      "sourceID": 446,
+      "english": "chocolate",
+      "swedish": "choklad"
+    },
+    {
+      "id": "sv-0447",
+      "sourceID": 447,
+      "english": "choice",
+      "swedish": "ett val"
+    },
+    {
+      "id": "sv-0448",
+      "sourceID": 448,
+      "english": "choose",
+      "swedish": "välja"
+    },
+    {
+      "id": "sv-0449",
+      "sourceID": 449,
+      "english": "church",
+      "swedish": "en kyrka"
+    },
+    {
+      "id": "sv-0450",
+      "sourceID": 450,
+      "english": "cigarette",
+      "swedish": "en cigarett"
+    },
+    {
+      "id": "sv-0451",
+      "sourceID": 451,
+      "english": "circle",
+      "swedish": "en cirkel"
+    },
+    {
+      "id": "sv-0452",
+      "sourceID": 452,
+      "english": "circumstance",
+      "swedish": "en omständighet"
+    },
+    {
+      "id": "sv-0453",
+      "sourceID": 453,
+      "english": "cite",
+      "swedish": "citera"
+    },
+    {
+      "id": "sv-0454",
+      "sourceID": 454,
+      "english": "citizen",
+      "swedish": "en medborgare"
+    },
+    {
+      "id": "sv-0455",
+      "sourceID": 455,
+      "english": "city",
+      "swedish": "en stad"
+    },
+    {
+      "id": "sv-0456",
+      "sourceID": 456,
+      "english": "civil",
+      "swedish": "civil"
+    },
+    {
+      "id": "sv-0457",
+      "sourceID": 457,
+      "english": "claim",
+      "swedish": "påstå"
+    },
+    {
+      "id": "sv-0458",
+      "sourceID": 458,
+      "english": "class",
+      "swedish": "en klass"
+    },
+    {
+      "id": "sv-0459",
+      "sourceID": 459,
+      "english": "classic",
+      "swedish": "en klassiker"
+    },
+    {
+      "id": "sv-0460",
+      "sourceID": 460,
+      "english": "classical",
+      "swedish": "klassisk"
+    },
+    {
+      "id": "sv-0461",
+      "sourceID": 461,
+      "english": "classroom",
+      "swedish": "ett klassrum"
+    },
+    {
+      "id": "sv-0462",
+      "sourceID": 462,
+      "english": "clause",
+      "swedish": "en sats"
+    },
+    {
+      "id": "sv-0463",
+      "sourceID": 463,
+      "english": "clean",
+      "swedish": "ren"
+    },
+    {
+      "id": "sv-0464",
+      "sourceID": 464,
+      "english": "clear",
+      "swedish": "tydlig"
+    },
+    {
+      "id": "sv-0465",
+      "sourceID": 465,
+      "english": "clearly",
+      "swedish": "tydligt"
+    },
+    {
+      "id": "sv-0466",
+      "sourceID": 466,
+      "english": "clerk",
+      "swedish": "en kontorist"
+    },
+    {
+      "id": "sv-0467",
+      "sourceID": 467,
+      "english": "clever",
+      "swedish": "klok"
+    },
+    {
+      "id": "sv-0468",
+      "sourceID": 468,
+      "english": "click",
+      "swedish": "klicka"
+    },
+    {
+      "id": "sv-0469",
+      "sourceID": 469,
+      "english": "client",
+      "swedish": "en klient"
+    },
+    {
+      "id": "sv-0470",
+      "sourceID": 470,
+      "english": "climate",
+      "swedish": "ett klimat"
+    },
+    {
+      "id": "sv-0471",
+      "sourceID": 471,
+      "english": "climb",
+      "swedish": "klättra"
+    },
+    {
+      "id": "sv-0472",
+      "sourceID": 472,
+      "english": "clock",
+      "swedish": "en klocka"
+    },
+    {
+      "id": "sv-0473",
+      "sourceID": 473,
+      "english": "close (shut)",
+      "swedish": "stänga"
+    },
+    {
+      "id": "sv-0474",
+      "sourceID": 474,
+      "english": "close (near)",
+      "swedish": "nära"
+    },
+    {
+      "id": "sv-0475",
+      "sourceID": 475,
+      "english": "closed",
+      "swedish": "stängd"
+    },
+    {
+      "id": "sv-0476",
+      "sourceID": 476,
+      "english": "closely",
+      "swedish": "noga"
+    },
+    {
+      "id": "sv-0477",
+      "sourceID": 477,
+      "english": "closet",
+      "swedish": "en garderob"
+    },
+    {
+      "id": "sv-0478",
+      "sourceID": 478,
+      "english": "cloth",
+      "swedish": "en trasa"
+    },
+    {
+      "id": "sv-0479",
+      "sourceID": 479,
+      "english": "clothes",
+      "swedish": "kläder"
+    },
+    {
+      "id": "sv-0480",
+      "sourceID": 480,
+      "english": "clothing",
+      "swedish": "klädsel"
+    },
+    {
+      "id": "sv-0481",
+      "sourceID": 481,
+      "english": "cloud",
+      "swedish": "ett moln"
+    },
+    {
+      "id": "sv-0482",
+      "sourceID": 482,
+      "english": "club",
+      "swedish": "en klubb"
+    },
+    {
+      "id": "sv-0483",
+      "sourceID": 483,
+      "english": "clue",
+      "swedish": "en ledtråd"
+    },
+    {
+      "id": "sv-0484",
+      "sourceID": 484,
+      "english": "coach",
+      "swedish": "en tränare"
+    },
+    {
+      "id": "sv-0485",
+      "sourceID": 485,
+      "english": "coal",
+      "swedish": "kol"
+    },
+    {
+      "id": "sv-0486",
+      "sourceID": 486,
+      "english": "coast",
+      "swedish": "en kust"
+    },
+    {
+      "id": "sv-0487",
+      "sourceID": 487,
+      "english": "coat",
+      "swedish": "en kappa"
+    },
+    {
+      "id": "sv-0488",
+      "sourceID": 488,
+      "english": "code",
+      "swedish": "en kod"
+    },
+    {
+      "id": "sv-0489",
+      "sourceID": 489,
+      "english": "coffee",
+      "swedish": "kaffe"
+    },
+    {
+      "id": "sv-0490",
+      "sourceID": 490,
+      "english": "coin",
+      "swedish": "ett mynt"
+    },
+    {
+      "id": "sv-0491",
+      "sourceID": 491,
+      "english": "cold",
+      "swedish": "kall"
+    },
+    {
+      "id": "sv-0492",
+      "sourceID": 492,
+      "english": "collapse",
+      "swedish": "kollapsa"
+    },
+    {
+      "id": "sv-0493",
+      "sourceID": 493,
+      "english": "colleague",
+      "swedish": "en kollega"
+    },
+    {
+      "id": "sv-0494",
+      "sourceID": 494,
+      "english": "collect",
+      "swedish": "samla"
+    },
+    {
+      "id": "sv-0495",
+      "sourceID": 495,
+      "english": "collection",
+      "swedish": "en samling"
+    },
+    {
+      "id": "sv-0496",
+      "sourceID": 496,
+      "english": "college",
+      "swedish": "en högskola"
+    },
+    {
+      "id": "sv-0497",
+      "sourceID": 497,
+      "english": "color",
+      "swedish": "en färg"
+    },
+    {
+      "id": "sv-0498",
+      "sourceID": 498,
+      "english": "colored",
+      "swedish": "färgad"
+    },
+    {
+      "id": "sv-0499",
+      "sourceID": 499,
+      "english": "column",
+      "swedish": "en kolumn"
+    },
+    {
+      "id": "sv-0500",
+      "sourceID": 500,
+      "english": "combination",
+      "swedish": "en kombination"
+    },
+    {
+      "id": "sv-0501",
+      "sourceID": 501,
+      "english": "combine",
+      "swedish": "kombinera"
+    },
+    {
+      "id": "sv-0502",
+      "sourceID": 502,
+      "english": "come",
+      "swedish": "komma"
+    },
+    {
+      "id": "sv-0503",
+      "sourceID": 503,
+      "english": "comedy",
+      "swedish": "en komedi"
+    },
+    {
+      "id": "sv-0504",
+      "sourceID": 504,
+      "english": "comfort",
+      "swedish": "tröst"
+    },
+    {
+      "id": "sv-0505",
+      "sourceID": 505,
+      "english": "comfortable",
+      "swedish": "bekväm"
+    },
+    {
+      "id": "sv-0506",
+      "sourceID": 506,
+      "english": "command",
+      "swedish": "ett kommando"
+    },
+    {
+      "id": "sv-0507",
+      "sourceID": 507,
+      "english": "comment",
+      "swedish": "en kommentar"
+    },
+    {
+      "id": "sv-0508",
+      "sourceID": 508,
+      "english": "commercial",
+      "swedish": "kommersiell"
+    },
+    {
+      "id": "sv-0509",
+      "sourceID": 509,
+      "english": "commission",
+      "swedish": "en provision"
+    },
+    {
+      "id": "sv-0510",
+      "sourceID": 510,
+      "english": "commit",
+      "swedish": "begå"
+    },
+    {
+      "id": "sv-0511",
+      "sourceID": 511,
+      "english": "commitment",
+      "swedish": "ett engagemang"
+    },
+    {
+      "id": "sv-0512",
+      "sourceID": 512,
+      "english": "committee",
+      "swedish": "en kommitté"
+    },
+    {
+      "id": "sv-0513",
+      "sourceID": 513,
+      "english": "common",
+      "swedish": "vanlig"
+    },
+    {
+      "id": "sv-0514",
+      "sourceID": 514,
+      "english": "commonly",
+      "swedish": "vanligtvis"
+    },
+    {
+      "id": "sv-0515",
+      "sourceID": 515,
+      "english": "communicate",
+      "swedish": "kommunicera"
+    },
+    {
+      "id": "sv-0516",
+      "sourceID": 516,
+      "english": "communication",
+      "swedish": "kommunikation"
+    },
+    {
+      "id": "sv-0517",
+      "sourceID": 517,
+      "english": "community",
+      "swedish": "en gemenskap"
+    },
+    {
+      "id": "sv-0518",
+      "sourceID": 518,
+      "english": "company",
+      "swedish": "ett företag"
+    },
+    {
+      "id": "sv-0519",
+      "sourceID": 519,
+      "english": "compare",
+      "swedish": "jämföra"
+    },
+    {
+      "id": "sv-0520",
+      "sourceID": 520,
+      "english": "comparison",
+      "swedish": "en jämförelse"
+    },
+    {
+      "id": "sv-0521",
+      "sourceID": 521,
+      "english": "compete",
+      "swedish": "tävla"
+    },
+    {
+      "id": "sv-0522",
+      "sourceID": 522,
+      "english": "competition",
+      "swedish": "en tävling"
+    },
+    {
+      "id": "sv-0523",
+      "sourceID": 523,
+      "english": "competitive",
+      "swedish": "konkurrenskraftig"
+    },
+    {
+      "id": "sv-0524",
+      "sourceID": 524,
+      "english": "competitor",
+      "swedish": "en konkurrent"
+    },
+    {
+      "id": "sv-0525",
+      "sourceID": 525,
+      "english": "complain",
+      "swedish": "klaga"
+    },
+    {
+      "id": "sv-0526",
+      "sourceID": 526,
+      "english": "complaint",
+      "swedish": "ett klagomål"
+    },
+    {
+      "id": "sv-0527",
+      "sourceID": 527,
+      "english": "complete",
+      "swedish": "fullständig"
+    },
+    {
+      "id": "sv-0528",
+      "sourceID": 528,
+      "english": "completely",
+      "swedish": "helt"
+    },
+    {
+      "id": "sv-0529",
+      "sourceID": 529,
+      "english": "complex",
+      "swedish": "komplex"
+    },
+    {
+      "id": "sv-0530",
+      "sourceID": 530,
+      "english": "complicated",
+      "swedish": "komplicerad"
+    },
+    {
+      "id": "sv-0531",
+      "sourceID": 531,
+      "english": "component",
+      "swedish": "en komponent"
+    },
+    {
+      "id": "sv-0532",
+      "sourceID": 532,
+      "english": "computer",
+      "swedish": "en dator"
+    },
+    {
+      "id": "sv-0533",
+      "sourceID": 533,
+      "english": "concentrate",
+      "swedish": "koncentrera sig"
+    },
+    {
+      "id": "sv-0534",
+      "sourceID": 534,
+      "english": "concentration",
+      "swedish": "koncentration"
+    },
+    {
+      "id": "sv-0535",
+      "sourceID": 535,
+      "english": "concept",
+      "swedish": "ett begrepp"
+    },
+    {
+      "id": "sv-0536",
+      "sourceID": 536,
+      "english": "concern",
+      "swedish": "oro"
+    },
+    {
+      "id": "sv-0537",
+      "sourceID": 537,
+      "english": "concerned",
+      "swedish": "orolig"
+    },
+    {
+      "id": "sv-0538",
+      "sourceID": 538,
+      "english": "concert",
+      "swedish": "en konsert"
+    },
+    {
+      "id": "sv-0539",
+      "sourceID": 539,
+      "english": "conclude",
+      "swedish": "dra slutsatsen"
+    },
+    {
+      "id": "sv-0540",
+      "sourceID": 540,
+      "english": "conclusion",
+      "swedish": "en slutsats"
+    },
+    {
+      "id": "sv-0541",
+      "sourceID": 541,
+      "english": "condition",
+      "swedish": "ett skick"
+    },
+    {
+      "id": "sv-0542",
+      "sourceID": 542,
+      "english": "conduct",
+      "swedish": "genomföra"
+    },
+    {
+      "id": "sv-0543",
+      "sourceID": 543,
+      "english": "conference",
+      "swedish": "en konferens"
+    },
+    {
+      "id": "sv-0544",
+      "sourceID": 544,
+      "english": "confidence",
+      "swedish": "självförtroende"
+    },
+    {
+      "id": "sv-0545",
+      "sourceID": 545,
+      "english": "confident",
+      "swedish": "självsäker"
+    },
+    {
+      "id": "sv-0546",
+      "sourceID": 546,
+      "english": "confirm",
+      "swedish": "bekräfta"
+    },
+    {
+      "id": "sv-0547",
+      "sourceID": 547,
+      "english": "conflict",
+      "swedish": "en konflikt"
+    },
+    {
+      "id": "sv-0548",
+      "sourceID": 548,
+      "english": "confuse",
+      "swedish": "förvirra"
+    },
+    {
+      "id": "sv-0549",
+      "sourceID": 549,
+      "english": "confused",
+      "swedish": "förvirrad"
+    },
+    {
+      "id": "sv-0550",
+      "sourceID": 550,
+      "english": "confusing",
+      "swedish": "förvirrande"
+    },
+    {
+      "id": "sv-0551",
+      "sourceID": 551,
+      "english": "congress",
+      "swedish": "en kongress"
+    },
+    {
+      "id": "sv-0552",
+      "sourceID": 552,
+      "english": "connect",
+      "swedish": "ansluta"
+    },
+    {
+      "id": "sv-0553",
+      "sourceID": 553,
+      "english": "connected",
+      "swedish": "ansluten"
+    },
+    {
+      "id": "sv-0554",
+      "sourceID": 554,
+      "english": "connection",
+      "swedish": "en anslutning"
+    },
+    {
+      "id": "sv-0555",
+      "sourceID": 555,
+      "english": "conscious",
+      "swedish": "vid medvetande"
+    },
+    {
+      "id": "sv-0556",
+      "sourceID": 556,
+      "english": "consequence",
+      "swedish": "en konsekvens"
+    },
+    {
+      "id": "sv-0557",
+      "sourceID": 557,
+      "english": "conservative",
+      "swedish": "konservativ"
+    },
+    {
+      "id": "sv-0558",
+      "sourceID": 558,
+      "english": "consider",
+      "swedish": "överväga"
+    },
+    {
+      "id": "sv-0559",
+      "sourceID": 559,
+      "english": "consideration",
+      "swedish": "hänsyn"
+    },
+    {
+      "id": "sv-0560",
+      "sourceID": 560,
+      "english": "consist",
+      "swedish": "bestå av"
+    },
+    {
+      "id": "sv-0561",
+      "sourceID": 561,
+      "english": "consistent",
+      "swedish": "konsekvent"
+    },
+    {
+      "id": "sv-0562",
+      "sourceID": 562,
+      "english": "constant",
+      "swedish": "konstant"
+    },
+    {
+      "id": "sv-0563",
+      "sourceID": 563,
+      "english": "constantly",
+      "swedish": "ständigt"
+    },
+    {
+      "id": "sv-0564",
+      "sourceID": 564,
+      "english": "construct",
+      "swedish": "konstruera"
+    },
+    {
+      "id": "sv-0565",
+      "sourceID": 565,
+      "english": "construction",
+      "swedish": "en konstruktion"
+    },
+    {
+      "id": "sv-0566",
+      "sourceID": 566,
+      "english": "consume",
+      "swedish": "förbruka"
+    },
+    {
+      "id": "sv-0567",
+      "sourceID": 567,
+      "english": "consumer",
+      "swedish": "en konsument"
+    },
+    {
+      "id": "sv-0568",
+      "sourceID": 568,
+      "english": "contact",
+      "swedish": "en kontakt"
+    },
+    {
+      "id": "sv-0569",
+      "sourceID": 569,
+      "english": "contain",
+      "swedish": "innehålla"
+    },
+    {
+      "id": "sv-0570",
+      "sourceID": 570,
+      "english": "container",
+      "swedish": "en behållare"
+    },
+    {
+      "id": "sv-0571",
+      "sourceID": 571,
+      "english": "contemporary",
+      "swedish": "samtida"
+    },
+    {
+      "id": "sv-0572",
+      "sourceID": 572,
+      "english": "content",
+      "swedish": "ett innehåll"
+    },
+    {
+      "id": "sv-0573",
+      "sourceID": 573,
+      "english": "contest",
+      "swedish": "en tävling"
+    },
+    {
+      "id": "sv-0574",
+      "sourceID": 574,
+      "english": "context",
+      "swedish": "ett sammanhang"
+    },
+    {
+      "id": "sv-0575",
+      "sourceID": 575,
+      "english": "continent",
+      "swedish": "en kontinent"
+    },
+    {
+      "id": "sv-0576",
+      "sourceID": 576,
+      "english": "continue",
+      "swedish": "fortsätta"
+    },
+    {
+      "id": "sv-0577",
+      "sourceID": 577,
+      "english": "continuous",
+      "swedish": "kontinuerlig"
+    },
+    {
+      "id": "sv-0578",
+      "sourceID": 578,
+      "english": "contract",
+      "swedish": "ett kontrakt"
+    },
+    {
+      "id": "sv-0579",
+      "sourceID": 579,
+      "english": "contrast",
+      "swedish": "en kontrast"
+    },
+    {
+      "id": "sv-0580",
+      "sourceID": 580,
+      "english": "contribute",
+      "swedish": "bidra"
+    },
+    {
+      "id": "sv-0581",
+      "sourceID": 581,
+      "english": "contribution",
+      "swedish": "ett bidrag"
+    },
+    {
+      "id": "sv-0582",
+      "sourceID": 582,
+      "english": "control",
+      "swedish": "kontrollera"
+    },
+    {
+      "id": "sv-0583",
+      "sourceID": 583,
+      "english": "convenient",
+      "swedish": "praktisk"
+    },
+    {
+      "id": "sv-0584",
+      "sourceID": 584,
+      "english": "conversation",
+      "swedish": "ett samtal"
+    },
+    {
+      "id": "sv-0585",
+      "sourceID": 585,
+      "english": "convert",
+      "swedish": "omvandla"
+    },
+    {
+      "id": "sv-0586",
+      "sourceID": 586,
+      "english": "convince",
+      "swedish": "övertyga"
+    },
+    {
+      "id": "sv-0587",
+      "sourceID": 587,
+      "english": "convinced",
+      "swedish": "övertygad"
+    },
+    {
+      "id": "sv-0588",
+      "sourceID": 588,
+      "english": "cook",
+      "swedish": "laga mat"
+    },
+    {
+      "id": "sv-0589",
+      "sourceID": 589,
+      "english": "cookie",
+      "swedish": "en kaka"
+    },
+    {
+      "id": "sv-0590",
+      "sourceID": 590,
+      "english": "cooking",
+      "swedish": "matlagning"
+    },
+    {
+      "id": "sv-0591",
+      "sourceID": 591,
+      "english": "cool",
+      "swedish": "sval"
+    },
+    {
+      "id": "sv-0592",
+      "sourceID": 592,
+      "english": "copy",
+      "swedish": "en kopia"
+    },
+    {
+      "id": "sv-0593",
+      "sourceID": 593,
+      "english": "core",
+      "swedish": "en kärna"
+    },
+    {
+      "id": "sv-0594",
+      "sourceID": 594,
+      "english": "corn",
+      "swedish": "majs"
+    },
+    {
+      "id": "sv-0595",
+      "sourceID": 595,
+      "english": "corner",
+      "swedish": "ett hörn"
+    },
+    {
+      "id": "sv-0596",
+      "sourceID": 596,
+      "english": "corporate",
+      "swedish": "företags-"
+    },
+    {
+      "id": "sv-0597",
+      "sourceID": 597,
+      "english": "correct",
+      "swedish": "rätt"
+    },
+    {
+      "id": "sv-0598",
+      "sourceID": 598,
+      "english": "correctly",
+      "swedish": "korrekt"
+    },
+    {
+      "id": "sv-0599",
+      "sourceID": 599,
+      "english": "cost",
+      "swedish": "kosta"
+    },
+    {
+      "id": "sv-0600",
+      "sourceID": 600,
+      "english": "costume",
+      "swedish": "en kostym"
+    },
+    {
+      "id": "sv-0601",
+      "sourceID": 601,
+      "english": "cotton",
+      "swedish": "bomull"
+    },
+    {
+      "id": "sv-0602",
+      "sourceID": 602,
+      "english": "could",
+      "swedish": "kunde"
+    },
+    {
+      "id": "sv-0603",
+      "sourceID": 603,
+      "english": "council",
+      "swedish": "ett råd"
+    },
+    {
+      "id": "sv-0604",
+      "sourceID": 604,
+      "english": "count",
+      "swedish": "räkna"
+    },
+    {
+      "id": "sv-0605",
+      "sourceID": 605,
+      "english": "country",
+      "swedish": "ett land"
+    },
+    {
+      "id": "sv-0606",
+      "sourceID": 606,
+      "english": "countryside",
+      "swedish": "landsbygd"
+    },
+    {
+      "id": "sv-0607",
+      "sourceID": 607,
+      "english": "county",
+      "swedish": "ett län"
+    },
+    {
+      "id": "sv-0608",
+      "sourceID": 608,
+      "english": "couple",
+      "swedish": "ett par"
+    },
+    {
+      "id": "sv-0609",
+      "sourceID": 609,
+      "english": "courage",
+      "swedish": "mod"
+    },
+    {
+      "id": "sv-0610",
+      "sourceID": 610,
+      "english": "course",
+      "swedish": "en kurs"
+    },
+    {
+      "id": "sv-0611",
+      "sourceID": 611,
+      "english": "court",
+      "swedish": "en domstol"
+    },
+    {
+      "id": "sv-0612",
+      "sourceID": 612,
+      "english": "cousin",
+      "swedish": "en kusin"
+    },
+    {
+      "id": "sv-0613",
+      "sourceID": 613,
+      "english": "cover",
+      "swedish": "täcka"
+    },
+    {
+      "id": "sv-0614",
+      "sourceID": 614,
+      "english": "covered",
+      "swedish": "täckt"
+    },
+    {
+      "id": "sv-0615",
+      "sourceID": 615,
+      "english": "cow",
+      "swedish": "en ko"
+    },
+    {
+      "id": "sv-0616",
+      "sourceID": 616,
+      "english": "crash",
+      "swedish": "en krock"
+    },
+    {
+      "id": "sv-0617",
+      "sourceID": 617,
+      "english": "crazy",
+      "swedish": "galen"
+    },
+    {
+      "id": "sv-0618",
+      "sourceID": 618,
+      "english": "cream",
+      "swedish": "grädde"
+    },
+    {
+      "id": "sv-0619",
+      "sourceID": 619,
+      "english": "create",
+      "swedish": "skapa"
+    },
+    {
+      "id": "sv-0620",
+      "sourceID": 620,
+      "english": "creation",
+      "swedish": "en skapelse"
+    },
+    {
+      "id": "sv-0621",
+      "sourceID": 621,
+      "english": "creative",
+      "swedish": "kreativ"
+    },
+    {
+      "id": "sv-0622",
+      "sourceID": 622,
+      "english": "creature",
+      "swedish": "en varelse"
+    },
+    {
+      "id": "sv-0623",
+      "sourceID": 623,
+      "english": "credit",
+      "swedish": "kredit"
+    },
+    {
+      "id": "sv-0624",
+      "sourceID": 624,
+      "english": "crew",
+      "swedish": "en besättning"
+    },
+    {
+      "id": "sv-0625",
+      "sourceID": 625,
+      "english": "crime",
+      "swedish": "ett brott"
+    },
+    {
+      "id": "sv-0626",
+      "sourceID": 626,
+      "english": "criminal",
+      "swedish": "en brottsling"
+    },
+    {
+      "id": "sv-0627",
+      "sourceID": 627,
+      "english": "crisis",
+      "swedish": "en kris"
+    },
+    {
+      "id": "sv-0628",
+      "sourceID": 628,
+      "english": "criterion",
+      "swedish": "ett kriterium"
+    },
+    {
+      "id": "sv-0629",
+      "sourceID": 629,
+      "english": "critic",
+      "swedish": "en kritiker"
+    },
+    {
+      "id": "sv-0630",
+      "sourceID": 630,
+      "english": "critical",
+      "swedish": "kritisk"
+    },
+    {
+      "id": "sv-0631",
+      "sourceID": 631,
+      "english": "criticism",
+      "swedish": "kritik"
+    },
+    {
+      "id": "sv-0632",
+      "sourceID": 632,
+      "english": "criticize",
+      "swedish": "kritisera"
+    },
+    {
+      "id": "sv-0633",
+      "sourceID": 633,
+      "english": "crop",
+      "swedish": "en gröda"
+    },
+    {
+      "id": "sv-0634",
+      "sourceID": 634,
+      "english": "cross",
+      "swedish": "korsa"
+    },
+    {
+      "id": "sv-0635",
+      "sourceID": 635,
+      "english": "crowd",
+      "swedish": "en folkmassa"
+    },
+    {
+      "id": "sv-0636",
+      "sourceID": 636,
+      "english": "crowded",
+      "swedish": "fullsatt"
+    },
+    {
+      "id": "sv-0637",
+      "sourceID": 637,
+      "english": "crucial",
+      "swedish": "avgörande"
+    },
+    {
+      "id": "sv-0638",
+      "sourceID": 638,
+      "english": "cruel",
+      "swedish": "grym"
+    },
+    {
+      "id": "sv-0639",
+      "sourceID": 639,
+      "english": "cry",
+      "swedish": "gråta"
+    },
+    {
+      "id": "sv-0640",
+      "sourceID": 640,
+      "english": "cultural",
+      "swedish": "kulturell"
+    },
+    {
+      "id": "sv-0641",
+      "sourceID": 641,
+      "english": "culture",
+      "swedish": "en kultur"
+    },
+    {
+      "id": "sv-0642",
+      "sourceID": 642,
+      "english": "cup",
+      "swedish": "en kopp"
+    },
+    {
+      "id": "sv-0643",
+      "sourceID": 643,
+      "english": "cupboard",
+      "swedish": "ett skåp"
+    },
+    {
+      "id": "sv-0644",
+      "sourceID": 644,
+      "english": "cure",
+      "swedish": "bota"
+    },
+    {
+      "id": "sv-0645",
+      "sourceID": 645,
+      "english": "curly",
+      "swedish": "lockig"
+    },
+    {
+      "id": "sv-0646",
+      "sourceID": 646,
+      "english": "currency",
+      "swedish": "en valuta"
+    },
+    {
+      "id": "sv-0647",
+      "sourceID": 647,
+      "english": "current",
+      "swedish": "aktuell"
+    },
+    {
+      "id": "sv-0648",
+      "sourceID": 648,
+      "english": "currently",
+      "swedish": "för närvarande"
+    },
+    {
+      "id": "sv-0649",
+      "sourceID": 649,
+      "english": "curtain",
+      "swedish": "en gardin"
+    },
+    {
+      "id": "sv-0650",
+      "sourceID": 650,
+      "english": "curve",
+      "swedish": "en kurva"
+    },
+    {
+      "id": "sv-0651",
+      "sourceID": 651,
+      "english": "curved",
+      "swedish": "böjd"
+    },
+    {
+      "id": "sv-0652",
+      "sourceID": 652,
+      "english": "custom",
+      "swedish": "en sed"
+    },
+    {
+      "id": "sv-0653",
+      "sourceID": 653,
+      "english": "customer",
+      "swedish": "en kund"
+    },
+    {
+      "id": "sv-0654",
+      "sourceID": 654,
+      "english": "cut",
+      "swedish": "skära"
+    },
+    {
+      "id": "sv-0655",
+      "sourceID": 655,
+      "english": "cycle",
+      "swedish": "en cykel"
     }
   ]
 }

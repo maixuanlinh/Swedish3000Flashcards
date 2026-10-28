@@ -1,0 +1,18 @@
+{
+  "id": "sv-0856",
+  "english": "electronic",
+  "swedish": "elektronisk",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"elektronisk\". Smaller English meaning verbatim: \"electronic\".\nScene: A hand holding a phone with a digital train ticket and a generic QR pattern beside a railway gate.\nMemory-link caption verbatim: \"elektronisk = electronic.\".\nSwedish example in bottom strip verbatim: \"Biljetten är elektronisk.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nAttached image is STYLE/LAYOUT reference only. Use new scene and exact supplied teaching text. Cream/gold heading, navy type, gold memory caption, pale blue example strip, warm editorial photo. Accurate Swedish å ä ö. Text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-a5a1e5d9-0f03-40cf-92f4-e6beccde481b.png",
+  "artwork": "Content/Artwork/sv-0856.png",
+  "sha256": "5fd43392af28b6b09958da532c15834f414b31b701494b802d71f1c1c067469a",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

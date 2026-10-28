@@ -1,0 +1,18 @@
+{
+  "id": "sv-0667",
+  "english": "daughter",
+  "swedish": "en dotter",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en dotter\". Smaller English meaning verbatim: \"daughter\".\nScene: Parents sit beside their daughter reading a book.\nMemory-link caption verbatim: \"dotter = daughter.\".\nSwedish example in bottom strip verbatim: \"Deras dotter läser en bok.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nAttached image is STYLE/LAYOUT reference only. Use new scene and exact supplied teaching text. Cream/gold heading, navy type, gold memory caption, pale blue example strip, warm editorial photo. Accurate Swedish å ä ö. Text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-0c8d08e7-c9ca-4256-8bd9-c9ba81d85048.png",
+  "artwork": "Content/Artwork/sv-0667.png",
+  "sha256": "fab98a525a493486eaa30bbe9477f4323859234aa3cda7af7b1216a0a8d4f13f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

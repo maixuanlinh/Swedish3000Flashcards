@@ -1,0 +1,18 @@
+{
+  "id": "sv-0877",
+  "english": "enable",
+  "swedish": "möjliggöra",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"möjliggöra\". Smaller English meaning verbatim: \"enable\".\nScene: A gentle entrance ramp enabling a wheelchair user to enter a library independently.\nMemory-link caption verbatim: \"möjlig = possible; möjliggöra = enable.\".\nSwedish example in bottom strip verbatim: \"Rampens lutning möjliggör enkel tillgång.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nAttached image is STYLE/LAYOUT reference only. Use new scene and exact supplied teaching text. Cream/gold heading, navy type, gold memory caption, pale blue example strip, warm editorial photo. Accurate Swedish å ä ö. Text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-933e0fc5-59f1-458a-9d99-4d39372040d5.png",
+  "artwork": "Content/Artwork/sv-0877.png",
+  "sha256": "1ce4b518cdf9df33e25cbeaf1ad4ac2683c7346b9ccf04229a2e9fb42df06c34",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

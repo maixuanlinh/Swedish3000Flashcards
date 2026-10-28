@@ -1,0 +1,48 @@
+819|varje|Varje elev får en bok.|Each student gets a book.|varje = each, one by one.|A teacher hands one identical book to each of four students, individual gold arrows linking students and books.
+820|ett öra|Hon lyssnar med örat mot dörren.|She listens with her ear against the door.|öra = ear; point to your ear.|Close view of a woman gently holding her ear against a wooden door to hear a faint sound.
+821|tidig|Vi tar ett tidigt tåg.|We take an early train.|tidig = early; before the usual time.|A Swedish railway platform at sunrise, two travellers boarding the first train with a clock showing six.
+822|tjäna|Hon tjänar pengar på att sälja bröd.|She earns money by selling bread.|tjäna pengar = earn money.|A smiling baker selling a loaf to a customer and receiving coins across a bakery counter.
+823|jorden|Jorden kretsar runt solen.|The earth revolves around the sun.|jorden = the earth, our planet.|A tactile miniature Earth with blue oceans and green land orbiting a warm glowing sun along one clear curved arrow.
+824|en jordbävning|Jordbävningen fick huset att skaka.|The earthquake made the house shake.|jord = earth; bävning = shaking.|A small model house shaking on a cracked ground model, subtle vibration lines, no injured people.
+825|lätt|Hon löser uppgiften lätt.|She solves the task easily.|lätt can mean easily.|A woman confidently fitting the final piece into a very simple three-piece puzzle.
+826|öster|Solen går upp i öster.|The sun rises in the east.|öster = east; sunrise direction.|A sunrise over a Swedish lake with a compass arrow pointing toward the sun.
+827|östlig|En östlig vind blåser i dag.|An eastern wind is blowing today.|östlig = eastern or easterly.|A garden weather vane and scarf blowing westward, a clear arrow from the eastern sunrise toward the garden.
+828|enkel|Det är en enkel fråga.|It is an easy question.|enkel = easy or simple.|A learner smiling at a large card with one simple apple-counting question showing one apple plus one apple.
+829|äta|Vi äter frukost tillsammans.|We eat breakfast together.|äta = eat.|Two adults eating bread and fruit together at a warm Swedish breakfast table.
+830|ekonomisk|Landet har ekonomiska problem.|The country has economic problems.|ekonomisk = economic in this context.|A news analyst studying a falling national production graph beside a miniature country, empty factories and a budget notebook.
+831|en ekonomi|Turismen är viktig för landets ekonomi.|Tourism is important for the country's economy.|ekonomi = economy.|A Swedish harbour town linking visitors, a hotel, a cafe and a ferry with gold arrows suggesting spending across the local economy.
+832|en kant|Ställ inte glaset på bordets kant.|Do not put the glass on the edge of the table.|kant = edge.|A hand moving a glass away from the very edge of a wooden table, edge highlighted with a gold line.
+833|redigera|Jag redigerar texten före publicering.|I edit the text before publication.|redigera = edit a text or image.|A writer revising a printed paragraph with a pencil beside a laptop, clear correction marks but no additional readable sentences.
+834|en upplaga|Det här är bokens andra upplaga.|This is the book's second edition.|upplaga = edition of a book.|Two otherwise matching books, the second newer book prominently marked with the numeral 2.
+835|en redaktör|Redaktören läser artikeln noga.|The editor reads the article carefully.|redaktör = editor.|An editor carefully reading an article proof at a publishing desk with pencils and page layouts.
+836|utbilda|Skolan utbildar nya kockar.|The school educates new chefs.|utbilda = educate or train.|An instructor teaching adult culinary students to prepare vegetables in a bright training kitchen.
+837|utbildad|Hon är utbildad lärare.|She is an educated teacher.|utbildad = educated or trained.|A qualified woman teacher holding a graduation certificate beside classroom books and a chalkboard.
+838|en utbildning|Han börjar sin utbildning i höst.|He starts his education this autumn.|utbilda → utbildning: educate → education.|A young adult arriving at college on an autumn morning, carrying books past golden leaves.
+839|pedagogisk|Det här är ett pedagogiskt spel.|This is an educational game.|pedagogisk = educational here.|Adults using an engaging tabletop geography game with a globe and map pieces to learn.
+840|en effekt|Förändringen hade en tydlig effekt.|The change had a clear effect.|effekt = effect or result.|A clear before-and-after view of the same wilting plant becoming upright after watering, one watering can between the two views and a gold arrow showing the effect.
+841|effektiv|Det är en effektiv metod.|It is an effective method.|effektiv = effective: it works.|A gardener using a drip watering system that clearly delivers water to plant roots and helps plants thrive.
+842|effektivt|Metoden fungerar effektivt.|The method works effectively.|effektivt = effectively.|Close view of a well-organised drip watering system delivering drops directly to healthy plant roots with minimal wasted water.
+843|effektiv|En effektiv motor sparar energi.|An efficient engine saves energy.|effektiv = efficient: little waste.|Two cutaway model engines producing the same useful motion, one using fewer small energy tokens; highlight the efficient engine.
+844|en ansträngning|Det krävs ansträngning för att nå toppen.|It takes effort to reach the top.|ansträngning = effort.|A hiker making a determined final climb toward a sunny hilltop, sweat and steady movement showing effort.
+845|ett ägg|Jag kokar ett ägg till frukost.|I boil an egg for breakfast.|ägg = egg; similar spelling.|A breakfast table with one boiled egg in a blue egg cup and a small spoon.
+846|åtta|Vi har åtta stolar.|We have eight chairs.|åtta = eight.|Exactly eight simple wooden chairs arranged visibly in two rows of four, small numeral 8 as a visual prop.
+847|arton|Hon fyller arton år i dag.|She turns eighteen today.|arton = eighteen.|An adult celebrating a birthday beside a cake with clearly formed numeral candles 18.
+848|åttio|Min morfar är åttio år.|My grandfather is eighty years old.|åttio = eighty.|A smiling elderly grandfather celebrating beside a cake with clearly formed numeral candles 80.
+849|endera|Du kan välja endera vägen.|You can choose either path.|endera = either one of two.|A walker at a fork with two equally inviting paths, one hand indicating either option.
+850|äldre|En äldre man sitter på bänken.|An elderly man is sitting on the bench.|äldre = elderly or older.|An elderly man with grey hair sitting comfortably on a sunny park bench beside flowers.
+851|välja|Vi väljer en ny ordförande.|We elect a new chairperson.|välja = elect or choose.|A small community association choosing a chairperson by raising hands around a meeting table.
+852|ett val|Det är val på söndag.|There is an election on Sunday.|val = election here.|Adults placing folded ballots in a ballot box at a neutral polling station, no parties or political slogans.
+853|elektrisk|Jag har en elektrisk cykel.|I have an electric bicycle.|elektrisk = electric.|An electric bicycle with a clearly visible battery and motor parked outside a Swedish home.
+854|elektrisk|Vi måste kontrollera den elektriska utrustningen.|We must check the electrical equipment.|elektrisk = electrical.|A qualified technician inspecting unplugged electrical equipment on a tidy workshop bench.
+855|elektricitet|Huset saknar elektricitet efter stormen.|The house has no electricity after the storm.|elektricitet = electricity.|A home after a storm with dark lamps and appliances while an adult safely uses a torch indoors.
+856|elektronisk|Biljetten är elektronisk.|The ticket is electronic.|elektronisk = electronic.|A hand holding a phone with a digital train ticket and a generic QR pattern beside a railway gate.
+857|ett grundämne|Guld är ett grundämne.|Gold is an element.|grund = basic; ämne = substance.|A gleaming gold nugget beside a simple periodic-table tile showing only Au.
+858|en elefant|Elefanten har en lång snabel.|The elephant has a long trunk.|elefant sounds similar to elephant.|A calm elephant in a natural landscape curling its long trunk toward a branch.
+859|en hiss|Vi tar hissen till tredje våningen.|We take the elevator to the third floor.|hiss = elevator.|Two adults entering an elevator with a clearly visible illuminated floor button 3.
+860|elva|Laget har elva spelare.|The team has eleven players.|elva = eleven.|Exactly eleven football players posing together on a pitch, clearly separated in rows of six and five.
+861|annars|Skynda dig, annars missar vi tåget.|Hurry, or else we will miss the train.|annars = or else, otherwise.|Two travellers hurrying toward a train as its doors are about to close, one pointing urgently at a clock.
+862|någon annanstans|Vi kan äta någon annanstans.|We can eat elsewhere.|annanstans = elsewhere, another place.|Two friends outside a full cafe pointing toward a welcoming different cafe across the street.
+863|ett mejl|Jag skickar ett mejl till dig.|I send you an email.|mejl sounds like mail.|A person sending a digital envelope from a laptop toward a friend's phone, a clear gold motion arrow.
+864|generad|Hon blev generad av komplimangen.|She was embarrassed by the compliment.|generad = embarrassed.|A woman blushing gently when a friend warmly compliments her painting in a studio.
+865|pinsam|Det blev en pinsam tystnad.|There was an embarrassing silence.|pinsam = embarrassing or awkward.|Three adults in an awkward pause around a cafe table, looking away with uncertain smiles and an empty speech bubble.
+866|dyka upp|Solen dyker upp bakom molnen.|The sun emerges from behind the clouds.|dyka upp = emerge or appear.|The sun clearly emerging from behind thick soft clouds over a Swedish lake.

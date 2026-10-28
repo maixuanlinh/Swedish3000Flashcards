@@ -1,0 +1,48 @@
+656|en pappa|Min pappa lagar middag.|My dad is cooking dinner.|pappa = dad.|Child helps dad cook dinner at home.
+657|daglig|En daglig promenad gör mig glad.|A daily walk makes me happy.|dag = day; daglig = daily.|Adult walks with dog, seven footprints across a weekly calendar.
+658|en skada|Stormen orsakade en skada på taket.|The storm caused damage to the roof.|skada = damage or injury.|Homeowner inspects a few missing roof tiles after storm.
+659|dansa|Vi dansar till musiken.|We dance to the music.|dansa = dance.|Adults joyfully dance to live music.
+660|en dansare|Hon är en skicklig dansare.|She is a skilled dancer.|dansa → dansare: dance → dancer.|Adult dancer makes graceful pose on stage.
+661|dans|Dans är hennes största intresse.|Dancing is her greatest interest.|dans = dancing as an activity.|Adult enjoys dance class with friends.
+662|en fara|Det finns en fara vid klippkanten.|There is a danger at the cliff edge.|fara = danger.|Hiker stays behind safe barrier at cliff edge with warning symbol.
+663|farlig|Den tunna isen är farlig.|The thin ice is dangerous.|fara → farlig: danger → dangerous.|Adult points to warning sign beside cracked thin ice from shore.
+664|mörk|Skogen är mörk på natten.|The forest is dark at night.|mörk = dark.|Dark forest with small warm lantern.
+665|data|Vi samlar in data om vädret.|We collect data about the weather.|data = recorded information.|Adult records weather readings beside simple chart and thermometer.
+666|ett datum|Vilket datum är mötet?|What is the date of the meeting?|datum = calendar date.|Adult circles meeting date on desk calendar.
+667|en dotter|Deras dotter läser en bok.|Their daughter is reading a book.|dotter = daughter.|Parents sit beside their daughter reading a book.
+668|en dag|En dag har tjugofyra timmar.|A day has twenty-four hours.|dag = day.|Circular day clock shows sunrise, daylight, sunset and night.
+669|död|Växten är död.|The plant is dead.|död = dead, no longer living.|Dry dead houseplant beside healthy living plant, focus on dried plant.
+670|en överenskommelse|Vi har nått en överenskommelse.|We have reached a deal.|överenskommelse = agreement or deal.|Two adults shake hands over agreed document.
+671|kära|Kära Anna, tack för ditt brev.|Dear Anna, thank you for your letter.|kära = dear in a greeting.|Adult writes a friendly letter beginning with supplied example sentence.
+672|en död|Familjen sörjer hans död.|The family mourns his death.|dö → död: die → death.|Adults quietly remember elderly relative beside framed portrait and candle, no body.
+673|en debatt|Vi lyssnar på en debatt om miljön.|We listen to a debate about the environment.|debate → debatt.|Two adult speakers politely debate environmental ideas before audience.
+674|en skuld|Hon betalar av sin skuld.|She is paying off her debt.|skuld = money owed here.|Adult crosses off instalments as debt balance gets smaller.
+675|ett årtionde|Ett årtionde är tio år.|A decade is ten years.|år + tio: årtionde = decade.|Ten calendar blocks form one long timeline, exactly ten.
+676|december|Julen infaller i december.|Christmas falls in December.|December → december.|Snowy Swedish window with December calendar and Christmas candle.
+677|hygglig|De bor i en hygglig lägenhet.|They live in a decent apartment.|hygglig = decent or quite good.|Adults in modest clean comfortable apartment.
+678|bestämma sig|Jag måste bestämma mig i dag.|I must decide today.|bestämma sig = make up one's mind.|Adult chooses one of two travel routes on map.
+679|ett beslut|Det var ett svårt beslut.|It was a difficult decision.|beslut = decision.|Adult chooses between two job offers, one clearly selected.
+680|förklara|Domaren förklarar matchen avslutad.|The referee declares the match over.|förklara = declare in this sentence.|Referee signals end of match as players stop.
+681|minska|Försäljningen börjar minska.|Sales are beginning to decline.|minska = become less.|Shop owner looks at clearly falling sales graph.
+682|dekorera|Vi dekorerar rummet med blommor.|We decorate the room with flowers.|decorate → dekorera.|Adults arrange flowers to decorate room.
+683|en dekoration|Blomman är en vacker dekoration.|The flower is a beautiful decoration.|decoration → dekoration.|One beautiful floral table decoration highlighted.
+684|minska|Vi vill minska mängden avfall.|We want to decrease the amount of waste.|minska = make less.|Adult replaces large overflowing waste bin with smaller sorted waste amount.
+685|djup|Sjön är djup.|The lake is deep.|djup = deep.|Cutaway lake shows substantial depth beneath small boat.
+686|djupt|Hon andas djupt.|She breathes deeply.|djup → djupt: deep → deeply.|Adult takes calm deep breath outdoors, subtle airflow arrows.
+687|besegra|Vårt lag besegrade mästarna.|Our team defeated the champions.|besegra = defeat an opponent.|Adult sports team celebrates victory with handshake to opponents.
+688|försvara|Målvakten försvarar målet.|The goalkeeper defends the goal.|försvara = defend.|Goalkeeper stops ball from entering goal.
+689|ett försvar|Laget har ett starkt försvar.|The team has a strong defense.|försvara → försvar: defend → defense.|Football defenders form protective line in front of goal.
+690|definiera|Kan du definiera ordet?|Can you define the word?|define → definiera.|Language teacher points from highlighted word to clear meaning in book.
+691|bestämd|Vi har ingen bestämd tid än.|We do not have a definite time yet.|bestämd = definite or fixed.|Adults compare clocks beside blank appointment time.
+692|definitivt|Jag kommer definitivt i morgon.|I will definitely come tomorrow.|definitely → definitivt.|Adult confidently confirms tomorrow's appointment with large checkmark.
+693|en definition|Läs ordets definition i ordboken.|Read the word's definition in the dictionary.|definition = explanation of meaning.|Open dictionary with one meaning highlighted.
+694|en grad|Temperaturen steg en grad.|The temperature rose one degree.|grad = degree of temperature.|Two thermometers differ by exactly one Celsius degree.
+695|en försening|Tåget har en försening på tio minuter.|The train has a ten-minute delay.|försening = delay.|Passenger compares original train time with new time ten minutes later.
+696|avsiktlig|Det var en avsiktlig handling.|It was a deliberate action.|avsikt = intention; avsiktlig = deliberate.|Adult intentionally moves one chess piece after planning.
+697|avsiktligt|Han lämnade dörren öppen avsiktligt.|He left the door open deliberately.|avsiktligt = on purpose.|Adult deliberately props door open with doorstop.
+698|utsökt|Soppan är utsökt.|The soup is delicious.|utsökt = delicious or exquisite.|Adult tastes wonderful bowl of soup, delighted expression.
+699|leverera|Budet levererar ett paket.|The courier delivers a parcel.|deliver → leverera.|Courier hands parcel to adult at front door.
+700|en leverans|Vi väntar på en leverans.|We are waiting for a delivery.|leverera → leverans: deliver → delivery.|Adult waits as delivery van brings labelled plain parcels.
+701|kräva|Kunden kräver ett svar.|The customer demands an answer.|kräva = demand.|Customer firmly requests answer at service desk, no aggression.
+702|demonstrera|Hon demonstrerar hur maskinen fungerar.|She demonstrates how the machine works.|demonstrate → demonstrera.|Instructor shows adult learners how simple coffee machine works.
+703|en tandläkare|Jag ska gå till tandläkaren.|I am going to the dentist.|tand = tooth; läkare = doctor.|Friendly dentist shows tooth model to seated adult patient.

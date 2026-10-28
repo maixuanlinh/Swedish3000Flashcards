@@ -1,0 +1,18 @@
+{
+  "id": "sv-0972",
+  "english": "expression",
+  "swedish": "ett uttryck",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett uttryck\". Smaller English meaning verbatim: \"expression\".\nScene: Adult language learners examining a short phrase card showing only Hej då in a speech bubble.\nMemory-link caption verbatim: \"uttryck = expression or phrase.\".\nSwedish example in bottom strip verbatim: \"Det är ett vanligt uttryck på svenska.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nStyle reference only; square image, exact supplied Swedish teaching text.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-a45c5083-cf4c-4650-954b-c3b2f36fc3c2.png",
+  "artwork": "Content/Artwork/sv-0972.png",
+  "sha256": "a0706c74ecb6d528af009f95fff4eb3c50f50f04b9ca558f7a7dfeb9b368945b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

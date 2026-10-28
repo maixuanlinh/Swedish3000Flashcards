@@ -1,0 +1,18 @@
+{
+  "id": "sv-0853",
+  "english": "electric",
+  "swedish": "elektrisk",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"elektrisk\". Smaller English meaning verbatim: \"electric\".\nScene: An electric bicycle with a clearly visible battery and motor parked outside a Swedish home.\nMemory-link caption verbatim: \"elektrisk = electric.\".\nSwedish example in bottom strip verbatim: \"Jag har en elektrisk cykel.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nAttached image is STYLE/LAYOUT reference only. Use new scene and exact supplied teaching text. Cream/gold heading, navy type, gold memory caption, pale blue example strip, warm editorial photo. Accurate Swedish å ä ö. Text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-1f7451b2-5e3c-4cbc-a63e-90db5733ab1d.png",
+  "artwork": "Content/Artwork/sv-0853.png",
+  "sha256": "26d0b4490f07c38218c75422ec4fb8ead819ac1c2654d55e78a7072b79028cde",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,48 @@
+704|förneka|Han förnekar att han tog nyckeln.|He denies taking the key.|förneka = deny.|Adult shakes head beside missing-key question, calm conversation.
+705|en avdelning|Hon arbetar på en annan avdelning.|She works in another department.|avdelning = department or section.|Office floor divided into distinct teams, adult walks to another team.
+706|en avgång|Tågets avgång är klockan nio.|The train's departure is at nine o'clock.|av + gång: avgång = departure.|Train leaves station beside clock showing nine.
+707|bero på|Resan beror på vädret.|The trip depends on the weather.|bero på = depend on.|Adult holds picnic bag while watching raincloud and sun forecast.
+708|deprimerad|Hon känner sig deprimerad.|She feels depressed.|deprimerad = depressed.|Adult sits quietly in subdued room with supportive friend nearby, no self-harm.
+709|deprimerande|Den tomma fabriken är en deprimerande syn.|The empty factory is a depressing sight.|deprimerande = causing sadness.|Abandoned empty factory in grey light, melancholy atmosphere.
+710|ett djup|Sjön har ett djup på tio meter.|The lake has a depth of ten metres.|djup = depth as a noun here.|Lake cutaway with vertical ten-metre depth marker.
+711|beskriva|Kan du beskriva huset?|Can you describe the house?|beskriva = tell what something is like.|Adult describes red cottage while friend sketches it.
+712|en beskrivning|Boken ger en tydlig beskrivning av staden.|The book gives a clear description of the city.|beskriva → beskrivning: describe → description.|Reader compares city description with view outside window.
+713|en öken|Det regnar sällan i öknen.|It rarely rains in the desert.|öken = desert.|Vast golden desert dunes, traveller with water and sunhat.
+714|förtjäna|Du förtjänar en paus.|You deserve a break.|förtjäna = deserve.|Adult finishes hard work and relaxes with cup of tea.
+715|formge|Hon formger en ny stol.|She designs a new chair.|form + ge: give something a form.|Designer develops distinctive chair from sketch to model.
+716|en formgivare|Han är formgivare och skapar lampor.|He is a designer and creates lamps.|formge → formgivare: design → designer.|Adult designer sketches and models elegant lamp.
+717|en önskan|Hon har en stark önskan att resa.|She has a strong desire to travel.|önskan = wish or desire.|Adult looks longingly at travel map with suitcase.
+718|ett skrivbord|Boken ligger på skrivbordet.|The book is on the desk.|skriv = write; bord = table.|Writing desk with open book and pen.
+719|desperat|Han är desperat efter att hitta nycklarna.|He is desperate to find the keys.|desperate → desperat.|Adult urgently searches bag and pockets for keys before appointment.
+720|trots|Vi går ut trots regnet.|We go outside despite the rain.|trots = despite.|Adults walk happily under umbrellas in rain.
+721|en efterrätt|Vi äter glass till efterrätt.|We have ice cream for dessert.|efter = after; rätt = dish.|Ice cream served after finished main course.
+722|ett resmål|Stockholm är vårt resmål.|Stockholm is our destination.|resa = travel; mål = goal.|Travel map route ends at Stockholm with suitcase beside it.
+723|förstöra|Stormen förstörde bron.|The storm destroyed the bridge.|förstöra = destroy.|Damaged small footbridge after storm, no people in danger.
+724|en detalj|Jag lade märke till en liten detalj.|I noticed a small detail.|detail → detalj.|Magnifying glass reveals tiny carved detail in wooden ornament.
+725|detaljerad|Hon ritade en detaljerad karta.|She drew a detailed map.|detalj → detaljerad: detail → detailed.|Adult carefully draws detailed town map.
+726|upptäcka|Sensorn kan upptäcka rök.|The sensor can detect smoke.|upptäcka = detect or discover.|Smoke detector senses faint cooking smoke, simple sensor-wave symbol.
+727|en detektiv|Detektiven söker efter ledtrådar.|The detective looks for clues.|detective → detektiv.|Adult detective studies footprints with magnifying glass.
+728|fastställa|Vi måste fastställa orsaken.|We must determine the cause.|fastställa = establish or determine.|Mechanic examines bicycle fault and identifies broken chain.
+729|beslutsam|Hon är beslutsam och ger inte upp.|She is determined and does not give up.|beslut = decision; beslutsam = determined.|Adult persistently climbs gentle hiking trail toward summit.
+730|utveckla|Vi utvecklar en ny app.|We are developing a new app.|utveckla = develop.|Adults work together on phone app sketches and prototype.
+731|en utveckling|Barnets utveckling går snabbt.|The child's development is rapid.|utveckla → utveckling: develop → development.|Family photo sequence shows child learning to crawl, walk and build blocks.
+732|en apparat|Den här apparaten mäter temperaturen.|This device measures the temperature.|apparat = device.|Adult holds simple digital temperature-measuring device.
+733|ett diagram|Diagrammet visar hur staden har vuxit.|The diagram shows how the city has grown.|diagram = visual presentation of information.|Adult points to clear rising bar diagram of city growth.
+734|en dialog|Filmen har en rolig dialog.|The film has funny dialogue.|dialogue → dialog.|Two adult actors exchange amusing dialogue on film set.
+735|en diamant|Ringen har en liten diamant.|The ring has a small diamond.|diamond → diamant.|Close-up ring with one small sparkling diamond.
+736|en dagbok|Jag skriver i min dagbok varje kväll.|I write in my diary every evening.|dag = day; bok = book.|Adult writes personal diary by bedside lamp.
+737|en ordbok|Jag slår upp ordet i en ordbok.|I look up the word in a dictionary.|ord = word; bok = book.|Adult looks up Swedish word in bilingual dictionary.
+738|dö|Växten kan dö utan vatten.|The plant can die without water.|dö = die; död = dead.|Wilted houseplant beside empty watering can, visual water reminder.
+739|en kost|En varierad kost är viktig.|A varied diet is important.|kost = the food one regularly eats.|Varied balanced meal ingredients on kitchen table.
+740|en skillnad|Ser du någon skillnad mellan bilderna?|Do you see any difference between the pictures?|skillnad = difference.|Two almost identical cottage pictures differ in one window colour.
+741|annorlunda|Det här huset är annorlunda.|This house is different.|annorlunda = different, unlike the others.|One round house among otherwise rectangular houses.
+742|annorlunda|Vi tänker annorlunda om frågan.|We think differently about the issue.|annorlunda can mean differently.|Two adults imagine different solutions to same puzzle.
+743|svår|Uppgiften är svår.|The task is difficult.|svår = difficult.|Adult concentrates on challenging jigsaw puzzle.
+744|en svårighet|Vi stötte på en oväntad svårighet.|We encountered an unexpected difficulty.|svår → svårighet: difficult → difficulty.|Hikers find unexpected fallen tree blocking path.
+745|gräva|Han gräver en grop i trädgården.|He is digging a hole in the garden.|gräva = dig.|Adult uses spade to dig planting hole in garden.
+746|digital|Jag använder en digital kalender.|I use a digital calendar.|digital = digital.|Adult checks calendar on tablet beside paper calendar.
+747|en middag|Vi äter middag tillsammans.|We eat dinner together.|middag = dinner here.|Family shares evening meal at table.
+748|direkt|Det finns ett direkt tåg till Malmö.|There is a direct train to Malmö.|direct → direkt.|Single train route joins two cities with no changes, Malmö destination.
+749|en riktning|Vi går i samma riktning.|We are walking in the same direction.|riktning = direction.|Two adults walk along same large arrow on path.
+750|direkt|Jag går direkt hem efter jobbet.|I go directly home after work.|direkt = directly, without a stop.|Adult follows straight route from office to home.
+751|en regissör|Regissören leder inspelningen.|The director leads the filming.|regissör = film director.|Adult film director guides actors beside camera.

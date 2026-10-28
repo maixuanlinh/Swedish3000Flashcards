@@ -1,0 +1,18 @@
+{
+  "id": "sv-0760",
+  "english": "discipline",
+  "swedish": "disciplin",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"disciplin\". Smaller English meaning verbatim: \"discipline\".\nScene: Adult practises piano with daily practice calendar.\nMemory-link caption verbatim: \"disciplin = consistent self-control here.\".\nSwedish example in bottom strip verbatim: \"Det krävs disciplin för att öva varje dag.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nAttached image is STYLE/LAYOUT reference only. Use new scene and exact supplied teaching text. Cream/gold heading, navy type, gold memory caption, pale blue example strip, warm editorial photo. Accurate Swedish å ä ö. Text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-53b20e86-04cb-4ee5-ad14-7a8f30c368b1.png",
+  "artwork": "Content/Artwork/sv-0760.png",
+  "sha256": "baf8428510e4f10dae7ffd1be34cd09ebd489a3902ef1665c0dd7a8c60e4a467",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-0961",
+  "english": "experiment",
+  "swedish": "ett experiment",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett experiment\". Smaller English meaning verbatim: \"experiment\".\nScene: A teacher demonstrating a harmless sink-or-float water experiment using a cork and a stone in a clear bowl.\nMemory-link caption verbatim: \"experiment = experiment.\".\nSwedish example in bottom strip verbatim: \"Vi gör ett enkelt experiment med vatten.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nAttached image is STYLE/LAYOUT reference only. Use new scene and exact supplied teaching text. Cream/gold heading, navy type, gold memory caption, pale blue example strip, warm editorial photo. Accurate Swedish å ä ö. Text fully inside margins. One square image.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-fec3bac4-de1b-4374-8a59-2445a6b2545c.png",
+  "artwork": "Content/Artwork/sv-0961.png",
+  "sha256": "5b4af9519ac150e4e5cfdfeaa71cb75560b4f3b087c24924253ddd76f7578966",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

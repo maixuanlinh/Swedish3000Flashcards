@@ -1,0 +1,67 @@
+752|smuts|Det ligger smuts på golvet.|There is dirt on the floor.|smuts = dirt.|Muddy footprints leave dirt on clean floor.
+753|smutsig|Mina skor är smutsiga.|My shoes are dirty.|smuts → smutsig: dirt → dirty.|Adult holds pair of clearly muddy shoes.
+754|en nackdel|Det höga priset är en nackdel.|The high price is a disadvantage.|nackdel = disadvantage.|Adult weighs attractive bicycle against very high price tag.
+755|inte hålla med|Jag håller inte med dig.|I disagree with you.|inte hålla med = disagree.|Two adults politely show different opinions on a plan.
+756|försvinna|Solen försvinner bakom molnen.|The sun disappears behind the clouds.|försvinna = disappear.|Sun partly vanishes behind thick cloud.
+757|besviken|Hon blev besviken på resultatet.|She was disappointed with the result.|besviken = feeling disappointed.|Adult looks disappointed at failed pottery piece.
+758|nedslående|Resultatet var nedslående.|The result was disappointing.|nedslående = disappointing or disheartening.|Lopsided finished cake beside ambitious cake sketch, disappointed baker.
+759|en katastrof|Översvämningen var en katastrof.|The flood was a disaster.|catastrophe → katastrof.|Flooded empty town street seen safely from high ground, no casualties.
+760|disciplin|Det krävs disciplin för att öva varje dag.|It takes discipline to practise every day.|disciplin = consistent self-control here.|Adult practises piano with daily practice calendar.
+761|en rabatt|Butiken ger tio procents rabatt.|The shop gives a ten-percent discount.|rabatt = discount.|Shop assistant shows price reduced from 100 to 90, simple ten-percent symbol.
+762|upptäcka|Barnen upptäckte en grotta.|The children discovered a cave.|upptäcka = discover something new.|Family notices small cave entrance while safely hiking together.
+763|en upptäckt|Fyndet var en viktig upptäckt.|The find was an important discovery.|upptäcka → upptäckt: discover → discovery.|Archaeologist uncovers ancient pottery fragment with brush.
+764|diskutera|Vi diskuterar planen tillsammans.|We discuss the plan together.|discuss → diskutera.|Adults discuss house plan around table.
+765|en diskussion|Vi hade en lång diskussion om resan.|We had a long discussion about the trip.|diskutera → diskussion.|Friends discuss travel map around table.
+766|en sjukdom|Läkaren behandlar en ovanlig sjukdom.|The doctor treats a rare disease.|sjuk = ill; sjukdom = disease.|Generic doctor discusses diagnosis with adult patient, no specific disease or treatment claims.
+767|en maträtt|Pasta är min favoriträtt.|Pasta is my favourite dish.|mat = food; rätt = dish.|Delicious pasta dish on plate in restaurant.
+768|oärlig|Det var oärligt att ljuga.|It was dishonest to lie.|o- + ärlig: dishonest.|Adult hides broken vase while claiming innocence, clear harmless fiction.
+769|ogilla|Jag ogillar höga ljud.|I dislike loud noises.|o- + gilla: dislike.|Adult covers ears near noisy speaker, gentle sound-wave symbols.
+770|avfärda|Hon avfärdar förslaget.|She dismisses the proposal.|avfärda = reject without further consideration.|Adult sets rejected proposal aside with calm decisive gesture.
+771|visa|Skärmen visar temperaturen.|The screen displays the temperature.|visa = show or display.|Large digital screen clearly displays temperature, adult points to it.
+772|ett avstånd|Avståndet till skolan är två kilometer.|The distance to school is two kilometres.|avstånd = distance.|Map shows measured two-kilometre route between home and school.
+773|dela ut|Vi delar ut mat till grannarna.|We distribute food to the neighbours.|dela ut = distribute or hand out.|Adults hand food baskets to neighbours at community table.
+774|en utdelning|Utdelningen av mat börjar klockan tolv.|The distribution of food begins at twelve.|dela ut → utdelning: distribute → distribution.|Community food distribution starts beside clock at noon.
+775|ett distrikt|Staden är indelad i flera distrikt.|The city is divided into several districts.|district → distrikt.|City map divided into distinct coloured districts.
+776|dela|Vi delar kakan i fyra delar.|We divide the cake into four parts.|dela = divide.|Round cake divided into exactly four equal slices.
+777|en division|Vi övar på division i skolan.|We practise division at school.|division = mathematical division here.|Teacher divides twelve counters into three equal groups of four.
+778|skild|Mina föräldrar är skilda.|My parents are divorced.|skild = divorced here.|Two friendly adults at separate homes co-parent child, no conflict.
+779|göra|Vad ska vi göra i dag?|What shall we do today?|göra = do or make.|Friends consider activity icons for today's plans.
+780|en läkare|Läkaren lyssnar på mitt hjärta.|The doctor listens to my heart.|läkare = doctor.|Doctor uses stethoscope with adult patient at routine check-up.
+781|ett dokument|Spara dokumentet på datorn.|Save the document on the computer.|document → dokument.|Adult saves plain written document on laptop.
+782|en dokumentär|Vi ser en dokumentär om havet.|We watch a documentary about the sea.|documentary → dokumentär.|Adults watch factual ocean documentary showing underwater life on TV.
+783|en hund|Hunden springer i parken.|The dog runs in the park.|hund = dog.|Happy dog runs through park.
+784|en dollar|Det kostar en dollar.|It costs one dollar.|dollar = dollar.|Single generic one-dollar coin beside small item with one-dollar price.
+785|inrikes|Vi flyger inrikes.|We fly domestically.|inrikes = within one country.|Map route joins Stockholm and Gothenburg, entirely inside Sweden, plane icon.
+786|dominera|Det stora trädet dominerar trädgården.|The large tree dominates the garden.|dominate → dominera.|Enormous tree towers over rest of small garden.
+787|donera|Hon donerar böcker till biblioteket.|She donates books to the library.|donate → donera.|Adult donates box of books to community library.
+788|en dörr|Stäng dörren, tack.|Close the door, please.|dörr = door.|Adult gently closes wooden front door.
+789|dubbel|Jag vill ha en dubbel portion.|I would like a double portion.|dubbel = twice as much.|Two equal servings combined on one plate beside single serving.
+790|ett tvivel|Det finns inget tvivel om svaret.|There is no doubt about the answer.|tvivel = doubt.|Adult confidently checks answer with question mark crossed out.
+791|ner|Bollen rullar ner för backen.|The ball rolls down the hill.|ner = down, movement.|Ball rolls downhill with clear downward arrow.
+792|ladda ner|Jag laddar ner en bok till mobilen.|I download a book to my phone.|ladda ner = download.|Book icon moves from cloud to smartphone with downward arrow.
+793|på nedervåningen|Köket ligger på nedervåningen.|The kitchen is downstairs.|neder = lower; våning = floor.|Cutaway two-storey home highlights ground-floor kitchen.
+794|i centrum|Hon arbetar i centrum.|She works downtown.|centrum = town or city centre.|Adult arrives at office in lively central city square.
+795|nedåt|Pilen pekar nedåt.|The arrow points downward.|nedåt = downward.|One bold downward arrow on board with adult pointing.
+796|ett dussin|Ett dussin ägg är tolv ägg.|A dozen eggs is twelve eggs.|dussin = twelve.|Egg carton contains exactly twelve eggs in two rows of six.
+797|ett utkast|Det här är mitt första utkast.|This is my first draft.|utkast = draft of a text.|Adult reviews first version of handwritten story with edits.
+798|dra|Han drar väskan över golvet.|He drags the bag across the floor.|dra = pull or drag.|Adult drags heavy bag along floor by handle.
+799|ett drama|Vi såg ett drama på teatern.|We saw a drama at the theatre.|drama = dramatic play here.|Adults perform serious theatrical scene on stage.
+800|dramatisk|Himlen fick en dramatisk färg.|The sky turned a dramatic colour.|dramatic → dramatisk.|Striking stormy sunset sky with dramatic purple and gold clouds.
+801|rita|Hon ritar en katt.|She draws a cat.|rita = draw a picture.|Adult draws cat on paper while cat poses nearby.
+802|en teckning|Barnet visar sin teckning.|The child shows their drawing.|teckning = drawing.|Child proudly shows original crayon drawing to parent.
+803|en dröm|Jag hade en konstig dröm i natt.|I had a strange dream last night.|dröm = dream.|Sleeping adult dreams of floating house and friendly moon.
+804|en klänning|Hon har en blå klänning.|She is wearing a blue dress.|klänning = dress.|Adult wears simple blue dress in garden.
+805|klädd|Han är klädd för vintern.|He is dressed for winter.|klädd = dressed.|Adult ready for winter in coat, scarf, hat and gloves.
+806|dricka|Jag dricker ett glas vatten.|I drink a glass of water.|dricka = drink.|Adult drinks clear glass of water.
+807|köra|Hon kör bilen till jobbet.|She drives the car to work.|köra = drive a vehicle.|Adult drives car safely on morning commute, seatbelt fastened.
+808|en förare|Föraren stannar vid rödljuset.|The driver stops at the red light.|förare = driver.|Driver waits safely at red traffic light, seatbelt fastened.
+809|bilkörning|Bilkörning kräver uppmärksamhet.|Driving requires attention.|bil = car; körning = driving.|Focused adult drives car attentively with hands on wheel.
+810|tappa|Jag tappade nyckeln på golvet.|I dropped the key on the floor.|tappa = drop accidentally.|Key falls from adult's hand toward floor, motion trail.
+811|ett läkemedel|Läkemedlet finns på apoteket.|The drug is available at the pharmacy.|läkemedel = medicinal drug.|Pharmacist holds plain medicine box, no brand or dosage.
+812|en trumma|Han spelar på en trumma.|He plays a drum.|trumma = drum.|Adult plays one drum with drumsticks.
+813|berusad|Han var berusad efter festen.|He was drunk after the party.|berusad = drunk.|Adult looks unsteady after party as sober friend helps him into taxi.
+814|torr|Handduken är torr.|The towel is dry.|torr = dry.|Adult picks up dry towel from sunny washing line.
+815|väntad|Bussen väntas klockan tre.|The bus is due at three o'clock.|väntad = expected or due.|Passenger waits for bus beside clock approaching three.
+816|under|Vi pratade under resan.|We talked during the journey.|under = during with a time period.|Adults converse during train journey with landscape passing outside.
+817|damm|Det ligger damm på hyllan.|There is dust on the shelf.|damm = dust here.|Adult wipes dusty shelf leaving clean streak.
+818|en plikt|Det är vår plikt att hjälpa.|It is our duty to help.|plikt = duty.|Adults help elderly neighbour carry groceries as community responsibility.

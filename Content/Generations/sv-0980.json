@@ -1,0 +1,18 @@
+{
+  "id": "sv-0980",
+  "english": "eye",
+  "swedish": "ett öga",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett öga\". Smaller English meaning verbatim: \"eye\".\nScene: Respectful close portrait of an adult woman with heterochromia, exactly one blue iris and one brown iris clearly visible.\nMemory-link caption verbatim: \"öga = eye.\".\nSwedish example in bottom strip verbatim: \"Hon har ett blått öga och ett brunt öga.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nStyle reference only; square image, exact supplied Swedish teaching text.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-d699f8bc-a3a5-4cef-962e-7ff1950ba75c.png",
+  "artwork": "Content/Artwork/sv-0980.png",
+  "sha256": "9ec7d2d2a757d3da51165c2c6920dba29f281710b82db7d318e8b87879ecbfc2",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-0933",
+  "english": "exact",
+  "swedish": "exakt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"exakt\". Smaller English meaning verbatim: \"exact\".\nScene: Close view of a precise digital clock beside a person checking a wristwatch, matching time clearly shown.\nMemory-link caption verbatim: \"exakt = exact.\".\nSwedish example in bottom strip verbatim: \"Vad är den exakta tiden?\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCRITICAL: Both desk clock AND wristwatch must be DIGITAL displays showing the identical exact time 14:27. No analogue clock or hands anywhere. Style reference only, square image with exact supplied teaching text.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-2f082e0f-5d4b-42e6-a99b-a02e40519de1.png",
+  "artwork": "Content/Artwork/sv-0933.png",
+  "sha256": "4015e62f9ecfa89bbdf3fe5edadc2133dca545ca4186711898af47b462406859",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

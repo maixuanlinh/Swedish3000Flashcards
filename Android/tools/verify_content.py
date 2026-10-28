@@ -28,6 +28,7 @@ assert sum(w['english'].lower().startswith('c') for w in catalog) == 292
 assert sum(w['english'].lower().startswith('d') for w in catalog) == 163
 assert sum(w['english'].lower().startswith('e') for w in catalog) == 162
 assert sum(w['english'].lower().startswith('f') for w in catalog) == 155
+assert sum(w['english'].lower().startswith('g') for w in catalog) == 73
 for row in art:
     for key in ('filename', 'thumbnailFilename'):
         path = resources / 'BundledArtwork' / row[key]
@@ -40,7 +41,7 @@ for row in art:
     assert hashlib.sha256((resources / 'BundledArtwork' / row['filename']).read_bytes()).hexdigest() == row['bundleSHA256'], row['wordID']
     assert row['encoding'] == 'jpeg-quality-90'
 assert {p.name for p in (resources / 'BundledArtwork').glob('sv-*')} == {a['filename'] for a in art}
-print(f'PASS: {len(catalog)}/3000 authored Swedish words, bilingual examples; {len(art)} images; 211 A, 152 B, 292 C, 163 D 162 E and 155 F words.')
+print(f'PASS: {len(catalog)}/3000 authored Swedish words, bilingual examples; {len(art)} images; 211 A, 152 B, 292 C, 163 D 162 E 155 F and 73 G words.')
 apk = root / 'Android/app/build/outputs/apk/debug/app-debug.apk'
 if apk.exists():
     with zipfile.ZipFile(apk) as archive:

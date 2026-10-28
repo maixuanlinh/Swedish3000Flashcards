@@ -1,0 +1,18 @@
+{
+  "id": "sv-1200",
+  "english": "guard",
+  "swedish": "en vakt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en vakt\". Smaller English meaning verbatim: \"guard\".\nScene: An unarmed security guard calmly standing at a public building entrance.\nMemory-link caption verbatim: \"vakt = guard; picture someone keeping watch.\".\nSwedish example in bottom strip verbatim: \"En vakt står vid ingången.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-d2449ead-5fb8-4982-a229-3231487af08a.png",
+  "artwork": "Content/Artwork/sv-1200.png",
+  "sha256": "9512f6fb001f230ee1be40ff7c7c8dd590b58fe0f25625319c71e950d0361200",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

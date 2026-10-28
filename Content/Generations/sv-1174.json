@@ -1,0 +1,18 @@
+{
+  "id": "sv-1174",
+  "english": "goods",
+  "swedish": "varor",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"varor\". Smaller English meaning verbatim: \"goods\".\nScene: A small shop with neatly arranged food packages, household items and clothing, no readable brand text.\nMemory-link caption verbatim: \"varor = goods; picture goods on shop shelves.\".\nSwedish example in bottom strip verbatim: \"Butiken säljer många olika varor.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-53aef98c-d663-490e-899a-265816ad417d.png",
+  "artwork": "Content/Artwork/sv-1174.png",
+  "sha256": "405be15be584cdccd5afbc37fcc37e375d7f2cddd5d5ddb595487f0d52f4ce4e",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-1180",
+  "english": "gradually",
+  "swedish": "gradvis",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"gradvis\". Smaller English meaning verbatim: \"gradually\".\nScene: A sequence of the same garden changing gently from snow through budding plants to warm spring sunshine.\nMemory-link caption verbatim: \"gradvis resembles gradually; change step by step.\".\nSwedish example in bottom strip verbatim: \"Vädret blir gradvis varmare.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-a1dcddb5-170c-41dd-bf5a-892c9959dd28.png",
+  "artwork": "Content/Artwork/sv-1180.png",
+  "sha256": "071544f9dacbaeccd25d79bb54d977c48023c88f45c957b5f970b446fae4fd6e",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

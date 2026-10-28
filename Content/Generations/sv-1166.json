@@ -1,0 +1,18 @@
+{
+  "id": "sv-1166",
+  "english": "glove",
+  "swedish": "en handske",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en handske\". Smaller English meaning verbatim: \"glove\".\nScene: A single knitted glove lying in fresh snow beside a person's other gloved hand.\nMemory-link caption verbatim: \"hand + ske: spot hand inside handske.\".\nSwedish example in bottom strip verbatim: \"Jag tappade en handske i snön.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-956a65b2-9f60-47bf-b5ef-3e345a03fcd6.png",
+  "artwork": "Content/Artwork/sv-1166.png",
+  "sha256": "54042a2ffefa4180c2e3939fd5bd32f0d7c46d07a31abdbf2fb475dfb509a19e",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

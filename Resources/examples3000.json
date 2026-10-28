@@ -5673,5 +5673,370 @@
     "id": "sv-1135",
     "sentence": "Vi planerar för en bättre framtid.",
     "sentenceEnglish": "We are planning for a better future."
+  },
+  {
+    "id": "sv-1136",
+    "sentence": "Vi kan vinna mycket på detta.",
+    "sentenceEnglish": "We can gain a lot from this."
+  },
+  {
+    "id": "sv-1137",
+    "sentence": "Vi besöker ett galleri i dag.",
+    "sentenceEnglish": "We are visiting a gallery today."
+  },
+  {
+    "id": "sv-1138",
+    "sentence": "Vi spelar ett spel tillsammans.",
+    "sentenceEnglish": "We are playing a game together."
+  },
+  {
+    "id": "sv-1139",
+    "sentence": "Ett gäng ungdomar väntar vid stationen.",
+    "sentenceEnglish": "A gang of young people is waiting at the station."
+  },
+  {
+    "id": "sv-1140",
+    "sentence": "Det finns en lucka i staketet.",
+    "sentenceEnglish": "There is a gap in the fence."
+  },
+  {
+    "id": "sv-1141",
+    "sentence": "Bilen står i garaget.",
+    "sentenceEnglish": "The car is in the garage."
+  },
+  {
+    "id": "sv-1142",
+    "sentence": "Vi måste kasta soporna.",
+    "sentenceEnglish": "We must throw away the garbage."
+  },
+  {
+    "id": "sv-1143",
+    "sentence": "Hon arbetar i sin trädgård.",
+    "sentenceEnglish": "She is working in her garden."
+  },
+  {
+    "id": "sv-1144",
+    "sentence": "Vi lagar mat med gas.",
+    "sentenceEnglish": "We cook with gas."
+  },
+  {
+    "id": "sv-1145",
+    "sentence": "Stäng grinden efter dig.",
+    "sentenceEnglish": "Close the gate behind you."
+  },
+  {
+    "id": "sv-1146",
+    "sentence": "Vi ska samla alla böcker här.",
+    "sentenceEnglish": "We will gather all the books here."
+  },
+  {
+    "id": "sv-1147",
+    "sentence": "Blanketten frågar efter personens kön.",
+    "sentenceEnglish": "The form asks for the person's gender."
+  },
+  {
+    "id": "sv-1148",
+    "sentence": "Det finns ett allmänt intresse för frågan.",
+    "sentenceEnglish": "There is general interest in the issue."
+  },
+  {
+    "id": "sv-1149",
+    "sentence": "I allmänhet är tågen punktliga.",
+    "sentenceEnglish": "Generally, the trains are punctual."
+  },
+  {
+    "id": "sv-1150",
+    "sentence": "Solceller kan generera el.",
+    "sentenceEnglish": "Solar panels can generate electricity."
+  },
+  {
+    "id": "sv-1151",
+    "sentence": "Tre generationer bor i huset.",
+    "sentenceEnglish": "Three generations live in the house."
+  },
+  {
+    "id": "sv-1152",
+    "sentence": "Hon är generös med sin tid.",
+    "sentenceEnglish": "She is generous with her time."
+  },
+  {
+    "id": "sv-1153",
+    "sentence": "Vilken genre gillar du bäst?",
+    "sentenceEnglish": "Which genre do you like best?"
+  },
+  {
+    "id": "sv-1154",
+    "sentence": "Var varsam med den gamla boken.",
+    "sentenceEnglish": "Be gentle with the old book."
+  },
+  {
+    "id": "sv-1155",
+    "sentence": "Vi läser geografi i skolan.",
+    "sentenceEnglish": "We study geography at school."
+  },
+  {
+    "id": "sv-1156",
+    "sentence": "Jag vill få ett svar i dag.",
+    "sentenceEnglish": "I want to get an answer today."
+  },
+  {
+    "id": "sv-1157",
+    "sentence": "Barnet ritade ett vänligt spöke.",
+    "sentenceEnglish": "The child drew a friendly ghost."
+  },
+  {
+    "id": "sv-1158",
+    "sentence": "I sagan bor en jätte i skogen.",
+    "sentenceEnglish": "In the fairy tale, a giant lives in the forest."
+  },
+  {
+    "id": "sv-1159",
+    "sentence": "Jag har en present till dig.",
+    "sentenceEnglish": "I have a gift for you."
+  },
+  {
+    "id": "sv-1160",
+    "sentence": "En flicka cyklar till skolan.",
+    "sentenceEnglish": "A girl is cycling to school."
+  },
+  {
+    "id": "sv-1161",
+    "sentence": "Han går på bio med sin flickvän.",
+    "sentenceEnglish": "He is going to the cinema with his girlfriend."
+  },
+  {
+    "id": "sv-1162",
+    "sentence": "Kan du ge mig boken?",
+    "sentenceEnglish": "Can you give me the book?"
+  },
+  {
+    "id": "sv-1163",
+    "sentence": "Jag är glad att se dig.",
+    "sentenceEnglish": "I am glad to see you."
+  },
+  {
+    "id": "sv-1164",
+    "sentence": "Jag vill ha ett glas vatten.",
+    "sentenceEnglish": "I would like a glass of water."
+  },
+  {
+    "id": "sv-1165",
+    "sentence": "Klimatförändringen är ett globalt problem.",
+    "sentenceEnglish": "Climate change is a global problem."
+  },
+  {
+    "id": "sv-1166",
+    "sentence": "Jag tappade en handske i snön.",
+    "sentenceEnglish": "I dropped a glove in the snow."
+  },
+  {
+    "id": "sv-1167",
+    "sentence": "Vi går till skolan varje dag.",
+    "sentenceEnglish": "We go to school every day."
+  },
+  {
+    "id": "sv-1168",
+    "sentence": "Mitt mål är att lära mig svenska.",
+    "sentenceEnglish": "My goal is to learn Swedish."
+  },
+  {
+    "id": "sv-1169",
+    "sentence": "De trodde på en mäktig gud.",
+    "sentenceEnglish": "They believed in a powerful god."
+  },
+  {
+    "id": "sv-1170",
+    "sentence": "Ringen är gjord av guld.",
+    "sentenceEnglish": "The ring is made of gold."
+  },
+  {
+    "id": "sv-1171",
+    "sentence": "De spelar golf på söndagar.",
+    "sentenceEnglish": "They play golf on Sundays."
+  },
+  {
+    "id": "sv-1172",
+    "sentence": "Det är en bra idé.",
+    "sentenceEnglish": "That is a good idea."
+  },
+  {
+    "id": "sv-1173",
+    "sentence": "Hej då, vi ses i morgon!",
+    "sentenceEnglish": "Goodbye, see you tomorrow!"
+  },
+  {
+    "id": "sv-1174",
+    "sentence": "Butiken säljer många olika varor.",
+    "sentenceEnglish": "The shop sells many different goods."
+  },
+  {
+    "id": "sv-1175",
+    "sentence": "Det är svårt att styra ett stort land.",
+    "sentenceEnglish": "It is difficult to govern a large country."
+  },
+  {
+    "id": "sv-1176",
+    "sentence": "Landet har fått en ny regering.",
+    "sentenceEnglish": "The country has a new government."
+  },
+  {
+    "id": "sv-1177",
+    "sentence": "Delstaten har valt en ny guvernör.",
+    "sentenceEnglish": "The state has elected a new governor."
+  },
+  {
+    "id": "sv-1178",
+    "sentence": "Hon grep tag i repet.",
+    "sentenceEnglish": "She grabbed the rope."
+  },
+  {
+    "id": "sv-1179",
+    "sentence": "Hon fick ett bra betyg på provet.",
+    "sentenceEnglish": "She got a good grade on the test."
+  },
+  {
+    "id": "sv-1180",
+    "sentence": "Vädret blir gradvis varmare.",
+    "sentenceEnglish": "The weather is gradually getting warmer."
+  },
+  {
+    "id": "sv-1181",
+    "sentence": "Hon ska ta examen i juni.",
+    "sentenceEnglish": "She will graduate in June."
+  },
+  {
+    "id": "sv-1182",
+    "sentence": "Ett litet korn ligger på bordet.",
+    "sentenceEnglish": "A small grain is lying on the table."
+  },
+  {
+    "id": "sv-1183",
+    "sentence": "Utsikten från berget är storslagen.",
+    "sentenceEnglish": "The view from the mountain is grand."
+  },
+  {
+    "id": "sv-1184",
+    "sentence": "Min farfar berättar om sin barndom.",
+    "sentenceEnglish": "My grandfather talks about his childhood."
+  },
+  {
+    "id": "sv-1185",
+    "sentence": "Min mormor bakar bröd.",
+    "sentenceEnglish": "My grandmother is baking bread."
+  },
+  {
+    "id": "sv-1186",
+    "sentence": "En mor- eller farförälder kan betyda mycket för ett barn.",
+    "sentenceEnglish": "A grandparent can mean a lot to a child."
+  },
+  {
+    "id": "sv-1187",
+    "sentence": "Föreningen fick ett bidrag till projektet.",
+    "sentenceEnglish": "The association received a grant for the project."
+  },
+  {
+    "id": "sv-1188",
+    "sentence": "Gräset är grönt efter regnet.",
+    "sentenceEnglish": "The grass is green after the rain."
+  },
+  {
+    "id": "sv-1189",
+    "sentence": "Jag är tacksam för din hjälp.",
+    "sentenceEnglish": "I am grateful for your help."
+  },
+  {
+    "id": "sv-1190",
+    "sentence": "Himlen är grå i dag.",
+    "sentenceEnglish": "The sky is gray today."
+  },
+  {
+    "id": "sv-1191",
+    "sentence": "Vi hade en fantastisk kväll.",
+    "sentenceEnglish": "We had a great evening."
+  },
+  {
+    "id": "sv-1192",
+    "sentence": "Hon har en grön jacka.",
+    "sentenceEnglish": "She has a green jacket."
+  },
+  {
+    "id": "sv-1193",
+    "sentence": "Vi hälsar på våra nya grannar.",
+    "sentenceEnglish": "We greet our new neighbours."
+  },
+  {
+    "id": "sv-1194",
+    "sentence": "Vi handlar i en liten livsmedelsbutik.",
+    "sentenceEnglish": "We shop in a small grocery store."
+  },
+  {
+    "id": "sv-1195",
+    "sentence": "Marken är blöt efter regnet.",
+    "sentenceEnglish": "The ground is wet after the rain."
+  },
+  {
+    "id": "sv-1196",
+    "sentence": "Vi arbetar i en liten grupp.",
+    "sentenceEnglish": "We work in a small group."
+  },
+  {
+    "id": "sv-1197",
+    "sentence": "Tomaterna växer snabbt.",
+    "sentenceEnglish": "The tomatoes grow quickly."
+  },
+  {
+    "id": "sv-1198",
+    "sentence": "Företaget har haft stark tillväxt.",
+    "sentenceEnglish": "The company has had strong growth."
+  },
+  {
+    "id": "sv-1199",
+    "sentence": "Cykeln har två års garanti.",
+    "sentenceEnglish": "The bicycle has a two-year guarantee."
+  },
+  {
+    "id": "sv-1200",
+    "sentence": "En vakt står vid ingången.",
+    "sentenceEnglish": "A guard is standing at the entrance."
+  },
+  {
+    "id": "sv-1201",
+    "sentence": "Kan du gissa vad som finns i lådan?",
+    "sentenceEnglish": "Can you guess what is in the box?"
+  },
+  {
+    "id": "sv-1202",
+    "sentence": "Vi har en gäst på middag.",
+    "sentenceEnglish": "We have a guest for dinner."
+  },
+  {
+    "id": "sv-1203",
+    "sentence": "En guide visar oss staden.",
+    "sentenceEnglish": "A guide is showing us the city."
+  },
+  {
+    "id": "sv-1204",
+    "sentence": "Han kände sig skyldig efter lögnen.",
+    "sentenceEnglish": "He felt guilty after the lie."
+  },
+  {
+    "id": "sv-1205",
+    "sentence": "Hon spelar gitarr varje kväll.",
+    "sentenceEnglish": "She plays guitar every evening."
+  },
+  {
+    "id": "sv-1206",
+    "sentence": "Polisen hittade ett skjutvapen i bilen.",
+    "sentenceEnglish": "The police found a gun in the car."
+  },
+  {
+    "id": "sv-1207",
+    "sentence": "En trevlig kille hjälpte mig.",
+    "sentenceEnglish": "A nice guy helped me."
+  },
+  {
+    "id": "sv-1208",
+    "sentence": "Jag tränar på ett gym nära jobbet.",
+    "sentenceEnglish": "I work out at a gym near work."
   }
 ]

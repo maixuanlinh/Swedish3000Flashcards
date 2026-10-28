@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-28",
+  "sourceCount": 3000,
+  "authoredCount": 1208,
+  "reviewedArtworkCount": 1208,
+  "sets": {
+    "A": 211,
+    "B": 152,
+    "C": 292,
+    "D": 163,
+    "E": 162,
+    "F": 155,
+    "G": 73
+  },
+  "generationMode": "built-in",
+  "masterArtwork": "Content/Artwork/",
+  "exactPrompts": "Content/Generations/sv-XXXX.json",
+  "review": "All 73 G images visually checked for exact Swedish headings and examples, English meanings, memory captions and scene agreement. Independent Swedish linguistic review pending.",
+  "linguisticReview": "Independent Swedish review pending; translations remain authored drafts.",
+  "sourceEdition": "Inherited American Oxford-based index; UK-edition reconciliation pending.",
+  "verification": {
+    "ios": {
+      "result": "passed",
+      "tests": 11,
+      "failures": 0,
+      "device": "iPhone 16 Pro simulator",
+      "os": "26.5"
+    },
+    "android": {
+      "result": "passed",
+      "unitTests": 26,
+      "failures": 0,
+      "errors": 0,
+      "debugBuild": "passed",
+      "lint": "passed",
+      "deviceTesting": "pending; no connected Android device or configured AVD"
+    },
+    "packagedAndroidSHA256MatchesSharedIOSResources": true,
+    "packagedIOSSHA256MatchesSharedResources": true,
+    "all1208MasterArtworkSHA256MatchesProvenance": true,
+    "all1208DerivativeHashesMatchManifest": true
+  },
+  "pushed": false,
+  "dFirstID": "sv-0656",
+  "dLastID": "sv-0818",
+  "eFirstID": "sv-0819",
+  "eLastID": "sv-0980",
+  "fFirstID": "sv-0981",
+  "fLastID": "sv-1135",
+  "bundle": {
+    "encoding": "jpeg-quality-90",
+    "resize": false,
+    "bytes": 604814281,
+    "mastersPreserved": true,
+    "reason": "Original PNG package exceeded 2 GiB and overflowed Android/Robolectric FileMap. Compressed bundle passed all native checks.",
+    "androidBuildHeap": "8g",
+    "androidBuildWorkers": 2
+  },
+  "gFirstID": "sv-1136",
+  "gLastID": "sv-1208"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-1177",
+  "english": "governor",
+  "swedish": "en guvernör",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en guvernör\". Smaller English meaning verbatim: \"governor\".\nScene: A newly elected state governor addressing residents beside a simple map of one state, no real politician or party logos.\nMemory-link caption verbatim: \"guvernör resembles governor.\".\nSwedish example in bottom strip verbatim: \"Delstaten har valt en ny guvernör.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-62d38840-4259-4433-bdbe-210799d0dea1.png",
+  "artwork": "Content/Artwork/sv-1177.png",
+  "sha256": "e41944571692f086b941e7a7511c915fe19cab983a1dbc88658ba665dda3a03d",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

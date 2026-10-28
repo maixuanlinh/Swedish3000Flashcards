@@ -1,0 +1,18 @@
+{
+  "id": "sv-1158",
+  "english": "giant",
+  "swedish": "en jätte",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en jätte\". Smaller English meaning verbatim: \"giant\".\nScene: A gentle fairy-tale giant towering above a forest beside a tiny cottage, clearly fantastical.\nMemory-link caption verbatim: \"jätte = giant; picture a person taller than the trees.\".\nSwedish example in bottom strip verbatim: \"I sagan bor en jätte i skogen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-38b2edd9-4f76-49f6-a9e0-a492f15e51ff.png",
+  "artwork": "Content/Artwork/sv-1158.png",
+  "sha256": "342ccc31dd1654d02d1424ab91bec6c7655ae71df0f3bd31aee7e3b611b43a58",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

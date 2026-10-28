@@ -1,0 +1,18 @@
+{
+  "id": "sv-1161",
+  "english": "girlfriend",
+  "swedish": "en flickvän",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en flickvän\". Smaller English meaning verbatim: \"girlfriend\".\nScene: An adult couple holding hands as they arrive at a cinema, film posters without readable words.\nMemory-link caption verbatim: \"flicka + vän = girl + friend: girlfriend.\".\nSwedish example in bottom strip verbatim: \"Han går på bio med sin flickvän.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-6cf50899-a70f-4da6-be65-ccabfdec6f81.png",
+  "artwork": "Content/Artwork/sv-1161.png",
+  "sha256": "3ecd8c5e28c89b09b0c0c01312e4a597d90cf9234656c157407e1fc538e1d30f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

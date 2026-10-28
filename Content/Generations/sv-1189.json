@@ -1,0 +1,18 @@
+{
+  "id": "sv-1189",
+  "english": "grateful",
+  "swedish": "tacksam",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"tacksam\". Smaller English meaning verbatim: \"grateful\".\nScene: A person warmly thanking a friend who has helped carry a heavy box up the stairs.\nMemory-link caption verbatim: \"tack = thanks; tacksam = grateful.\".\nSwedish example in bottom strip verbatim: \"Jag är tacksam för din hjälp.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-e0d68c6d-e0e4-4e83-becf-cb2c7c0082e7.png",
+  "artwork": "Content/Artwork/sv-1189.png",
+  "sha256": "965ba0cd1d13d9af42f555de183ae0148678eb9f02f5f39071a14fd5e1707cbc",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -5,7 +5,7 @@
     "note": "Headwords and IDs preserved from the existing iOS app. This is its American Oxford-based 3000-entry index, not an independently verified UK edition. Swedish translations and examples are original authored drafts."
   },
   "targetCount": 3000,
-  "entryCount": 1135,
+  "entryCount": 1208,
   "entries": [
     {
       "id": "sv-0001",
@@ -6816,6 +6816,444 @@
       "sourceID": 1135,
       "english": "future",
       "swedish": "en framtid"
+    },
+    {
+      "id": "sv-1136",
+      "sourceID": 1136,
+      "english": "gain",
+      "swedish": "vinna"
+    },
+    {
+      "id": "sv-1137",
+      "sourceID": 1137,
+      "english": "gallery",
+      "swedish": "ett galleri"
+    },
+    {
+      "id": "sv-1138",
+      "sourceID": 1138,
+      "english": "game",
+      "swedish": "ett spel"
+    },
+    {
+      "id": "sv-1139",
+      "sourceID": 1139,
+      "english": "gang",
+      "swedish": "ett gäng"
+    },
+    {
+      "id": "sv-1140",
+      "sourceID": 1140,
+      "english": "gap",
+      "swedish": "en lucka"
+    },
+    {
+      "id": "sv-1141",
+      "sourceID": 1141,
+      "english": "garage",
+      "swedish": "ett garage"
+    },
+    {
+      "id": "sv-1142",
+      "sourceID": 1142,
+      "english": "garbage",
+      "swedish": "sopor"
+    },
+    {
+      "id": "sv-1143",
+      "sourceID": 1143,
+      "english": "garden",
+      "swedish": "en trädgård"
+    },
+    {
+      "id": "sv-1144",
+      "sourceID": 1144,
+      "english": "gas",
+      "swedish": "gas"
+    },
+    {
+      "id": "sv-1145",
+      "sourceID": 1145,
+      "english": "gate",
+      "swedish": "en grind"
+    },
+    {
+      "id": "sv-1146",
+      "sourceID": 1146,
+      "english": "gather",
+      "swedish": "samla"
+    },
+    {
+      "id": "sv-1147",
+      "sourceID": 1147,
+      "english": "gender",
+      "swedish": "ett kön"
+    },
+    {
+      "id": "sv-1148",
+      "sourceID": 1148,
+      "english": "general",
+      "swedish": "allmän"
+    },
+    {
+      "id": "sv-1149",
+      "sourceID": 1149,
+      "english": "generally",
+      "swedish": "i allmänhet"
+    },
+    {
+      "id": "sv-1150",
+      "sourceID": 1150,
+      "english": "generate",
+      "swedish": "generera"
+    },
+    {
+      "id": "sv-1151",
+      "sourceID": 1151,
+      "english": "generation",
+      "swedish": "en generation"
+    },
+    {
+      "id": "sv-1152",
+      "sourceID": 1152,
+      "english": "generous",
+      "swedish": "generös"
+    },
+    {
+      "id": "sv-1153",
+      "sourceID": 1153,
+      "english": "genre",
+      "swedish": "en genre"
+    },
+    {
+      "id": "sv-1154",
+      "sourceID": 1154,
+      "english": "gentle",
+      "swedish": "varsam"
+    },
+    {
+      "id": "sv-1155",
+      "sourceID": 1155,
+      "english": "geography",
+      "swedish": "geografi"
+    },
+    {
+      "id": "sv-1156",
+      "sourceID": 1156,
+      "english": "get",
+      "swedish": "få"
+    },
+    {
+      "id": "sv-1157",
+      "sourceID": 1157,
+      "english": "ghost",
+      "swedish": "ett spöke"
+    },
+    {
+      "id": "sv-1158",
+      "sourceID": 1158,
+      "english": "giant",
+      "swedish": "en jätte"
+    },
+    {
+      "id": "sv-1159",
+      "sourceID": 1159,
+      "english": "gift",
+      "swedish": "en present"
+    },
+    {
+      "id": "sv-1160",
+      "sourceID": 1160,
+      "english": "girl",
+      "swedish": "en flicka"
+    },
+    {
+      "id": "sv-1161",
+      "sourceID": 1161,
+      "english": "girlfriend",
+      "swedish": "en flickvän"
+    },
+    {
+      "id": "sv-1162",
+      "sourceID": 1162,
+      "english": "give",
+      "swedish": "ge"
+    },
+    {
+      "id": "sv-1163",
+      "sourceID": 1163,
+      "english": "glad",
+      "swedish": "glad"
+    },
+    {
+      "id": "sv-1164",
+      "sourceID": 1164,
+      "english": "glass",
+      "swedish": "ett glas"
+    },
+    {
+      "id": "sv-1165",
+      "sourceID": 1165,
+      "english": "global",
+      "swedish": "global"
+    },
+    {
+      "id": "sv-1166",
+      "sourceID": 1166,
+      "english": "glove",
+      "swedish": "en handske"
+    },
+    {
+      "id": "sv-1167",
+      "sourceID": 1167,
+      "english": "go",
+      "swedish": "gå"
+    },
+    {
+      "id": "sv-1168",
+      "sourceID": 1168,
+      "english": "goal",
+      "swedish": "ett mål"
+    },
+    {
+      "id": "sv-1169",
+      "sourceID": 1169,
+      "english": "god",
+      "swedish": "en gud"
+    },
+    {
+      "id": "sv-1170",
+      "sourceID": 1170,
+      "english": "gold",
+      "swedish": "guld"
+    },
+    {
+      "id": "sv-1171",
+      "sourceID": 1171,
+      "english": "golf",
+      "swedish": "golf"
+    },
+    {
+      "id": "sv-1172",
+      "sourceID": 1172,
+      "english": "good",
+      "swedish": "bra"
+    },
+    {
+      "id": "sv-1173",
+      "sourceID": 1173,
+      "english": "goodbye",
+      "swedish": "hej då"
+    },
+    {
+      "id": "sv-1174",
+      "sourceID": 1174,
+      "english": "goods",
+      "swedish": "varor"
+    },
+    {
+      "id": "sv-1175",
+      "sourceID": 1175,
+      "english": "govern",
+      "swedish": "styra"
+    },
+    {
+      "id": "sv-1176",
+      "sourceID": 1176,
+      "english": "government",
+      "swedish": "en regering"
+    },
+    {
+      "id": "sv-1177",
+      "sourceID": 1177,
+      "english": "governor",
+      "swedish": "en guvernör"
+    },
+    {
+      "id": "sv-1178",
+      "sourceID": 1178,
+      "english": "grab",
+      "swedish": "gripa tag i"
+    },
+    {
+      "id": "sv-1179",
+      "sourceID": 1179,
+      "english": "grade",
+      "swedish": "ett betyg"
+    },
+    {
+      "id": "sv-1180",
+      "sourceID": 1180,
+      "english": "gradually",
+      "swedish": "gradvis"
+    },
+    {
+      "id": "sv-1181",
+      "sourceID": 1181,
+      "english": "graduate",
+      "swedish": "ta examen"
+    },
+    {
+      "id": "sv-1182",
+      "sourceID": 1182,
+      "english": "grain",
+      "swedish": "ett korn"
+    },
+    {
+      "id": "sv-1183",
+      "sourceID": 1183,
+      "english": "grand",
+      "swedish": "storslagen"
+    },
+    {
+      "id": "sv-1184",
+      "sourceID": 1184,
+      "english": "grandfather",
+      "swedish": "en farfar"
+    },
+    {
+      "id": "sv-1185",
+      "sourceID": 1185,
+      "english": "grandmother",
+      "swedish": "en mormor"
+    },
+    {
+      "id": "sv-1186",
+      "sourceID": 1186,
+      "english": "grandparent",
+      "swedish": "en mor- eller farförälder"
+    },
+    {
+      "id": "sv-1187",
+      "sourceID": 1187,
+      "english": "grant",
+      "swedish": "ett bidrag"
+    },
+    {
+      "id": "sv-1188",
+      "sourceID": 1188,
+      "english": "grass",
+      "swedish": "gräs"
+    },
+    {
+      "id": "sv-1189",
+      "sourceID": 1189,
+      "english": "grateful",
+      "swedish": "tacksam"
+    },
+    {
+      "id": "sv-1190",
+      "sourceID": 1190,
+      "english": "gray",
+      "swedish": "grå"
+    },
+    {
+      "id": "sv-1191",
+      "sourceID": 1191,
+      "english": "great",
+      "swedish": "fantastisk"
+    },
+    {
+      "id": "sv-1192",
+      "sourceID": 1192,
+      "english": "green",
+      "swedish": "grön"
+    },
+    {
+      "id": "sv-1193",
+      "sourceID": 1193,
+      "english": "greet",
+      "swedish": "hälsa"
+    },
+    {
+      "id": "sv-1194",
+      "sourceID": 1194,
+      "english": "grocery",
+      "swedish": "en livsmedelsbutik"
+    },
+    {
+      "id": "sv-1195",
+      "sourceID": 1195,
+      "english": "ground",
+      "swedish": "mark"
+    },
+    {
+      "id": "sv-1196",
+      "sourceID": 1196,
+      "english": "group",
+      "swedish": "en grupp"
+    },
+    {
+      "id": "sv-1197",
+      "sourceID": 1197,
+      "english": "grow",
+      "swedish": "växa"
+    },
+    {
+      "id": "sv-1198",
+      "sourceID": 1198,
+      "english": "growth",
+      "swedish": "tillväxt"
+    },
+    {
+      "id": "sv-1199",
+      "sourceID": 1199,
+      "english": "guarantee",
+      "swedish": "en garanti"
+    },
+    {
+      "id": "sv-1200",
+      "sourceID": 1200,
+      "english": "guard",
+      "swedish": "en vakt"
+    },
+    {
+      "id": "sv-1201",
+      "sourceID": 1201,
+      "english": "guess",
+      "swedish": "gissa"
+    },
+    {
+      "id": "sv-1202",
+      "sourceID": 1202,
+      "english": "guest",
+      "swedish": "en gäst"
+    },
+    {
+      "id": "sv-1203",
+      "sourceID": 1203,
+      "english": "guide",
+      "swedish": "en guide"
+    },
+    {
+      "id": "sv-1204",
+      "sourceID": 1204,
+      "english": "guilty",
+      "swedish": "skyldig"
+    },
+    {
+      "id": "sv-1205",
+      "sourceID": 1205,
+      "english": "guitar",
+      "swedish": "en gitarr"
+    },
+    {
+      "id": "sv-1206",
+      "sourceID": 1206,
+      "english": "gun",
+      "swedish": "ett skjutvapen"
+    },
+    {
+      "id": "sv-1207",
+      "sourceID": 1207,
+      "english": "guy",
+      "swedish": "en kille"
+    },
+    {
+      "id": "sv-1208",
+      "sourceID": 1208,
+      "english": "gym",
+      "swedish": "ett gym"
     }
   ]
 }

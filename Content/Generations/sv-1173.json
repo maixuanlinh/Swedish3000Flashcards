@@ -1,0 +1,18 @@
+{
+  "id": "sv-1173",
+  "english": "goodbye",
+  "swedish": "hej då",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"hej då\". Smaller English meaning verbatim: \"goodbye\".\nScene: Two friends smiling and waving goodbye as one leaves through a doorway.\nMemory-link caption verbatim: \"hej welcomes; hej då says goodbye.\".\nSwedish example in bottom strip verbatim: \"Hej då, vi ses i morgon!\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-a4febde3-1b75-4382-941f-c03eb97dbaa5.png",
+  "artwork": "Content/Artwork/sv-1173.png",
+  "sha256": "f762ad0a30985da94052939c4f90e9f7f3c6aab88112c48ab47be285ec11e7c8",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

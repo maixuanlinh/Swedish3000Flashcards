@@ -1,0 +1,18 @@
+{
+  "id": "sv-1186",
+  "english": "grandparent",
+  "swedish": "en mor- eller farförälder",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en mor- eller farförälder\". Smaller English meaning verbatim: \"grandparent\".\nScene: A child enjoying an affectionate conversation with an older grandparent, family-photo setting.\nMemory-link caption verbatim: \"mor- and farföräldrar are grandparents on either side.\".\nSwedish example in bottom strip verbatim: \"En mor- eller farförälder kan betyda mycket för ett barn.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-bec4ae73-6195-4fc4-b71b-902ae4375a8a.png",
+  "artwork": "Content/Artwork/sv-1186.png",
+  "sha256": "0007ce85506f5a78650f63606ed053c10c4305abc9eb16be4fe80539cac8a244",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-1204",
+  "english": "guilty",
+  "swedish": "skyldig",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"skyldig\". Smaller English meaning verbatim: \"guilty\".\nScene: An adult looking remorseful after telling a lie, a crumpled note and a small shadow of a heavy stone as a symbolic burden.\nMemory-link caption verbatim: \"skyldig = guilty; picture the weight of a lie.\".\nSwedish example in bottom strip verbatim: \"Han kände sig skyldig efter lögnen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-aa6fd9d0-aa98-492d-a165-3780445dfcfe.png",
+  "artwork": "Content/Artwork/sv-1204.png",
+  "sha256": "2b21366a7b5700e7b9ad7656df3e77dd5e7d5324eb3f22bd761f45cfc7c58988",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-1103",
+  "english": "free",
+  "swedish": "gratis",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"gratis\". English meaning verbatim: \"free\".\nScene: A museum welcoming visitors with a clear entrance price tag 0 kr and open doors.\nMemory caption verbatim: \"gratis = free of charge.\".\nBottom Swedish example verbatim: \"Inträdet till museet är gratis.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-18d62ec1-9f45-450f-a07c-7d826c6a8fea.png",
+  "artwork": "Content/Artwork/sv-1103.png",
+  "sha256": "0e75209c231aa9dca5b4be3efbf2693b58d3407d417d9589aef8b23c4d6aa1ee",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

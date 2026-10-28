@@ -1,0 +1,18 @@
+{
+  "id": "sv-1032",
+  "english": "fifth",
+  "swedish": "femte",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"femte\". English meaning verbatim: \"fifth\".\nScene: Five runners in a clear finishing order; the fifth runner has a gold outline and the numeral 5.\nMemory caption verbatim: \"fem → femte: five → fifth.\".\nBottom Swedish example verbatim: \"Hon kom på femte plats.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-c46465ac-f3f7-4cb6-9513-36b70ae16d94.png",
+  "artwork": "Content/Artwork/sv-1032.png",
+  "sha256": "348431e96ea7246cb89886141f7377a05a3ebb8c83967e01438e082a77154ec2",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

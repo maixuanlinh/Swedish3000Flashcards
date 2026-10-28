@@ -1,0 +1,18 @@
+{
+  "id": "sv-1043",
+  "english": "financial",
+  "swedish": "finansiell",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"finansiell\". English meaning verbatim: \"financial\".\nScene: A small business owner reviewing cash-flow charts with a financial adviser and a supportive funding document.\nMemory caption verbatim: \"finansiell resembles financial.\".\nBottom Swedish example verbatim: \"Företaget behöver finansiell hjälp.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-e5dd65fb-7456-4558-8820-c8b2dd9243b1.png",
+  "artwork": "Content/Artwork/sv-1043.png",
+  "sha256": "583b3ddde35960ba2744bb46919e067e13b7f4843d75fa1578a044d0511f59ac",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

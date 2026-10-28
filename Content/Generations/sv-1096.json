@@ -1,0 +1,18 @@
+{
+  "id": "sv-1096",
+  "english": "forty",
+  "swedish": "fyrtio",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"fyrtio\". English meaning verbatim: \"forty\".\nScene: A smiling man celebrating a birthday with exactly two numeral candles forming 40 on the cake.\nMemory caption verbatim: \"fyra → fyrtio: four → forty.\".\nBottom Swedish example verbatim: \"Han fyller fyrtio år i dag.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-d6f11e09-2a46-4732-8f2d-7369da03c720.png",
+  "artwork": "Content/Artwork/sv-1096.png",
+  "sha256": "d0dc0a6675452db794d87d2c277c00474fbe4a2a3d5335204493918d1387d17a",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

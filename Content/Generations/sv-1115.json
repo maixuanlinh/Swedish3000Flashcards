@@ -1,0 +1,18 @@
+{
+  "id": "sv-1115",
+  "english": "frightening",
+  "swedish": "skrämmande",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"skrämmande\". English meaning verbatim: \"frightening\".\nScene: Adults watching a spooky shadow on a cinema screen, visibly startled, no gore or explicit violence.\nMemory caption verbatim: \"skrämma → skrämmande: frighten → frightening.\".\nBottom Swedish example verbatim: \"Filmen var mycket skrämmande.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-ea3b578f-8689-40d5-a4d8-2229fa516590.png",
+  "artwork": "Content/Artwork/sv-1115.png",
+  "sha256": "790da1dbc3932545cfb22986bd1cd76e4924042993fca4ce62fdee920ecb6b4f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

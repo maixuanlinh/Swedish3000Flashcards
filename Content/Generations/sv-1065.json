@@ -1,0 +1,18 @@
+{
+  "id": "sv-1065",
+  "english": "float",
+  "swedish": "flyta",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"flyta\". English meaning verbatim: \"float\".\nScene: A small piece of wood visibly floating at the surface of clear water, stone resting below for contrast.\nMemory caption verbatim: \"flyta resembles float.\".\nBottom Swedish example verbatim: \"Träbiten flyter på vattnet.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-b91fe5fa-dff7-4cf4-8ff5-9b75fef97885.png",
+  "artwork": "Content/Artwork/sv-1065.png",
+  "sha256": "9d6749fe0f6af21a0d27155113e6283734120d2b2d0fabc62743013dffc4a7ae",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

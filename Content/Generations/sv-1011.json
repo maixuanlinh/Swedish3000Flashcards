@@ -1,0 +1,18 @@
+{
+  "id": "sv-1011",
+  "english": "favor",
+  "swedish": "en tjänst",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"en tjänst\". English meaning verbatim: \"favor\".\nScene: A neighbour kindly helping another person carry a heavy box upstairs.\nMemory caption verbatim: \"tjänst = favour or helpful service here.\".\nBottom Swedish example verbatim: \"Kan du göra mig en tjänst?\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-bfcee215-3c9d-484b-b379-1efc5e679e7b.png",
+  "artwork": "Content/Artwork/sv-1011.png",
+  "sha256": "15910f38b3555e1fc8237b6a359295f54afbfd462dad071ceae1024993b26408",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

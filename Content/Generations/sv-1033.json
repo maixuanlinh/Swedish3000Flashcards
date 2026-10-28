@@ -1,0 +1,18 @@
+{
+  "id": "sv-1033",
+  "english": "fifty",
+  "swedish": "femtio",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"femtio\". English meaning verbatim: \"fifty\".\nScene: A cinema ticket beside a large clear price tag \"50 kr\". Use five gold discs, EACH inscribed \"10 kr\", so the total is exactly 50. No piles or other quantities.\nMemory caption verbatim: \"fem groups of tio = femtio: fifty.\".\nBottom Swedish example verbatim: \"Biljetten kostar femtio kronor.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-64d391a4-9c1e-42d5-969e-141f94dacbe8.png",
+  "artwork": "Content/Artwork/sv-1033.png",
+  "sha256": "f3d96b86a9e78b327238a4fc016bd0b92c2640ef76a100bd7b036e5aeab8938c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

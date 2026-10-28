@@ -1,0 +1,18 @@
+{
+  "id": "sv-0981",
+  "english": "face",
+  "swedish": "ett ansikte",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"ett ansikte\". English meaning verbatim: \"face\".\nScene: Close portrait of a smiling woman with her whole face clearly visible, soft gold oval framing the face.\nMemory caption verbatim: \"ansikte = face.\".\nBottom Swedish example verbatim: \"Hon har ett glatt ansikte.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-3c27c8d1-42a6-4569-a46b-a0743d571df7.png",
+  "artwork": "Content/Artwork/sv-0981.png",
+  "sha256": "614bd2eb2927060ef59c289e474c02132bb432b214d1ead1cc60ac58e0fc159d",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

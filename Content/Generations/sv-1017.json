@@ -1,0 +1,18 @@
+{
+  "id": "sv-1017",
+  "english": "federal",
+  "swedish": "federal",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"federal\". English meaning verbatim: \"federal\".\nScene: An educational illustration of the US Capitol with smaller state-government buildings linked around it.\nMemory caption verbatim: \"federal = federal.\".\nBottom Swedish example verbatim: \"USA har en federal regering.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-0a8c3025-7c96-43b6-9b3b-520228eec0c8.png",
+  "artwork": "Content/Artwork/sv-1017.png",
+  "sha256": "33c1c29b3bc9f7a65fd31218336352ef7f99a9dcc0435c98e628317a324a93fe",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-1108",
+  "english": "fresh",
+  "swedish": "färsk",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"färsk\". English meaning verbatim: \"fresh\".\nScene: Warm freshly baked bread coming from a bakery oven at morning light, steam visible.\nMemory caption verbatim: \"färsk = fresh.\".\nBottom Swedish example verbatim: \"Vi köper färskt bröd varje morgon.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-81b0cfef-d427-4d0e-8a39-607606ce5f7a.png",
+  "artwork": "Content/Artwork/sv-1108.png",
+  "sha256": "ad4790d9e29cbcf391b9681baef100a0900249b988c3a87030a339b2107ca441",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

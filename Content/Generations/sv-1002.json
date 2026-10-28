@@ -1,0 +1,18 @@
+{
+  "id": "sv-1002",
+  "english": "farming",
+  "swedish": "jordbruk",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"jordbruk\". English meaning verbatim: \"farming\".\nScene: A broad agricultural landscape with a farmer planting crops, cultivated fields and a working tractor.\nMemory caption verbatim: \"jord = soil; jordbruk = farming.\".\nBottom Swedish example verbatim: \"Jordbruk är viktigt för regionen.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-9a19f3a5-29b7-4d52-8428-d72ab6acb69c.png",
+  "artwork": "Content/Artwork/sv-1002.png",
+  "sha256": "eb88359256b388b1eaebcc40b928b2b5b0121f9d9ed7d17eacba799298426aea",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-1020",
+  "english": "feedback",
+  "swedish": "återkoppling",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"återkoppling\". English meaning verbatim: \"feedback\".\nScene: A teacher returning a learner's illustrated project with helpful comments and encouraging check marks.\nMemory caption verbatim: \"återkoppling = feedback.\".\nBottom Swedish example verbatim: \"Jag fick bra återkoppling på mitt arbete.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-97c38a57-2d30-4157-b856-1bf4f3991693.png",
+  "artwork": "Content/Artwork/sv-1020.png",
+  "sha256": "32acaa411fef457ae5ce98171ea6860a6ae388fd5a34bcbe2288477e0605ef80",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

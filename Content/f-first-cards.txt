@@ -1,0 +1,48 @@
+981|ett ansikte|Hon har ett glatt ansikte.|She has a happy face.|ansikte = face.|Close portrait of a smiling woman with her whole face clearly visible, soft gold oval framing the face.
+982|en anläggning|Staden bygger en ny idrottsanläggning.|The city is building a new sports facility.|anläggning = facility or complex.|A newly built sports complex with swimming pool and running track, welcoming visitors.
+983|ett faktum|Det är ett välkänt faktum.|It is a well-known fact.|faktum resembles fact.|A globe beside an illustrated evidence board showing Earth circling the sun, a bold check mark confirming the fact.
+984|en faktor|Sömn är en viktig faktor för hälsan.|Sleep is an important factor in health.|faktor resembles factor.|A balanced wellbeing puzzle with a sleeping person as one essential piece beside food and exercise.
+985|en fabrik|Min bror arbetar i en fabrik.|My brother works in a factory.|fabrik = factory.|A male worker assembling bicycles inside a bright modern factory, production line visible.
+986|misslyckas|Vi misslyckades med vårt första försök.|We failed in our first attempt.|misslyckas = fail; lyckas = succeed.|Two learners looking at a collapsed model bridge from their first attempt, unused materials ready for another try.
+987|ett misslyckande|Försöket blev ett misslyckande.|The attempt was a failure.|misslyckas → misslyckande: fail → failure.|A fallen tower of wooden blocks beside a disappointed builder and the intact plan of a tall tower.
+988|rättvis|Läraren är alltid rättvis.|The teacher is always fair.|rättvis = fair or just.|A teacher dividing identical art materials equally between two children, both receiving the same set.
+989|ganska|Provet var ganska svårt.|The test was fairly difficult.|ganska = fairly or rather.|A student considering a moderately difficult quiz, a difficulty gauge in the middle rather than at either extreme.
+990|en tro|Hon har en stark tro på framtiden.|She has strong faith in the future.|tro = faith or belief.|A hopeful woman planting a small tree while imagining its future shade, warm dawn light.
+991|falla|Löven faller från träden.|The leaves fall from the trees.|falla resembles fall.|Golden autumn leaves falling from a tall tree toward the ground, their motion clearly visible.
+992|falsk|Det visade sig vara ett falskt rykte.|It turned out to be a false rumour.|falsk resembles false.|A rumour speech bubble with a red cross contrasted with a verified factual document and green check.
+993|bekant|Den här platsen känns bekant.|This place feels familiar.|bekant = familiar or known.|A traveller recognising a cosy village square, a matching old photograph held in her hand.
+994|en familj|Hela familjen äter middag tillsammans.|The whole family eats dinner together.|familj resembles family.|A multigenerational family sharing dinner at a warm wooden table, affectionate natural interaction.
+995|berömd|Hon är en berömd författare.|She is a famous author.|berömd = famous.|A woman author signing books at a busy bookshop as readers queue with matching book covers.
+996|ett fan|Han är ett stort fan av laget.|He is a big fan of the team.|fan = an enthusiastic supporter.|A male football supporter in a blue and yellow scarf cheering for his team from the stands.
+997|vilja ha|Jag skulle vilja ha en kopp te.|I fancy a cup of tea.|vilja ha = want or fancy here.|A woman looking longingly at a steaming cup of tea in a cosy cafe, gently reaching toward it.
+998|fantastisk|Utsikten från berget är fantastisk.|The view from the mountain is fantastic.|fantastisk resembles fantastic.|A hiker amazed by a spectacular panoramic mountain and lake view at sunrise.
+999|långt|Det är långt till stationen.|It is far to the station.|långt = far.|A traveller seeing a tiny railway station far across a long winding road, great distance obvious.
+1000|en bondgård|Vi besöker en bondgård på landet.|We are visiting a farm in the countryside.|bondgård = farm.|A Swedish red farmhouse with barn, cows, vegetable plots and a tractor in the countryside.
+1001|en bonde|Bonden matar korna varje morgon.|The farmer feeds the cows every morning.|bonde = farmer.|A farmer giving hay to cows in a red wooden barn in soft morning light.
+1002|jordbruk|Jordbruk är viktigt för regionen.|Farming is important for the region.|jord = soil; jordbruk = farming.|A broad agricultural landscape with a farmer planting crops, cultivated fields and a working tractor.
+1003|fascinerande|Boken berättar en fascinerande historia.|The book tells a fascinating story.|fascinerande resembles fascinating.|A reader absorbed in a book, a vivid imagined ancient city rising from the pages in a thought cloud.
+1004|mode|Hon är intresserad av mode.|She is interested in fashion.|mode = fashion.|A woman comparing clothing designs on a mood board in a bright fashion studio, fabrics and outfits nearby.
+1005|moderiktig|Han bär en moderiktig jacka.|He is wearing a fashionable jacket.|moderiktig = fashionable or in style.|A man modelling a stylish contemporary jacket outside a clothing shop, jacket clearly emphasised.
+1006|snabb|Tåget är mycket snabbt.|The train is very fast.|snabb = fast or quick.|A sleek train passing through the countryside with a clear motion trail.
+1007|spänna fast|Spänn fast säkerhetsbältet.|Fasten your seat belt.|spänna fast = fasten securely.|Close clear view of a seated passenger clicking a seat-belt buckle closed, intact correct belt routing.
+1008|fett|Olivolja innehåller fett.|Olive oil contains fat.|fett = fat in food.|A bottle of olive oil pouring a golden stream into a bowl beside olives, food fat as the focus.
+1009|en far|Min far tycker om att laga mat.|My father likes cooking.|far = father.|An adult father happily cooking dinner with his adult daughter in a warm family kitchen.
+1010|ett fel|Det var mitt fel att vi kom sent.|It was my fault that we arrived late.|fel = fault or mistake.|A traveller pointing apologetically to his own chest beside a missed bus and a waiting friend.
+1011|en tjänst|Kan du göra mig en tjänst?|Can you do me a favour?|tjänst = favour or helpful service here.|A neighbour kindly helping another person carry a heavy box upstairs.
+1012|en favorit|Den här låten är min favorit.|This song is my favourite.|favorit resembles favourite.|A smiling music listener selecting one favourite song marked by a gold heart among several tracks.
+1013|en rädsla|Hon övervann sin rädsla för höjder.|She overcame her fear of heights.|rädsla = fear.|A nervous but determined woman safely crossing a high footbridge with sturdy rails and a supportive friend.
+1014|en fjäder|En vit fjäder låg på marken.|A white feather was lying on the ground.|fjäder = feather.|Macro view of one soft white bird feather lying on moss, detailed delicate barbs.
+1015|ett drag|Huset har många vackra drag.|The house has many beautiful features.|drag = feature or characteristic here.|An attractive old house with ornate windows and a carved wooden porch subtly highlighted.
+1016|februari|Min födelsedag är i februari.|My birthday is in February.|februari resembles February.|A birthday cake beside a simple February calendar in a snowy Swedish home, heading februari visible.
+1017|federal|USA har en federal regering.|The USA has a federal government.|federal = federal.|An educational illustration of the US Capitol with smaller state-government buildings linked around it.
+1018|en avgift|Du måste betala en liten avgift.|You have to pay a small fee.|avgift = fee or charge.|A visitor paying a small entrance fee at a museum ticket desk, ticket being handed over.
+1019|mata|Hon matar katten varje morgon.|She feeds the cat every morning.|mata = feed; mat = food.|A woman putting cat food into a bowl as her cat waits eagerly in the morning kitchen.
+1020|återkoppling|Jag fick bra återkoppling på mitt arbete.|I received good feedback on my work.|återkoppling = feedback.|A teacher returning a learner's illustrated project with helpful comments and encouraging check marks.
+1021|känna|Jag kan känna vinden mot ansiktet.|I can feel the wind on my face.|känna = feel.|A woman outdoors with eyes gently closed, hair and scarf blowing in the breeze against her face.
+1022|en känsla|Jag har en bra känsla inför mötet.|I have a good feeling about the meeting.|känna → känsla: feel → feeling.|An optimistic professional approaching a meeting room, relaxed smile and hand over heart.
+1023|en kamrat|Han hjälper en kamrat i klassen.|He helps a fellow student in the class.|kamrat = fellow or companion here.|A male student helping a classmate understand a shared worksheet at a classroom desk.
+1024|kvinnlig|Laget har en kvinnlig tränare.|The team has a female coach.|kvinnlig = female.|A woman football coach explaining a formation to her team on the training field.
+1025|ett staket|Vi målar staketet vitt.|We are painting the fence white.|staket = fence.|Two neighbours painting a wooden garden fence white, clear individual fence slats.
+1026|en festival|Staden ordnar en festival varje sommar.|The city holds a festival every summer.|festival = festival.|A cheerful outdoor summer music festival with a stage, colourful bunting and a diverse crowd.
+1027|feber|Barnet har feber och vilar i sängen.|The child has a fever and is resting in bed.|feber resembles fever.|A child resting comfortably in bed while a parent checks a digital thermometer, caring quiet atmosphere.
+1028|få|Det finns få lediga platser.|There are few available seats.|få = few.|A small theatre with almost every seat occupied and only three empty seats softly highlighted.

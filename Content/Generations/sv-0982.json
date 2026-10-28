@@ -1,0 +1,18 @@
+{
+  "id": "sv-0982",
+  "english": "facility",
+  "swedish": "en anläggning",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"en anläggning\". English meaning verbatim: \"facility\".\nScene: A newly built sports complex with swimming pool and running track, welcoming visitors.\nMemory caption verbatim: \"anläggning = facility or complex.\".\nBottom Swedish example verbatim: \"Staden bygger en ny idrottsanläggning.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-7f43427b-755c-451f-b2d6-9a88ab87aef9.png",
+  "artwork": "Content/Artwork/sv-0982.png",
+  "sha256": "75b260f23b5c74fe55b7914c2385349f3a4cf8fd84aa1b40d17905deb2724174",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

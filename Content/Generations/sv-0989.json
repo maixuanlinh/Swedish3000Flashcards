@@ -1,0 +1,18 @@
+{
+  "id": "sv-0989",
+  "english": "fairly",
+  "swedish": "ganska",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"ganska\". English meaning verbatim: \"fairly\".\nScene: A student considering a moderately difficult quiz, a difficulty gauge in the middle rather than at either extreme.\nMemory caption verbatim: \"ganska = fairly or rather.\".\nBottom Swedish example verbatim: \"Provet var ganska svårt.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-6b2381ea-c624-47b1-985a-4caabfd917b5.png",
+  "artwork": "Content/Artwork/sv-0989.png",
+  "sha256": "e214a273c646be3d079230bbf9d31f7e0e94455b1b193a820d62b2153997b0be",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

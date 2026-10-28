@@ -1,0 +1,18 @@
+{
+  "id": "sv-0985",
+  "english": "factory",
+  "swedish": "en fabrik",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"en fabrik\". English meaning verbatim: \"factory\".\nScene: A male worker assembling bicycles inside a bright modern factory, production line visible.\nMemory caption verbatim: \"fabrik = factory.\".\nBottom Swedish example verbatim: \"Min bror arbetar i en fabrik.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-a06981cf-7820-44a0-a8fa-19dd897fa20f.png",
+  "artwork": "Content/Artwork/sv-0985.png",
+  "sha256": "cd45c5d713d5ed58987cffb7daedd45b6bf5b62c61b723548e2a868744eb75a5",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

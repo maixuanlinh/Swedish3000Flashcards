@@ -1,0 +1,18 @@
+{
+  "id": "sv-1037",
+  "english": "file",
+  "swedish": "en fil",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"en fil\". English meaning verbatim: \"file\".\nScene: A laptop showing a single document icon moving into a clearly defined computer file folder.\nMemory caption verbatim: \"fil = computer file.\".\nBottom Swedish example verbatim: \"Jag sparar dokumentet i en fil.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-7ca5d58e-4fef-4923-a038-bf5c526e70b9.png",
+  "artwork": "Content/Artwork/sv-1037.png",
+  "sha256": "b8e3d569702c534355f310d21cc18474cebb893c95081fbf0ac04c1ad4d88a49",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-1019",
+  "english": "feed",
+  "swedish": "mata",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"mata\". English meaning verbatim: \"feed\".\nScene: A woman putting cat food into a bowl as her cat waits eagerly in the morning kitchen.\nMemory caption verbatim: \"mata = feed; mat = food.\".\nBottom Swedish example verbatim: \"Hon matar katten varje morgon.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-1c88d292-2bde-4c64-951f-faceecbff728.png",
+  "artwork": "Content/Artwork/sv-1019.png",
+  "sha256": "ffcdc4a7e579505358597721b7ac59ca4cc838a68085b1a2c39956bb1fef5dd5",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

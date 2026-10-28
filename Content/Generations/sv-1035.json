@@ -1,0 +1,18 @@
+{
+  "id": "sv-1035",
+  "english": "fighting",
+  "swedish": "strider",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"strider\". English meaning verbatim: \"fighting\".\nScene: A restrained distant historical battlefield at night with opposing silhouettes, no wounds or graphic details.\nMemory caption verbatim: \"strider = fighting or battles.\".\nBottom Swedish example verbatim: \"Striderna fortsatte hela natten.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-cc8f5806-337c-4ea6-aa40-ee574c0d22f6.png",
+  "artwork": "Content/Artwork/sv-1035.png",
+  "sha256": "0b38d2c71213bf0c124644a71c89c2b2f59d0cde3c611281b4d8521700c3353d",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

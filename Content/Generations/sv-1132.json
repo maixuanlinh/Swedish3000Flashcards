@@ -1,0 +1,18 @@
+{
+  "id": "sv-1132",
+  "english": "furniture",
+  "swedish": "möbler",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"möbler\". Smaller English meaning verbatim: \"furniture\".\nScene: A sofa, armchair, bookcase and coffee table arranged in a bright living room, distinct furniture pieces.\nMemory-link caption verbatim: \"möbler = furniture.\".\nSwedish example in bottom strip verbatim: \"Vi köper nya möbler till vardagsrummet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-b80d9839-e565-4e92-8ac9-a92999ea8b92.png",
+  "artwork": "Content/Artwork/sv-1132.png",
+  "sha256": "3b806966b4ca0c205bde87b8b37fa2fabfb80ee4db43508447da0cb4ceb70168",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

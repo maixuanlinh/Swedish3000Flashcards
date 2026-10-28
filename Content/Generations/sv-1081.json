@@ -1,0 +1,18 @@
+{
+  "id": "sv-1081",
+  "english": "foot",
+  "swedish": "en fot",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en fot\". Smaller English meaning verbatim: \"foot\".\nScene: A seated woman with a lightly bandaged foot raised on a cushion, no graphic injury.\nMemory-link caption verbatim: \"fot resembles foot.\".\nSwedish example in bottom strip verbatim: \"Hon skadade sin fot.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-d8b3a6ac-89df-4c03-9667-980652cf47b7.png",
+  "artwork": "Content/Artwork/sv-1081.png",
+  "sha256": "ffe195b898e60cf6a42dbff31e365837653ba41781ba7b273925c417aa74bdbf",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

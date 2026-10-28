@@ -1,0 +1,18 @@
+{
+  "id": "sv-1024",
+  "english": "female",
+  "swedish": "kvinnlig",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"kvinnlig\". English meaning verbatim: \"female\".\nScene: A woman football coach explaining a formation to her team on the training field.\nMemory caption verbatim: \"kvinnlig = female.\".\nBottom Swedish example verbatim: \"Laget har en kvinnlig tränare.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-b198ce39-78c8-4688-b001-3d429bd14df0.png",
+  "artwork": "Content/Artwork/sv-1024.png",
+  "sha256": "76790b2bd4afaefb257b8b0c4b90fedc3159496d67809e1f091ddd9978acd88d",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

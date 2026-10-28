@@ -1,0 +1,18 @@
+{
+  "id": "sv-1054",
+  "english": "fit",
+  "swedish": "passa",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"passa\". English meaning verbatim: \"fit\".\nScene: A shopper trying shoes that fit comfortably, exact foot and shoe outline aligned subtly.\nMemory caption verbatim: \"passa = fit here.\".\nBottom Swedish example verbatim: \"De här skorna passar mig perfekt.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-bcf51866-d713-4064-b1cd-ffbfa7f0c929.png",
+  "artwork": "Content/Artwork/sv-1054.png",
+  "sha256": "ec749ee01cf077d19cb55f71a02116e01ec60cb7e0f7b9e32c25e57b7e975375",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

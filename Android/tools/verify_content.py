@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify reused source assets without modifying or decoding/recompressing images."""
+"""Verify authored content, master provenance, derivatives and packaged assets."""
 import hashlib
 import json
 from pathlib import Path
@@ -27,12 +27,20 @@ assert sum(w['english'].lower().startswith('b') for w in catalog) == 152
 assert sum(w['english'].lower().startswith('c') for w in catalog) == 292
 assert sum(w['english'].lower().startswith('d') for w in catalog) == 163
 assert sum(w['english'].lower().startswith('e') for w in catalog) == 162
+assert sum(w['english'].lower().startswith('f') for w in catalog) == 155
 for row in art:
     for key in ('filename', 'thumbnailFilename'):
         path = resources / 'BundledArtwork' / row[key]
         assert path.parent == resources / 'BundledArtwork'
         assert path.is_file() and path.stat().st_size > 0, path
-print(f'PASS: {len(catalog)}/3000 authored Swedish words, bilingual examples; {len(art)} images; 211 A, 152 B, 292 C, 163 D and 162 E words.')
+    master = root / 'Content/Artwork' / (row['wordID'] + '.png')
+    provenance = json.loads((root / 'Content/Generations' / (row['wordID'] + '.json')).read_text())
+    master_hash = hashlib.sha256(master.read_bytes()).hexdigest()
+    assert master_hash == provenance['sha256'] == row['masterSHA256'], row['wordID']
+    assert hashlib.sha256((resources / 'BundledArtwork' / row['filename']).read_bytes()).hexdigest() == row['bundleSHA256'], row['wordID']
+    assert row['encoding'] == 'jpeg-quality-90'
+assert {p.name for p in (resources / 'BundledArtwork').glob('sv-*')} == {a['filename'] for a in art}
+print(f'PASS: {len(catalog)}/3000 authored Swedish words, bilingual examples; {len(art)} images; 211 A, 152 B, 292 C, 163 D 162 E and 155 F words.')
 apk = root / 'Android/app/build/outputs/apk/debug/app-debug.apk'
 if apk.exists():
     with zipfile.ZipFile(apk) as archive:

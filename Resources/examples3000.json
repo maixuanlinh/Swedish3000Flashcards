@@ -4898,5 +4898,780 @@
     "id": "sv-0980",
     "sentence": "Hon har ett blått öga och ett brunt öga.",
     "sentenceEnglish": "She has one blue eye and one brown eye."
+  },
+  {
+    "id": "sv-0981",
+    "sentence": "Hon har ett glatt ansikte.",
+    "sentenceEnglish": "She has a happy face."
+  },
+  {
+    "id": "sv-0982",
+    "sentence": "Staden bygger en ny idrottsanläggning.",
+    "sentenceEnglish": "The city is building a new sports facility."
+  },
+  {
+    "id": "sv-0983",
+    "sentence": "Det är ett välkänt faktum.",
+    "sentenceEnglish": "It is a well-known fact."
+  },
+  {
+    "id": "sv-0984",
+    "sentence": "Sömn är en viktig faktor för hälsan.",
+    "sentenceEnglish": "Sleep is an important factor in health."
+  },
+  {
+    "id": "sv-0985",
+    "sentence": "Min bror arbetar i en fabrik.",
+    "sentenceEnglish": "My brother works in a factory."
+  },
+  {
+    "id": "sv-0986",
+    "sentence": "Vi misslyckades med vårt första försök.",
+    "sentenceEnglish": "We failed in our first attempt."
+  },
+  {
+    "id": "sv-0987",
+    "sentence": "Försöket blev ett misslyckande.",
+    "sentenceEnglish": "The attempt was a failure."
+  },
+  {
+    "id": "sv-0988",
+    "sentence": "Läraren är alltid rättvis.",
+    "sentenceEnglish": "The teacher is always fair."
+  },
+  {
+    "id": "sv-0989",
+    "sentence": "Provet var ganska svårt.",
+    "sentenceEnglish": "The test was fairly difficult."
+  },
+  {
+    "id": "sv-0990",
+    "sentence": "Hon har en stark tro på framtiden.",
+    "sentenceEnglish": "She has strong faith in the future."
+  },
+  {
+    "id": "sv-0991",
+    "sentence": "Löven faller från träden.",
+    "sentenceEnglish": "The leaves fall from the trees."
+  },
+  {
+    "id": "sv-0992",
+    "sentence": "Det visade sig vara ett falskt rykte.",
+    "sentenceEnglish": "It turned out to be a false rumour."
+  },
+  {
+    "id": "sv-0993",
+    "sentence": "Den här platsen känns bekant.",
+    "sentenceEnglish": "This place feels familiar."
+  },
+  {
+    "id": "sv-0994",
+    "sentence": "Hela familjen äter middag tillsammans.",
+    "sentenceEnglish": "The whole family eats dinner together."
+  },
+  {
+    "id": "sv-0995",
+    "sentence": "Hon är en berömd författare.",
+    "sentenceEnglish": "She is a famous author."
+  },
+  {
+    "id": "sv-0996",
+    "sentence": "Han är ett stort fan av laget.",
+    "sentenceEnglish": "He is a big fan of the team."
+  },
+  {
+    "id": "sv-0997",
+    "sentence": "Jag skulle vilja ha en kopp te.",
+    "sentenceEnglish": "I fancy a cup of tea."
+  },
+  {
+    "id": "sv-0998",
+    "sentence": "Utsikten från berget är fantastisk.",
+    "sentenceEnglish": "The view from the mountain is fantastic."
+  },
+  {
+    "id": "sv-0999",
+    "sentence": "Det är långt till stationen.",
+    "sentenceEnglish": "It is far to the station."
+  },
+  {
+    "id": "sv-1000",
+    "sentence": "Vi besöker en bondgård på landet.",
+    "sentenceEnglish": "We are visiting a farm in the countryside."
+  },
+  {
+    "id": "sv-1001",
+    "sentence": "Bonden matar korna varje morgon.",
+    "sentenceEnglish": "The farmer feeds the cows every morning."
+  },
+  {
+    "id": "sv-1002",
+    "sentence": "Jordbruk är viktigt för regionen.",
+    "sentenceEnglish": "Farming is important for the region."
+  },
+  {
+    "id": "sv-1003",
+    "sentence": "Boken berättar en fascinerande historia.",
+    "sentenceEnglish": "The book tells a fascinating story."
+  },
+  {
+    "id": "sv-1004",
+    "sentence": "Hon är intresserad av mode.",
+    "sentenceEnglish": "She is interested in fashion."
+  },
+  {
+    "id": "sv-1005",
+    "sentence": "Han bär en moderiktig jacka.",
+    "sentenceEnglish": "He is wearing a fashionable jacket."
+  },
+  {
+    "id": "sv-1006",
+    "sentence": "Tåget är mycket snabbt.",
+    "sentenceEnglish": "The train is very fast."
+  },
+  {
+    "id": "sv-1007",
+    "sentence": "Spänn fast säkerhetsbältet.",
+    "sentenceEnglish": "Fasten your seat belt."
+  },
+  {
+    "id": "sv-1008",
+    "sentence": "Olivolja innehåller fett.",
+    "sentenceEnglish": "Olive oil contains fat."
+  },
+  {
+    "id": "sv-1009",
+    "sentence": "Min far tycker om att laga mat.",
+    "sentenceEnglish": "My father likes cooking."
+  },
+  {
+    "id": "sv-1010",
+    "sentence": "Det var mitt fel att vi kom sent.",
+    "sentenceEnglish": "It was my fault that we arrived late."
+  },
+  {
+    "id": "sv-1011",
+    "sentence": "Kan du göra mig en tjänst?",
+    "sentenceEnglish": "Can you do me a favour?"
+  },
+  {
+    "id": "sv-1012",
+    "sentence": "Den här låten är min favorit.",
+    "sentenceEnglish": "This song is my favourite."
+  },
+  {
+    "id": "sv-1013",
+    "sentence": "Hon övervann sin rädsla för höjder.",
+    "sentenceEnglish": "She overcame her fear of heights."
+  },
+  {
+    "id": "sv-1014",
+    "sentence": "En vit fjäder låg på marken.",
+    "sentenceEnglish": "A white feather was lying on the ground."
+  },
+  {
+    "id": "sv-1015",
+    "sentence": "Huset har många vackra drag.",
+    "sentenceEnglish": "The house has many beautiful features."
+  },
+  {
+    "id": "sv-1016",
+    "sentence": "Min födelsedag är i februari.",
+    "sentenceEnglish": "My birthday is in February."
+  },
+  {
+    "id": "sv-1017",
+    "sentence": "USA har en federal regering.",
+    "sentenceEnglish": "The USA has a federal government."
+  },
+  {
+    "id": "sv-1018",
+    "sentence": "Du måste betala en liten avgift.",
+    "sentenceEnglish": "You have to pay a small fee."
+  },
+  {
+    "id": "sv-1019",
+    "sentence": "Hon matar katten varje morgon.",
+    "sentenceEnglish": "She feeds the cat every morning."
+  },
+  {
+    "id": "sv-1020",
+    "sentence": "Jag fick bra återkoppling på mitt arbete.",
+    "sentenceEnglish": "I received good feedback on my work."
+  },
+  {
+    "id": "sv-1021",
+    "sentence": "Jag kan känna vinden mot ansiktet.",
+    "sentenceEnglish": "I can feel the wind on my face."
+  },
+  {
+    "id": "sv-1022",
+    "sentence": "Jag har en bra känsla inför mötet.",
+    "sentenceEnglish": "I have a good feeling about the meeting."
+  },
+  {
+    "id": "sv-1023",
+    "sentence": "Han hjälper en kamrat i klassen.",
+    "sentenceEnglish": "He helps a fellow student in the class."
+  },
+  {
+    "id": "sv-1024",
+    "sentence": "Laget har en kvinnlig tränare.",
+    "sentenceEnglish": "The team has a female coach."
+  },
+  {
+    "id": "sv-1025",
+    "sentence": "Vi målar staketet vitt.",
+    "sentenceEnglish": "We are painting the fence white."
+  },
+  {
+    "id": "sv-1026",
+    "sentence": "Staden ordnar en festival varje sommar.",
+    "sentenceEnglish": "The city holds a festival every summer."
+  },
+  {
+    "id": "sv-1027",
+    "sentence": "Barnet har feber och vilar i sängen.",
+    "sentenceEnglish": "The child has a fever and is resting in bed."
+  },
+  {
+    "id": "sv-1028",
+    "sentence": "Det finns få lediga platser.",
+    "sentenceEnglish": "There are few available seats."
+  },
+  {
+    "id": "sv-1029",
+    "sentence": "Hon läser helst skönlitteratur.",
+    "sentenceEnglish": "She prefers reading fiction."
+  },
+  {
+    "id": "sv-1030",
+    "sentence": "Ett grönt fält ligger bakom huset.",
+    "sentenceEnglish": "A green field lies behind the house."
+  },
+  {
+    "id": "sv-1031",
+    "sentence": "Det finns femton elever i klassen.",
+    "sentenceEnglish": "There are fifteen students in the class."
+  },
+  {
+    "id": "sv-1032",
+    "sentence": "Hon kom på femte plats.",
+    "sentenceEnglish": "She came in fifth place."
+  },
+  {
+    "id": "sv-1033",
+    "sentence": "Biljetten kostar femtio kronor.",
+    "sentenceEnglish": "The ticket costs fifty kronor."
+  },
+  {
+    "id": "sv-1034",
+    "sentence": "Barnen får inte slåss.",
+    "sentenceEnglish": "The children must not fight."
+  },
+  {
+    "id": "sv-1035",
+    "sentence": "Striderna fortsatte hela natten.",
+    "sentenceEnglish": "The fighting continued all night."
+  },
+  {
+    "id": "sv-1036",
+    "sentence": "Skriv en siffra i rutan.",
+    "sentenceEnglish": "Write a figure in the box."
+  },
+  {
+    "id": "sv-1037",
+    "sentence": "Jag sparar dokumentet i en fil.",
+    "sentenceEnglish": "I save the document in a file."
+  },
+  {
+    "id": "sv-1038",
+    "sentence": "Fyll glaset med vatten.",
+    "sentenceEnglish": "Fill the glass with water."
+  },
+  {
+    "id": "sv-1039",
+    "sentence": "Vi såg en rolig film i går.",
+    "sentenceEnglish": "We watched a funny film yesterday."
+  },
+  {
+    "id": "sv-1040",
+    "sentence": "Det här är vårt slutliga beslut.",
+    "sentenceEnglish": "This is our final decision."
+  },
+  {
+    "id": "sv-1041",
+    "sentence": "Äntligen är vi framme!",
+    "sentenceEnglish": "We have finally arrived!"
+  },
+  {
+    "id": "sv-1042",
+    "sentence": "Banken ska finansiera projektet.",
+    "sentenceEnglish": "The bank will finance the project."
+  },
+  {
+    "id": "sv-1043",
+    "sentence": "Företaget behöver finansiell hjälp.",
+    "sentenceEnglish": "The company needs financial help."
+  },
+  {
+    "id": "sv-1044",
+    "sentence": "Jag kan inte hitta mina nycklar.",
+    "sentenceEnglish": "I cannot find my keys."
+  },
+  {
+    "id": "sv-1045",
+    "sentence": "Forskarna gjorde ett viktigt fynd.",
+    "sentenceEnglish": "The researchers made an important finding."
+  },
+  {
+    "id": "sv-1046",
+    "sentence": "Jag mår bra i dag.",
+    "sentenceEnglish": "I feel fine today."
+  },
+  {
+    "id": "sv-1047",
+    "sentence": "Hon pekar med ett finger.",
+    "sentenceEnglish": "She points with one finger."
+  },
+  {
+    "id": "sv-1048",
+    "sentence": "Vi måste avsluta arbetet i dag.",
+    "sentenceEnglish": "We must finish the work today."
+  },
+  {
+    "id": "sv-1049",
+    "sentence": "Vi tänder en eld i kaminen.",
+    "sentenceEnglish": "We light a fire in the stove."
+  },
+  {
+    "id": "sv-1050",
+    "sentence": "Hon arbetar på ett litet företag.",
+    "sentenceEnglish": "She works at a small firm."
+  },
+  {
+    "id": "sv-1051",
+    "sentence": "Det är min första dag på jobbet.",
+    "sentenceEnglish": "It is my first day at work."
+  },
+  {
+    "id": "sv-1052",
+    "sentence": "En fisk simmar i sjön.",
+    "sentenceEnglish": "A fish is swimming in the lake."
+  },
+  {
+    "id": "sv-1053",
+    "sentence": "Fiske är hans största intresse.",
+    "sentenceEnglish": "Fishing is his main interest."
+  },
+  {
+    "id": "sv-1054",
+    "sentence": "De här skorna passar mig perfekt.",
+    "sentenceEnglish": "These shoes fit me perfectly."
+  },
+  {
+    "id": "sv-1055",
+    "sentence": "Jag tränar för att förbättra min kondition.",
+    "sentenceEnglish": "I exercise to improve my fitness."
+  },
+  {
+    "id": "sv-1056",
+    "sentence": "Det finns fem äpplen i skålen.",
+    "sentenceEnglish": "There are five apples in the bowl."
+  },
+  {
+    "id": "sv-1057",
+    "sentence": "Kan du laga min cykel?",
+    "sentenceEnglish": "Can you fix my bicycle?"
+  },
+  {
+    "id": "sv-1058",
+    "sentence": "Bordet har en fast plats i rummet.",
+    "sentenceEnglish": "The table has a fixed position in the room."
+  },
+  {
+    "id": "sv-1059",
+    "sentence": "Den svenska flaggan är blå och gul.",
+    "sentenceEnglish": "The Swedish flag is blue and yellow."
+  },
+  {
+    "id": "sv-1060",
+    "sentence": "Ljusets låga fladdrade i vinden.",
+    "sentenceEnglish": "The candle flame flickered in the wind."
+  },
+  {
+    "id": "sv-1061",
+    "sentence": "En blixt lyste upp himlen.",
+    "sentenceEnglish": "A flash of lightning lit up the sky."
+  },
+  {
+    "id": "sv-1062",
+    "sentence": "Vi bor i en liten lägenhet.",
+    "sentenceEnglish": "We live in a small flat."
+  },
+  {
+    "id": "sv-1063",
+    "sentence": "Mitt arbetsschema är flexibelt.",
+    "sentenceEnglish": "My work schedule is flexible."
+  },
+  {
+    "id": "sv-1064",
+    "sentence": "Vår flygning tar två timmar.",
+    "sentenceEnglish": "Our flight takes two hours."
+  },
+  {
+    "id": "sv-1065",
+    "sentence": "Träbiten flyter på vattnet.",
+    "sentenceEnglish": "The piece of wood floats on the water."
+  },
+  {
+    "id": "sv-1066",
+    "sentence": "Kraftigt regn orsakade en översvämning.",
+    "sentenceEnglish": "Heavy rain caused a flood."
+  },
+  {
+    "id": "sv-1067",
+    "sentence": "Golvet i köket är rent.",
+    "sentenceEnglish": "The kitchen floor is clean."
+  },
+  {
+    "id": "sv-1068",
+    "sentence": "Vi behöver mjöl för att baka bröd.",
+    "sentenceEnglish": "We need flour to bake bread."
+  },
+  {
+    "id": "sv-1069",
+    "sentence": "Vattnet rinner genom röret.",
+    "sentenceEnglish": "The water flows through the pipe."
+  },
+  {
+    "id": "sv-1070",
+    "sentence": "En gul blomma växer i trädgården.",
+    "sentenceEnglish": "A yellow flower grows in the garden."
+  },
+  {
+    "id": "sv-1071",
+    "sentence": "Hon stannar hemma med influensa.",
+    "sentenceEnglish": "She is staying home with the flu."
+  },
+  {
+    "id": "sv-1072",
+    "sentence": "Fåglarna flyger över sjön.",
+    "sentenceEnglish": "The birds fly over the lake."
+  },
+  {
+    "id": "sv-1073",
+    "sentence": "Vi såg en flygande drake.",
+    "sentenceEnglish": "We saw a flying dragon."
+  },
+  {
+    "id": "sv-1074",
+    "sentence": "Jag måste fokusera på uppgiften.",
+    "sentenceEnglish": "I must focus on the task."
+  },
+  {
+    "id": "sv-1075",
+    "sentence": "Vik pappret på mitten.",
+    "sentenceEnglish": "Fold the paper in half."
+  },
+  {
+    "id": "sv-1076",
+    "sentence": "Vi tar med ett hopfällbart bord.",
+    "sentenceEnglish": "We are taking a folding table."
+  },
+  {
+    "id": "sv-1077",
+    "sentence": "De spelar traditionell folkmusik.",
+    "sentenceEnglish": "They play traditional folk music."
+  },
+  {
+    "id": "sv-1078",
+    "sentence": "Följ mig till stationen.",
+    "sentenceEnglish": "Follow me to the station."
+  },
+  {
+    "id": "sv-1079",
+    "sentence": "Svara på följande frågor.",
+    "sentenceEnglish": "Answer the following questions."
+  },
+  {
+    "id": "sv-1080",
+    "sentence": "Maten är klar nu.",
+    "sentenceEnglish": "The food is ready now."
+  },
+  {
+    "id": "sv-1081",
+    "sentence": "Hon skadade sin fot.",
+    "sentenceEnglish": "She injured her foot."
+  },
+  {
+    "id": "sv-1082",
+    "sentence": "Barnen spelar fotboll i parken.",
+    "sentenceEnglish": "The children are playing football in the park."
+  },
+  {
+    "id": "sv-1083",
+    "sentence": "Den här presenten är för dig.",
+    "sentenceEnglish": "This present is for you."
+  },
+  {
+    "id": "sv-1084",
+    "sentence": "Vinden har stor kraft.",
+    "sentenceEnglish": "The wind has great force."
+  },
+  {
+    "id": "sv-1085",
+    "sentence": "Hon studerar vid ett utländskt universitet.",
+    "sentenceEnglish": "She studies at a foreign university."
+  },
+  {
+    "id": "sv-1086",
+    "sentence": "Vi går en promenad i skogen.",
+    "sentenceEnglish": "We are taking a walk in the forest."
+  },
+  {
+    "id": "sv-1087",
+    "sentence": "Jag kommer att minnas den här dagen för alltid.",
+    "sentenceEnglish": "I will remember this day forever."
+  },
+  {
+    "id": "sv-1088",
+    "sentence": "Glöm inte att låsa dörren.",
+    "sentenceEnglish": "Do not forget to lock the door."
+  },
+  {
+    "id": "sv-1089",
+    "sentence": "Kan du förlåta mig?",
+    "sentenceEnglish": "Can you forgive me?"
+  },
+  {
+    "id": "sv-1090",
+    "sentence": "Jag äter med kniv och gaffel.",
+    "sentenceEnglish": "I eat with a knife and fork."
+  },
+  {
+    "id": "sv-1091",
+    "sentence": "Fyll i blanketten med ditt namn.",
+    "sentenceEnglish": "Fill in the form with your name."
+  },
+  {
+    "id": "sv-1092",
+    "sentence": "Mötet hade en formell ton.",
+    "sentenceEnglish": "The meeting had a formal tone."
+  },
+  {
+    "id": "sv-1093",
+    "sentence": "Min tidigare chef bor i Göteborg.",
+    "sentenceEnglish": "My former boss lives in Gothenburg."
+  },
+  {
+    "id": "sv-1094",
+    "sentence": "Lyckligtvis missade vi inte tåget.",
+    "sentenceEnglish": "Fortunately, we did not miss the train."
+  },
+  {
+    "id": "sv-1095",
+    "sentence": "Huset kostade en förmögenhet.",
+    "sentenceEnglish": "The house cost a fortune."
+  },
+  {
+    "id": "sv-1096",
+    "sentence": "Han fyller fyrtio år i dag.",
+    "sentenceEnglish": "He turns forty today."
+  },
+  {
+    "id": "sv-1097",
+    "sentence": "Ta ett steg framåt.",
+    "sentenceEnglish": "Take one step forward."
+  },
+  {
+    "id": "sv-1098",
+    "sentence": "De vill grunda ett nytt företag.",
+    "sentenceEnglish": "They want to found a new company."
+  },
+  {
+    "id": "sv-1099",
+    "sentence": "Vi har fyra stolar i köket.",
+    "sentenceEnglish": "We have four chairs in the kitchen."
+  },
+  {
+    "id": "sv-1100",
+    "sentence": "Min syster är fjorton år.",
+    "sentenceEnglish": "My sister is fourteen years old."
+  },
+  {
+    "id": "sv-1101",
+    "sentence": "Vi bor på fjärde våningen.",
+    "sentenceEnglish": "We live on the fourth floor."
+  },
+  {
+    "id": "sv-1102",
+    "sentence": "Bilden har en vacker ram.",
+    "sentenceEnglish": "The picture has a beautiful frame."
+  },
+  {
+    "id": "sv-1103",
+    "sentence": "Inträdet till museet är gratis.",
+    "sentenceEnglish": "Admission to the museum is free."
+  },
+  {
+    "id": "sv-1104",
+    "sentence": "Frihet är viktigt för alla.",
+    "sentenceEnglish": "Freedom is important to everyone."
+  },
+  {
+    "id": "sv-1105",
+    "sentence": "Vattnet kan frysa på vintern.",
+    "sentenceEnglish": "The water can freeze in winter."
+  },
+  {
+    "id": "sv-1106",
+    "sentence": "Vi mäter ljudets frekvens.",
+    "sentenceEnglish": "We measure the frequency of the sound."
+  },
+  {
+    "id": "sv-1107",
+    "sentence": "Jag besöker biblioteket ofta.",
+    "sentenceEnglish": "I visit the library frequently."
+  },
+  {
+    "id": "sv-1108",
+    "sentence": "Vi köper färskt bröd varje morgon.",
+    "sentenceEnglish": "We buy fresh bread every morning."
+  },
+  {
+    "id": "sv-1109",
+    "sentence": "På fredag träffar jag mina vänner.",
+    "sentenceEnglish": "On Friday I am meeting my friends."
+  },
+  {
+    "id": "sv-1110",
+    "sentence": "Hon är min bästa vän.",
+    "sentenceEnglish": "She is my best friend."
+  },
+  {
+    "id": "sv-1111",
+    "sentence": "Personalen är mycket vänlig.",
+    "sentenceEnglish": "The staff are very friendly."
+  },
+  {
+    "id": "sv-1112",
+    "sentence": "Vår vänskap har varat i många år.",
+    "sentenceEnglish": "Our friendship has lasted for many years."
+  },
+  {
+    "id": "sv-1113",
+    "sentence": "Höga ljud kan skrämma hunden.",
+    "sentenceEnglish": "Loud noises can frighten the dog."
+  },
+  {
+    "id": "sv-1114",
+    "sentence": "Barnet är rädd för mörkret.",
+    "sentenceEnglish": "The child is frightened of the dark."
+  },
+  {
+    "id": "sv-1115",
+    "sentence": "Filmen var mycket skrämmande.",
+    "sentenceEnglish": "The film was very frightening."
+  },
+  {
+    "id": "sv-1116",
+    "sentence": "En grön groda sitter vid dammen.",
+    "sentenceEnglish": "A green frog is sitting beside the pond."
+  },
+  {
+    "id": "sv-1117",
+    "sentence": "Jag kommer från Sverige.",
+    "sentenceEnglish": "I come from Sweden."
+  },
+  {
+    "id": "sv-1118",
+    "sentence": "Husets framsida vetter mot gatan.",
+    "sentenceEnglish": "The front of the house faces the street."
+  },
+  {
+    "id": "sv-1119",
+    "sentence": "Sjön är frusen på vintern.",
+    "sentenceEnglish": "The lake is frozen in winter."
+  },
+  {
+    "id": "sv-1120",
+    "sentence": "Ett äpple är en frukt.",
+    "sentenceEnglish": "An apple is a fruit."
+  },
+  {
+    "id": "sv-1121",
+    "sentence": "Jag ska steka ägg till frukost.",
+    "sentenceEnglish": "I am going to fry eggs for breakfast."
+  },
+  {
+    "id": "sv-1122",
+    "sentence": "Bilen behöver bränsle.",
+    "sentenceEnglish": "The car needs fuel."
+  },
+  {
+    "id": "sv-1123",
+    "sentence": "Flaskan är full med vatten.",
+    "sentenceEnglish": "The bottle is full of water."
+  },
+  {
+    "id": "sv-1124",
+    "sentence": "Jag håller helt med dig.",
+    "sentenceEnglish": "I fully agree with you."
+  },
+  {
+    "id": "sv-1125",
+    "sentence": "Det är roligt att spela tillsammans.",
+    "sentenceEnglish": "It is fun to play together."
+  },
+  {
+    "id": "sv-1126",
+    "sentence": "Knappen har en viktig funktion.",
+    "sentenceEnglish": "The button has an important function."
+  },
+  {
+    "id": "sv-1127",
+    "sentence": "Pengarna finns i en särskild fond.",
+    "sentenceEnglish": "The money is in a special fund."
+  },
+  {
+    "id": "sv-1128",
+    "sentence": "Mat och vatten är grundläggande behov.",
+    "sentenceEnglish": "Food and water are fundamental needs."
+  },
+  {
+    "id": "sv-1129",
+    "sentence": "Projektet behöver mer finansiering.",
+    "sentenceEnglish": "The project needs more funding."
+  },
+  {
+    "id": "sv-1130",
+    "sentence": "Han berättade en rolig historia.",
+    "sentenceEnglish": "He told a funny story."
+  },
+  {
+    "id": "sv-1131",
+    "sentence": "Räven har en tjock päls.",
+    "sentenceEnglish": "The fox has thick fur."
+  },
+  {
+    "id": "sv-1132",
+    "sentence": "Vi köper nya möbler till vardagsrummet.",
+    "sentenceEnglish": "We are buying new furniture for the living room."
+  },
+  {
+    "id": "sv-1133",
+    "sentence": "Vi behöver ytterligare information.",
+    "sentenceEnglish": "We need further information."
+  },
+  {
+    "id": "sv-1134",
+    "sentence": "Huset är stort och dessutom billigt.",
+    "sentenceEnglish": "The house is large and furthermore inexpensive."
+  },
+  {
+    "id": "sv-1135",
+    "sentence": "Vi planerar för en bättre framtid.",
+    "sentenceEnglish": "We are planning for a better future."
   }
 ]

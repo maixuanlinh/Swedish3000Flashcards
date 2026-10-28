@@ -1,0 +1,48 @@
+1029|skönlitteratur|Hon läser helst skönlitteratur.|She prefers reading fiction.|skönlitteratur = fiction or imaginative literature.|A reader enjoying a novel as an imaginary story world emerges above the book, separate from a factual reference book.
+1030|ett fält|Ett grönt fält ligger bakom huset.|A green field lies behind the house.|fält = field.|A wide green grassy field behind a small red Swedish house, open space clearly visible.
+1031|femton|Det finns femton elever i klassen.|There are fifteen students in the class.|fem + tio → femton: fifteen.|Exactly fifteen simple pupil portraits in three rows of five on a classroom board, large numeral 15.
+1032|femte|Hon kom på femte plats.|She came in fifth place.|fem → femte: five → fifth.|Five runners in a clear finishing order; the fifth runner has a gold outline and the numeral 5.
+1033|femtio|Biljetten kostar femtio kronor.|The ticket costs fifty kronor.|fem groups of tio = femtio: fifty.|A ticket beside a clear price tag reading 50 kr, five neat bundles of ten counting tokens.
+1034|slåss|Barnen får inte slåss.|The children must not fight.|slåss = fight physically.|Two children stopping a mild argument as a calm adult intervenes, no injuries, crossed-out boxing-glove symbol.
+1035|strider|Striderna fortsatte hela natten.|The fighting continued all night.|strider = fighting or battles.|A restrained distant historical battlefield at night with opposing silhouettes, no wounds or graphic details.
+1036|en siffra|Skriv en siffra i rutan.|Write a figure in the box.|siffra = figure or numeral here.|Close view of a hand writing one large numeral 7 neatly inside a blank square.
+1037|en fil|Jag sparar dokumentet i en fil.|I save the document in a file.|fil = computer file.|A laptop showing a single document icon moving into a clearly defined computer file folder.
+1038|fylla|Fyll glaset med vatten.|Fill the glass with water.|fylla resembles fill.|Water pouring from a jug into a transparent glass, level visibly rising.
+1039|en film|Vi såg en rolig film i går.|We watched a funny film yesterday.|film = film.|Friends laughing at a film in a cinema, projector beam and screen visible.
+1040|slutlig|Det här är vårt slutliga beslut.|This is our final decision.|slut = end; slutlig = final.|A group confirming the last version of a plan with one decisive green check and a closed folder.
+1041|äntligen|Äntligen är vi framme!|We have finally arrived!|äntligen = finally or at last.|Exhausted happy hikers reaching a mountain cabin after a long trail, welcoming door ahead.
+1042|finansiera|Banken ska finansiera projektet.|The bank will finance the project.|finansiera resembles finance.|A bank representative releasing funds toward a clearly displayed small business building project.
+1043|finansiell|Företaget behöver finansiell hjälp.|The company needs financial help.|finansiell resembles financial.|A small business owner reviewing cash-flow charts with a financial adviser and a supportive funding document.
+1044|hitta|Jag kan inte hitta mina nycklar.|I cannot find my keys.|hitta = find.|A person searching under sofa cushions, lost keys visible nearby beneath a cushion edge.
+1045|ett fynd|Forskarna gjorde ett viktigt fynd.|The researchers made an important finding.|fynd = finding or discovery.|Archaeologists carefully uncovering a significant old pottery fragment in an excavation trench.
+1046|bra|Jag mår bra i dag.|I feel fine today.|bra = fine or well here.|A healthy relaxed person enjoying a sunny morning walk, clear contented expression.
+1047|ett finger|Hon pekar med ett finger.|She points with one finger.|finger = finger.|A natural hand pointing with exactly one extended index finger, clean uncluttered background.
+1048|avsluta|Vi måste avsluta arbetet i dag.|We must finish the work today.|slut = end; avsluta = finish.|A worker completing the final task on a short checklist and closing a finished project folder.
+1049|en eld|Vi tänder en eld i kaminen.|We light a fire in the stove.|eld = fire.|A warm fire burning safely inside a wood-burning stove in a cosy cabin.
+1050|ett företag|Hon arbetar på ett litet företag.|She works at a small firm.|företag = firm or company.|A woman working with a small team in a modest bright company office.
+1051|första|Det är min första dag på jobbet.|It is my first day at work.|första = first.|A new employee warmly welcomed into an office, calendar day 1 highlighted.
+1052|en fisk|En fisk simmar i sjön.|A fish is swimming in the lake.|fisk resembles fish.|One clearly visible freshwater fish swimming beneath the surface of a clear Swedish lake.
+1053|fiske|Fiske är hans största intresse.|Fishing is his main interest.|fisk → fiske: fish → fishing.|A man peacefully fishing with a rod from a small jetty beside a Swedish lake.
+1054|passa|De här skorna passar mig perfekt.|These shoes fit me perfectly.|passa = fit here.|A shopper trying shoes that fit comfortably, exact foot and shoe outline aligned subtly.
+1055|kondition|Jag tränar för att förbättra min kondition.|I exercise to improve my fitness.|kondition = physical fitness.|A woman jogging steadily along a park path with a simple upward fitness chart.
+1056|fem|Det finns fem äpplen i skålen.|There are five apples in the bowl.|fem = five.|Exactly five clearly separated red apples in a shallow bowl, large numeral 5 nearby.
+1057|laga|Kan du laga min cykel?|Can you fix my bicycle?|laga = fix or repair.|A mechanic repairing a bicycle wheel in a bright workshop.
+1058|fast|Bordet har en fast plats i rummet.|The table has a fixed position in the room.|fast = fixed or firmly placed.|A sturdy table anchored in one clearly marked position in a room, small floor outline emphasising its location.
+1059|en flagga|Den svenska flaggan är blå och gul.|The Swedish flag is blue and yellow.|flagga resembles flag.|One accurate Swedish flag waving clearly against a blue sky, yellow Nordic cross on blue.
+1060|en låga|Ljusets låga fladdrade i vinden.|The candle flame flickered in the wind.|låga = flame.|Close view of a single candle flame leaning gently in a light breeze.
+1061|en blixt|En blixt lyste upp himlen.|A flash of lightning lit up the sky.|blixt = flash of lightning.|A single bright lightning flash illuminating a dramatic distant sky above a lake.
+1062|en lägenhet|Vi bor i en liten lägenhet.|We live in a small flat.|lägenhet = flat or apartment.|A cosy compact apartment interior with living area, kitchen nook and window, cutaway view.
+1063|flexibel|Mitt arbetsschema är flexibelt.|My work schedule is flexible.|flexibel resembles flexible.|A worker moving colourful appointment blocks freely on a weekly planner, open time slots.
+1064|en flygning|Vår flygning tar två timmar.|Our flight takes two hours.|flyga → flygning: fly → flight.|An airliner in the sky with a simple route between two cities and a duration marked 2 h.
+1065|flyta|Träbiten flyter på vattnet.|The piece of wood floats on the water.|flyta resembles float.|A small piece of wood visibly floating at the surface of clear water, stone resting below for contrast.
+1066|en översvämning|Kraftigt regn orsakade en översvämning.|Heavy rain caused a flood.|översvämning = flood.|A flooded riverside path after heavy rain, water beyond the normal riverbank and people safely on higher ground.
+1067|ett golv|Golvet i köket är rent.|The kitchen floor is clean.|golv = floor inside a room.|A freshly cleaned wooden kitchen floor gleaming in sunlight, low viewpoint emphasising the floor.
+1068|mjöl|Vi behöver mjöl för att baka bröd.|We need flour to bake bread.|mjöl = flour.|A bowl of white flour beside dough, wheat stalks and a wooden bread board.
+1069|rinna|Vattnet rinner genom röret.|The water flows through the pipe.|rinna = flow or run, for liquid.|A transparent section of pipe showing water flowing smoothly through it, clear directional arrow.
+1070|en blomma|En gul blomma växer i trädgården.|A yellow flower grows in the garden.|blomma = flower or bloom.|One bright yellow flower in a green garden, petals and stem clearly visible.
+1071|influensa|Hon stannar hemma med influensa.|She is staying home with the flu.|influensa resembles influenza; flu.|A woman resting under a blanket at home with tissues, water and a thermometer nearby.
+1072|flyga|Fåglarna flyger över sjön.|The birds fly over the lake.|flyga resembles fly.|Birds flying clearly above a calm lake, open wings and motion through the air.
+1073|flygande|Vi såg en flygande drake.|We saw a flying dragon.|flyga → flygande: fly → flying.|An imaginative friendly dragon flying high above a forest, fully airborne with wings spread.
+1074|fokusera|Jag måste fokusera på uppgiften.|I must focus on the task.|fokusera resembles focus.|A learner concentrating on one workbook exercise while distracting objects fade softly into the background.
+1075|vika|Vik pappret på mitten.|Fold the paper in half.|vika = fold.|Close view of hands folding a square sheet of paper precisely in half with a clear crease.
+1076|hopfällbar|Vi tar med ett hopfällbart bord.|We are taking a folding table.|hopfällbar = able to fold together.|A portable folding table shown partly folded beside its fully opened position, hinge action clear.

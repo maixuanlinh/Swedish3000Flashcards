@@ -5,7 +5,7 @@
     "note": "Headwords and IDs preserved from the existing iOS app. This is its American Oxford-based 3000-entry index, not an independently verified UK edition. Swedish translations and examples are original authored drafts."
   },
   "targetCount": 3000,
-  "entryCount": 980,
+  "entryCount": 1135,
   "entries": [
     {
       "id": "sv-0001",
@@ -5886,6 +5886,936 @@
       "sourceID": 980,
       "english": "eye",
       "swedish": "ett öga"
+    },
+    {
+      "id": "sv-0981",
+      "sourceID": 981,
+      "english": "face",
+      "swedish": "ett ansikte"
+    },
+    {
+      "id": "sv-0982",
+      "sourceID": 982,
+      "english": "facility",
+      "swedish": "en anläggning"
+    },
+    {
+      "id": "sv-0983",
+      "sourceID": 983,
+      "english": "fact",
+      "swedish": "ett faktum"
+    },
+    {
+      "id": "sv-0984",
+      "sourceID": 984,
+      "english": "factor",
+      "swedish": "en faktor"
+    },
+    {
+      "id": "sv-0985",
+      "sourceID": 985,
+      "english": "factory",
+      "swedish": "en fabrik"
+    },
+    {
+      "id": "sv-0986",
+      "sourceID": 986,
+      "english": "fail",
+      "swedish": "misslyckas"
+    },
+    {
+      "id": "sv-0987",
+      "sourceID": 987,
+      "english": "failure",
+      "swedish": "ett misslyckande"
+    },
+    {
+      "id": "sv-0988",
+      "sourceID": 988,
+      "english": "fair",
+      "swedish": "rättvis"
+    },
+    {
+      "id": "sv-0989",
+      "sourceID": 989,
+      "english": "fairly",
+      "swedish": "ganska"
+    },
+    {
+      "id": "sv-0990",
+      "sourceID": 990,
+      "english": "faith",
+      "swedish": "en tro"
+    },
+    {
+      "id": "sv-0991",
+      "sourceID": 991,
+      "english": "fall",
+      "swedish": "falla"
+    },
+    {
+      "id": "sv-0992",
+      "sourceID": 992,
+      "english": "false",
+      "swedish": "falsk"
+    },
+    {
+      "id": "sv-0993",
+      "sourceID": 993,
+      "english": "familiar",
+      "swedish": "bekant"
+    },
+    {
+      "id": "sv-0994",
+      "sourceID": 994,
+      "english": "family",
+      "swedish": "en familj"
+    },
+    {
+      "id": "sv-0995",
+      "sourceID": 995,
+      "english": "famous",
+      "swedish": "berömd"
+    },
+    {
+      "id": "sv-0996",
+      "sourceID": 996,
+      "english": "fan",
+      "swedish": "ett fan"
+    },
+    {
+      "id": "sv-0997",
+      "sourceID": 997,
+      "english": "fancy",
+      "swedish": "vilja ha"
+    },
+    {
+      "id": "sv-0998",
+      "sourceID": 998,
+      "english": "fantastic",
+      "swedish": "fantastisk"
+    },
+    {
+      "id": "sv-0999",
+      "sourceID": 999,
+      "english": "far",
+      "swedish": "långt"
+    },
+    {
+      "id": "sv-1000",
+      "sourceID": 1000,
+      "english": "farm",
+      "swedish": "en bondgård"
+    },
+    {
+      "id": "sv-1001",
+      "sourceID": 1001,
+      "english": "farmer",
+      "swedish": "en bonde"
+    },
+    {
+      "id": "sv-1002",
+      "sourceID": 1002,
+      "english": "farming",
+      "swedish": "jordbruk"
+    },
+    {
+      "id": "sv-1003",
+      "sourceID": 1003,
+      "english": "fascinating",
+      "swedish": "fascinerande"
+    },
+    {
+      "id": "sv-1004",
+      "sourceID": 1004,
+      "english": "fashion",
+      "swedish": "mode"
+    },
+    {
+      "id": "sv-1005",
+      "sourceID": 1005,
+      "english": "fashionable",
+      "swedish": "moderiktig"
+    },
+    {
+      "id": "sv-1006",
+      "sourceID": 1006,
+      "english": "fast",
+      "swedish": "snabb"
+    },
+    {
+      "id": "sv-1007",
+      "sourceID": 1007,
+      "english": "fasten",
+      "swedish": "spänna fast"
+    },
+    {
+      "id": "sv-1008",
+      "sourceID": 1008,
+      "english": "fat",
+      "swedish": "fett"
+    },
+    {
+      "id": "sv-1009",
+      "sourceID": 1009,
+      "english": "father",
+      "swedish": "en far"
+    },
+    {
+      "id": "sv-1010",
+      "sourceID": 1010,
+      "english": "fault",
+      "swedish": "ett fel"
+    },
+    {
+      "id": "sv-1011",
+      "sourceID": 1011,
+      "english": "favor",
+      "swedish": "en tjänst"
+    },
+    {
+      "id": "sv-1012",
+      "sourceID": 1012,
+      "english": "favorite",
+      "swedish": "en favorit"
+    },
+    {
+      "id": "sv-1013",
+      "sourceID": 1013,
+      "english": "fear",
+      "swedish": "en rädsla"
+    },
+    {
+      "id": "sv-1014",
+      "sourceID": 1014,
+      "english": "feather",
+      "swedish": "en fjäder"
+    },
+    {
+      "id": "sv-1015",
+      "sourceID": 1015,
+      "english": "feature",
+      "swedish": "ett drag"
+    },
+    {
+      "id": "sv-1016",
+      "sourceID": 1016,
+      "english": "February",
+      "swedish": "februari"
+    },
+    {
+      "id": "sv-1017",
+      "sourceID": 1017,
+      "english": "federal",
+      "swedish": "federal"
+    },
+    {
+      "id": "sv-1018",
+      "sourceID": 1018,
+      "english": "fee",
+      "swedish": "en avgift"
+    },
+    {
+      "id": "sv-1019",
+      "sourceID": 1019,
+      "english": "feed",
+      "swedish": "mata"
+    },
+    {
+      "id": "sv-1020",
+      "sourceID": 1020,
+      "english": "feedback",
+      "swedish": "återkoppling"
+    },
+    {
+      "id": "sv-1021",
+      "sourceID": 1021,
+      "english": "feel",
+      "swedish": "känna"
+    },
+    {
+      "id": "sv-1022",
+      "sourceID": 1022,
+      "english": "feeling",
+      "swedish": "en känsla"
+    },
+    {
+      "id": "sv-1023",
+      "sourceID": 1023,
+      "english": "fellow",
+      "swedish": "en kamrat"
+    },
+    {
+      "id": "sv-1024",
+      "sourceID": 1024,
+      "english": "female",
+      "swedish": "kvinnlig"
+    },
+    {
+      "id": "sv-1025",
+      "sourceID": 1025,
+      "english": "fence",
+      "swedish": "ett staket"
+    },
+    {
+      "id": "sv-1026",
+      "sourceID": 1026,
+      "english": "festival",
+      "swedish": "en festival"
+    },
+    {
+      "id": "sv-1027",
+      "sourceID": 1027,
+      "english": "fever",
+      "swedish": "feber"
+    },
+    {
+      "id": "sv-1028",
+      "sourceID": 1028,
+      "english": "few",
+      "swedish": "få"
+    },
+    {
+      "id": "sv-1029",
+      "sourceID": 1029,
+      "english": "fiction",
+      "swedish": "skönlitteratur"
+    },
+    {
+      "id": "sv-1030",
+      "sourceID": 1030,
+      "english": "field",
+      "swedish": "ett fält"
+    },
+    {
+      "id": "sv-1031",
+      "sourceID": 1031,
+      "english": "fifteen",
+      "swedish": "femton"
+    },
+    {
+      "id": "sv-1032",
+      "sourceID": 1032,
+      "english": "fifth",
+      "swedish": "femte"
+    },
+    {
+      "id": "sv-1033",
+      "sourceID": 1033,
+      "english": "fifty",
+      "swedish": "femtio"
+    },
+    {
+      "id": "sv-1034",
+      "sourceID": 1034,
+      "english": "fight",
+      "swedish": "slåss"
+    },
+    {
+      "id": "sv-1035",
+      "sourceID": 1035,
+      "english": "fighting",
+      "swedish": "strider"
+    },
+    {
+      "id": "sv-1036",
+      "sourceID": 1036,
+      "english": "figure",
+      "swedish": "en siffra"
+    },
+    {
+      "id": "sv-1037",
+      "sourceID": 1037,
+      "english": "file",
+      "swedish": "en fil"
+    },
+    {
+      "id": "sv-1038",
+      "sourceID": 1038,
+      "english": "fill",
+      "swedish": "fylla"
+    },
+    {
+      "id": "sv-1039",
+      "sourceID": 1039,
+      "english": "film",
+      "swedish": "en film"
+    },
+    {
+      "id": "sv-1040",
+      "sourceID": 1040,
+      "english": "final",
+      "swedish": "slutlig"
+    },
+    {
+      "id": "sv-1041",
+      "sourceID": 1041,
+      "english": "finally",
+      "swedish": "äntligen"
+    },
+    {
+      "id": "sv-1042",
+      "sourceID": 1042,
+      "english": "finance",
+      "swedish": "finansiera"
+    },
+    {
+      "id": "sv-1043",
+      "sourceID": 1043,
+      "english": "financial",
+      "swedish": "finansiell"
+    },
+    {
+      "id": "sv-1044",
+      "sourceID": 1044,
+      "english": "find",
+      "swedish": "hitta"
+    },
+    {
+      "id": "sv-1045",
+      "sourceID": 1045,
+      "english": "finding",
+      "swedish": "ett fynd"
+    },
+    {
+      "id": "sv-1046",
+      "sourceID": 1046,
+      "english": "fine",
+      "swedish": "bra"
+    },
+    {
+      "id": "sv-1047",
+      "sourceID": 1047,
+      "english": "finger",
+      "swedish": "ett finger"
+    },
+    {
+      "id": "sv-1048",
+      "sourceID": 1048,
+      "english": "finish",
+      "swedish": "avsluta"
+    },
+    {
+      "id": "sv-1049",
+      "sourceID": 1049,
+      "english": "fire",
+      "swedish": "en eld"
+    },
+    {
+      "id": "sv-1050",
+      "sourceID": 1050,
+      "english": "firm",
+      "swedish": "ett företag"
+    },
+    {
+      "id": "sv-1051",
+      "sourceID": 1051,
+      "english": "first",
+      "swedish": "första"
+    },
+    {
+      "id": "sv-1052",
+      "sourceID": 1052,
+      "english": "fish",
+      "swedish": "en fisk"
+    },
+    {
+      "id": "sv-1053",
+      "sourceID": 1053,
+      "english": "fishing",
+      "swedish": "fiske"
+    },
+    {
+      "id": "sv-1054",
+      "sourceID": 1054,
+      "english": "fit",
+      "swedish": "passa"
+    },
+    {
+      "id": "sv-1055",
+      "sourceID": 1055,
+      "english": "fitness",
+      "swedish": "kondition"
+    },
+    {
+      "id": "sv-1056",
+      "sourceID": 1056,
+      "english": "five",
+      "swedish": "fem"
+    },
+    {
+      "id": "sv-1057",
+      "sourceID": 1057,
+      "english": "fix",
+      "swedish": "laga"
+    },
+    {
+      "id": "sv-1058",
+      "sourceID": 1058,
+      "english": "fixed",
+      "swedish": "fast"
+    },
+    {
+      "id": "sv-1059",
+      "sourceID": 1059,
+      "english": "flag",
+      "swedish": "en flagga"
+    },
+    {
+      "id": "sv-1060",
+      "sourceID": 1060,
+      "english": "flame",
+      "swedish": "en låga"
+    },
+    {
+      "id": "sv-1061",
+      "sourceID": 1061,
+      "english": "flash",
+      "swedish": "en blixt"
+    },
+    {
+      "id": "sv-1062",
+      "sourceID": 1062,
+      "english": "flat",
+      "swedish": "en lägenhet"
+    },
+    {
+      "id": "sv-1063",
+      "sourceID": 1063,
+      "english": "flexible",
+      "swedish": "flexibel"
+    },
+    {
+      "id": "sv-1064",
+      "sourceID": 1064,
+      "english": "flight",
+      "swedish": "en flygning"
+    },
+    {
+      "id": "sv-1065",
+      "sourceID": 1065,
+      "english": "float",
+      "swedish": "flyta"
+    },
+    {
+      "id": "sv-1066",
+      "sourceID": 1066,
+      "english": "flood",
+      "swedish": "en översvämning"
+    },
+    {
+      "id": "sv-1067",
+      "sourceID": 1067,
+      "english": "floor",
+      "swedish": "ett golv"
+    },
+    {
+      "id": "sv-1068",
+      "sourceID": 1068,
+      "english": "flour",
+      "swedish": "mjöl"
+    },
+    {
+      "id": "sv-1069",
+      "sourceID": 1069,
+      "english": "flow",
+      "swedish": "rinna"
+    },
+    {
+      "id": "sv-1070",
+      "sourceID": 1070,
+      "english": "flower",
+      "swedish": "en blomma"
+    },
+    {
+      "id": "sv-1071",
+      "sourceID": 1071,
+      "english": "flu",
+      "swedish": "influensa"
+    },
+    {
+      "id": "sv-1072",
+      "sourceID": 1072,
+      "english": "fly",
+      "swedish": "flyga"
+    },
+    {
+      "id": "sv-1073",
+      "sourceID": 1073,
+      "english": "flying",
+      "swedish": "flygande"
+    },
+    {
+      "id": "sv-1074",
+      "sourceID": 1074,
+      "english": "focus",
+      "swedish": "fokusera"
+    },
+    {
+      "id": "sv-1075",
+      "sourceID": 1075,
+      "english": "fold",
+      "swedish": "vika"
+    },
+    {
+      "id": "sv-1076",
+      "sourceID": 1076,
+      "english": "folding",
+      "swedish": "hopfällbar"
+    },
+    {
+      "id": "sv-1077",
+      "sourceID": 1077,
+      "english": "folk",
+      "swedish": "folkmusik"
+    },
+    {
+      "id": "sv-1078",
+      "sourceID": 1078,
+      "english": "follow",
+      "swedish": "följa"
+    },
+    {
+      "id": "sv-1079",
+      "sourceID": 1079,
+      "english": "following",
+      "swedish": "följande"
+    },
+    {
+      "id": "sv-1080",
+      "sourceID": 1080,
+      "english": "food",
+      "swedish": "mat"
+    },
+    {
+      "id": "sv-1081",
+      "sourceID": 1081,
+      "english": "foot",
+      "swedish": "en fot"
+    },
+    {
+      "id": "sv-1082",
+      "sourceID": 1082,
+      "english": "football",
+      "swedish": "fotboll"
+    },
+    {
+      "id": "sv-1083",
+      "sourceID": 1083,
+      "english": "for",
+      "swedish": "för"
+    },
+    {
+      "id": "sv-1084",
+      "sourceID": 1084,
+      "english": "force",
+      "swedish": "en kraft"
+    },
+    {
+      "id": "sv-1085",
+      "sourceID": 1085,
+      "english": "foreign",
+      "swedish": "utländsk"
+    },
+    {
+      "id": "sv-1086",
+      "sourceID": 1086,
+      "english": "forest",
+      "swedish": "en skog"
+    },
+    {
+      "id": "sv-1087",
+      "sourceID": 1087,
+      "english": "forever",
+      "swedish": "för alltid"
+    },
+    {
+      "id": "sv-1088",
+      "sourceID": 1088,
+      "english": "forget",
+      "swedish": "glömma"
+    },
+    {
+      "id": "sv-1089",
+      "sourceID": 1089,
+      "english": "forgive",
+      "swedish": "förlåta"
+    },
+    {
+      "id": "sv-1090",
+      "sourceID": 1090,
+      "english": "fork",
+      "swedish": "en gaffel"
+    },
+    {
+      "id": "sv-1091",
+      "sourceID": 1091,
+      "english": "form",
+      "swedish": "en blankett"
+    },
+    {
+      "id": "sv-1092",
+      "sourceID": 1092,
+      "english": "formal",
+      "swedish": "formell"
+    },
+    {
+      "id": "sv-1093",
+      "sourceID": 1093,
+      "english": "former",
+      "swedish": "tidigare"
+    },
+    {
+      "id": "sv-1094",
+      "sourceID": 1094,
+      "english": "fortunately",
+      "swedish": "lyckligtvis"
+    },
+    {
+      "id": "sv-1095",
+      "sourceID": 1095,
+      "english": "fortune",
+      "swedish": "en förmögenhet"
+    },
+    {
+      "id": "sv-1096",
+      "sourceID": 1096,
+      "english": "forty",
+      "swedish": "fyrtio"
+    },
+    {
+      "id": "sv-1097",
+      "sourceID": 1097,
+      "english": "forward",
+      "swedish": "framåt"
+    },
+    {
+      "id": "sv-1098",
+      "sourceID": 1098,
+      "english": "found",
+      "swedish": "grunda"
+    },
+    {
+      "id": "sv-1099",
+      "sourceID": 1099,
+      "english": "four",
+      "swedish": "fyra"
+    },
+    {
+      "id": "sv-1100",
+      "sourceID": 1100,
+      "english": "fourteen",
+      "swedish": "fjorton"
+    },
+    {
+      "id": "sv-1101",
+      "sourceID": 1101,
+      "english": "fourth",
+      "swedish": "fjärde"
+    },
+    {
+      "id": "sv-1102",
+      "sourceID": 1102,
+      "english": "frame",
+      "swedish": "en ram"
+    },
+    {
+      "id": "sv-1103",
+      "sourceID": 1103,
+      "english": "free",
+      "swedish": "gratis"
+    },
+    {
+      "id": "sv-1104",
+      "sourceID": 1104,
+      "english": "freedom",
+      "swedish": "en frihet"
+    },
+    {
+      "id": "sv-1105",
+      "sourceID": 1105,
+      "english": "freeze",
+      "swedish": "frysa"
+    },
+    {
+      "id": "sv-1106",
+      "sourceID": 1106,
+      "english": "frequency",
+      "swedish": "en frekvens"
+    },
+    {
+      "id": "sv-1107",
+      "sourceID": 1107,
+      "english": "frequently",
+      "swedish": "ofta"
+    },
+    {
+      "id": "sv-1108",
+      "sourceID": 1108,
+      "english": "fresh",
+      "swedish": "färsk"
+    },
+    {
+      "id": "sv-1109",
+      "sourceID": 1109,
+      "english": "Friday",
+      "swedish": "fredag"
+    },
+    {
+      "id": "sv-1110",
+      "sourceID": 1110,
+      "english": "friend",
+      "swedish": "en vän"
+    },
+    {
+      "id": "sv-1111",
+      "sourceID": 1111,
+      "english": "friendly",
+      "swedish": "vänlig"
+    },
+    {
+      "id": "sv-1112",
+      "sourceID": 1112,
+      "english": "friendship",
+      "swedish": "en vänskap"
+    },
+    {
+      "id": "sv-1113",
+      "sourceID": 1113,
+      "english": "frighten",
+      "swedish": "skrämma"
+    },
+    {
+      "id": "sv-1114",
+      "sourceID": 1114,
+      "english": "frightened",
+      "swedish": "rädd"
+    },
+    {
+      "id": "sv-1115",
+      "sourceID": 1115,
+      "english": "frightening",
+      "swedish": "skrämmande"
+    },
+    {
+      "id": "sv-1116",
+      "sourceID": 1116,
+      "english": "frog",
+      "swedish": "en groda"
+    },
+    {
+      "id": "sv-1117",
+      "sourceID": 1117,
+      "english": "from",
+      "swedish": "från"
+    },
+    {
+      "id": "sv-1118",
+      "sourceID": 1118,
+      "english": "front",
+      "swedish": "en framsida"
+    },
+    {
+      "id": "sv-1119",
+      "sourceID": 1119,
+      "english": "frozen",
+      "swedish": "frusen"
+    },
+    {
+      "id": "sv-1120",
+      "sourceID": 1120,
+      "english": "fruit",
+      "swedish": "en frukt"
+    },
+    {
+      "id": "sv-1121",
+      "sourceID": 1121,
+      "english": "fry",
+      "swedish": "steka"
+    },
+    {
+      "id": "sv-1122",
+      "sourceID": 1122,
+      "english": "fuel",
+      "swedish": "ett bränsle"
+    },
+    {
+      "id": "sv-1123",
+      "sourceID": 1123,
+      "english": "full",
+      "swedish": "full"
+    },
+    {
+      "id": "sv-1124",
+      "sourceID": 1124,
+      "english": "fully",
+      "swedish": "helt"
+    },
+    {
+      "id": "sv-1125",
+      "sourceID": 1125,
+      "english": "fun",
+      "swedish": "roligt"
+    },
+    {
+      "id": "sv-1126",
+      "sourceID": 1126,
+      "english": "function",
+      "swedish": "en funktion"
+    },
+    {
+      "id": "sv-1127",
+      "sourceID": 1127,
+      "english": "fund",
+      "swedish": "en fond"
+    },
+    {
+      "id": "sv-1128",
+      "sourceID": 1128,
+      "english": "fundamental",
+      "swedish": "grundläggande"
+    },
+    {
+      "id": "sv-1129",
+      "sourceID": 1129,
+      "english": "funding",
+      "swedish": "finansiering"
+    },
+    {
+      "id": "sv-1130",
+      "sourceID": 1130,
+      "english": "funny",
+      "swedish": "rolig"
+    },
+    {
+      "id": "sv-1131",
+      "sourceID": 1131,
+      "english": "fur",
+      "swedish": "en päls"
+    },
+    {
+      "id": "sv-1132",
+      "sourceID": 1132,
+      "english": "furniture",
+      "swedish": "möbler"
+    },
+    {
+      "id": "sv-1133",
+      "sourceID": 1133,
+      "english": "further",
+      "swedish": "ytterligare"
+    },
+    {
+      "id": "sv-1134",
+      "sourceID": 1134,
+      "english": "furthermore",
+      "swedish": "dessutom"
+    },
+    {
+      "id": "sv-1135",
+      "sourceID": 1135,
+      "english": "future",
+      "swedish": "en framtid"
     }
   ]
 }

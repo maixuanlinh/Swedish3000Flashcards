@@ -1,0 +1,59 @@
+1077|folkmusik|De spelar traditionell folkmusik.|They play traditional folk music.|folk = people; folkmusik = folk music.|Musicians playing traditional Swedish fiddle and accordion music at a small outdoor gathering.
+1078|följa|Följ mig till stationen.|Follow me to the station.|följa resembles follow.|One traveller leading a friend along a path toward a clearly visible railway station.
+1079|följande|Svara på följande frågor.|Answer the following questions.|följa → följande: follow → following.|A teacher pointing from an instruction line to the next three question boxes on a worksheet.
+1080|mat|Maten är klar nu.|The food is ready now.|mat = food.|A freshly prepared meal on a dining table, steaming vegetables, bread and a main dish.
+1081|en fot|Hon skadade sin fot.|She injured her foot.|fot resembles foot.|A seated woman with a lightly bandaged foot raised on a cushion, no graphic injury.
+1082|fotboll|Barnen spelar fotboll i parken.|The children are playing football in the park.|fot + boll = foot + ball.|Children playing association football with a round ball and goal in a green park.
+1083|för|Den här presenten är för dig.|This present is for you.|för resembles for.|A smiling person offering a wrapped gift directly to a friend, clear giving gesture.
+1084|en kraft|Vinden har stor kraft.|The wind has great force.|kraft = force or power.|A powerful wind bending a tree and billowing a sail, visible direction of force.
+1085|utländsk|Hon studerar vid ett utländskt universitet.|She studies at a foreign university.|ut = out; land = country; utländsk = foreign.|A Swedish student arriving at a university abroad with a suitcase and campus map, Sweden shown distant on a small globe.
+1086|en skog|Vi går en promenad i skogen.|We are taking a walk in the forest.|skog = forest.|Two walkers on a path surrounded by tall Swedish pine and birch trees.
+1087|för alltid|Jag kommer att minnas den här dagen för alltid.|I will remember this day forever.|för alltid = forever.|An older person lovingly holding a treasured graduation photograph, a gentle infinity-shaped golden ribbon around it.
+1088|glömma|Glöm inte att låsa dörren.|Do not forget to lock the door.|glömma = forget.|A person leaving home pausing to remember the door key, thought bubble showing the unlocked door.
+1089|förlåta|Kan du förlåta mig?|Can you forgive me?|förlåta = forgive.|Two friends reconciling after an apology, one offering a hand and the other accepting warmly.
+1090|en gaffel|Jag äter med kniv och gaffel.|I eat with a knife and fork.|gaffel = fork.|A clear four-pronged dining fork beside a knife and dinner plate, fork emphasised.
+1091|en blankett|Fyll i blanketten med ditt namn.|Fill in the form with your name.|blankett = form to fill in.|A person entering a name into an official form with neat empty fields, pen and paper close-up.
+1092|formell|Mötet hade en formell ton.|The meeting had a formal tone.|formell resembles formal.|A structured business meeting with participants in formal clothes, orderly agenda and professional setting.
+1093|tidigare|Min tidigare chef bor i Göteborg.|My former boss lives in Gothenburg.|tidigare = former or previous.|A woman looking at a photo of her previous workplace team, former manager highlighted, Gothenburg waterfront in a thought bubble.
+1094|lyckligtvis|Lyckligtvis missade vi inte tåget.|Fortunately, we did not miss the train.|lyckligtvis = fortunately.|Relieved travellers stepping onto a train just before departure, open doors and happy faces.
+1095|en förmögenhet|Huset kostade en förmögenhet.|The house cost a fortune.|förmögenhet = fortune or great wealth.|An expensive grand house beside an exaggerated tall pile of coins, amazed buyers looking on.
+1096|fyrtio|Han fyller fyrtio år i dag.|He turns forty today.|fyra → fyrtio: four → forty.|A smiling man celebrating a birthday with exactly two numeral candles forming 40 on the cake.
+1097|framåt|Ta ett steg framåt.|Take one step forward.|framåt = forward.|A person taking one clear step forward along a path, a large arrow pointing ahead.
+1098|grunda|De vill grunda ett nytt företag.|They want to found a new company.|grund = foundation; grunda = establish or found.|Two founders opening their new small business, building blocks symbolising a firm foundation.
+1099|fyra|Vi har fyra stolar i köket.|We have four chairs in the kitchen.|fyra = four.|Exactly four distinct chairs around a square kitchen table, large numeral 4.
+1100|fjorton|Min syster är fjorton år.|My sister is fourteen years old.|fyra → fjorton: four → fourteen.|A teenage girl celebrating a birthday with numeral candles 14 on her cake, family nearby.
+1101|fjärde|Vi bor på fjärde våningen.|We live on the fourth floor.|fyra → fjärde: four → fourth.|A cutaway building with floors labelled 1, 2, 3, 4, the apartment on floor 4 highlighted.
+1102|en ram|Bilden har en vacker ram.|The picture has a beautiful frame.|ram = frame.|A framed landscape picture with an ornate wooden frame clearly emphasised.
+1103|gratis|Inträdet till museet är gratis.|Admission to the museum is free.|gratis = free of charge.|A museum welcoming visitors with a clear entrance price tag 0 kr and open doors.
+1104|en frihet|Frihet är viktigt för alla.|Freedom is important to everyone.|fri → frihet: free → freedom.|An open birdcage with a bird flying freely into a vast bright sky, no chains or confinement remaining.
+1105|frysa|Vattnet kan frysa på vintern.|The water can freeze in winter.|frysa resembles freeze.|A shallow outdoor bowl of water turning to ice in a snowy winter garden.
+1106|en frekvens|Vi mäter ljudets frekvens.|We measure the frequency of the sound.|frekvens resembles frequency.|A sound technician viewing a regular waveform on a screen, equally spaced peaks and a tuning fork.
+1107|ofta|Jag besöker biblioteket ofta.|I visit the library frequently.|ofta = frequently or often.|A reader at a library with several visits highlighted on a simple weekly calendar.
+1108|färsk|Vi köper färskt bröd varje morgon.|We buy fresh bread every morning.|färsk = fresh.|Warm freshly baked bread coming from a bakery oven at morning light, steam visible.
+1109|fredag|På fredag träffar jag mina vänner.|On Friday I am meeting my friends.|fredag = Friday.|Friends gathering after work beside a simple weekly calendar with fredag highlighted.
+1110|en vän|Hon är min bästa vän.|She is my best friend.|vän = friend.|Two close friends enjoying a walk and laughing together beside a lake.
+1111|vänlig|Personalen är mycket vänlig.|The staff are very friendly.|vän → vänlig: friend → friendly.|A welcoming cafe employee smiling and helping a visitor find a seat.
+1112|en vänskap|Vår vänskap har varat i många år.|Our friendship has lasted for many years.|vän → vänskap: friend → friendship.|Two older friends laughing beside photographs of themselves together at different ages.
+1113|skrämma|Höga ljud kan skrämma hunden.|Loud noises can frighten the dog.|skrämma = frighten.|A dog startled by a distant dropped metal pan while its owner calmly reassures it.
+1114|rädd|Barnet är rädd för mörkret.|The child is frightened of the dark.|rädd = afraid or frightened.|A nervous child in a dim bedroom being comforted by a parent switching on a warm night-light.
+1115|skrämmande|Filmen var mycket skrämmande.|The film was very frightening.|skrämma → skrämmande: frighten → frightening.|Adults watching a spooky shadow on a cinema screen, visibly startled, no gore or explicit violence.
+1116|en groda|En grön groda sitter vid dammen.|A green frog is sitting beside the pond.|groda = frog.|One vivid green frog resting beside a small pond on a mossy stone.
+1117|från|Jag kommer från Sverige.|I come from Sweden.|från = from.|A traveller pointing to Sweden on a clear map, a route arrow leading out from Sweden toward the traveller.
+1118|en framsida|Husets framsida vetter mot gatan.|The front of the house faces the street.|fram + sida = front + side.|The front facade and main entrance of a Swedish house facing a street, front clearly outlined.
+1119|frusen|Sjön är frusen på vintern.|The lake is frozen in winter.|frysa → frusen: freeze → frozen.|A broad frozen lake in a snowy landscape, solid ice visible near the shore, no people on thin ice.
+1120|en frukt|Ett äpple är en frukt.|An apple is a fruit.|frukt resembles fruit.|One apple prominently displayed with pears and oranges in a fruit bowl.
+1121|steka|Jag ska steka ägg till frukost.|I am going to fry eggs for breakfast.|steka = fry.|A person frying eggs in a pan on a kitchen stove, spatula nearby.
+1122|ett bränsle|Bilen behöver bränsle.|The car needs fuel.|bränsle = fuel.|A driver refuelling a car at a pump, fuel nozzle and vehicle clearly visible.
+1123|full|Flaskan är full med vatten.|The bottle is full of water.|full = full.|A transparent bottle filled with water almost to its neck, no empty-looking central area.
+1124|helt|Jag håller helt med dig.|I fully agree with you.|helt = fully or completely.|Two colleagues reviewing the same plan and giving wholehearted matching thumbs-up gestures.
+1125|roligt|Det är roligt att spela tillsammans.|It is fun to play together.|roligt = fun or enjoyable.|Friends laughing together over a lively board game at a kitchen table.
+1126|en funktion|Knappen har en viktig funktion.|The button has an important function.|funktion resembles function.|A finger pressing a large button that clearly turns a lamp on, cause and effect linked by a gold arrow.
+1127|en fond|Pengarna finns i en särskild fond.|The money is in a special fund.|fond = fund.|A clearly separated reserve of money in a labelled savings container supporting a community project.
+1128|grundläggande|Mat och vatten är grundläggande behov.|Food and water are fundamental needs.|grund = foundation; grundläggande = fundamental.|Food, clean water and shelter as three solid foundation blocks beneath a thriving person.
+1129|finansiering|Projektet behöver mer finansiering.|The project needs more funding.|finansiera → finansiering: finance → funding.|A community project model with incoming coin streams from several supporters, some work still awaiting funds.
+1130|rolig|Han berättade en rolig historia.|He told a funny story.|rolig = funny or amusing.|A man telling an amusing story to friends who are laughing warmly.
+1131|en päls|Räven har en tjock päls.|The fox has thick fur.|päls = fur.|A living red fox in winter with lush thick natural fur, detailed coat and tail.
+1132|möbler|Vi köper nya möbler till vardagsrummet.|We are buying new furniture for the living room.|möbler = furniture.|A sofa, armchair, bookcase and coffee table arranged in a bright living room, distinct furniture pieces.
+1133|ytterligare|Vi behöver ytterligare information.|We need further information.|ytterligare = further or additional.|A researcher adding another useful page of information to an existing set of documents.
+1134|dessutom|Huset är stort och dessutom billigt.|The house is large and furthermore inexpensive.|dessutom = furthermore or in addition.|A spacious home with a second positive feature shown by a modest price tag, two benefit icons joined by a plus.
+1135|en framtid|Vi planerar för en bättre framtid.|We are planning for a better future.|fram + tid = ahead + time.|A family planning ahead beside a small tree growing toward a bright imagined future neighbourhood.

@@ -1,0 +1,18 @@
+{
+  "id": "sv-1004",
+  "english": "fashion",
+  "swedish": "mode",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"mode\". English meaning verbatim: \"fashion\".\nScene: A woman comparing clothing designs on a mood board in a bright fashion studio, fabrics and outfits nearby.\nMemory caption verbatim: \"mode = fashion.\".\nBottom Swedish example verbatim: \"Hon är intresserad av mode.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-a0663c82-c83e-40ee-938d-432007fdab2b.png",
+  "artwork": "Content/Artwork/sv-1004.png",
+  "sha256": "6d3c9f259d17bd4273ab81f4356a8ec4c407e49ea49f22e119acc6a49a295520",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

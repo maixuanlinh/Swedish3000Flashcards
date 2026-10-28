@@ -1,0 +1,18 @@
+{
+  "id": "sv-1021",
+  "english": "feel",
+  "swedish": "känna",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"känna\". English meaning verbatim: \"feel\".\nScene: A woman outdoors with eyes gently closed, hair and scarf blowing in the breeze against her face.\nMemory caption verbatim: \"känna = feel.\".\nBottom Swedish example verbatim: \"Jag kan känna vinden mot ansiktet.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-3d1fe007-c2e1-4e15-9e8d-16599cd64668.png",
+  "artwork": "Content/Artwork/sv-1021.png",
+  "sha256": "1f3c5b28ea8d1dfe7dde7f3ee4cccbcf23f69f712089ff8864f2122fd67cfe31",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

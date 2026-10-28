@@ -1,0 +1,18 @@
+{
+  "id": "sv-1001",
+  "english": "farmer",
+  "swedish": "en bonde",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"en bonde\". English meaning verbatim: \"farmer\".\nScene: A farmer giving hay to cows in a red wooden barn in soft morning light.\nMemory caption verbatim: \"bonde = farmer.\".\nBottom Swedish example verbatim: \"Bonden matar korna varje morgon.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-ccb1d1a5-a3bf-4606-9ebb-a6528011a598.png",
+  "artwork": "Content/Artwork/sv-1001.png",
+  "sha256": "10e186510bdc34401f458e28a28ceb199a7bda416f5e2d113f4abb7f283e630f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

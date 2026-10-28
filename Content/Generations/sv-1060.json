@@ -1,0 +1,18 @@
+{
+  "id": "sv-1060",
+  "english": "flame",
+  "swedish": "en låga",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style from the reference: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or extra paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with small label \"Memory trick\".\nHeading verbatim: \"en låga\". English meaning verbatim: \"flame\".\nScene: Close view of a single candle flame leaning gently in a light breeze.\nMemory caption verbatim: \"låga = flame.\".\nBottom Swedish example verbatim: \"Ljusets låga fladdrade i vinden.\". Teach only this sense.",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-92fb52b6-c92b-40f2-8189-48f4d3a12e45.png",
+  "artwork": "Content/Artwork/sv-1060.png",
+  "sha256": "9cb9b6faefbead1ea45642cdc3520967cf3829140ecca084e1cec4291cb1da84",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

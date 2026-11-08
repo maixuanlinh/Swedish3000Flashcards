@@ -1,0 +1,19 @@
+{
+  "id": "sv-1761",
+  "english": "north",
+  "swedish": "norr",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"norr\". Smaller English meaning verbatim: \"north\".\nScene: A car traveling toward distant northern mountains with a clear compass inset showing N at the top and a single route arrow pointing upward toward N; no contradictory compass labels.\nMemory-link caption verbatim: \"norr = north; norrut = northward.\".\nSwedish example in bottom strip verbatim: \"Vi kör norrut mot fjällen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-d5c8dcbc-0edf-4a4c-84d6-46d10320d644.png",
+  "artwork": "Content/Artwork/sv-1761.png",
+  "sha256": "f5f467abd36b61d65b38c532b201c15ffc9652be59bbed6e2b6f1243f989e4ce",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

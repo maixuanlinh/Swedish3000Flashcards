@@ -1,0 +1,19 @@
+{
+  "id": "sv-1557",
+  "english": "lock",
+  "swedish": "låsa",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"låsa\". Smaller English meaning verbatim: \"lock\".\nScene: A hand turning the lock on a closed front door, a clear small locked-padlock symbol highlighting the secured state.\nMemory-link caption verbatim: \"låsa = lock; picture securing something closed.\".\nSwedish example in bottom strip verbatim: \"Glöm inte att låsa dörren.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-23e7ae56-638f-4108-af20-e64f7b3f4384.png",
+  "artwork": "Content/Artwork/sv-1557.png",
+  "sha256": "46f3e9386b047102a592563a1366532c86029b1230ece0892bf1a4662e9d0a81",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -16,6 +16,7 @@ class ViewModelTest {
     private val dispatcher=StandardTestDispatcher()
     private lateinit var repo: FakeRepository
     private lateinit var vm: StudyViewModel
+    private lateinit var speech: FakeSpeech
     private val store=ViewModelStore()
     private val access=object: EntitlementRepository {
         override val access=MutableStateFlow(Entitlement.FREE)
@@ -28,11 +29,7 @@ class ViewModelTest {
             override var englishFirst=true
             override var playback=PlaybackSettings(recallSeconds=1,answerSeconds=1,readPrompt=false,readAnswer=false,readSentence=false)
         }
-        val speech=object: Speech {
-            override suspend fun say(text: String,language: String,rate: Float) {}
-            override fun stop() {}
-            override fun close() {}
-        }
+        speech=FakeSpeech()
         vm=ViewModelProvider(store,object: ViewModelProvider.Factory {
             @Suppress("UNCHECKED_CAST")
             override fun <T: androidx.lifecycle.ViewModel> create(modelClass: Class<T>) = StudyViewModel(repo,access,prefs,speech) as T
@@ -57,9 +54,44 @@ class ViewModelTest {
         assertEquals(2,vm.uiState.value.completed.size)
         assertTrue(repo.history.isEmpty())
         assertTrue(repo.progress.isEmpty())
+        assertEquals(0,speech.sessions)
+        assertTrue(speech.spoken.isEmpty())
         vm.stop()
         assertEquals(manual,vm.uiState.value.queue)
         assertEquals("a",vm.uiState.value.current?.id)
+    }
+    @Test fun unavailableRecordingPausesWithoutCountingCardsAndRetryCompletesAfterDownload() = runTest(dispatcher) {
+        runCurrent()
+        val queue=vm.uiState.value.queue
+        vm.settings(PlaybackSettings(recallSeconds=1,answerSeconds=1))
+        speech.failure=IllegalStateException("Connect to download this recording.")
+        vm.play();runCurrent()
+        assertEquals(PlaybackState.PAUSED,vm.uiState.value.playback)
+        assertEquals("Connect to download this recording.",vm.uiState.value.message)
+        assertTrue(vm.uiState.value.completed.isEmpty())
+        assertEquals(queue,vm.uiState.value.queue)
+        assertTrue(repo.history.isEmpty())
+        vm.clearMessage();speech.failure=null
+        vm.play();advanceUntilIdle()
+        assertNull(vm.uiState.value.message)
+        assertEquals(PlaybackState.FINISHED,vm.uiState.value.playback)
+        assertEquals(2,vm.uiState.value.completed.size)
+        assertTrue(repo.history.isEmpty())
+        assertTrue(repo.progress.isEmpty())
+    }
+    @Test fun manualPronunciationOffersRecordingRecoveryWithoutStartingAutomaticStudy() = runTest(dispatcher) {
+        runCurrent();speech.failure=IllegalStateException("Connect to download this recording.")
+        vm.speak(vm.uiState.value.current!!);runCurrent()
+        assertEquals("Connect to download this recording.",vm.uiState.value.message)
+        assertEquals(PlaybackState.IDLE,vm.uiState.value.playback)
+        assertTrue(repo.history.isEmpty())
+    }
+    @Test fun otherAudioFailuresKeepTheirMessageAndDoNotAskForVoiceInstallation() = runTest(dispatcher) {
+        runCurrent();vm.settings(PlaybackSettings())
+        speech.failure=IllegalStateException("Audio is busy. Try again.")
+        vm.play();runCurrent()
+        assertEquals(PlaybackState.PAUSED,vm.uiState.value.playback)
+        assertEquals("Audio is busy. Try again.",vm.uiState.value.message)
     }
     @Test fun skippingExcludesUnfinishedCardAndTabChangePauses() = runTest(dispatcher) {
         runCurrent();vm.play();runCurrent()
@@ -116,6 +148,18 @@ class ViewModelTest {
         vm.rate("a",LearningStatus.NEW);runCurrent()
         assertEquals(LearningStatus.NEW,vm.uiState.value.ratings["a"]?.status)
         assertEquals(2,repo.history.size)
+    }
+    private class FakeSpeech: Speech {
+        var failure: Exception?=null
+        var sessions=0
+        val spoken=mutableListOf<String>()
+        override fun beginSession(onInterruption: ()->Unit) { sessions++ }
+        override suspend fun say(text: String,language: String,rate: Float) {
+            failure?.let { throw it }
+            spoken+="$language:$text"
+        }
+        override fun stop() {}
+        override fun close() {}
     }
     private class FakeRepository: StudyRepository {
         var words=listOf(word("apple","a"),word("abandon","b"))

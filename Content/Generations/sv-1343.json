@@ -1,0 +1,19 @@
+{
+  "id": "sv-1343",
+  "english": "improvement",
+  "swedish": "en förbättring",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en förbättring\". Smaller English meaning verbatim: \"improvement\".\nScene: Two drawings by the same learner, an early rough sketch and a much more skilful finished drawing, with an arrow between them.\nMemory-link caption verbatim: \"förbättra = improve; förbättring = improvement.\".\nSwedish example in bottom strip verbatim: \"Vi ser en tydlig förbättring.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-6cc2fa6d-0795-40a9-95a1-c894377924d6.png",
+  "artwork": "Content/Artwork/sv-1343.png",
+  "sha256": "82b80336b2a370ec4a76a4f4a28053a77de49f9f2b2129fe68b925c84258a38b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

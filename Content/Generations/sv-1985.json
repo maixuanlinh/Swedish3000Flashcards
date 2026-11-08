@@ -1,0 +1,19 @@
+{
+  "id": "sv-1985",
+  "english": "pop",
+  "swedish": "popmusik",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"popmusik\". Smaller English meaning verbatim: \"pop\".\nScene: An adult happily listening through headphones while a phone shows a colorful singer silhouette and musical notes, no readable titles or real performers.\nMemory-link caption verbatim: \"popmusik = pop music.\".\nSwedish example in bottom strip verbatim: \"Hon lyssnar på popmusik.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-add21803-a4a5-4ca8-9772-f92316dc4fb5.png",
+  "artwork": "Content/Artwork/sv-1985.png",
+  "sha256": "f7efbd3793576d24dc4edb4ef606682472cfe8048eb9c39c31c5cbbe45580081",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

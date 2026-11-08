@@ -1,0 +1,19 @@
+{
+  "id": "sv-1556",
+  "english": "location",
+  "swedish": "en plats",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en plats\". Smaller English meaning verbatim: \"location\".\nScene: Adults choosing a meeting venue on a simple map, one clear location pin matching the welcoming meeting room shown beside it, no extra wording.\nMemory-link caption verbatim: \"plats = location or place; picture the spot chosen.\".\nSwedish example in bottom strip verbatim: \"Vi behöver hitta en bra plats för mötet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-f361aff2-c7e7-4b66-9ac7-bac1f77473d3.png",
+  "artwork": "Content/Artwork/sv-1556.png",
+  "sha256": "860ff84228999e2cc186caeb255f2fd84942ee28c113764c5058dc841971df34",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

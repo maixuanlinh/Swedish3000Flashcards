@@ -1,0 +1,19 @@
+{
+  "id": "sv-2445",
+  "english": "slip",
+  "swedish": "halka",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"halka\". Smaller English meaning verbatim: \"slip\".\nScene: Adult in winter coat momentarily losing footing on icy sidewalk, one foot sliding, arms balancing, no injury or dangerous traffic.\nMemory-link caption verbatim: \"halka = slip; lose your footing on a slippery surface.\".\nSwedish example in bottom strip verbatim: \"Han halkar på isen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-155e038b-f88c-445e-b536-6d6aa1b5283e.png",
+  "artwork": "Content/Artwork/sv-2445.png",
+  "sha256": "0ccdac1abbce574d123525200e4ab212642de6e8639d4eda8ba1b957e9051ba3",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

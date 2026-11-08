@@ -1,0 +1,22 @@
+{
+  "id": "sv-2652",
+  "english": "technology",
+  "swedish": "teknik",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE complete square Swedish vocabulary flashcard. Match the supplied card style: warm editorial realistic illustration, cream header with thin gold edge, large navy heading, smaller English meaning, cream and gold memory caption, pale blue example strip. All text is integrated, legible on a phone, with accurate Swedish å ä ö. Opaque square canvas, no watermarks or extra text.\nHeader verbatim: \"teknik\"\nEnglish meaning verbatim: \"technology\"\nScene: An adult craft worker using a modern computer-controlled cutting tool in a safe workshop, digital design screen shows simple shapes, no brands, text or exposed dangerous action.\nMemory caption verbatim: \"teknik = technology here; practical tools and systems.\"\nBottom Swedish example verbatim: \"Ny teknik gör arbetet enklare.\"\nMeaning for scene interpretation only, do not print: New technology makes the work easier.\nIf the memory caption is a spelling association, add the small label Memory trick. Preserve exact teaching text.",
+  "referenceImage": "Content/Artwork/sv-2652.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-b7b1044c-8503-4559-b5b2-c14d124c17f4.png",
+  "artwork": "Content/Artwork/Revisions/sv-2652-qa01.png",
+  "sha256": "9066b65a2797d001e596fd565c41312eaf9b6f7ae21d331eb3a1a23e3dd3ede0",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "scene": true,
+    "status": "visually-reviewed"
+  },
+  "correctionReason": "Show technology as uncountable teknik; en teknik suggests a technique.",
+  "originalProvenance": "Verification/QualityAudit/original-generations/sv-2652.json",
+  "reviewScope": "AI visual review; independent Swedish proofreader sign-off pending."
+}

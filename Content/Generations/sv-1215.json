@@ -1,0 +1,18 @@
+{
+  "id": "sv-1215",
+  "english": "hang",
+  "swedish": "hänga",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"hänga\". Smaller English meaning verbatim: \"hang\".\nScene: A hand hanging a jacket on a wall hook in a hallway.\nMemory-link caption verbatim: \"hänga resembles hang.\".\nSwedish example in bottom strip verbatim: \"Jag ska hänga jackan på kroken.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-93ba41fa-3ccf-4f6b-9bdc-59734c1bb83f.png",
+  "artwork": "Content/Artwork/sv-1215.png",
+  "sha256": "e4192bef5c8ed73cef264ff076522d2bcbc0bcabef9779f1cebdb219c38d18df",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

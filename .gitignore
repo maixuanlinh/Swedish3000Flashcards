@@ -19,3 +19,15 @@ __pycache__/
 *.log
 Android/illustrations/src/main/assets/
 Android/release-preparation/
+
+/MediaDelivery/models/
+/MediaDelivery/work/
+/MediaDelivery/public/
+/MediaDelivery/generated/*
+!/MediaDelivery/generated/assets/
+/MediaDelivery/size-report.json
+
+# Reviewed public Android listing assets; signing and account evidence stay local.
+!Android/release-preparation/
+Android/release-preparation/*
+!Android/release-preparation/store-listing/

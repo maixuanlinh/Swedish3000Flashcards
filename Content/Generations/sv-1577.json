@@ -1,0 +1,19 @@
+{
+  "id": "sv-1577",
+  "english": "lung",
+  "swedish": "en lunga",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en lunga\". Smaller English meaning verbatim: \"lung\".\nScene: A clear accurate educational front view of an adult torso with both lungs and trachea visible in a clean anatomical cutaway, blue arrows showing air entering through the airway. No extra labels.\nMemory-link caption verbatim: \"lunga resembles lung.\".\nSwedish example in bottom strip verbatim: \"Luft kommer in i lungorna när vi andas.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-362bb6bd-ab9b-4be4-b87d-61fc156800e3.png",
+  "artwork": "Content/Artwork/sv-1577.png",
+  "sha256": "d0dfef00217a023c178d946571cf05c739a34903e8a814350753d58cfc054995",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

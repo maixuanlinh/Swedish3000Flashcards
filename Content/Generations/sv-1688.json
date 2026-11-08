@@ -1,0 +1,19 @@
+{
+  "id": "sv-1688",
+  "english": "mother",
+  "swedish": "en mor",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en mor\". Smaller English meaning verbatim: \"mother\".\nScene: An adult daughter visiting her mother at a nearby home, a warm greeting showing their family relationship.\nMemory-link caption verbatim: \"mor = mother; mamma is the everyday family word.\".\nSwedish example in bottom strip verbatim: \"Hennes mor bor i närheten.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-9a3b0cd1-5708-43e7-aeb7-e5587202413d.png",
+  "artwork": "Content/Artwork/sv-1688.png",
+  "sha256": "20c8452c890fcfffacabb0a38090b08bc4a48faabe9c5579a26dc14f34f715fb",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

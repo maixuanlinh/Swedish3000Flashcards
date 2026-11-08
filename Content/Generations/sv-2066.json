@@ -1,0 +1,19 @@
+{
+  "id": "sv-2066",
+  "english": "project",
+  "swedish": "ett projekt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett projekt\". Smaller English meaning verbatim: \"project\".\nScene: A small team collaboratively building a model community garden on a table, sketches and tools nearby, shared work clearly central.\nMemory-link caption verbatim: \"projekt resembles project.\".\nSwedish example in bottom strip verbatim: \"Vi arbetar med ett gemensamt projekt.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-d5402798-a736-42d8-924e-5442d553b7a5.png",
+  "artwork": "Content/Artwork/sv-2066.png",
+  "sha256": "9fb62a34769c25f35b882adfd8dbde83f05663c1d5a5b93541696fbf2231d54a",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

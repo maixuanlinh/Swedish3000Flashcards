@@ -1,0 +1,19 @@
+{
+  "id": "sv-3000",
+  "english": "zone",
+  "swedish": "en zon",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en zon\". Smaller English meaning verbatim: \"zone\".\nScene: An adult walking into a clearly bounded pedestrian street with a large crossed-out car pictogram at its entrance, paving changing color across the boundary, cars remaining outside, no readable street signs.\nMemory-link caption verbatim: \"zon resembles zone; picture the boundary of a car-free area.\".\nSwedish example in bottom strip verbatim: \"Här börjar en bilfri zon.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-e1b54faa-2b28-4558-94db-359e624d814a.png",
+  "artwork": "Content/Artwork/sv-3000.png",
+  "sha256": "cda25da16e889c2f2c67622c6509ff0018b4e3549f4ef1a09cb9eadff2de4cf7",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sv-1245",
+  "english": "hell",
+  "swedish": "ett helvete",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett helvete\". Smaller English meaning verbatim: \"hell\".\nScene: An open storybook revealing a symbolic fictional fiery underworld, no suffering people, no gore.\nMemory-link caption verbatim: \"helvete = hell; picture a fictional fiery underworld.\".\nSwedish example in bottom strip verbatim: \"I berättelsen hamnar han i helvetet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-c8206248-a445-4e53-bd08-6c01aa96fa8b.png",
+  "artwork": "Content/Artwork/sv-1245.png",
+  "sha256": "22e531fed2675fa3a1c911af6fadde73640ef7a25b62b8b942db5d2059555dac",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

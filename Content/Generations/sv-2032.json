@@ -1,0 +1,19 @@
+{
+  "id": "sv-2032",
+  "english": "previous",
+  "swedish": "föregående",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"föregående\". Smaller English meaning verbatim: \"previous\".\nScene: An open book with a hand turning back one page, a clear backward arrow over the page edge, no readable page text.\nMemory-link caption verbatim: \"föregående = previous; picture the one immediately before.\".\nSwedish example in bottom strip verbatim: \"Läs föregående sida igen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-8da6c43e-2727-49f6-a5dd-d6e5b918f82b.png",
+  "artwork": "Content/Artwork/sv-2032.png",
+  "sha256": "ac5ced9492ee91911d5a12488e939eeba797ec347fe9381c04c642165c1b9722",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

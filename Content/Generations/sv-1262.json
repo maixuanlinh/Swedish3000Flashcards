@@ -1,0 +1,18 @@
+{
+  "id": "sv-1262",
+  "english": "hike",
+  "swedish": "vandra",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"vandra\". Smaller English meaning verbatim: \"hike\".\nScene: Two adults with hiking backpacks walking along a scenic mountain trail.\nMemory-link caption verbatim: \"vandra = hike or walk; picture a mountain trail.\".\nSwedish example in bottom strip verbatim: \"Vi ska vandra i bergen i helgen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-bea07755-52f2-49d1-8ba2-817ddde150ae.png",
+  "artwork": "Content/Artwork/sv-1262.png",
+  "sha256": "3994cef980d480f485de8d3ca103927fc790cdb2c1e17ff9024aed0910f5f26c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

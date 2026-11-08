@@ -1,0 +1,19 @@
+{
+  "id": "sv-2202",
+  "english": "replace",
+  "swedish": "byta ut",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"byta ut\". Smaller English meaning verbatim: \"replace\".\nScene: An adult setting a new intact table lamp where a broken unplugged lamp has been removed, old lamp safely aside with cracked shade, no exposed live wiring.\nMemory-link caption verbatim: \"byta ut = replace; put a new one in place of the old.\".\nSwedish example in bottom strip verbatim: \"Hon byter ut den trasiga lampan.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-8a9a0eb7-7d95-4308-9aac-0e1de4152a15.png",
+  "artwork": "Content/Artwork/sv-2202.png",
+  "sha256": "3104068caf9333df90e506021af76260a51984d6b883bbbd7777b21087b3e509",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

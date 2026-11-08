@@ -12,6 +12,7 @@ struct WordDetailView: View {
     @AppStorage("speechRate") private var speechRate = 0.42
     @State private var error: String?
     @State private var artworkEditorOpen = false
+    @State private var displayedArtwork: UIImage?
 
     var body: some View {
         NavigationStack {
@@ -33,28 +34,29 @@ struct WordDetailView: View {
                         Button { play(word.swedish) } label: {
                             Image(systemName: "speaker.wave.2.fill")
                                 .frame(width: 48, height: 48)
-                                .background(Palette.sage, in: Circle())
+                                .background(Palette.accentSoft, in: Circle())
                         }
-                        .accessibilityLabel("Play Swedish word")
+                        .accessibilityLabel("Play Swedish word").accessibilityIdentifier("detail.playWord")
                     }
 
                     if !premium.hasLesson(word) {
                         LockedLessonView(open: { showingPremium = true }).frame(minHeight: 220)
                     } else if store.hasArtwork(for: word) {
                         VStack(spacing: 4) {
-                            WordArtworkImage(word: word)
+                            WordArtworkImage(word: word, onLoad: { displayedArtwork = $0 })
                                 .frame(maxWidth: .infinity).frame(height: 340)
                                 .background(.white)
                                 .clipShape(RoundedRectangle(cornerRadius: 24))
                                 .accessibilityIdentifier("detail.artworkImage")
-                            Button { imageOpen = true } label: {
+                            Button { if displayedArtwork != nil { imageOpen = true } } label: {
                                 Image(systemName: "arrow.up.left.and.arrow.down.right")
                                     .font(.subheadline.weight(.semibold))
                                     .frame(width: 48, height: 44)
-                                    .background(Palette.sage, in: Capsule())
+                                    .background(Palette.accentSoft, in: Capsule())
                             }
                             .buttonStyle(.plain).accessibilityLabel("Open full-screen illustration")
                             .accessibilityIdentifier("detail.image")
+                            .disabled(displayedArtwork == nil)
                             .frame(maxWidth: .infinity)
                         }
                     }
@@ -75,7 +77,7 @@ struct WordDetailView: View {
                                 Spacer()
                                 Button { play(word.sentence) } label: {
                                     Image(systemName: "speaker.wave.2").frame(width: 30, height: 25)
-                                }.accessibilityLabel("Play Swedish sentence")
+                                }.accessibilityLabel("Play Swedish sentence").accessibilityIdentifier("detail.playSentence")
                             }
                             VStack(alignment: .leading, spacing: 8) {
                                 Text(word.sentence)
@@ -103,8 +105,8 @@ struct WordDetailView: View {
                                 } label: {
                                     Text(status.title).font(.subheadline.weight(.semibold))
                                         .frame(maxWidth: .infinity).padding(.vertical, 14)
-                                        .foregroundStyle(word.status == status ? .white : Palette.forest)
-                                        .background(word.status == status ? Palette.forest : Palette.sage, in: RoundedRectangle(cornerRadius: 14))
+                                        .foregroundStyle(word.status == status ? .white : Palette.accent)
+                                        .background(word.status == status ? Palette.accent : Palette.accentSoft, in: RoundedRectangle(cornerRadius: 14))
                                 }
                                 .accessibilityIdentifier("detail.status.\(status.rawValue)")
                             }
@@ -131,7 +133,7 @@ struct WordDetailView: View {
             }
             .sheet(isPresented: $artworkEditorOpen) { ArtworkEditor(word: word) }
             .fullScreenCover(isPresented: $imageOpen) {
-                if premium.hasLesson(word), let image = store.artworkImage(for: word) { IllustrationViewer(image: image, word: word.swedish) }
+                if premium.hasLesson(word), let image = displayedArtwork { IllustrationViewer(image: image, word: word.swedish) }
             }
             .alert("Couldn’t complete that action", isPresented: Binding(get: { error != nil }, set: { if !$0 { error = nil } })) {
                 Button("OK", role: .cancel) { error = nil }
@@ -141,7 +143,12 @@ struct WordDetailView: View {
 
     private func play(_ text: String) {
         if speech == nil { speech = SpeechPlayer() }
-        if speech?.speak(text, rate: Float(speechRate)) != true { error = "A Swedish voice is not available. Add a Swedish voice in the iPhone’s spoken content settings." }
+        guard let speech else { return }
+        Task {
+            do { try await speech.speakAndWait(text, language: "sv-SE", rate: Float(speechRate)) }
+            catch is CancellationError {}
+            catch { self.error = error.localizedDescription }
+        }
     }
 }
 

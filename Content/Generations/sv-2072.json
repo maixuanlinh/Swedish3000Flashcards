@@ -1,0 +1,19 @@
+{
+  "id": "sv-2072",
+  "english": "properly",
+  "swedish": "ordentligt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ordentligt\". Smaller English meaning verbatim: \"properly\".\nScene: A hand closing a door until its latch clearly fits securely in the frame, small check mark at the latch, no partly open gap.\nMemory-link caption verbatim: \"ordentligt = properly or thoroughly here.\".\nSwedish example in bottom strip verbatim: \"Stäng dörren ordentligt.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nPrecise correction: show the door fully CLOSED and flush inside its frame, with a narrow closed seam and no view into the room. Remove the exposed latch plate on the door edge, which should be hidden inside the frame when closed. Keep the hand on the handle and the green check mark; preserve every word exactly.",
+  "referenceImage": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ee2e5883-5b62-4f0e-a3eb-d0b45724a960.png",
+  "styleReference": "Supplied image edited with the built-in image tool.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-4f0f4137-19d1-499e-bdb3-0c0f5b0d1775.png",
+  "artwork": "Content/Artwork/sv-2072.png",
+  "sha256": "ae6a4684ce6213ccb50f1a2ab21579da772e0580ea1d4ce417faf8e9b4efb5c7",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

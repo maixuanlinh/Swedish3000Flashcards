@@ -1,0 +1,19 @@
+{
+  "id": "sv-1299",
+  "english": "humor",
+  "swedish": "humor",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"humor\". Smaller English meaning verbatim: \"humor\".\nScene: An adult amusing friends with a lighthearted story as they laugh together.\nMemory-link caption verbatim: \"humor has the same spelling in both languages.\".\nSwedish example in bottom strip verbatim: \"Hans humor får oss att skratta.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-858471b4-5ae8-48c7-8d6a-153d99504a98.png",
+  "artwork": "Content/Artwork/sv-1299.png",
+  "sha256": "5a882bfc57ae5e91fb1f4322b2b33b9c4a69a0b7c6aba173526adf62190ad37a",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

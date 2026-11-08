@@ -14,10 +14,13 @@ const catalog = read('Content/catalog.json');
 const artwork = read('Content/artwork.json');
 assert.equal(catalog.entries.length, 3000);
 assert.equal(new Set(catalog.entries.map((entry) => entry.id)).size, 3000);
-const ready = catalog.entries.filter((entry) => entry.contentStatus !== 'pending');
-for (const entry of ready) {
+const authored = catalog.entries.filter((entry) => entry.contentStatus !== 'pending');
+// Text drafts can be prepared ahead of illustrations. Only finished, reviewed
+// cards enter study, including when image generation stops partway through a set.
+const ready = authored.filter((entry) => artwork[entry.id]?.reviewed === true);
+for (const entry of authored) {
   entry.artworkStatus = artwork[entry.id]?.reviewed ? 'reviewed' : 'pending';
-  entry.artwork = artwork[entry.id]?.path ?? null;
+  entry.artwork = artwork[entry.id]?.reviewed ? artwork[entry.id].path : null;
 }
 assert(ready.length > 0 && ready.length <= 3000);
 for (const entry of ready) {
@@ -70,13 +73,25 @@ for (const filename of fs.readdirSync(bundledDirectory)) {
   if (/^sv-\d{4}-r\d+\.(png|jpg)$/.test(filename) && !bundledFilenames.has(filename))
     fs.unlinkSync(path.join(bundledDirectory, filename));
 }
-write('Content/catalog.json', catalog);
+// Encoding can take time while another chat authors unrelated cards.
+// Merge only derived artwork fields into the latest text catalog.
+const latestCatalog = read('Content/catalog.json');
+const latestArtwork = read('Content/artwork.json');
+for (const entry of latestCatalog.entries) {
+  entry.artworkStatus = latestArtwork[entry.id]?.reviewed ? 'reviewed' : 'pending';
+  entry.artwork = latestArtwork[entry.id]?.reviewed ? latestArtwork[entry.id].path : null;
+}
+write('Content/catalog.json', latestCatalog);
+write('Content/build-input.json', {
+  authoredCount: authored.length, reviewedIDs: ready.map(entry => entry.id),
+  note: 'Content inputs captured at build start; later reviewed cards enter the next build.',
+});
 write('Content/status.json', {
-  target: 3000, authored: ready.length, artwork: images.length,
+  target: 3000, authored: authored.length, studyReady: ready.length, artwork: images.length,
   linguisticReview: 'Authored draft; independent Swedish review pending.',
   sets: Object.fromEntries([...new Set(catalog.entries.map((entry) => entry.english[0].toUpperCase()))].map((letter) => {
     const set = catalog.entries.filter((entry) => entry.english[0].toUpperCase() === letter);
     return [letter, { total: set.length, authored: set.filter((entry) => entry.contentStatus !== 'pending').length, artwork: images.filter((image) => set.some((entry) => entry.id === image.wordID)).length }];
   })),
 });
-console.log(`Native resources: ${ready.length}/3000 Swedish words, ${images.length} images. Pending words are excluded from the app.`);
+console.log(`Native resources: ${ready.length}/3000 finished Swedish cards, ${images.length} reviewed images. ${authored.length - ready.length} text drafts await artwork and are excluded from study.`);

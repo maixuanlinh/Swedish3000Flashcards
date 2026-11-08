@@ -12,13 +12,16 @@ class SwedishSmokeTest {
         compose.waitUntil(30000) {
             compose.onAllNodesWithTag("card.reveal").fetchSemanticsNodes().isNotEmpty()
         }
+        capturePhone("01-study-prompt")
         compose.onNodeWithTag("card.reveal").performClick()
         compose.onNodeWithTag("card.answer").assertTextEquals("en / ett")
         compose.onNodeWithTag("card.sentence").assertTextEquals("Jag ser en katt och ett äpple.")
+        capturePhone("02-study-answer")
         compose.onNodeWithTag("tab.Words").performClick()
         compose.onNodeWithTag("words.search").performTextInput("äpple")
         compose.onNodeWithTag("word.sv-0136").assertExists()
         compose.onNodeWithTag("tab.Progress").performClick()
         compose.onNodeWithText("Your progress").assertExists()
+        capturePhone("03-progress")
     }
 }

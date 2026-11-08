@@ -1,0 +1,18 @@
+{
+  "id": "sv-1223",
+  "english": "harmful",
+  "swedish": "skadlig",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"skadlig\". Smaller English meaning verbatim: \"harmful\".\nScene: Dark smoke drifting from a chimney over wilted plants, clear environmental damage symbolism.\nMemory-link caption verbatim: \"skada → skadlig: harm → harmful.\".\nSwedish example in bottom strip verbatim: \"Röken är skadlig för miljön.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-7abbf4ed-dc64-427f-9821-382cbcc9bf3e.png",
+  "artwork": "Content/Artwork/sv-1223.png",
+  "sha256": "05a34a28caed9b8a57368616e687f0c10888d87fd58b97b20fdafbb398c8ccf1",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

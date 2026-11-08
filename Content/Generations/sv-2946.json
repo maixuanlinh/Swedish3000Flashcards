@@ -1,0 +1,19 @@
+{
+  "id": "sv-2946",
+  "english": "wind (moving air)",
+  "swedish": "en vind",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en vind\". Smaller English meaning verbatim: \"wind (moving air)\".\nScene: A strong coastal wind bends a stand of long grasses and the leafy branches of one small tree consistently toward the RIGHT, waves visible on the sea behind them, a few windblown leaves travel to the RIGHT, clear coherent air movement, no people, scarf, flags or text.\nMemory-link caption verbatim: \"vind resembles wind; moving air bends the grass.\".\nSwedish example in bottom strip verbatim: \"En stark vind blåser från havet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-2c896cd6-9522-4c56-ba7e-798bd5810730.png",
+  "artwork": "Content/Artwork/sv-2946.png",
+  "sha256": "425cde08391e681034a09ea826019a366ba2e2970ebb013d0998671a9fa74a82",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

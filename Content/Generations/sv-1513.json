@@ -1,0 +1,19 @@
+{
+  "id": "sv-1513",
+  "english": "legal",
+  "swedish": "laglig",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"laglig\". Smaller English meaning verbatim: \"legal\".\nScene: A driver checking an official blue parking sign with a white P before parking neatly in a marked parking space, no other readable wording.\nMemory-link caption verbatim: \"lag = law; laglig = legal.\".\nSwedish example in bottom strip verbatim: \"Är det lagligt att parkera här?\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-df672465-d27b-4fb3-bf06-8fcedeeaa4de.png",
+  "artwork": "Content/Artwork/sv-1513.png",
+  "sha256": "dda85babb8eb79930ffbf7b071f7884d7c6c240b91a2239c40343055d84d27fa",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

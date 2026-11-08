@@ -1,0 +1,19 @@
+{
+  "id": "sv-1662",
+  "english": "minute (time)",
+  "swedish": "en minut",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en minut\". Smaller English meaning verbatim: \"minute (time)\".\nScene: A clear analogue clock with a highlighted arc between two neighbouring minute marks, a small sand timer beside it, no extra labels beyond normal clock digits.\nMemory-link caption verbatim: \"minut resembles minute.\".\nSwedish example in bottom strip verbatim: \"Vänta en minut.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nRevision instruction: Use case: precise-object-edit. Keep all four teaching text blocks and card design unchanged. Replace only the inaccurate analog clock with a large clear digital countdown timer displaying exactly \"01:00\", with the small label \"min:sek\" directly below its digits. This denotes one minute and zero seconds. Keep the hourglass beside it. No analog clock, dial, hands or interval wedge anywhere.",
+  "referenceImage": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-c92652d9-9c8c-49a7-a61b-1d0b11a656d9.png",
+  "styleReference": "Supplied image edited with the built-in image tool.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-30dcd3ea-0a7c-4ee5-a6f0-a860c70030e1.png",
+  "artwork": "Content/Artwork/sv-1662.png",
+  "sha256": "263dec1ac210e547ed9b1c3a604b94b1bb7b6f90b21746b9b11df7c7c47e9b02",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

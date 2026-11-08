@@ -1,0 +1,19 @@
+{
+  "id": "sv-1456",
+  "english": "kick",
+  "swedish": "sparka",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"sparka\". Smaller English meaning verbatim: \"kick\".\nScene: A woman kicking a football with her foot clearly contacting the ball, a short motion trail showing its path.\nMemory-link caption verbatim: \"sparka = kick; picture a foot striking a ball.\".\nSwedish example in bottom strip verbatim: \"Hon kan sparka bollen långt.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-7691ec61-6b38-47e4-97f2-918d738e5a8d.png",
+  "artwork": "Content/Artwork/sv-1456.png",
+  "sha256": "9c65f162339e41a611bda4ff86423299a8b80f06e09c49dd392e1e6744645e94",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

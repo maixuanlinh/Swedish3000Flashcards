@@ -1,0 +1,19 @@
+{
+  "id": "sv-1599",
+  "english": "March",
+  "swedish": "mars",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"mars\". Smaller English meaning verbatim: \"March\".\nScene: Melting snow and the first spring buds beside a calendar page clearly labelled mars, no dates or other text.\nMemory-link caption verbatim: \"mars resembles March; Swedish month names use lowercase.\".\nSwedish example in bottom strip verbatim: \"Våren börjar närma sig i mars.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-92f5afa7-ff0b-44ac-a00b-793bd494b540.png",
+  "artwork": "Content/Artwork/sv-1599.png",
+  "sha256": "b7ae4a47c3e740e94ca7c78a1fa0d55c41fdad1bf393cd5debd166cd9b2d11d2",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

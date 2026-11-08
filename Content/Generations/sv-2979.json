@@ -1,0 +1,19 @@
+{
+  "id": "sv-2979",
+  "english": "wow",
+  "swedish": "oj",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"oj\". Smaller English meaning verbatim: \"wow\".\nScene: An adult looking up in delighted amazement at a huge fairytale castle, mouth slightly open and raised eyebrows, a grand entrance showing the castle's impressive scale, no words or speech bubbles.\nMemory-link caption verbatim: \"oj can express wow; picture a sudden amazed reaction.\".\nSwedish example in bottom strip verbatim: \"Oj, vilket stort slott!\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-0b042f35-9d1d-40b6-b003-e45bafe0e106.png",
+  "artwork": "Content/Artwork/sv-2979.png",
+  "sha256": "6dafa560cf56c509036c6b11d823c6a5e5ba4db0d3c5d8c6d515b5bcdbdaa015",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

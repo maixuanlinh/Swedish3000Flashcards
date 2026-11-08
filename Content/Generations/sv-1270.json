@@ -1,0 +1,18 @@
+{
+  "id": "sv-1270",
+  "english": "history",
+  "swedish": "historia",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"historia\". Smaller English meaning verbatim: \"history\".\nScene: A student examining a timeline with a Viking ship, an old castle and an early steam train, no dates or factual labels.\nMemory-link caption verbatim: \"historia resembles history.\".\nSwedish example in bottom strip verbatim: \"Vi studerar Sveriges historia.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-4a089f96-f145-412b-83f3-a566acd4f371.png",
+  "artwork": "Content/Artwork/sv-1270.png",
+  "sha256": "9150beb840ab42e80981df30529f7ecf0784c261d215e3994e6bbbe1fd63a458",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-1909",
+  "english": "perfect",
+  "swedish": "perfekt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"perfekt\". Smaller English meaning verbatim: \"perfect\".\nScene: One flawless ripe red apple centered on a small cream plate in warm natural light, no blemishes, symmetrical balanced composition.\nMemory-link caption verbatim: \"perfekt resembles perfect.\".\nSwedish example in bottom strip verbatim: \"Äpplet är helt perfekt.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-a5b7aebe-cb69-4569-a5ce-ee41c3474198.png",
+  "artwork": "Content/Artwork/sv-1909.png",
+  "sha256": "8716225d0eaf22688a1916943b60685cbd81f64c41adaebe15c0d8b1bf80fed3",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

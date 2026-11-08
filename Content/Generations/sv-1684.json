@@ -1,0 +1,19 @@
+{
+  "id": "sv-1684",
+  "english": "more",
+  "swedish": "mer",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"mer\". Smaller English meaning verbatim: \"more\".\nScene: An adult working on an unfinished task beside an hourglass, a clear additional block of time represented by a second hourglass being offered, no text.\nMemory-link caption verbatim: \"mer = more; picture adding to an amount.\".\nSwedish example in bottom strip verbatim: \"Jag behöver mer tid.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nRevision instruction: Use case: precise-object-edit. Preserve every teaching text and card design. Remove the woman's third hand and writing arm at the bottom left. She has exactly two arms: one supports her chin, and the other reaches to receive the hourglass. Leave the pen resting on the notebook with no hand holding it. Keep the other person's single hand offering the hourglass.",
+  "referenceImage": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-cbc603c4-7c88-491e-b843-3b437bc0e575.png",
+  "styleReference": "Supplied image edited with the built-in image tool.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-eea68d57-7d08-4e9c-afc5-adc024332a47.png",
+  "artwork": "Content/Artwork/sv-1684.png",
+  "sha256": "7d5a44919798284ed704c7ca518889776b1bcb51547b6c51a05a7169c79f3cf3",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-1307",
+  "english": "hurt",
+  "swedish": "göra ont",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"göra ont\". Smaller English meaning verbatim: \"hurt\".\nScene: An adult resting a sore foot on a cushion and pointing gently at it, no graphic injury.\nMemory-link caption verbatim: \"göra ont = hurt or cause pain.\".\nSwedish example in bottom strip verbatim: \"Det gör ont i min fot.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-5770708b-7ec4-4f85-a255-065a2caeb5ca.png",
+  "artwork": "Content/Artwork/sv-1307.png",
+  "sha256": "4d483c40fe8e74adfb707df976859b377adbea5fe3d529b9f2ac2cde676e6af4",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

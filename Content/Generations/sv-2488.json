@@ -1,0 +1,19 @@
+{
+  "id": "sv-2488",
+  "english": "soup",
+  "swedish": "en soppa",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en soppa\". Smaller English meaning verbatim: \"soup\".\nScene: Bowl of vegetable soup with spoon on saucer and gentle steam, no plate of solid food.\nMemory-link caption verbatim: \"soppa = soup; a liquid dish served in a bowl.\".\nSwedish example in bottom strip verbatim: \"Soppan är varm.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-7ca42fae-be06-44cd-8a45-48d33eede8e6.png",
+  "artwork": "Content/Artwork/sv-2488.png",
+  "sha256": "aedc83483805ff7ee384a6ff42d05fe8ebe36b4007e8739e308ba3ac16a319b5",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

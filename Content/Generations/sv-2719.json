@@ -1,0 +1,19 @@
+{
+  "id": "sv-2719",
+  "english": "today",
+  "swedish": "i dag",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"i dag\". Smaller English meaning verbatim: \"today\".\nScene: An adult relaxing at home beside a calendar with one current-day square clearly circled gold and marked with a sun pictogram, work bag put away, no dates or text.\nMemory-link caption verbatim: \"i dag = today; the current day.\".\nSwedish example in bottom strip verbatim: \"Jag är ledig i dag.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"I am off work today.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-a75512e1-5ca9-4f64-8619-fccae636229e.png",
+  "artwork": "Content/Artwork/sv-2719.png",
+  "sha256": "a3c655c4e4a6e5a8d7dde10d8ee84db67e4127d98ca843cc0c691b5d640aba5f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2635",
+  "english": "talk",
+  "swedish": "prata",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"prata\". Smaller English meaning verbatim: \"talk\".\nScene: Two adults talking over a simple map and travel bag at a cafe table, attentive faces and small empty speech bubbles, no readable map labels or dialogue.\nMemory-link caption verbatim: \"prata = talk; people exchange words.\".\nSwedish example in bottom strip verbatim: \"Vi pratar om resan.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"We talk about the trip.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-5c27b407-c4c3-4b36-91c4-eec0b09d5fad.png",
+  "artwork": "Content/Artwork/sv-2635.png",
+  "sha256": "9accabbdb4a3b273ccf9aeb0ece8f20509d97dcf27b011fe7c360984b1290a1f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2337",
+  "english": "send",
+  "swedish": "skicka",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"skicka\". Smaller English meaning verbatim: \"send\".\nScene: An adult posting one sealed addressed envelope into a mailbox, address non-legible and no extra readable signs.\nMemory-link caption verbatim: \"skicka = send; make something go to someone.\".\nSwedish example in bottom strip verbatim: \"Hon skickar ett brev.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ee89c743-2749-450b-a124-ebb3df8519f0.png",
+  "artwork": "Content/Artwork/sv-2337.png",
+  "sha256": "402cd6c584a10e7ec7294435348e0fa9a0cc512f3093aa8e3b2efed88ae2e861",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

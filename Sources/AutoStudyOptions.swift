@@ -9,6 +9,7 @@ struct AutoStudyOptions: View {
     @AppStorage("readSentence") private var readSentence = true
     @AppStorage("speechRate") private var rate = 0.42
     let start: () -> Void
+    var stop: (() -> Void)? = nil
     var body: some View {
         NavigationStack {
             Form {
@@ -16,6 +17,13 @@ struct AutoStudyOptions: View {
                     Text("Recall the word, hear the answer, then move on automatically.")
                     Text("Listening does not mark words as Known. Use manual study when you want to rate them.")
                         .font(.footnote).foregroundStyle(.secondary)
+                }
+                if let stop {
+                    Section {
+                        Button { dismiss(); stop() } label: {
+                            Label("Return to manual study", systemImage: "stop.fill")
+                        }.accessibilityIdentifier("playback.stop")
+                    }
                 }
                 Section("Pace") {
                     Stepper("Recall pause: \(Int(recall)) seconds", value: $recall, in: 1...15, step: 1).accessibilityIdentifier("playback.recall")
@@ -30,11 +38,13 @@ struct AutoStudyOptions: View {
                         Text("Natural").tag(0.42)
                         Text("Brisk").tag(0.50)
                     }
-                    Text("Uses your device’s speech voices. Install a Swedish voice for offline pronunciation.")
+                    Text("Uses ready-made pronunciation recordings. Recordings load as needed and are cached for later study.")
                         .font(.footnote).foregroundStyle(.secondary)
                 }
 
+
             }
+            .scrollContentBackground(.hidden).background(Palette.background)
             .accessibilityIdentifier("playback.form")
             .safeAreaInset(edge: .bottom) {
                 Button { dismiss(); start() } label: {
@@ -44,6 +54,6 @@ struct AutoStudyOptions: View {
             }
             .navigationTitle("Automatic study").navigationBarTitleDisplayMode(.inline)
             .toolbar { ToolbarItem(placement: .cancellationAction) { Button("Done") { dismiss() } } }
-        }
+        }.tint(Palette.accent)
     }
 }

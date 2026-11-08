@@ -1,0 +1,22 @@
+{
+  "id": "sv-2530",
+  "english": "state",
+  "swedish": "ett tillstånd",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE complete square Swedish vocabulary flashcard. Match the supplied card style: warm editorial realistic illustration, cream header with thin gold edge, large navy heading, smaller English meaning, cream and gold memory caption, pale blue example strip. All text is integrated, legible on a phone, with accurate Swedish å ä ö. Opaque square canvas, no watermarks or extra text.\nHeader verbatim: \"ett tillstånd\"\nEnglish meaning verbatim: \"state\"\nScene: One transparent glass of clear liquid water on a table, a gentle gold outline highlights the water surface and fluid pouring motion from a small glass jug, no ice, steam, labels or scientific equations.\nMemory caption verbatim: \"tillstånd = state here; water can be in a liquid state.\"\nBottom Swedish example verbatim: \"Vattnet är i flytande tillstånd.\"\nMeaning for scene interpretation only, do not print: The water is in a liquid state.\nIf the memory caption is a spelling association, add the small label Memory trick. Preserve exact teaching text.",
+  "referenceImage": "Content/Artwork/sv-2530.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-dbf8e32c-66ec-4920-b97d-3c06e6c16604.png",
+  "artwork": "Content/Artwork/Revisions/sv-2530-qa01.png",
+  "sha256": "ff71c2bb1309cd98bb3c6b5affc2952aafd916dc0d24f72512a0290c580ef2d4",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "scene": true,
+    "status": "visually-reviewed"
+  },
+  "correctionReason": "Replace the unnatural car-in-good-state collocation with a direct example of tillstånd.",
+  "originalProvenance": "Verification/QualityAudit/original-generations/sv-2530.json",
+  "reviewScope": "AI visual review; independent Swedish proofreader sign-off pending."
+}

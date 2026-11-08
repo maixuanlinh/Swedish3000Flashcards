@@ -1,0 +1,19 @@
+{
+  "id": "sv-2846",
+  "english": "valley",
+  "swedish": "en dal",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en dal\". Smaller English meaning verbatim: \"valley\".\nScene: A winding river running along the low green floor between two high hills, clear valley shape from an elevated viewpoint, small houses for scale and no text.\nMemory-link caption verbatim: \"dal = valley; low land between hills or mountains.\".\nSwedish example in bottom strip verbatim: \"Floden rinner genom en grön dal.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"The river flows through a green valley.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-6bf29070-e00c-4369-bfed-433d26019533.png",
+  "artwork": "Content/Artwork/sv-2846.png",
+  "sha256": "45f2faec8036381018b2e735b081790f4131acc18b6e70389e41d51e131a63b6",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

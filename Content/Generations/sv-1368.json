@@ -1,0 +1,19 @@
+{
+  "id": "sv-1368",
+  "english": "information",
+  "swedish": "information",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"information\". Smaller English meaning verbatim: \"information\".\nScene: A traveller asking for details at a station information counter marked with one simple information symbol.\nMemory-link caption verbatim: \"information has the same spelling in both languages.\".\nSwedish example in bottom strip verbatim: \"Jag behöver mer information.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-e5fb1fad-9a72-48f5-9a31-319e5a3cb6b2.png",
+  "artwork": "Content/Artwork/sv-1368.png",
+  "sha256": "b5b84ec10de91640aad4c67b382430372b145959f1edb02e22348fb034228b48",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

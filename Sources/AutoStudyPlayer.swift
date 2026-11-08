@@ -9,69 +9,85 @@ protocol StudySpeech: AnyObject {
 }
 
 @MainActor
-final class SpeechPlayer: NSObject, AVSpeechSynthesizerDelegate, StudySpeech {
-    private let synthesizer = AVSpeechSynthesizer()
+final class SpeechPlayer: NSObject, AVAudioPlayerDelegate, StudySpeech {
+    private let media: LessonMedia
+    private var player: AVAudioPlayer?
     private var pending: CheckedContinuation<Void, Error>?
-    private var pendingUtterance: AVSpeechUtterance?
-    private var pendingID: UUID?
-    override init() { super.init(); synthesizer.delegate = self }
+    private var activeID: UUID?
+    private var loadTask: Task<Data, Error>?
 
-    func speak(_ text: String, language: String = "sv-SE", rate: Float = 0.42) -> Bool {
-        stop()
-        guard let utterance = utterance(text, language: language, rate: rate) else { return false }
-        synthesizer.speak(utterance)
-        return true
-    }
-    private func utterance(_ text: String, language: String, rate: Float) -> AVSpeechUtterance? {
-        guard let voice = AVSpeechSynthesisVoice(language: language) else { return nil }
-        let item = AVSpeechUtterance(string: text)
-        item.voice = voice; item.rate = max(0.25, min(rate, 0.55))
-        return item
-    }
+    init(media: LessonMedia? = nil) { self.media = media ?? .shared; super.init() }
+
     func speakAndWait(_ text: String, language: String, rate: Float) async throws {
         try Task.checkCancellation()
         stop()
-        guard let item = utterance(text, language: language, rate: rate) else { throw SpeechError.missingVoice }
         let requestID = UUID()
+        activeID = requestID
+        let request = Task { try await media.data(for: lessonRecordingKey(language: language, text: text)) }
+        loadTask = request
+        let data: Data
+        do {
+            data = try await withTaskCancellationHandler {
+                try await request.value
+            } onCancel: { request.cancel() }
+        }
+        catch {
+            if activeID == requestID { activeID = nil; loadTask = nil }
+            throw error
+        }
+        try Task.checkCancellation()
+        guard activeID == requestID else { throw CancellationError() }
+        let session = AVAudioSession.sharedInstance()
+        try session.setCategory(.playback, mode: .spokenAudio, options: [.duckOthers])
+        try session.setActive(true)
+        let audio = try AVAudioPlayer(data: data)
+        audio.delegate = self
+        audio.enableRate = true
+        audio.rate = min(1.25, max(0.75, rate / 0.42))
+        audio.prepareToPlay()
+        player = audio
         try await withTaskCancellationHandler {
             try await withCheckedThrowingContinuation { (continuation: CheckedContinuation<Void, Error>) in
-                pending = continuation; pendingUtterance = item; pendingID = requestID
-                synthesizer.speak(item)
+                guard activeID == requestID else { continuation.resume(throwing: CancellationError()); return }
+                pending = continuation
+                if !audio.play() { complete(requestID, error: SpeechError.unavailable) }
             }
         } onCancel: { Task { @MainActor [weak self] in self?.cancel(requestID) } }
         try Task.checkCancellation()
     }
     private func cancel(_ requestID: UUID) {
-        guard pendingID == requestID else { return }
+        guard activeID == requestID else { return }
         stop()
     }
     func stop() {
         let continuation = pending
-        pending = nil; pendingUtterance = nil; pendingID = nil
-        synthesizer.stopSpeaking(at: .immediate)
+        pending = nil; activeID = nil
+        loadTask?.cancel(); loadTask = nil
+        player?.stop(); player = nil
         continuation?.resume(throwing: CancellationError())
     }
-    nonisolated func speechSynthesizer(_ synthesizer: AVSpeechSynthesizer, didFinish utterance: AVSpeechUtterance) {
-        let identity = ObjectIdentifier(utterance)
-        Task { @MainActor [weak self] in self?.complete(identity, cancelled: false) }
+    nonisolated func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
+        Task { @MainActor [weak self] in
+            guard let self, self.player === player, let id = self.activeID else { return }
+            self.complete(id, error: flag ? nil : SpeechError.unavailable)
+        }
     }
-    nonisolated func speechSynthesizer(_ synthesizer: AVSpeechSynthesizer, didCancel utterance: AVSpeechUtterance) {
-        let identity = ObjectIdentifier(utterance)
-        Task { @MainActor [weak self] in self?.complete(identity, cancelled: true) }
+    nonisolated func audioPlayerDecodeErrorDidOccur(_ player: AVAudioPlayer, error: Error?) {
+        Task { @MainActor [weak self] in
+            guard let self, self.player === player, let id = self.activeID else { return }
+            self.complete(id, error: error ?? SpeechError.unavailable)
+        }
     }
-    private func complete(_ identity: ObjectIdentifier, cancelled: Bool) {
-        guard let item = pendingUtterance, ObjectIdentifier(item) == identity else { return }
-        let continuation = pending; pending = nil; pendingUtterance = nil; pendingID = nil
-        if cancelled { continuation?.resume(throwing: SpeechError.interrupted) }
-        else { continuation?.resume() }
+    private func complete(_ requestID: UUID, error: Error?) {
+        guard activeID == requestID else { return }
+        let continuation = pending
+        pending = nil; activeID = nil; loadTask = nil; player = nil
+        if let error { continuation?.resume(throwing: error) } else { continuation?.resume() }
     }
     enum SpeechError: LocalizedError {
-        case missingVoice, interrupted
+        case unavailable
         var errorDescription: String? {
-            switch self {
-            case .missingVoice: "A required speech voice is unavailable. Add a Swedish voice in your device’s spoken content settings, or turn off spoken playback."
-            case .interrupted: "Audio was interrupted. Tap Play to restart this card."
-            }
+            "The pronunciation recording could not be played. Check your connection and try again."
         }
     }
 }

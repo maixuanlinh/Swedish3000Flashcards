@@ -1,0 +1,19 @@
+{
+  "id": "sv-2500",
+  "english": "speech",
+  "swedish": "ett tal",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett tal\". Smaller English meaning verbatim: \"speech\".\nScene: Adult woman stands giving warm celebration speech to seated dinner guests, holds small note card, no lectern needed.\nMemory-link caption verbatim: \"tal = speech here; a prepared talk to an audience.\".\nSwedish example in bottom strip verbatim: \"Hon håller ett tal på festen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ba9f88eb-4c68-44ff-8a9f-3b60da8f4b8e.png",
+  "artwork": "Content/Artwork/sv-2500.png",
+  "sha256": "95caddab08429e88b047346556d508fbde4e719f4247930cdd64248cba6abeac",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2132",
+  "english": "reaction",
+  "swedish": "en reaktion",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en reaktion\". Smaller English meaning verbatim: \"reaction\".\nScene: An adult man opening a small gift box and responding with a broad delighted smile, box contents a simple knitted scarf.\nMemory-link caption verbatim: \"reaktion resembles reaction; picture the response.\".\nSwedish example in bottom strip verbatim: \"Hans reaktion är ett stort leende.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-59af6489-6494-4740-a125-03f33929b22c.png",
+  "artwork": "Content/Artwork/sv-2132.png",
+  "sha256": "dad466d54d1bc03341b68f2795fb0f75d5301a669da763bc9438075430b2689e",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

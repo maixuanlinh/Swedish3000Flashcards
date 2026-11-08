@@ -1,0 +1,19 @@
+{
+  "id": "sv-2095",
+  "english": "pursue",
+  "swedish": "följa efter",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"följa efter\". Smaller English meaning verbatim: \"pursue\".\nScene: A police car following another car at a safe distance on an ordinary road, both moving in the same direction, no crash, weapons or dangerous maneuvers.\nMemory-link caption verbatim: \"följa efter = pursue in the sense of follow behind.\".\nSwedish example in bottom strip verbatim: \"Polisen följer efter bilen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-8d21d240-76b3-43e2-92a7-855eebb91ee3.png",
+  "artwork": "Content/Artwork/sv-2095.png",
+  "sha256": "fa17a486ef74e030b04156832b4df7030f7a788aafa17eaf0b8cf17185be36a3",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

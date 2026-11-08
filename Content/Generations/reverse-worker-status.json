@@ -1,0 +1,19 @@
+{
+  "direction": "descending-sourceID",
+  "workerChat": "01a1973b-f2e6-7ae0-a959-e9971c97d17c",
+  "startedAt": "2026-11-01T13:12:29.828060+00:00",
+  "startID": 3000,
+  "currentID": 2773,
+  "stopWhen": "Next descending card already has reviewed artwork; do not overwrite.",
+  "note": "Reverse worker owns descending Z/Y/W etc; forward worker continues ascending from R. Check artwork.json before each generation.",
+  "lastReviewedID": 2774,
+  "reviewedCount": 227,
+  "updatedAt": "2026-11-01T18:23:29.168663+00:00",
+  "productionStatus": "stopped-at-forward-worker",
+  "stopReason": "Forward candidate artwork reaches sv-2780. Reverse-owned images sv-2774 through sv-3000 are saved, reviewed, and verified. No new lower cards will be generated.",
+  "encounteredForwardID": 2780,
+  "reviewedRange": [
+    2774,
+    3000
+  ]
+}

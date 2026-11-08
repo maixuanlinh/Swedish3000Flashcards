@@ -1,0 +1,19 @@
+{
+  "id": "sv-2791",
+  "english": "type",
+  "swedish": "en typ",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en typ\". Smaller English meaning verbatim: \"type\".\nScene: An adult choosing among three music pictograms on three cards placed FLAT on a table: an acoustic guitar, a classical violin and an electronic keyboard. All three cards are supported by the table; nobody holds any card. The person has exactly two visible hands: one rests on the table edge and the other points toward the violin card. Natural anatomy, no extra arms or hands, no genre labels or text.\nMemory-link caption verbatim: \"typ = type or kind; choose a category.\".\nSwedish example in bottom strip verbatim: \"Vilken typ av musik gillar du?\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"What type of music do you like?\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-16ecde87-f4a8-42d6-b9e4-9b5203771247.png",
+  "artwork": "Content/Artwork/sv-2791.png",
+  "sha256": "c473958dbeb1b8fa6f5fecea96d2b6b0129076f72d5bc772e5102b358ce7cdb6",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

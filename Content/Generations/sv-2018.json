@@ -1,0 +1,19 @@
+{
+  "id": "sv-2018",
+  "english": "pregnant",
+  "swedish": "gravid",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"gravid\". Smaller English meaning verbatim: \"pregnant\".\nScene: A fully clothed pregnant adult resting a hand gently on her rounded belly in a warm home nursery with an empty crib nearby, respectful ordinary portrait.\nMemory-link caption verbatim: \"gravid = pregnant.\".\nSwedish example in bottom strip verbatim: \"Hon är gravid och väntar barn.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-3fa107f8-82a5-4c43-abd5-17e1e9f9f7bc.png",
+  "artwork": "Content/Artwork/sv-2018.png",
+  "sha256": "bb182ecddfaea431a4896605b2f7187059133913f51e09b0c42f91150cc6d007",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

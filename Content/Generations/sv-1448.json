@@ -1,0 +1,19 @@
+{
+  "id": "sv-1448",
+  "english": "June",
+  "swedish": "juni",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"juni\". Smaller English meaning verbatim: \"June\".\nScene: Children leaving school for the summer in bright early summer greenery, with a small calendar page clearly labelled juni and no dates or other text.\nMemory-link caption verbatim: \"juni resembles June; Swedish month names use lowercase.\".\nSwedish example in bottom strip verbatim: \"Skolan slutar i juni.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-75b85783-a483-47fe-ac82-e0d8f24ede5c.png",
+  "artwork": "Content/Artwork/sv-1448.png",
+  "sha256": "3ebb23f8bad8228e1ba740a8dcdbe030626c96a354bc6583704bab80d1147b89",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

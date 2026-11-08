@@ -1,0 +1,7 @@
+{
+  "generationMode": "built-in",
+  "prompt": "Use case: precise-object-edit. Adapt the supplied official Finnish vocabulary app icon into its Swedish sibling. Preserve the original layout, typography hierarchy, ivory letter colour, centered alignment, generous margins, subtle texture, and premium restrained appearance. Change the background from forest green to Swedish-flag-inspired blue #006AA7. The only text must be exactly three centered lines: \"3000\" (large elegant serif numerals), \"SWEDISH\" (bold uppercase sans serif), \"WORDS\" (bold uppercase sans serif). Replace FINNISH with SWEDISH, matching the same word width and visual weight. No S monogram, dots, flags, extra text, border, or mockup. Square fully opaque edge-to-edge iOS app icon, sharp text, 1024x1024.",
+  "reference": "Branding/finnish-official-reference.png",
+  "output": "Branding/swedish3000-icon-master.png",
+  "review": "Exact text 3000 / SWEDISH / WORDS approved; blue background and ivory lettering match the Finnish typography layout."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2016",
+  "english": "prediction",
+  "swedish": "en förutsägelse",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en förutsägelse\". Smaller English meaning verbatim: \"prediction\".\nScene: Two clear scenes: an adult earlier indicating a rain-cloud symbol, then the same adult by a rainy window with a small check mark linking the forecast to the result.\nMemory-link caption verbatim: \"förutsäga = predict; förutsägelse = prediction.\".\nSwedish example in bottom strip verbatim: \"Hennes förutsägelse om regn blev rätt.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-02db8664-af1e-4977-9a5e-1e32429fbb55.png",
+  "artwork": "Content/Artwork/sv-2016.png",
+  "sha256": "f104ab1651a066d9dd349623c661406abe99b7ed62419354ac3e341ca5d5114d",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

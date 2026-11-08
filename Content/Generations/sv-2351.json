@@ -1,0 +1,19 @@
+{
+  "id": "sv-2351",
+  "english": "service",
+  "swedish": "en service",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en service\". Smaller English meaning verbatim: \"service\".\nScene: An adult hotel staff member helping a guest with luggage and directions at a welcoming reception, simple map without readable names.\nMemory-link caption verbatim: \"service = service; helpful assistance to customers here.\".\nSwedish example in bottom strip verbatim: \"Hotellet erbjuder bra service.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-9a636c79-0f7d-4c2a-82ad-ac3fead5499a.png",
+  "artwork": "Content/Artwork/sv-2351.png",
+  "sha256": "d89c7ad224f4537ac7de729c7d0c8e195284bba87261c13abe0e7d2a8d4632b1",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

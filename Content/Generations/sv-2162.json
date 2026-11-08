@@ -1,0 +1,19 @@
+{
+  "id": "sv-2162",
+  "english": "reference",
+  "swedish": "en referens",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en referens\". Smaller English meaning verbatim: \"reference\".\nScene: A close-up article page with a highlighted small footnote marker linked by a fine gold line to a book beside it, no invented readable source text.\nMemory-link caption verbatim: \"referens resembles reference; a link to a source.\".\nSwedish example in bottom strip verbatim: \"Artikeln innehåller en referens till boken.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-17e432e9-96d2-4b63-ac89-8a18f3a74c26.png",
+  "artwork": "Content/Artwork/sv-2162.png",
+  "sha256": "987e71013c8415192685aba27215d926473d7433082eee1f74c3e0b88f630ca6",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

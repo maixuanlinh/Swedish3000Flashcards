@@ -1,0 +1,19 @@
+{
+  "id": "sv-2937",
+  "english": "wide",
+  "swedish": "bred",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"bred\". Smaller English meaning verbatim: \"wide\".\nScene: A very wide pedestrian bridge crossing a river, several adults comfortably walking abreast, a clear horizontal double-headed gold arrow spans the deck width, no words.\nMemory-link caption verbatim: \"bred = wide; compare the distance from side to side.\".\nSwedish example in bottom strip verbatim: \"Bron är bred.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-02071488-f5af-4dc2-9c61-6423184fae59.png",
+  "artwork": "Content/Artwork/sv-2937.png",
+  "sha256": "411caf046f23ea2193673063abec04cd309d12059cf029fce3d71d4aad3ca6d9",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

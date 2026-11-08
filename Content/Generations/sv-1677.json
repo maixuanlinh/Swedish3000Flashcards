@@ -1,0 +1,19 @@
+{
+  "id": "sv-1677",
+  "english": "money",
+  "swedish": "pengar",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"pengar\". Smaller English meaning verbatim: \"money\".\nScene: Hands placing money into a clear savings jar beside a small travel postcard and a suitcase, no readable wording.\nMemory-link caption verbatim: \"pengar = money; picture coins and banknotes.\".\nSwedish example in bottom strip verbatim: \"Jag sparar pengar till en resa.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-10c434dc-31da-4632-8fe0-ba9ad8437664.png",
+  "artwork": "Content/Artwork/sv-1677.png",
+  "sha256": "5ad19773d827c4d5f51fecae6b2927e5ca8b87177b5c3e085848ae727c82591e",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

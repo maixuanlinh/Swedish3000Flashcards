@@ -94,14 +94,14 @@ actor WordReminderScheduler {
         }
         guard token == revision else { return ReminderScheduleResult() }
         var rng = SystemRandomNumberGenerator()
-        let plan = WordReminderPlan.make(words: words, settings: settings, now: now,
+        let plan = WordReminderPlan.repeating(words: words, settings: settings, now: now,
             calendar: calendar, avoiding: avoiding, using: &rng)
         guard !plan.isEmpty else { return ReminderScheduleResult(message: "No words match this selection. Choose another group or letter.") }
         var result = ReminderScheduleResult()
         // Stay below iOS's pending-request budget and leave unrelated requests alone.
-        let available = max(0, min(57, 64 - (pending.count - owned.count)))
-        guard available >= 2 else { return ReminderScheduleResult(message: "There is no room for more reminders. Please try again later.") }
-        for item in plan.prefix(available - 1) {
+        let available = max(0, min(48, 64 - (pending.count - owned.count)))
+        guard available >= plan.count else { return ReminderScheduleResult(message: "There is not enough room for this schedule. Choose a longer interval or fewer custom times.") }
+        for item in plan {
             guard token == revision else { return result }
             let content: UNMutableNotificationContent
             do { content = try ReminderNotification.content(word: item.word, settings: settings) }
@@ -112,9 +112,10 @@ actor WordReminderScheduler {
                 result.missingArtwork += 1
             }
             defer { ReminderNotification.cleanStagingFiles(content) }
-            let components = calendar.dateComponents([.year, .month, .day, .hour, .minute], from: item.date)
+            let minute = item.minuteOfDay ?? (calendar.component(.hour, from: item.date) * 60 + calendar.component(.minute, from: item.date))
+            let components = DateComponents(hour: minute / 60, minute: minute % 60)
             let request = UNNotificationRequest(identifier: ReminderNotification.prefix + UUID().uuidString,
-                content: content, trigger: UNCalendarNotificationTrigger(dateMatching: components, repeats: false))
+                content: content, trigger: UNCalendarNotificationTrigger(dateMatching: components, repeats: true))
             do {
                 try await center.add(request)
                 if token != revision {
@@ -126,30 +127,19 @@ actor WordReminderScheduler {
                 result.wordIDs.append(item.word.id)
             } catch { result.message = "Some reminders couldn’t be scheduled. Open Word reminders and try Save again." }
         }
-        if token == revision, let last = plan.prefix(available - 1).last,
-           let refreshDate = calendar.date(byAdding: .day, value: 1, to: last.date) {
-            let content = UNMutableNotificationContent()
-            content.title = "Ready for more Swedish?"
-            content.body = "Open 3000 Swedish Words to refresh your next two weeks of word reminders."
-            content.userInfo = ["refreshReminders": true]
-            content.threadIdentifier = "word-practice"
-            if settings.sound { content.sound = .default }
-            let request = UNNotificationRequest(identifier: ReminderNotification.prefix + UUID().uuidString,
-                content: content, trigger: UNCalendarNotificationTrigger(dateMatching:
-                    calendar.dateComponents([.year, .month, .day, .hour, .minute], from: refreshDate), repeats: false))
-            do {
-                try await center.add(request)
-                if token != revision { await center.removePending([request.identifier]) }
-            } catch { result.message = "The final refresh reminder couldn’t be scheduled. Your word reminders are ready." }
-        }
         return result
     }
 
     func sample(word: ReminderWord, settings: WordReminderSettings) async throws {
+        let token = revision
         let content = try ReminderNotification.content(word: word, settings: settings)
         defer { ReminderNotification.cleanStagingFiles(content) }
         try await center.add(UNNotificationRequest(identifier: ReminderNotification.prefix + "sample",
             content: content, trigger: UNTimeIntervalNotificationTrigger(timeInterval: 5, repeats: false)))
+        if token != revision {
+            await center.removePending([ReminderNotification.prefix + "sample"])
+            throw CancellationError()
+        }
     }
 }
 
@@ -172,7 +162,9 @@ final class WordReminders {
     @ObservationIgnored private var lastAppliedAccess: Bool?
     private static let settingsKey = "wordReminderSettings.v1"
 
-    init(defaults: UserDefaults = .standard, center: any ReminderNotificationCenter = SystemReminderCenter()) {
+    init(defaults: UserDefaults? = nil, center: any ReminderNotificationCenter = SystemReminderCenter()) {
+        let testing = ProcessInfo.processInfo.arguments.contains("-ui-testing") || ProcessInfo.processInfo.arguments.contains("-test-store")
+        let defaults = defaults ?? (testing ? UserDefaults(suiteName: "ui-reminders-" + UUID().uuidString)! : .standard)
         self.defaults = defaults; self.center = center
         scheduler = WordReminderScheduler(center: center)
         settings = defaults.data(forKey: Self.settingsKey).flatMap { try? JSONDecoder().decode(WordReminderSettings.self, from: $0) }?.normalized ?? WordReminderSettings()
@@ -186,12 +178,14 @@ final class WordReminders {
         lastAppliedAccess = value
         premiumAccess = value
         // Remove delivered pictures too, so a refund cannot leave paid artwork
-        // visible in the notification list. Basic text reminders remain free.
+        // visible in the notification list. Reminders now require Premium access.
         if !value {
+            settings.enabled = false
+            defaults.set(try? JSONEncoder().encode(settings), forKey: Self.settingsKey)
             let delivered = await center.deliveredIDs()
             await center.removeDelivered(delivered.filter { $0.hasPrefix(ReminderNotification.prefix) })
         }
-        if settings.enabled { await rebuild(store: store) }
+        await rebuild(store: store)
     }
 
     func snapshots(from store: StudyStore) -> [ReminderWord] {
@@ -201,16 +195,24 @@ final class WordReminders {
         }
         return store.words.map { word in
             let personal = revisions[word.id].flatMap { FileManager.default.fileExists(atPath: $0.path) ? $0 : nil }
-            // iOS derives its thumbnail from the attachment. The existing 768px
-            // picture also keeps the mnemonic text legible when expanded.
+            // Personal artwork is already a durable local file. Hosted lesson
+            // images are deliberately not fetched by notification scheduling.
             return ReminderWord(id: word.id, english: word.english, swedish: word.swedish,
                 status: word.statusRaw, thumbnail: PremiumAccess.hasLesson(word.english, premium: premiumAccess) ?
-                    (personal ?? BundledArtwork.url(for: word.id)) : nil)
+                    personal : nil)
         }
     }
 
     func save(_ draft: WordReminderSettings, store: StudyStore) async -> Bool {
         guard !busy else { return false }
+        guard premiumAccess || !draft.enabled else {
+            message = "Word reminders require Premium. Your learning progress stays free."
+            return false
+        }
+        guard !draft.enabled || !draft.scheduledMinutes.isEmpty else {
+            message = "Choose different sleep and wake times so there are waking hours for reminders."
+            return false
+        }
         busy = true
         message = nil
         defer { busy = false }
@@ -230,6 +232,9 @@ final class WordReminders {
                 return false
             }
         } else { value.enabled = false }
+        guard !value.enabled || premiumAccess else {
+            message = "Word reminders require Premium."; return false
+        }
         settings = value
         defaults.set(try? JSONEncoder().encode(settings), forKey: Self.settingsKey)
         await rebuild(store: store)
@@ -249,8 +254,10 @@ final class WordReminders {
     private func rebuild(store: StudyStore) async {
         operation += 1
         let token = operation
-        let words = settings.enabled ? snapshots(from: store) : []
-        let result = await scheduler.replace(words: words, settings: settings, avoiding: recentIDs)
+        var effective = settings
+        effective.enabled = settings.enabled && premiumAccess
+        let words = effective.enabled ? snapshots(from: store) : []
+        let result = await scheduler.replace(words: words, settings: effective, avoiding: recentIDs)
         guard token == operation else { return }
         scheduledCount = result.count
         nextDate = result.nextDate
@@ -263,6 +270,7 @@ final class WordReminders {
     }
 
     func sendSample(store: StudyStore, draft: WordReminderSettings) async {
+        guard premiumAccess else { message = "Word reminders require Premium."; return }
         guard !busy else { return }
         busy = true; message = nil
         defer { busy = false }
@@ -274,6 +282,7 @@ final class WordReminders {
         guard [.authorized, .provisional, .ephemeral].contains(authorization) else {
             message = "Allow notifications in iPhone Settings to try a sample."; return
         }
+        guard premiumAccess else { message = "Word reminders require Premium."; return }
         // Prefer a concrete word with a thumbnail for a useful first preview.
         let words = WordReminderPlan.eligible(snapshots(from: store), settings: draft)
         guard let word = words.first(where: { $0.english == "apple" }) ?? words.first else {
@@ -308,6 +317,14 @@ final class ReminderInbox {
 }
 
 final class ReminderAppDelegate: NSObject, UIApplicationDelegate, UNUserNotificationCenterDelegate {
+    func application(_ application: UIApplication, handleEventsForBackgroundURLSession identifier: String,
+                     completionHandler: @escaping () -> Void) {
+        Task { @MainActor in
+            OfflineBackgroundCompletion.shared.register(identifier, completion: completionHandler)
+            await LessonMedia.shared.reconnectBackgroundDownloads()
+        }
+    }
+
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil) -> Bool {
         let center = UNUserNotificationCenter.current()
         center.delegate = self

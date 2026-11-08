@@ -1,0 +1,19 @@
+{
+  "id": "sv-1718",
+  "english": "national",
+  "swedish": "nationell",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"nationell\". Smaller English meaning verbatim: \"national\".\nScene: A television camera filming a sports final, with a subtle glowing outline of Sweden behind it and small home television screens across that outline showing the same final; convey coverage throughout one country.\nMemory-link caption verbatim: \"nation = nation; nationell = national.\".\nSwedish example in bottom strip verbatim: \"Finalen sänds på nationell tv.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-f6ec8281-b71e-491b-a596-1dc15ad55cf7.png",
+  "artwork": "Content/Artwork/sv-1718.png",
+  "sha256": "e9e6954bf3a4a15cd33cb61bf464f73af6ff984f2e7a22d256c895eb5a49c3d1",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,7 +1,8 @@
 {
   "target": 3000,
-  "authored": 1208,
-  "artwork": 1208,
+  "authored": 3000,
+  "studyReady": 3000,
+  "artwork": 3000,
   "linguisticReview": "Authored draft; independent Swedish review pending.",
   "sets": {
     "A": {
@@ -41,93 +42,93 @@
     },
     "H": {
       "total": 100,
-      "authored": 0,
-      "artwork": 0
+      "authored": 100,
+      "artwork": 100
     },
     "I": {
       "total": 121,
-      "authored": 0,
-      "artwork": 0
+      "authored": 121,
+      "artwork": 121
     },
     "J": {
       "total": 23,
-      "authored": 0,
-      "artwork": 0
+      "authored": 23,
+      "artwork": 23
     },
     "K": {
       "total": 18,
-      "authored": 0,
-      "artwork": 0
+      "authored": 18,
+      "artwork": 18
     },
     "L": {
       "total": 108,
-      "authored": 0,
-      "artwork": 0
+      "authored": 108,
+      "artwork": 108
     },
     "M": {
       "total": 134,
-      "authored": 0,
-      "artwork": 0
+      "authored": 134,
+      "artwork": 134
     },
     "N": {
       "total": 65,
-      "authored": 0,
-      "artwork": 0
+      "authored": 65,
+      "artwork": 65
     },
     "O": {
       "total": 82,
-      "authored": 0,
-      "artwork": 0
+      "authored": 82,
+      "artwork": 82
     },
     "P": {
       "total": 238,
-      "authored": 0,
-      "artwork": 0
+      "authored": 238,
+      "artwork": 238
     },
     "Q": {
       "total": 16,
-      "authored": 0,
-      "artwork": 0
+      "authored": 16,
+      "artwork": 16
     },
     "R": {
       "total": 163,
-      "authored": 0,
-      "artwork": 0
+      "authored": 163,
+      "artwork": 163
     },
     "S": {
       "total": 351,
-      "authored": 0,
-      "artwork": 0
+      "authored": 351,
+      "artwork": 351
     },
     "T": {
       "total": 166,
-      "authored": 0,
-      "artwork": 0
+      "authored": 166,
+      "artwork": 166
     },
     "U": {
       "total": 50,
-      "authored": 0,
-      "artwork": 0
+      "authored": 50,
+      "artwork": 50
     },
     "V": {
       "total": 36,
-      "authored": 0,
-      "artwork": 0
+      "authored": 36,
+      "artwork": 36
     },
     "W": {
       "total": 106,
-      "authored": 0,
-      "artwork": 0
+      "authored": 106,
+      "artwork": 106
     },
     "Y": {
       "total": 13,
-      "authored": 0,
-      "artwork": 0
+      "authored": 13,
+      "artwork": 13
     },
     "Z": {
       "total": 2,
-      "authored": 0,
-      "artwork": 0
+      "authored": 2,
+      "artwork": 2
     }
   }
 }

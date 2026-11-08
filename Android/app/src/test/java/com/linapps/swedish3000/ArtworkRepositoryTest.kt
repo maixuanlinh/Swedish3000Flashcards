@@ -3,6 +3,7 @@ package com.linapps.swedish3000
 import android.content.Context
 import androidx.test.core.app.ApplicationProvider
 import com.linapps.swedish3000.data.ArtworkRepository
+import com.linapps.swedish3000.data.LessonMedia
 import kotlinx.coroutines.test.runTest
 import org.json.JSONArray
 import org.json.JSONObject
@@ -21,10 +22,11 @@ import android.util.Base64
 class ArtworkRepositoryTest {
     private lateinit var context: Context
     @Before fun setup() { context=ApplicationProvider.getApplicationContext();File(context.filesDir,"artwork").deleteRecursively() }
-    private fun image()=context.assets.open("BundledArtwork/"+runTestImage()).use { it.readBytes() }
-    private fun runTestImage(): String {
-        val manifest=JSONArray(context.assets.open("BundledArtwork/manifest.json").bufferedReader().use { it.readText() })
-        return manifest.getJSONObject(0).getString("filename")
+    private fun image(): ByteArray {
+        val media=LessonMedia(context)
+        val installed=context.assets.list("").orEmpty().toSet()
+        val item=media.catalog.items.values.first { it.key.startsWith("image/") && it.pack in installed }
+        return requireNotNull(media.cached(item.key))
     }
     @Test fun imageHistorySurvivesRelaunchAndOriginalKeepsRevisions()=runTest {
         val repo=ArtworkRepository(context);val word=word()
@@ -37,7 +39,7 @@ class ArtworkRepositoryTest {
         assertNull(fresh.active(word.id));assertEquals(1,fresh.history(word.id).images.size)
         fresh.activate(word.id,revision.id);assertEquals(revision.id,fresh.active(word.id)?.id)
         val exported=JSONObject(String(fresh.export(word)))
-        assertEquals("swedish-cards-artwork-v1",exported.getString("format"))
+        assertEquals("sisu-cards-artwork-v1",exported.getString("format"))
         assertTrue(exported.getJSONArray("images").getJSONObject(0).getBoolean("isActive"))
     }
     @Test fun invalidImagePreservesActiveAndPromptsAreDeduplicated()=runTest {
@@ -51,7 +53,7 @@ class ArtworkRepositoryTest {
     @Test fun compatiblePackIsIdempotentAndRejectsUnknownWordsBeforeChangingImages()=runTest {
         val repo=ArtworkRepository(context);val word=word();val encoded=Base64.encodeToString(image(),Base64.NO_WRAP)
         fun record(id: String,asset: String)=JSONObject().put("wordID",id).put("assetID",asset).put("prompt","Pack prompt").put("memoryHook","Pack hook").put("jpegBase64",encoded)
-        fun pack(records: List<JSONObject>)=JSONObject().put("format","swedish-cards-artwork-pack-v1").put("records",JSONArray(records)).toString().toByteArray()
+        fun pack(records: List<JSONObject>)=JSONObject().put("format","sisu-cards-artwork-pack-v1").put("records",JSONArray(records)).toString().toByteArray()
         val bytes=pack(listOf(record(word.id,"asset-one")))
         assertEquals(1 to 0,repo.importPack(bytes,listOf(word)))
         assertEquals(0 to 1,repo.importPack(bytes,listOf(word)))

@@ -1,0 +1,19 @@
+{
+  "id": "sv-1628",
+  "english": "meat",
+  "swedish": "kött",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"kött\". Smaller English meaning verbatim: \"meat\".\nScene: A person choosing a vegetable dish while politely declining a separate plate of cooked meat, no graphic preparation.\nMemory-link caption verbatim: \"kött = meat; picture food from an animal.\".\nSwedish example in bottom strip verbatim: \"Han äter inte kött.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nRevision instruction: Use case: text-localization. Keep the entire card, all artwork, heading and memory caption unchanged. Change only the example sentence in the blue bottom strip from \"Han äter inte kött.\" to \"Hon äter inte kött.\" Render exactly: \"Hon äter inte kött.\"",
+  "referenceImage": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-7c67049e-017c-480f-9ab7-bc52651a2e55.png",
+  "styleReference": "Supplied image edited with the built-in image tool.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ca033eb4-f789-41e2-8880-a80750bfd9d2.png",
+  "artwork": "Content/Artwork/sv-1628.png",
+  "sha256": "38fcfaa2fb0cc4305c50f038a1954abe9008801e447ee0d5507b96ec4ea79a2c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

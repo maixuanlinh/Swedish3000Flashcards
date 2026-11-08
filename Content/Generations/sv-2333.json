@@ -1,0 +1,19 @@
+{
+  "id": "sv-2333",
+  "english": "self",
+  "swedish": "ett jag",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett jag\". Smaller English meaning verbatim: \"self\".\nScene: An adult woman looking at her own faithful reflection in a mirror, same face, clothing and pose on both sides, calm confident expression.\nMemory-link caption verbatim: \"jag = self in this expression; your own identity.\".\nSwedish example in bottom strip verbatim: \"Hon vill vara sitt sanna jag.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-d66827b4-78b7-45f3-b08e-f472f4d2c6cf.png",
+  "artwork": "Content/Artwork/sv-2333.png",
+  "sha256": "7060be1edf2143c382ed554b71210016dc614c5c7d426e22c00cf349ee3c2c29",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

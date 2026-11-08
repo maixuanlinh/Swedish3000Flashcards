@@ -1,0 +1,19 @@
+{
+  "id": "sv-2696",
+  "english": "though",
+  "swedish": "fastän",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"fastän\". Smaller English meaning verbatim: \"though\".\nScene: Two adults going outside with umbrellas during rain, warm doorway behind and a gold arrow showing their movement out, clear contrast between rain and choosing to go, no words.\nMemory-link caption verbatim: \"fastän = though or although; the action happens despite the situation.\".\nSwedish example in bottom strip verbatim: \"Vi gick ut fastän det regnade.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"We went out though it was raining.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-470e4fbf-3fff-4239-a375-26db6f88885b.png",
+  "artwork": "Content/Artwork/sv-2696.png",
+  "sha256": "8223b2efee2e8ed3e2b91e913d54ece41afc87c71ffde2111f977d0aefaf55c9",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

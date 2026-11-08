@@ -1,0 +1,19 @@
+{
+  "id": "sv-2158",
+  "english": "red",
+  "swedish": "röd",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"röd\". Smaller English meaning verbatim: \"red\".\nScene: A single bright red unbranded car parked in a neutral courtyard, red paint the clear central colour, no readable license plate.\nMemory-link caption verbatim: \"röd = red; picture a bright red car.\".\nSwedish example in bottom strip verbatim: \"Bilen är röd.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-0af2e9ae-8407-4ff6-a6cc-f7befd430c13.png",
+  "artwork": "Content/Artwork/sv-2158.png",
+  "sha256": "776fa26a70d44e29937541876617b7ff7741569ad98c4ecd46f85da061c021e4",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

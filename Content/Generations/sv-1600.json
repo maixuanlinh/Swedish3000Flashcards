@@ -1,0 +1,19 @@
+{
+  "id": "sv-1600",
+  "english": "mark",
+  "swedish": "ett märke",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett märke\". Smaller English meaning verbatim: \"mark\".\nScene: A close view of one circular cup stain on a wooden tabletop, a finger pointing directly at the mark.\nMemory-link caption verbatim: \"märke = mark; picture a visible trace on a surface.\".\nSwedish example in bottom strip verbatim: \"Det finns ett märke på bordet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-319cf463-b7b4-4426-a80f-5aa6c87431a5.png",
+  "artwork": "Content/Artwork/sv-1600.png",
+  "sha256": "a9a0e807f61adc4ccad3cf511cf950950dd5c0e033e359a44a562ca8b63be0a1",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-1505",
+  "english": "learn",
+  "swedish": "lära sig",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"lära sig\". Smaller English meaning verbatim: \"learn\".\nScene: An adult learner practising Swedish with a teacher, an open notebook and simple flashcards containing only hej and tack.\nMemory-link caption verbatim: \"lära sig = learn; picture gaining a new skill.\".\nSwedish example in bottom strip verbatim: \"Jag vill lära mig svenska.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-97614150-d1c3-4c18-a268-5f691714b748.png",
+  "artwork": "Content/Artwork/sv-1505.png",
+  "sha256": "58fe7a8c2ae7c571cc6e7f570a72b485ffd05547bfa364038207df91adf44aa2",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

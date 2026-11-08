@@ -1,0 +1,22 @@
+{
+  "id": "sv-2653",
+  "english": "teenage",
+  "swedish": "tonårs-",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE complete square Swedish vocabulary flashcard. Match the supplied card style: warm editorial realistic illustration, cream header with thin gold edge, large navy heading, smaller English meaning, cream and gold memory caption, pale blue example strip. All text is integrated, legible on a phone, with accurate Swedish å ä ö. Opaque square canvas, no watermarks or extra text.\nHeader verbatim: \"tonårs-\"\nEnglish meaning verbatim: \"teenage\"\nScene: An adult woman looking at an old photograph of herself as a teenager with school friends, matching recognizable facial features, memory inset and no written captions.\nMemory caption verbatim: \"tonårs- = teenage in compounds; tonårstid = teenage years.\"\nBottom Swedish example verbatim: \"Hon minns sin tonårstid.\"\nMeaning for scene interpretation only, do not print: She remembers her teenage years.\nIf the memory caption is a spelling association, add the small label Memory trick. Preserve exact teaching text.",
+  "referenceImage": "Content/Artwork/sv-2653.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-88782efe-16a6-418f-8bda-5329bf4020d8.png",
+  "artwork": "Content/Artwork/Revisions/sv-2653-qa01.png",
+  "sha256": "47b4865e9b4a928b8325c40e8edcf5aae7ad0f91cf3f101ae603294ea4ecf30c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "scene": true,
+    "status": "visually-reviewed"
+  },
+  "correctionReason": "Use the idiomatic tonårstid rather than the redundant tonårsår.",
+  "originalProvenance": "Verification/QualityAudit/original-generations/sv-2653.json",
+  "reviewScope": "AI visual review; independent Swedish proofreader sign-off pending."
+}

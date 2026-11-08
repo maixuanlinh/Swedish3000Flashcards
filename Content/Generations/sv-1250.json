@@ -1,0 +1,18 @@
+{
+  "id": "sv-1250",
+  "english": "here",
+  "swedish": "här",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"här\". Smaller English meaning verbatim: \"here\".\nScene: A person inviting a friend to sit on the empty chair directly beside them, hand pointing at that nearby chair.\nMemory-link caption verbatim: \"här resembles here.\".\nSwedish example in bottom strip verbatim: \"Kom och sätt dig här.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-a78e410b-b9fc-43cb-8420-4566b24431dc.png",
+  "artwork": "Content/Artwork/sv-1250.png",
+  "sha256": "87fa3701d4e8052d34f0fbd58aee03c9257957b7b28fdc56de40a55f52b13010",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

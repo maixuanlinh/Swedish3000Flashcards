@@ -1,0 +1,19 @@
+{
+  "id": "sv-2817",
+  "english": "universe",
+  "swedish": "ett universum",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett universum\". Smaller English meaning verbatim: \"universe\".\nScene: A breathtaking deep-space panorama with galaxies, stars and nebulae, a tiny Earth in the foreground conveys immense scale, no labels, diagrams or text.\nMemory-link caption verbatim: \"universum resembles universe; all of space and its contents.\".\nSwedish example in bottom strip verbatim: \"Universum är enormt.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"The universe is enormous.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-d0fa97f6-40a9-4f30-a50d-3c3d36be326c.png",
+  "artwork": "Content/Artwork/sv-2817.png",
+  "sha256": "16f04a872825fd95da5b791932e3838f59a5ce0f0b1e209fe5362f0679bf2088",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

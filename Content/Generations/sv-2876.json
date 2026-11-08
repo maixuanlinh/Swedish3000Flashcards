@@ -1,0 +1,19 @@
+{
+  "id": "sv-2876",
+  "english": "voice",
+  "swedish": "en röst",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en röst\". Smaller English meaning verbatim: \"voice\".\nScene: An adult listening to a phone call, a small inset of the woman speaking connected by gentle sound-wave symbols to the phone, no chat text or brands.\nMemory-link caption verbatim: \"röst = voice; the sound of someone speaking.\".\nSwedish example in bottom strip verbatim: \"Jag hör hennes röst i telefonen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-24b684c8-a34f-44d4-9e25-5d85ab7dbb22.png",
+  "artwork": "Content/Artwork/sv-2876.png",
+  "sha256": "c0bfbd144fba587e9ec6a4a9cf4a5ec1e28dc2f51a915f20d3813bd31610ecac",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

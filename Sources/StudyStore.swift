@@ -3,9 +3,22 @@ import Observation
 import SwiftData
 import UIKit
 
+struct SavedStudySession: Codable, Equatable {
+    let remainingIDs: [String]
+    let initialCount: Int
+    let scopeRaw: String
+    let letter: String?
+    let topic: String?
+    let savedAt: Date
+    var scope: ReviewScope { ReviewScope(rawValue: scopeRaw) ?? .remaining }
+}
+
 @MainActor
 @Observable
 final class StudyStore {
+    private(set) var savedSession: SavedStudySession?
+    @ObservationIgnored private let sessionDefaults: UserDefaults?
+    private static let sessionKey = "savedStudySession.v1"
     let container: ModelContainer
     let context: ModelContext
     private(set) var words: [VocabularyWord] = []
@@ -17,7 +30,9 @@ final class StudyStore {
     @ObservationIgnored private var cachedSearch: String?
     @ObservationIgnored private var cachedSearchWords: [VocabularyWord] = []
 
-    init(container: ModelContainer, seeds: [WordSeed], artworkDirectory: URL? = nil) throws {
+    init(container: ModelContainer, seeds: [WordSeed], artworkDirectory: URL? = nil, sessionDefaults: UserDefaults? = nil) throws {
+        self.sessionDefaults = sessionDefaults
+        self.savedSession = sessionDefaults?.data(forKey: Self.sessionKey).flatMap { try? JSONDecoder().decode(SavedStudySession.self, from: $0) }
         self.container = container
         self.artworkDirectory = artworkDirectory ?? URL.applicationSupportDirectory.appending(path: "Artwork", directoryHint: .isDirectory)
         context = container.mainContext
@@ -127,6 +142,17 @@ final class StudyStore {
         artworks = try context.fetch(FetchDescriptor<ArtworkRevision>(sortBy: [SortDescriptor(\.createdAt, order: .reverse)]))
     }
 
+    func saveSession(ids: [String], initialCount: Int, scope: ReviewScope, letter: String?, topic: String?) {
+        var seen: Set<String> = []
+        let valid = ids.filter { wordsByID[$0] != nil && seen.insert($0).inserted }
+        let snapshot = SavedStudySession(remainingIDs: valid, initialCount: max(initialCount, valid.count),
+            scopeRaw: scope.rawValue, letter: letter, topic: topic, savedAt: .now)
+        savedSession = snapshot
+        if let sessionDefaults, let data = try? JSONEncoder().encode(snapshot) {
+            sessionDefaults.set(data, forKey: Self.sessionKey)
+        }
+    }
+
     func word(withID id: String) -> VocabularyWord? { wordsByID[id] }
 
     func initial(for word: VocabularyWord) -> String {
@@ -151,13 +177,25 @@ final class StudyStore {
         var topics: Set<String> = []
         var total = 0
         for word in candidates {
-            topics.insert(word.topic)
-            if scope.includes(word) && (topic == nil || word.topic == topic) {
+            topics.formUnion(word.studyTopics.map(\.rawValue))
+            if scope.includes(word) && word.matchesTopic(topic) {
                 counts[initial(for: word), default: 0] += 1
                 total += 1
             }
         }
         return VocabularyFilterSummary(total: total, letterCounts: counts, topics: topics.sorted())
+    }
+
+    func topicProgress(words candidates: [VocabularyWord]) -> [VocabularyTopic: TopicProgress] {
+        var result: [VocabularyTopic: TopicProgress] = [:]
+        for word in candidates {
+            for topic in word.studyTopics {
+                result[topic, default: TopicProgress()].total += 1
+                if word.status == .known { result[topic, default: TopicProgress()].known += 1 }
+                if word.status == .learning { result[topic, default: TopicProgress()].learning += 1 }
+            }
+        }
+        return result
     }
 
     func activeArtwork(for wordID: String) -> ArtworkRevision? {
@@ -198,14 +236,13 @@ final class StudyStore {
         if let revision = activeArtwork(for: word.id) {
             sources.append(.file(artworkDirectory.appending(path: thumbnail ? revision.thumbnailFilename : revision.filename)))
         }
-        if let url = BundledArtwork.url(for: word.id, thumbnail: thumbnail) { sources.append(.file(url)) }
+        if let key = BundledArtwork.mediaKey(for: word.id, thumbnail: thumbnail) { sources.append(.hosted(key)) }
         if let name = word.imageName { sources.append(.asset(name)) }
         return sources
     }
 
     func artworkImage(for word: VocabularyWord, thumbnail: Bool = false) -> UIImage? {
         if let revision = activeArtwork(for: word.id), let image = artworkImage(revision, thumbnail: thumbnail) { return image }
-        if let image = BundledArtwork.image(for: word.id, thumbnail: thumbnail) { return image }
         return word.imageName.flatMap { UIImage(named: $0) }
     }
 

@@ -15,14 +15,14 @@ class ReminderPlanTest {
     }
     @Test fun scheduleIsFutureBoundedAndKeepsLocalTimeAcrossDST() {
         val zone=ZoneId.of("Europe/Helsinki");val now=Instant.parse("2026-10-24T12:00:00Z")
-        val dates=ReminderPlan.dates(ReminderSettings(times=listOf(540)),now,zone).map { Instant.ofEpochMilli(it).atZone(zone) }
+        val dates=ReminderPlan.dates(ReminderSettings(times=listOf(540),frequency=ReminderFrequency.CUSTOM,sleepEnabled=false),now,zone).map { Instant.ofEpochMilli(it).atZone(zone) }
         assertEquals(14,dates.size);assertTrue(dates.all { it.toInstant()>now && it.hour==9 && it.minute==0 })
         assertEquals(ZoneOffset.ofHours(2),dates.first().offset)
         assertTrue(ReminderPlan.dates(ReminderSettings(),now,zone).size<=56)
     }
     @Test fun overlappingTimeIsDeliveredOnlyOncePerDay() {
         val zone=ZoneId.of("Europe/Helsinki")
-        val dates=ReminderPlan.dates(ReminderSettings(times=listOf(210)),Instant.parse("2026-10-24T12:00:00Z"),zone).map { Instant.ofEpochMilli(it).atZone(zone) }
+        val dates=ReminderPlan.dates(ReminderSettings(times=listOf(210),frequency=ReminderFrequency.CUSTOM,sleepEnabled=false),Instant.parse("2026-10-24T12:00:00Z"),zone).map { Instant.ofEpochMilli(it).atZone(zone) }
         assertEquals(dates.size,dates.map { it.toLocalDate() }.toSet().size)
         assertEquals(ZoneOffset.ofHours(3),dates.first().offset)
     }

@@ -1,0 +1,19 @@
+{
+  "id": "sv-1420",
+  "english": "involve",
+  "swedish": "involvera",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"involvera\". Smaller English meaning verbatim: \"involve\".\nScene: A team leader inviting every participant to add a piece to a shared project board.\nMemory-link caption verbatim: \"involvera resembles involve.\".\nSwedish example in bottom strip verbatim: \"Vi vill involvera alla i projektet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-8bdee005-5ecc-4603-8a9c-78cb93c52b59.png",
+  "artwork": "Content/Artwork/sv-1420.png",
+  "sha256": "8c946bcbec161b8090552d3f7e9b9403ceeaabdb1a8c514eb5e8f150569e322f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

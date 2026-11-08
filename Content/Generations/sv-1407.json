@@ -1,0 +1,19 @@
+{
+  "id": "sv-1407",
+  "english": "interrupt",
+  "swedish": "avbryta",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"avbryta\". Smaller English meaning verbatim: \"interrupt\".\nScene: One person speaking while another starts to interject, a gentle raised hand asking them to wait.\nMemory-link caption verbatim: \"avbryta = interrupt; picture breaking into an ongoing conversation.\".\nSwedish example in bottom strip verbatim: \"Avbryt mig inte när jag talar.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-d2ba9eb8-cdce-45fc-8d19-6069b24fd4b4.png",
+  "artwork": "Content/Artwork/sv-1407.png",
+  "sha256": "a681c2d961eb9b409d158779835534cbb6f45c637a1fd1f7fdf968338305fb30",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

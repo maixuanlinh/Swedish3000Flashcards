@@ -1,0 +1,19 @@
+{
+  "id": "sv-2845",
+  "english": "vaccine",
+  "swedish": "ett vaccin",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett vaccin\". Smaller English meaning verbatim: \"vaccine\".\nScene: An adult receiving a routine upper-arm vaccination from a healthcare professional in a clean clinic, calm expressions, gloved hands and small syringe, no logos, medical promises or text.\nMemory-link caption verbatim: \"vaccin resembles vaccine; picture preventive vaccination.\".\nSwedish example in bottom strip verbatim: \"Ett vaccin hjälper kroppen att skydda sig.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"A vaccine helps the body protect itself.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-dfe4ab74-dd6c-475e-9e64-3191b1420be0.png",
+  "artwork": "Content/Artwork/sv-2845.png",
+  "sha256": "fd8269ac69b10d4eb88c8d7ed399483cb6cce2f74ed5d3888595b8c1b6832bab",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2925",
+  "english": "where",
+  "swedish": "var",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"var\". Smaller English meaning verbatim: \"where\".\nScene: An adult traveler asking a passerby for directions, a simple map held between them with a train pictogram and a question mark, no place names or street text.\nMemory-link caption verbatim: \"var = where for a location; picture asking for a place.\".\nSwedish example in bottom strip verbatim: \"Var ligger stationen?\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-09fe90a1-122c-46e1-93d0-825be26b1de9.png",
+  "artwork": "Content/Artwork/sv-2925.png",
+  "sha256": "17599879a620860a2f764c9afde11ec5432c2bbebe31c76bb6c9cc951362a06b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

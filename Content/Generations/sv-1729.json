@@ -1,0 +1,19 @@
+{
+  "id": "sv-1729",
+  "english": "need",
+  "swedish": "behöva",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"behöva\". Smaller English meaning verbatim: \"need\".\nScene: A shivering traveler in a thin shirt looking toward a warm winter jacket offered by a friend, snowy outdoor doorway and visible cold breath make the need obvious.\nMemory-link caption verbatim: \"behöva = need; picture something you require.\".\nSwedish example in bottom strip verbatim: \"Jag behöver en varm jacka.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-17fbec2c-cd4c-449e-8332-b1ce4dfd366e.png",
+  "artwork": "Content/Artwork/sv-1729.png",
+  "sha256": "aec7d2b99e22c54345e7f769279f63a4dfe57b4add8fca33882a3b5f55c66938",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2665",
+  "english": "terrible",
+  "swedish": "hemsk",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"hemsk\". Smaller English meaning verbatim: \"terrible\".\nScene: A storm with heavy rain and bending trees viewed from a safe warm room, an adult looks concerned at the severe weather, no injuries, flooded homes or text.\nMemory-link caption verbatim: \"hemsk = terrible; very bad or frightening.\".\nSwedish example in bottom strip verbatim: \"Det var en hemsk storm.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"It was a terrible storm.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-e8e6b681-c338-46bd-9f13-b97b83fce90a.png",
+  "artwork": "Content/Artwork/sv-2665.png",
+  "sha256": "52fc378e8c50e4aa14b273e0ae1efd1865d92092091da178b30cbb8947d9d49c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

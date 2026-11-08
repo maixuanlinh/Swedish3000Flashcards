@@ -1,0 +1,19 @@
+{
+  "id": "sv-2286",
+  "english": "sale",
+  "swedish": "en försäljning",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en försäljning\". Smaller English meaning verbatim: \"sale\".\nScene: An adult bicycle shop owner completing a sale with a customer, bicycle between them and a generic payment terminal, small upward trend symbol, no prices or readable text.\nMemory-link caption verbatim: \"försäljning = sale or selling; exchanging goods for payment.\".\nSwedish example in bottom strip verbatim: \"Försäljningen av cyklar ökar.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-0eaa4c33-8dd4-4e17-9edd-59d293697fd0.png",
+  "artwork": "Content/Artwork/sv-2286.png",
+  "sha256": "c833935eb8c69da2db0a303061658d34a61f4585e85af2d8508b8c57eafde2aa",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

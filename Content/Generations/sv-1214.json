@@ -1,0 +1,18 @@
+{
+  "id": "sv-1214",
+  "english": "handle",
+  "swedish": "hantera",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"hantera\". Smaller English meaning verbatim: \"handle\".\nScene: A trained operator calmly using the controls of a new machine in a tidy workshop.\nMemory-link caption verbatim: \"hantera resembles handle; picture confident control.\".\nSwedish example in bottom strip verbatim: \"Hon kan hantera den nya maskinen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-665923df-c8a9-430a-adda-74856c102aa4.png",
+  "artwork": "Content/Artwork/sv-1214.png",
+  "sha256": "a252ef133bfbf6870eb3d6140227cf28f3f010acdef20d3eca42224ad926a1aa",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-1462",
+  "english": "kind (caring)",
+  "swedish": "snäll",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"snäll\". Smaller English meaning verbatim: \"kind (caring)\".\nScene: A woman kindly helping an older neighbour carry grocery bags up the steps to the neighbour's home.\nMemory-link caption verbatim: \"snäll = kind; picture thoughtful help for someone else.\".\nSwedish example in bottom strip verbatim: \"Hon är snäll mot sina grannar.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-d1ef67d2-ac91-4607-8556-4b5ac789e286.png",
+  "artwork": "Content/Artwork/sv-1462.png",
+  "sha256": "0e34840fcb8e99c672b54e755826c1b1ebd0a1f5173c73c2cf214f7ca5e83736",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-1672",
+  "english": "modern",
+  "swedish": "modern",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"modern\". Smaller English meaning verbatim: \"modern\".\nScene: A contemporary apartment with clean lines, current furnishings and large windows, people comfortably living in the space.\nMemory-link caption verbatim: \"modern has the same spelling in both languages.\".\nSwedish example in bottom strip verbatim: \"De bor i en modern lägenhet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-01cd59dc-51e4-433d-b7c2-4148788ee74c.png",
+  "artwork": "Content/Artwork/sv-1672.png",
+  "sha256": "64f83c2e80335b75e7e5e3d6627f2bf4888e8ef111eaa48e58e0a906d395a750",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

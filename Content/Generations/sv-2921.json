@@ -1,0 +1,19 @@
+{
+  "id": "sv-2921",
+  "english": "whatever",
+  "swedish": "vad som helst",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"vad som helst\". Smaller English meaning verbatim: \"whatever\".\nScene: An adult offering a box containing a ball, a book and a toy car to another adult choosing freely, open hand gesture and no restrictions or text.\nMemory-link caption verbatim: \"vad som helst = whatever; any choice is allowed.\".\nSwedish example in bottom strip verbatim: \"Du får välja vad som helst i lådan.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-60a05a22-6e1b-4df0-82f2-96ac330f866f.png",
+  "artwork": "Content/Artwork/sv-2921.png",
+  "sha256": "0414ac1ec5af8943a5368ad701b27ae9496a3a0883e7837c55bae96f4d62007c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

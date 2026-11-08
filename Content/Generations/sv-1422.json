@@ -1,0 +1,19 @@
+{
+  "id": "sv-1422",
+  "english": "iron",
+  "swedish": "järn",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"järn\". Smaller English meaning verbatim: \"iron\".\nScene: A close view of sturdy riveted iron beams in a bridge, with the bridge structure visible beyond.\nMemory-link caption verbatim: \"järn = iron; picture strong iron beams.\".\nSwedish example in bottom strip verbatim: \"Bron är byggd av järn.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-0bcdfe6b-eeb7-4b76-8c69-889aae64a433.png",
+  "artwork": "Content/Artwork/sv-1422.png",
+  "sha256": "1fe4b07cf6c784a06e90bae27e6e4e50a0a5496357fcde6a15dbfc9e3c413cfa",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

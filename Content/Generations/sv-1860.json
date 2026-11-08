@@ -1,0 +1,19 @@
+{
+  "id": "sv-1860",
+  "english": "pace",
+  "swedish": "en takt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en takt\". Smaller English meaning verbatim: \"pace\".\nScene: A woman walking briskly along a park path, feet clearly mid-stride, a slower strolling person far behind; subtle short motion lines show her quick pace.\nMemory-link caption verbatim: \"takt = pace in the sense of speed or rhythm.\".\nSwedish example in bottom strip verbatim: \"Hon går i snabb takt.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nPrecise correction to supplied image: the woman must be WALKING briskly, not running. Show her forward shoe planted flat on the ground carrying her weight and her rear foot toe touching the ground, straight leading knee, relaxed low arm swing. Neither foot airborne. Preserve every word, caption, colors, frame and background.",
+  "referenceImage": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-59dd61ea-8f05-4a05-8941-0211868ed0f8.png",
+  "styleReference": "Supplied image edited with the built-in image tool.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-04f00658-2c12-4fc8-92ef-cc3a6acb1a35.png",
+  "artwork": "Content/Artwork/sv-1860.png",
+  "sha256": "17b28aeeddcc432c5d24e3c88583f2f8784fd6c7f60786e3e61bbf8e43d043ee",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

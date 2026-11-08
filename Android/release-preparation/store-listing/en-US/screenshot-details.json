@@ -1,0 +1,34 @@
+{
+  "01-study-answer.jpg": {
+    "altText": "Swedish flashcard with an illustration, pronunciation, example sentence and English translation.",
+    "containsAIGeneratedArtwork": true
+  },
+  "02-topic-library.jpg": {
+    "altText": "Browse vocabulary in nine everyday topics with shared learning progress.",
+    "containsAIGeneratedArtwork": false
+  },
+  "03-inline-topic-filters.jpg": {
+    "altText": "Select topics directly in Filters and combine them with learning status and English letters.",
+    "containsAIGeneratedArtwork": false
+  },
+  "04-word-groups.jpg": {
+    "altText": "Seven focused word groups for verbs, adjectives, adverbs and everyday vocabulary.",
+    "containsAIGeneratedArtwork": false
+  },
+  "05-progress-learning.jpg": {
+    "altText": "Resume a saved study session and practise currently learning words.",
+    "containsAIGeneratedArtwork": false
+  },
+  "06-settings.jpg": {
+    "altText": "Settings with membership, offline downloads and Premium word reminders.",
+    "containsAIGeneratedArtwork": false
+  },
+  "07-offline-free-lessons.jpg": {
+    "altText": "Download the Free A-set lessons for offline study, with pause and continue controls.",
+    "containsAIGeneratedArtwork": false
+  },
+  "08-premium-reminders.jpg": {
+    "altText": "Premium word reminders every 30 minutes, with sleep and wake times.",
+    "containsAIGeneratedArtwork": false
+  }
+}

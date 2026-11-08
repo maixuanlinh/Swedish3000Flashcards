@@ -1,0 +1,19 @@
+{
+  "id": "sv-2410",
+  "english": "silly",
+  "swedish": "fånig",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"fånig\". Smaller English meaning verbatim: \"silly\".\nScene: Adult man making a harmless comical cross-eyed expression with puffed cheeks, friend laughs naturally, no humiliation.\nMemory-link caption verbatim: \"fånig = silly; playfully foolish here.\".\nSwedish example in bottom strip verbatim: \"Han gör en fånig min.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-404eb6e4-aef2-4645-a839-d99ad21b3cbf.png",
+  "artwork": "Content/Artwork/sv-2410.png",
+  "sha256": "ddedf8c3e555927749cafb22297a09eb634f0e60d85ecf24f5fe37f2998fce2f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

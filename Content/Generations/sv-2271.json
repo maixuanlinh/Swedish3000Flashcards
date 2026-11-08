@@ -1,0 +1,19 @@
+{
+  "id": "sv-2271",
+  "english": "rule",
+  "swedish": "en regel",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en regel\". Smaller English meaning verbatim: \"rule\".\nScene: Adults waiting patiently in one orderly queue at a service counter, a simple queue pictogram nearby, no extra readable text.\nMemory-link caption verbatim: \"regel = rule; an instruction everyone follows.\".\nSwedish example in bottom strip verbatim: \"Regeln säger att vi ska vänta på vår tur.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-f640f9f7-6fe4-47b9-a092-1f33f68aadc8.png",
+  "artwork": "Content/Artwork/sv-2271.png",
+  "sha256": "752f5c8358d8184768189a503d92a9d993eb991c441e60ee9d71488bed4c59f0",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

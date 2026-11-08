@@ -1,0 +1,19 @@
+{
+  "id": "sv-2435",
+  "english": "skill",
+  "swedish": "en färdighet",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en färdighet\". Smaller English meaning verbatim: \"skill\".\nScene: Adult cook neatly folds filled dumplings with practiced hands, completed uniform dumplings visible, no risky knife use.\nMemory-link caption verbatim: \"färdighet = skill; an ability learned through practice.\".\nSwedish example in bottom strip verbatim: \"Att laga mat är en användbar färdighet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-9062a49f-0799-4367-96d1-3d62deffc797.png",
+  "artwork": "Content/Artwork/sv-2435.png",
+  "sha256": "ede5b2c258eb310794582a34b5c02fc5a5d757b4efa33c42334bad50bede8c51",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2564",
+  "english": "strike",
+  "swedish": "en strejk",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en strejk\". Smaller English meaning verbatim: \"strike\".\nScene: Peaceful adult workers gather outside closed workplace holding blank placards, no political slogans or real-company branding, no confrontation.\nMemory-link caption verbatim: \"strejk = strike here; stopping work together in protest.\".\nSwedish example in bottom strip verbatim: \"Arbetarna går ut i strejk.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-d3582699-6152-44c8-8f34-6e82220eb4c4.png",
+  "artwork": "Content/Artwork/sv-2564.png",
+  "sha256": "0ac0364170e082813e24c228fce02d318fbb719846c232c327e4fded74fa001b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

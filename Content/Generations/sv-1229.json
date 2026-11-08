@@ -1,0 +1,18 @@
+{
+  "id": "sv-1229",
+  "english": "head",
+  "swedish": "ett huvud",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett huvud\". Smaller English meaning verbatim: \"head\".\nScene: A woman gently shaking her head, subtle side-to-side motion arrows around her head.\nMemory-link caption verbatim: \"huvud = head; picture the head turning side to side.\".\nSwedish example in bottom strip verbatim: \"Hon skakade på huvudet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-ab6ec368-e770-4f76-b083-e1b8f100146e.png",
+  "artwork": "Content/Artwork/sv-1229.png",
+  "sha256": "ea9ca261582ff079de46f30d972cd63185e2d987626e695f32c1fa99381057ba",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

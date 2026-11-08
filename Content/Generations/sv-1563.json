@@ -1,0 +1,19 @@
+{
+  "id": "sv-1563",
+  "english": "loose",
+  "swedish": "lös",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"lös\". Smaller English meaning verbatim: \"loose\".\nScene: A close view of a screw sticking partly out of a wooden hinge with a visible gap under its head, small wobble lines showing it is not tight.\nMemory-link caption verbatim: \"lös = loose; picture something not firmly fixed.\".\nSwedish example in bottom strip verbatim: \"Skruven är lös.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-95077150-3920-4631-abe5-bbf6bd32dae7.png",
+  "artwork": "Content/Artwork/sv-1563.png",
+  "sha256": "1dfcd90278a61a1715a6ea9b0ad15dc93c861f5f5dac44a8566f8cef18631158",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

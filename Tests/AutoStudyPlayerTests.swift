@@ -4,8 +4,8 @@ import XCTest
 @MainActor
 final class AutoStudyPlayerTests: XCTestCase {
     private let cards = [
-        AutoStudyItem(id: "one", prompt: "key", promptLanguage: "en-GB", answer: "en nyckel", answerLanguage: "sv-SE", sentence: "Nyckeln är i fickan."),
-        AutoStudyItem(id: "two", prompt: "book", promptLanguage: "en-GB", answer: "en bok", answerLanguage: "sv-SE", sentence: "Boken är intressant.")
+        AutoStudyItem(id: "one", prompt: "key", promptLanguage: "en-US", answer: "en nyckel", answerLanguage: "sv-SE", sentence: "Nyckeln är i fickan."),
+        AutoStudyItem(id: "two", prompt: "book", promptLanguage: "en-US", answer: "en bok", answerLanguage: "sv-SE", sentence: "Boken är intressant.")
     ]
     private func eventually(_ condition: () -> Bool, file: StaticString = #filePath, line: UInt = #line) async throws {
         for _ in 0..<200 {
@@ -64,11 +64,11 @@ final class AutoStudyPlayerTests: XCTestCase {
     func testReversePromptAndSentenceUseTheirOwnLanguagesInOrder() async throws {
         let speech = TestStudySpeech()
         let player = AutoStudyPlayer(speech: speech, wait: { _ in try Task.checkCancellation() })
-        let reverse = AutoStudyItem(id: "reverse", prompt: "en nyckel", promptLanguage: "sv-SE", answer: "key", answerLanguage: "en-GB", sentence: "Nyckeln är i fickan.")
+        let reverse = AutoStudyItem(id: "reverse", prompt: "en nyckel", promptLanguage: "sv-SE", answer: "key", answerLanguage: "en-US", sentence: "Nyckeln är i fickan.")
         player.start([reverse], settings: AutoStudySettings(speechRate: 0.32))
         try await eventually { player.state == .finished }
         XCTAssertEqual(speech.requests.map(\.text), ["en nyckel", "key", "Nyckeln är i fickan."])
-        XCTAssertEqual(speech.requests.map(\.language), ["sv-SE", "en-GB", "sv-SE"])
+        XCTAssertEqual(speech.requests.map(\.language), ["sv-SE", "en-US", "sv-SE"])
         XCTAssertTrue(speech.requests.allSatisfy { $0.rate == 0.32 })
     }
     func testStartingANewPlaylistCancelsTheOldRecallTimer() async throws {
@@ -105,7 +105,7 @@ private final class TestStudySpeech: StudySpeech {
     func speakAndWait(_ text: String, language: String, rate: Float) async throws {
         try Task.checkCancellation()
         requests.append(Request(text: text, language: language, rate: rate))
-        if fail { throw SpeechPlayer.SpeechError.missingVoice }
+        if fail { throw SpeechPlayer.SpeechError.unavailable }
         if block { try await withCheckedThrowingContinuation { pending = $0 } }
         try Task.checkCancellation()
     }

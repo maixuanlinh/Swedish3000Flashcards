@@ -1,0 +1,19 @@
+{
+  "id": "sv-2667",
+  "english": "text",
+  "swedish": "en text",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en text\". Smaller English meaning verbatim: \"text\".\nScene: An adult reading a short page displaying exactly “Hej! Jag heter Anna.” in two clear lines, no other legible text or names beyond the supplied sentence.\nMemory-link caption verbatim: \"text = text; written language on a page.\".\nSwedish example in bottom strip verbatim: \"Jag läser en kort text på svenska.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"I am reading a short text in Swedish.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-df3423e3-06da-4423-83bd-bcba60ed1bb6.png",
+  "artwork": "Content/Artwork/sv-2667.png",
+  "sha256": "a2c39a2e80e0f2423e98d6ad6afd074b81ef3887c2cea47306195507f4069d8f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2255",
+  "english": "role",
+  "swedish": "en roll",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en roll\". Smaller English meaning verbatim: \"role\".\nScene: An adult team captain coordinating teammates before a match, captain's plain armband and teammates listening, no readable logos or tactical text.\nMemory-link caption verbatim: \"roll = role; your part or function.\".\nSwedish example in bottom strip verbatim: \"Hon spelar en viktig roll i laget.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-924e99fe-643a-4810-a5de-a83a364b6a0a.png",
+  "artwork": "Content/Artwork/sv-2255.png",
+  "sha256": "4f5da4129f91a6609fb58025f3c3885c05c8913b476504232a570c04f2e76515",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

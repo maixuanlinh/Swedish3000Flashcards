@@ -3,16 +3,20 @@
   "english": "date",
   "swedish": "ett datum",
   "generationMode": "built-in",
-  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett datum\". Smaller English meaning verbatim: \"date\".\nScene: Adult circles meeting date on desk calendar.\nMemory-link caption verbatim: \"datum = calendar date.\".\nSwedish example in bottom strip verbatim: \"Vilket datum är mötet?\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nAttached image is STYLE/LAYOUT reference only. Use new scene and exact supplied teaching text. Cream/gold heading, navy type, gold memory caption, pale blue example strip, warm editorial photo. Accurate Swedish å ä ö. Text fully inside margins. One square image.",
-  "referenceImage": "Content/Artwork/sv-0001.png",
-  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-10b66081-6c0f-4eba-b8e1-3671f22770a1.png",
-  "artwork": "Content/Artwork/sv-0666.png",
-  "sha256": "9e4f3dc2d308647c3b1e986bf8ec9a4007482657a36daaa9aada10eabedb1e44",
+  "prompt": "Edit this vocabulary flashcard only to fix the calendar scene. Preserve its existing cream/gold/navy style and all four teaching texts exactly: heading \"ett datum\"; English meaning \"date\"; memory caption \"datum = calendar date.\"; bottom example \"Vilket datum är mötet?\". Replace the incorrect monthly grid with a simple desk calendar showing a SINGLE page with the large date \"16\" and lowercase month \"april\". No monthly grid or other numbers. An adult hand with a red pen circles the date 16, suggesting a meeting date. Preserve warm realistic desk scene, integrated caption panels, legible text, square fully opaque format. Do not recolour the card to match an app theme.",
+  "referenceImage": "Content/Artwork/sv-0666.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ec790eef-8b18-4825-b80c-a045774959e0.png",
+  "artwork": "Content/Artwork/Revisions/sv-0666-qa01.png",
+  "sha256": "4f0923969e67a5df6c8c5b0b4f10cfafad8ede7911373ba6bb5c3b4723bcc8ea",
   "review": {
     "heading": true,
     "englishMeaning": true,
     "swedishExample": true,
     "memoryCaption": true,
+    "scene": true,
     "status": "visually-reviewed"
-  }
+  },
+  "correctionReason": "Original calendar skips 5 and duplicates 6; use a single date page to avoid an incorrect number grid.",
+  "originalProvenance": "Verification/QualityAudit/original-generations/sv-0666.json",
+  "reviewScope": "AI visual review; independent Swedish proofreader sign-off pending."
 }

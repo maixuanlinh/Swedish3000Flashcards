@@ -1,0 +1,19 @@
+{
+  "id": "sv-2063",
+  "english": "profit",
+  "swedish": "en vinst",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en vinst\". Smaller English meaning verbatim: \"profit\".\nScene: A shop owner comparing a taller income bar with a shorter costs bar and a highlighted remaining stack of coins, simple plus symbol, no unreadable financial figures.\nMemory-link caption verbatim: \"vinst = profit when income exceeds costs.\".\nSwedish example in bottom strip verbatim: \"Butiken gjorde en vinst i år.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nPrecise correction: replace the PLUS sign between INCOME and COSTS with a MINUS sign (one horizontal stroke). Insert an equals sign between COSTS and the gold profit coins so the picture reads INCOME − COSTS = profit. Preserve all vocabulary text and other elements.",
+  "referenceImage": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-5991137b-e149-4994-bcf3-e11306a9e498.png",
+  "styleReference": "Supplied image edited with the built-in image tool.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-199bc0b4-8c53-4757-9118-ee5752b166cd.png",
+  "artwork": "Content/Artwork/sv-2063.png",
+  "sha256": "ab643112e8c9883018c0ddf6241b86100ecbba57d7d6eceedbb88cc9f951149f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

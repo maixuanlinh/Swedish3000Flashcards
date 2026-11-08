@@ -1,0 +1,19 @@
+{
+  "id": "sv-2225",
+  "english": "responsibility",
+  "swedish": "ett ansvar",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett ansvar\". Smaller English meaning verbatim: \"responsibility\".\nScene: An adult carefully watering several houseplants, a small task card with plant and watering-can icons checked, no extra readable words.\nMemory-link caption verbatim: \"ansvar = responsibility; a duty that is yours.\".\nSwedish example in bottom strip verbatim: \"Det är mitt ansvar att vattna växterna.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-95f334dc-cb55-4ce3-a42d-059df46437a3.png",
+  "artwork": "Content/Artwork/sv-2225.png",
+  "sha256": "74e0a2be358074e715947928b821636a857a76f5cfbda0af8b923fea02358fb1",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

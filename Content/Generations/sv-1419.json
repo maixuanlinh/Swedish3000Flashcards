@@ -1,0 +1,19 @@
+{
+  "id": "sv-1419",
+  "english": "invite",
+  "swedish": "bjuda in",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"bjuda in\". Smaller English meaning verbatim: \"invite\".\nScene: A couple at their doorway warmly inviting their neighbours to a gathering inside.\nMemory-link caption verbatim: \"bjuda in = invite; picture welcoming someone to join.\".\nSwedish example in bottom strip verbatim: \"Vi vill bjuda in våra grannar.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-d5b9ae2f-a1cb-4ebd-967c-e0b544c8149d.png",
+  "artwork": "Content/Artwork/sv-1419.png",
+  "sha256": "33dd3ec2c36f942e2b7b63fb60b4779a9386e8471e47b404a92f674e561d2987",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

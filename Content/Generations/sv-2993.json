@@ -1,0 +1,19 @@
+{
+  "id": "sv-2993",
+  "english": "you",
+  "swedish": "du",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"du\". Smaller English meaning verbatim: \"you\".\nScene: Two adults seated side by side on a park bench, viewpoint just behind one person's shoulder as they gesture toward the friend beside them, a single subtle gold arrow toward the addressed friend, no text bubbles.\nMemory-link caption verbatim: \"du = you when speaking to one person.\".\nSwedish example in bottom strip verbatim: \"Du sitter bredvid mig.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-da0ad489-7b47-43a1-92a2-5fbdbac5ab81.png",
+  "artwork": "Content/Artwork/sv-2993.png",
+  "sha256": "b4f020331b51487803e41670dad275f6692feee760a04d70ba46cf3d0263cb64",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

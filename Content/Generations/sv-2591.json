@@ -1,0 +1,19 @@
+{
+  "id": "sv-2591",
+  "english": "suit",
+  "swedish": "en kostym",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en kostym\". Smaller English meaning verbatim: \"suit\".\nScene: Adult man wears matching navy suit jacket and trousers in office, both pieces clearly same fabric, no brand logos.\nMemory-link caption verbatim: \"kostym = suit; matching jacket and trousers.\".\nSwedish example in bottom strip verbatim: \"Han bär kostym på jobbet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-f51574c1-02b3-4381-9cc4-9b7d6af99987.png",
+  "artwork": "Content/Artwork/sv-2591.png",
+  "sha256": "9585bde9d67cfb39888079c6ef3b6674aa8c3bab05c4f15c8073e0fe54bd8460",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

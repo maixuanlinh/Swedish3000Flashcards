@@ -34,6 +34,8 @@ import java.time.Instant
 import java.time.ZoneId
 import java.time.format.DateTimeFormatter
 
+private const val Privacy="https://yki.essaykingapp.com/swedish3000/privacy.html"
+private const val SupportURL="https://yki.essaykingapp.com/swedish3000/support.html"
 private fun openURL(context: Context,url: String) { runCatching { context.startActivity(Intent(Intent.ACTION_VIEW,Uri.parse(url))) } }
 private tailrec fun Context.activity(): Activity?=when(this) { is Activity -> this;is ContextWrapper -> baseContext.activity();else -> null }
 @Composable internal fun Support(onClose: ()->Unit) {
@@ -42,44 +44,49 @@ private tailrec fun Context.activity(): Activity?=when(this) { is Activity -> th
         Column(Modifier.verticalScroll(rememberScrollState()).padding(20.dp),verticalArrangement=Arrangement.spacedBy(20.dp)) {
             SectionCard {
                 Eyebrow("Help")
-                Text("Swedish support pages are being prepared.")
+                TextButton(onClick={ openURL(context,SupportURL) }) { Text("Support and frequently asked questions") }
                 TextButton(onClick={ openURL(context,"mailto:support@essaykingapp.com?subject=3000%20Swedish%20Words%20support") }) { Text("Email support") }
                 Text("support@essaykingapp.com",fontSize=12.sp,color=Muted)
             }
             SectionCard {
                 Eyebrow("Privacy")
-                Text("Swedish privacy policy will be available before release.")
+                TextButton(onClick={ openURL(context,Privacy) }) { Text("Privacy policy") }
                 Text("Study progress and imported artwork are stored in this app on your device. Restoring Premium restores purchase access, not your learning history.",fontSize=14.sp,color=Muted)
+                Text("Lesson images and audio load from our hosting when needed. Offline downloads stay on this phone. Your learning history and personal artwork are not uploaded when lessons load.",fontSize=14.sp,color=Muted)
+            }
+            SectionCard {
+                Eyebrow("Pronunciation")
+                Text("Swedish and English use prepared computer-generated recordings. No speech voice installation is needed. If a pronunciation sounds wrong, please email the word and sentence to support.",fontSize=14.sp,color=Muted)
             }
             SectionCard {
                 Eyebrow("About 3000 Swedish Words")
-                Text("An independent Swedish vocabulary learning app from Linapps. Not affiliated with an official examination provider.",fontSize=14.sp,color=Muted)
+                Text("An independent Swedish vocabulary learning app from Linapps.",fontSize=14.sp,color=Muted)
                 Text("Version ${BuildConfig.VERSION_NAME} (${BuildConfig.VERSION_CODE})",fontSize=12.sp,color=Muted)
             }
         }
     }
 }
 @Composable internal fun Premium(s: StudyUiState,vm: StudyViewModel,onClose: ()->Unit) {
-    val context=LocalContext.current;val billing=LocalApp.current.entitlements as PlayEntitlementRepository
-    val price by billing.price.collectAsStateWithLifecycle();val message by billing.message.collectAsStateWithLifecycle();val busy by billing.busy.collectAsStateWithLifecycle()
+    val context=LocalContext.current;val billing=LocalApp.current.entitlements as? PlayEntitlementRepository
+    val price=billing?.price?.collectAsStateWithLifecycle()?.value;val message=billing?.message?.collectAsStateWithLifecycle()?.value;val busy=billing?.busy?.collectAsStateWithLifecycle()?.value ?: false
     Panel("Premium",onClose) {
         Column(Modifier.weight(1f).verticalScroll(rememberScrollState()).padding(24.dp),verticalArrangement=Arrangement.spacedBy(22.dp)) {
             Text(if(s.access==Entitlement.COMPLETE) "Your complete Swedish collection" else "Remember Swedish with the full picture",fontFamily=FontFamily.Serif,fontSize=31.sp,fontWeight=FontWeight.Medium)
-            Text("The Swedish collection is in development. Store purchases are not configured yet.",color=Muted)
+            Text("One purchase. All 3,000 complete lessons. No subscription or ads.",color=Muted)
             s.words.firstOrNull { it.english=="apple" }?.let { Artwork(it,Modifier.fillMaxWidth().height(210.dp)) }
-            PremiumFeature("photo","A memory cue for every word","Swedish illustrations and memory links are being added.")
+            PremiumFeature("photo","A memory cue for every word","All 3,000 illustrations and English–Swedish memory links.")
             PremiumFeature("words","Examples you understand","Every Swedish example, English translation, and sentence pronunciation.")
             PremiumFeature("play","Study without tapping","Automatic playback for any letter or word selection.")
-            Text("The current draft includes 211 A-set word pairs and examples. Artwork is in progress. The planned collection contains 3,000 words.",fontSize=14.sp,color=Muted)
+            Text("The 211-word A set includes complete illustrated lessons for free. Basic cards, word pronunciation and learning progress stay free across all 3,000 words. Premium also includes word reminders.",fontSize=14.sp,color=Muted)
             Text("Restore on Android using the same purchasing Google Account. Apple purchases are separate. Learning progress stays on this device and isn’t restored with the purchase.",fontSize=12.sp,color=Muted)
-            Text("Swedish privacy policy will be available before release.",fontSize=12.sp,color=Muted)
+            TextButton(onClick={ openURL(context,Privacy) }) { Text("Privacy policy") }
             message?.let { Text(it,fontSize=14.sp,color=Forest) }
-            if(!billing.configured) Text("Purchases are not available in this installation. Explore every feature with the free A set.",fontSize=14.sp,color=Muted)
+            if(billing?.configured!=true) Text("Purchases are not available in this installation. Explore all 211 complete A-set lessons for free.",fontSize=14.sp,color=Muted)
         }
         Column(Modifier.padding(16.dp),verticalArrangement=Arrangement.spacedBy(8.dp)) {
             if(s.access==Entitlement.COMPLETE) FilledAction("Premium is unlocked",onClose)
-            else if(price!=null) FilledAction("Unlock Premium · $price",{ context.activity()?.let(billing::purchase) },enabled=!busy)
-            TextButton(onClick=billing::restore,enabled=!busy,modifier=Modifier.fillMaxWidth()) { Text(if(busy) "Checking purchases…" else "Restore Purchases") }
+            else if(price!=null) FilledAction("Unlock Premium · $price",{ context.activity()?.let {billing?.purchase(it)} },enabled=!busy)
+            TextButton(onClick={billing?.restore()},enabled=!busy && billing!=null,modifier=Modifier.fillMaxWidth()) { Text(if(busy) "Checking purchases…" else "Restore Purchases") }
             TextButton(onClick={ vm.previewA();onClose() },modifier=Modifier.fillMaxWidth()) { Text("Try the complete A set free") }
         }
     }
@@ -88,86 +95,79 @@ private tailrec fun Context.activity(): Activity?=when(this) { is Activity -> th
     Row(horizontalArrangement=Arrangement.spacedBy(14.dp)) { Symbol(icon,Modifier.size(40.dp).background(Sage,RoundedCornerShape(12.dp)).padding(8.dp));Column(verticalArrangement=Arrangement.spacedBy(5.dp)) { Text(title,fontWeight=FontWeight.SemiBold);Text(body,fontSize=14.sp,color=Muted) } }
 }
 @Composable internal fun ReminderOptions(s: StudyUiState,vm: StudyViewModel,onClose: ()->Unit) {
+    if(s.access!=Entitlement.COMPLETE) { LaunchedEffect(Unit) {onClose();vm.premium(true)};return }
     val app=LocalApp.current;val context=LocalContext.current;val scope=rememberCoroutineScope()
-    var draft by remember { mutableStateOf(app.reminders.settings) };var busy by remember { mutableStateOf(false) };var message by remember { mutableStateOf<String?>(null) }
-    var frequency by remember { mutableIntStateOf(when(draft.times) { listOf(540)->1;listOf(540,1020)->2;listOf(540,780,1020,1260)->4;else->0 }) }
-    val words=remember(draft,s.words,s.ratings) { ReminderPlan.eligible(s.words,s.ratings,draft) }
-    fun save() { scope.launch {
-        busy=true
-        try { if(app.reminders.save(draft,s.access)) onClose() else message="Notifications are disabled. Allow them in Android settings, then save again." }
-        catch(e: Exception) { if(e is CancellationException) throw e;message=e.message }
-        finally { busy=false }
-    } }
-    var permissionAction by remember { mutableStateOf("save") }
-    fun sample() {
-        message="Sample scheduled in 5 seconds."
-        app.background.launch { runCatching { app.reminders.sample(draft,s.access) }.onFailure { withContext(Dispatchers.Main) { message=it.message } } }
-    }
-    val permission=rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { granted -> if(granted) { if(permissionAction=="save") save() else sample() } else message="Notifications were not allowed. You can enable them in Android settings." }
-    fun authorize(action: String) {
-        if(Build.VERSION.SDK_INT>=33 && !app.reminders.allowed()) { permissionAction=action;permission.launch(Manifest.permission.POST_NOTIFICATIONS) }
-        else if(action=="save") save() else sample()
-    }
+    var draft by remember { mutableStateOf(app.reminders.settings) }
+    var busy by remember {mutableStateOf(false)};var message by remember {mutableStateOf<String?>(null)}
+    val words=remember(draft,s.words,s.ratings) {ReminderPlan.eligible(s.words,s.ratings,draft)}
+    fun save() {scope.launch {busy=true;try {if(app.reminders.save(draft,s.access)) onClose() else message="Notifications are disabled. Allow them in Android settings, then save again."} catch(e:Exception) {if(e is CancellationException) throw e;message=e.message} finally {busy=false}}}
+    fun sample() {message="Sample scheduled in 5 seconds.";app.background.launch {runCatching {app.reminders.sample(draft,s.access)}.onFailure {withContext(Dispatchers.Main) {message=it.message}}}}
+    var permissionAction by remember {mutableStateOf("save")}
+    val permission=rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) {granted -> if(granted) {if(permissionAction=="save") save() else sample()} else message="Notifications were not allowed. You can enable them in Android settings."}
+    fun authorize(action:String) {if(Build.VERSION.SDK_INT>=33 && !app.reminders.allowed()) {permissionAction=action;permission.launch(Manifest.permission.POST_NOTIFICATIONS)} else if(action=="save") save() else sample()}
     Panel("Word reminders",onClose) {
         Column(Modifier.weight(1f).verticalScroll(rememberScrollState()).padding(20.dp),verticalArrangement=Arrangement.spacedBy(20.dp)) {
             SectionCard {
-                Toggle("Word reminders",draft.enabled) { draft=draft.copy(enabled=it) }
+                Toggle("Word reminders",draft.enabled) {draft=draft.copy(enabled=it)}
                 Text("A little Swedish throughout your day. Works offline, even when 3000 Swedish Words is closed.",fontSize=12.sp,color=Muted)
-                if(!app.reminders.allowed()) TextButton(onClick={ context.startActivity(Intent(Settings.ACTION_APP_NOTIFICATION_SETTINGS).putExtra(Settings.EXTRA_APP_PACKAGE,context.packageName)) }) { Text("Open notification settings") }
+                if(!app.reminders.allowed()) TextButton(onClick={context.startActivity(Intent(Settings.ACTION_APP_NOTIFICATION_SETTINGS).putExtra(Settings.EXTRA_APP_PACKAGE,context.packageName))}) {Text("Open notification settings")}
             }
             SectionCard {
                 Eyebrow("Your schedule")
-                FlowRow(horizontalArrangement=Arrangement.spacedBy(6.dp)) { listOf(1 to "Once",2 to "Twice",4 to "Four times",0 to "Custom").forEach { (count,label) ->
-                    FilterChip(selected=frequency==count,onClick={ frequency=count;draft=draft.copy(times=when(count) { 1->listOf(540);2->listOf(540,1020);4->listOf(540,780,1020,1260);else->draft.times }) },label={ Text(label) })
-                } }
-                draft.times.forEachIndexed { index,minute ->
-                    Row(verticalAlignment=Alignment.CenterVertically) {
+                var frequencies by remember {mutableStateOf(false)}
+                Box {TextButton(onClick={frequencies=true},modifier=Modifier.testTag("reminders.frequency")) {Text(draft.frequency.title)};DropdownMenu(frequencies,{frequencies=false}) {ReminderFrequency.entries.forEach {frequency -> DropdownMenuItem(text={Text(frequency.title)},onClick={draft=draft.copy(frequency=frequency,times=frequency.presetTimes ?: draft.times);frequencies=false})}} }
+                if(draft.frequency.interval==null) {
+                    draft.times.forEachIndexed {index,minute -> Row(verticalAlignment=Alignment.CenterVertically) {
                         Text("Reminder ${index+1}",Modifier.weight(1f),fontSize=14.sp)
-                        TextButton(onClick={ TimePickerDialog(context,{ _,hour,min -> draft=draft.copy(times=draft.times.toMutableList().also { it[index]=hour*60+min });frequency=0 },minute/60,minute%60,android.text.format.DateFormat.is24HourFormat(context)).show() }) { Text("%02d:%02d".format(minute/60,minute%60)) }
-                        if(draft.times.size>1) IconAction("close","Remove reminder ${index+1}",{ draft=draft.copy(times=draft.times.filterIndexed { i,_ -> i!=index });frequency=0 })
-                    }
+                        ReminderTime(minute,"reminders.time.$index") {changed -> draft=draft.copy(frequency=ReminderFrequency.CUSTOM,times=draft.times.toMutableList().also {it[index]=changed})}
+                        if(draft.times.size>1) IconAction("close","Remove reminder ${index+1}",{draft=draft.copy(frequency=ReminderFrequency.CUSTOM,times=draft.times.filterIndexed {i,_ -> i!=index})})
+                    } }
                 }
-                if(draft.times.size<4) TextButton(onClick={ var minute=((draft.times.maxOrNull() ?: 300)+240)%1440;while(minute in draft.times) minute=(minute+60)%1440;draft=draft.copy(times=draft.times+minute);frequency=0 }) { Text("Add time") }
-                Text("Up to four reminders a day, at your local time.",fontSize=12.sp,color=Muted)
+                Text("${draft.dailyMinutes.size} reminders per day · repeats daily",fontSize=13.sp,color=Muted,modifier=Modifier.testTag("reminders.dailyCount"))
+                Text("Reminders repeat with no end date. Words reshuffle automatically.",fontSize=12.sp,color=Muted)
+                if(draft.frequency.interval==null && draft.times.size<48) TextButton(onClick={var minute=((draft.times.maxOrNull() ?: 300)+240)%1440;while(minute in draft.times) minute=(minute+30)%1440;draft=draft.copy(frequency=ReminderFrequency.CUSTOM,times=draft.times+minute)}) {Text("Add time")}
+            }
+            SectionCard {
+                Eyebrow("Sleep hours")
+                Toggle("Pause while sleeping",draft.sleepEnabled) {draft=draft.copy(sleepEnabled=it)}
+                if(draft.sleepEnabled) {
+                    Row(verticalAlignment=Alignment.CenterVertically) {Text("Sleep from",Modifier.weight(1f));ReminderTime(draft.sleepStart,"reminders.sleepStart") {draft=draft.copy(sleepStart=it)}}
+                    Row(verticalAlignment=Alignment.CenterVertically) {Text("Wake at",Modifier.weight(1f));ReminderTime(draft.sleepEnd,"reminders.sleepEnd") {draft=draft.copy(sleepEnd=it)}}
+                }
+                Text("No word reminders are sent during these hours. Times follow your device’s local time zone.",fontSize=12.sp,color=Muted)
             }
             SectionCard {
                 Eyebrow("Word selection")
-                ReminderPool.entries.forEach { pool -> FilterChip(selected=draft.pool==pool,onClick={ draft=draft.copy(pool=pool) },label={ Text(pool.title) }) }
-                var letters by remember { mutableStateOf(false) }
-                Box { TextButton(onClick={ letters=true }) { Text("Starting letter: ${draft.letter ?: "All letters"}") };DropdownMenu(letters,{ letters=false }) {
-                    DropdownMenuItem(text={ Text("All letters") },onClick={ draft=draft.copy(letter=null);letters=false })
-                    ('A'..'Z').forEach { char -> DropdownMenuItem(text={ Text(char.toString()) },onClick={ draft=draft.copy(letter=char.toString());letters=false }) }
-                } }
+                ReminderPool.entries.forEach {pool -> FilterChip(selected=draft.pool==pool,onClick={draft=draft.copy(pool=pool)},label={Text(pool.title)})}
+                var letters by remember {mutableStateOf(false)}
+                Box {TextButton(onClick={letters=true}) {Text("Starting letter: ${draft.letter ?: "All letters"}")};DropdownMenu(letters,{letters=false}) {
+                    DropdownMenuItem(text={Text("All letters")},onClick={draft=draft.copy(letter=null);letters=false})
+                    ('A'..'Z').forEach {char -> DropdownMenuItem(text={Text(char.toString())},onClick={draft=draft.copy(letter=char.toString());letters=false})}
+                }}
                 Text("${words.size} words · shuffled without immediate repeats",fontSize=12.sp,color=Muted)
             }
             SectionCard {
                 Eyebrow("Notification")
-                ReminderPrompt.entries.forEach { prompt -> FilterChip(selected=draft.prompt==prompt,onClick={ draft=draft.copy(prompt=prompt) },label={ Text(prompt.title) }) }
-                Toggle("Artwork thumbnail",draft.showArtwork) { draft=draft.copy(showArtwork=it) }
-                Toggle("Notification sound",draft.sound) { draft=draft.copy(sound=it) }
+                ReminderPrompt.entries.forEach {prompt -> FilterChip(selected=draft.prompt==prompt,onClick={draft=draft.copy(prompt=prompt)},label={Text(prompt.title)})}
+                Toggle("Artwork thumbnail",draft.showArtwork) {draft=draft.copy(showArtwork=it)}
+                Toggle("Notification sound",draft.sound) {draft=draft.copy(sound=it)}
                 Text("Artwork may include the answer. Turn it off for a recall challenge. Notifications use a short chime, not spoken audio.",fontSize=12.sp,color=Muted)
             }
-            if(s.access!=Entitlement.COMPLETE) SectionCard { TextButton(onClick={ vm.premium(true) }) { Text("Unlock artwork reminders for B–Z") };Text("Word reminders stay free for every letter. A-set reminders include artwork for free.",fontSize=12.sp,color=Muted) }
             SectionCard {
                 Eyebrow("Preview")
-                val word=words.firstOrNull { it.english=="apple" } ?: words.firstOrNull()
-                if(word!=null) {
-                    val text=ReminderPlan.text(word,draft.prompt)
-                    Row(horizontalArrangement=Arrangement.spacedBy(12.dp)) {
-                        Column(Modifier.weight(1f),verticalArrangement=Arrangement.spacedBy(6.dp)) { Text("3000 SWEDISH WORDS",fontSize=10.sp,color=Muted);Text(text.first,fontWeight=FontWeight.SemiBold);Text(text.second,fontSize=14.sp) }
-                        if(draft.showArtwork && AccessPolicy.hasLesson(word,s.access)) Artwork(word,Modifier.size(64.dp),thumbnail=true)
-                    }
-                } else Text("No words match. Try another group or letter.",color=Muted)
-                TextButton(onClick={ authorize("sample") },enabled=!busy && words.isNotEmpty()) { Text("Send sample in 5 seconds") }
+                val word=words.firstOrNull {it.english=="apple"} ?: words.firstOrNull()
+                if(word!=null) {val text=ReminderPlan.text(word,draft.prompt);Text(text.first,fontWeight=FontWeight.SemiBold);Text(text.second,fontSize=14.sp);if(draft.showArtwork) Artwork(word,Modifier.size(64.dp),thumbnail=true)}
+                else Text("No words match. Try another group or letter.",color=Muted)
+                TextButton(onClick={authorize("sample")},enabled=!busy && words.isNotEmpty()) {Text("Send sample in 5 seconds")}
             }
-            Text("We prepare the next 14 days of words and refresh them whenever you open 3000 Swedish Words. A final reminder invites you back to refill the schedule.",fontSize=12.sp,color=Muted)
             Text("Android may delay reminders to save battery. Your notification and Do Not Disturb settings control alerts. Opening a reminder never marks a word as Known.",fontSize=12.sp,color=Muted)
         }
-        Column(Modifier.padding(16.dp),verticalArrangement=Arrangement.spacedBy(8.dp)) {
-            message?.let { Text(it,color=Forest,fontSize=12.sp) }
-            FilledAction(if(busy) "Updating…" else "Save reminders",{ if(draft.enabled) authorize("save") else save() },enabled=!busy && (!draft.enabled || words.isNotEmpty()))
-        }
+        Column(Modifier.padding(16.dp)) {message?.let {Text(it,color=Forest,fontSize=12.sp)};FilledAction(if(busy) "Updating…" else "Save reminders",{if(draft.enabled) authorize("save") else save()},Modifier.testTag("reminders.save"),enabled=!busy && (!draft.enabled || words.isNotEmpty() && draft.dailyMinutes.isNotEmpty()))}
     }
+}
+@Composable private fun ReminderTime(minute:Int,tag:String,onChange:(Int)->Unit) {
+    val context=LocalContext.current
+    TextButton(onClick={TimePickerDialog(context,{_,hour,min -> onChange(hour*60+min)},minute/60,minute%60,android.text.format.DateFormat.is24HourFormat(context)).show()},modifier=Modifier.testTag(tag)) {Text("%02d:%02d".format(minute/60,minute%60))}
 }
 @Composable internal fun ArtworkEditor(word: Word,vm: StudyViewModel,onClose: ()->Unit,onChanged: ()->Unit,onPreview: ()->Unit) {
     val app=LocalApp.current;val context=LocalContext.current;val scope=rememberCoroutineScope()

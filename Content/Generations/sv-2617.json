@@ -1,0 +1,19 @@
+{
+  "id": "sv-2617",
+  "english": "swear",
+  "swedish": "svära",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"svära\". Smaller English meaning verbatim: \"swear\".\nScene: Adult drops hammer harmlessly onto floor away from feet and reacts with frustration, tiny speech bubble only typographic symbols, no actual profanity or injury.\nMemory-link caption verbatim: \"svära = swear here; use rude words in anger.\".\nSwedish example in bottom strip verbatim: \"Han svär när han tappar hammaren.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-19c57da2-ee8d-46a5-884b-a4060136ed99.png",
+  "artwork": "Content/Artwork/sv-2617.png",
+  "sha256": "be67e3102937cc69f1ba19312ae49b4b2b24788398d9aaae96e9392ea95cc580",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

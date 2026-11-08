@@ -1,0 +1,19 @@
+{
+  "id": "sv-2345",
+  "english": "sequence",
+  "swedish": "en följd",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en följd\". Smaller English meaning verbatim: \"sequence\".\nScene: Three coherent picture panels arranged left to right: seed, sprout, mature flowering plant; simple connecting arrows, no reversed growth stages or added words.\nMemory-link caption verbatim: \"följd = sequence; things in a particular order.\".\nSwedish example in bottom strip verbatim: \"Bilderna visas i rätt följd.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-3c0f80b5-997c-4e79-9e9a-f7e3ae906f38.png",
+  "artwork": "Content/Artwork/sv-2345.png",
+  "sha256": "75627d478a3b0bbcc860110fa85c5d538dc72d436d0cf5b08fa231e08250327a",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

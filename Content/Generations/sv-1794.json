@@ -1,0 +1,19 @@
+{
+  "id": "sv-1794",
+  "english": "of",
+  "swedish": "av",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"av\". Smaller English meaning verbatim: \"of\".\nScene: A finished wooden table beside an untreated plank with the same grain, a gentle arrow from plank to tabletop links the object with its material, wood texture central.\nMemory-link caption verbatim: \"av = of when saying what something is made of.\".\nSwedish example in bottom strip verbatim: \"Bordet är gjort av trä.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-bea1730b-48f0-41d5-b677-912b065c3056.png",
+  "artwork": "Content/Artwork/sv-1794.png",
+  "sha256": "cd6f86cff191bb8c34039847d025e1ea6aa6c5b6703b8d0e3daf5c0c2f0ed69b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

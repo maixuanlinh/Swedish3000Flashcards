@@ -1,0 +1,19 @@
+{
+  "id": "sv-2440",
+  "english": "sleep",
+  "swedish": "sova",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"sova\". Smaller English meaning verbatim: \"sleep\".\nScene: Adult woman peacefully asleep in bed with blanket to shoulders, warm bedside light, no wakeful eyes.\nMemory-link caption verbatim: \"sova = sleep; rest with your eyes closed.\".\nSwedish example in bottom strip verbatim: \"Hon sover gott.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ac757e50-b488-4b70-b043-e7b3e6db8b61.png",
+  "artwork": "Content/Artwork/sv-2440.png",
+  "sha256": "8dec31d8d5759105caa709ac7998d7e6823dfd1cc0e660872ad3fed6f94f5409",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

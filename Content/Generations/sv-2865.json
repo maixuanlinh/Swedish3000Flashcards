@@ -1,0 +1,19 @@
+{
+  "id": "sv-2865",
+  "english": "village",
+  "swedish": "en by",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en by\". Smaller English meaning verbatim: \"village\".\nScene: A small Swedish rural village with a handful of houses around a lane, fields and forest nearby, one adult walking home, clearly smaller than a city, no readable signs.\nMemory-link caption verbatim: \"by = village; a small group of homes.\".\nSwedish example in bottom strip verbatim: \"Min farbror bor i en liten by.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-23109e4d-b39b-4742-90a0-a9abe90b9f68.png",
+  "artwork": "Content/Artwork/sv-2865.png",
+  "sha256": "f443f0016c33efb3d3d1785bd6ffb8dcf8311bc7b07b38758df3c1ab9b53952c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

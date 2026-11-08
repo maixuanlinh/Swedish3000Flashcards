@@ -1,0 +1,19 @@
+{
+  "id": "sv-2220",
+  "english": "resort",
+  "swedish": "en semesteranläggning",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en semesteranläggning\". Smaller English meaning verbatim: \"resort\".\nScene: A welcoming holiday resort with small cabins, garden paths, swimming pool and relaxed adult guests, coherent layout, no readable brand signs.\nMemory-link caption verbatim: \"semesteranläggning = resort; a place built for holidays.\".\nSwedish example in bottom strip verbatim: \"Vi bor på en semesteranläggning.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-3faf8008-2259-4c2d-b4a4-9feb29ec4868.png",
+  "artwork": "Content/Artwork/sv-2220.png",
+  "sha256": "e4edbe94faa06afa8f2e979115d259ff1850bffb48bcffd79211838ba56da30c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -111,7 +111,7 @@ class ArtworkRepository(private val context: Context) {
     suspend fun export(word: Word): ByteArray = withContext(Dispatchers.IO) {
         val h=history(word.id)
         JSONObject().apply {
-            put("format","swedish-cards-artwork-v1");put("wordID",word.id);put("english",word.english);put("swedish",word.swedish);put("sentence",word.sentence)
+            put("format","sisu-cards-artwork-v1");put("wordID",word.id);put("english",word.english);put("swedish",word.swedish);put("sentence",word.sentence)
             put("prompts",JSONArray(h.prompts.map { p -> JSONObject().put("id",p.id).put("text",p.text).put("memoryHook",p.memoryHook).put("createdAt",p.createdAt) }))
             put("images",JSONArray(h.images.map { r -> JSONObject().apply {
                 put("id",r.id);put("createdAt",r.createdAt);put("prompt",r.prompt);put("memoryHook",r.memoryHook);put("source",r.source);put("isActive",r.active)
@@ -125,7 +125,7 @@ class ArtworkRepository(private val context: Context) {
     }
     suspend fun importPack(bytes: ByteArray, words: List<Word>): Pair<Int,Int> = withContext(Dispatchers.IO) {
         require(bytes.size<=150*1024*1024) { "Choose an artwork pack smaller than 150 MB." }
-        val pack=JSONObject(String(bytes));require(pack.optString("format")=="swedish-cards-artwork-pack-v1") { "Choose a prepared artwork pack." }
+        val pack=JSONObject(String(bytes));require(pack.optString("format")=="sisu-cards-artwork-pack-v1") { "Choose a prepared artwork pack." }
         val records=pack.getJSONArray("records");require(records.length() in 1..500) { "Packs must contain 1–500 words." }
         val byId=words.associateBy { it.id };val ids=mutableSetOf<String>();val assets=mutableSetOf<String>()
         // Validate every record before changing any active images. Decode one record at a time.

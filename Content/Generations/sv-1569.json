@@ -1,0 +1,19 @@
+{
+  "id": "sv-1569",
+  "english": "loud",
+  "swedish": "högljudd",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"högljudd\". Smaller English meaning verbatim: \"loud\".\nScene: Large speakers emitting bold sound-wave marks while a nearby listener covers their ears, no damage or distress beyond noisy discomfort.\nMemory-link caption verbatim: \"hög = high; ljud = sound. högljudd = loud.\".\nSwedish example in bottom strip verbatim: \"Musiken är högljudd.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-b18738aa-77b2-45ba-84fd-75b224039fd9.png",
+  "artwork": "Content/Artwork/sv-1569.png",
+  "sha256": "7e8f877ecdd9440a2e168cbe8d1010c06da3cab2e8f0c5cc65cd6736ed626513",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

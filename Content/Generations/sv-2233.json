@@ -1,0 +1,19 @@
+{
+  "id": "sv-2233",
+  "english": "retired",
+  "swedish": "pensionerad",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"pensionerad\". Smaller English meaning verbatim: \"retired\".\nScene: An older adult woman enjoying gardening at home, a framed classroom photo and closed teaching books visible through nearby doorway, no readable text.\nMemory-link caption verbatim: \"pensionerad = retired; no longer working in that job.\".\nSwedish example in bottom strip verbatim: \"Hon är pensionerad lärare.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ea4c21f6-ab73-46d8-9b74-010eabeaf8e7.png",
+  "artwork": "Content/Artwork/sv-2233.png",
+  "sha256": "b4992d48c113e24ea958741aa93c6099e6ca4a13e989964a1545ee3676631c7f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

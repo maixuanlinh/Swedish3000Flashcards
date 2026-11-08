@@ -1,0 +1,19 @@
+{
+  "id": "sv-1454",
+  "english": "key",
+  "swedish": "en nyckel",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en nyckel\". Smaller English meaning verbatim: \"key\".\nScene: A close view of a hand turning a brass key in a front-door lock.\nMemory-link caption verbatim: \"nyckel = key; picture the small object that opens a lock.\".\nSwedish example in bottom strip verbatim: \"Jag låser dörren med en nyckel.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-fcc17d57-1f5d-4365-8403-dd2241cde41f.png",
+  "artwork": "Content/Artwork/sv-1454.png",
+  "sha256": "288a01c6aabe234a37c212788ddac30d19f9045f84805f9143e156254240eb29",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

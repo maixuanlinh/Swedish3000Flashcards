@@ -1,0 +1,19 @@
+{
+  "id": "sv-1371",
+  "english": "initially",
+  "swedish": "inledningsvis",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"inledningsvis\". Smaller English meaning verbatim: \"initially\".\nScene: A workshop timeline beginning with small groups working separately before a later full-group discussion.\nMemory-link caption verbatim: \"inledningsvis = initially; picture the beginning.\".\nSwedish example in bottom strip verbatim: \"Inledningsvis arbetade vi i små grupper.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-85d08cb6-2b53-47aa-9f67-53319cbe4d37.png",
+  "artwork": "Content/Artwork/sv-1371.png",
+  "sha256": "24fc7f2e533c043366d6d705af7dbd6eaa97a4b7329c287344ae3a7f21d60767",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2407",
+  "english": "silence",
+  "swedish": "tystnad",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"tystnad\". Smaller English meaning verbatim: \"silence\".\nScene: Two adults peacefully sitting beside still forest lake, no talking, no sound effects, calm empty surroundings.\nMemory-link caption verbatim: \"tystnad = silence; the absence of sound.\".\nSwedish example in bottom strip verbatim: \"Vi njuter av tystnaden.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ae8f4964-a19d-4e06-8b66-3c6206b5d2ae.png",
+  "artwork": "Content/Artwork/sv-2407.png",
+  "sha256": "91bbdb67bf484cf8d7b37e06dddcb1c0cad127565600850126e1fd9f4951ea1e",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

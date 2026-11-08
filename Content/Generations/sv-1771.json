@@ -1,0 +1,19 @@
+{
+  "id": "sv-1771",
+  "english": "now",
+  "swedish": "nu",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"nu\". Smaller English meaning verbatim: \"now\".\nScene: Two friends at the door, one already stepping outside and pointing urgently at their wristwatch while the other picks up a bag, immediate action clear, no future calendar.\nMemory-link caption verbatim: \"nu = now; picture this very moment.\".\nSwedish example in bottom strip verbatim: \"Vi måste gå nu.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-b9bfdc0a-58f3-4b05-9bb1-70fcd4f11406.png",
+  "artwork": "Content/Artwork/sv-1771.png",
+  "sha256": "913b1a9211672df4eb59b179b68554bb8526d52e3ed49d14f91dde745975a2a7",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

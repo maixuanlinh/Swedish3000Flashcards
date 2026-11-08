@@ -1,0 +1,19 @@
+{
+  "id": "sv-2193",
+  "english": "remember",
+  "swedish": "komma ihåg",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"komma ihåg\". Smaller English meaning verbatim: \"remember\".\nScene: Two adults meeting again, one recognising the other with a warm smile, subtle thought bubble containing the same friend's portrait, no invented names.\nMemory-link caption verbatim: \"komma ihåg = remember; keep something in your memory.\".\nSwedish example in bottom strip verbatim: \"Jag kommer ihåg ditt namn.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-d86c8ff6-b080-4ee2-bfd1-66523d970476.png",
+  "artwork": "Content/Artwork/sv-2193.png",
+  "sha256": "2df1193a6fb8a6e9ee687bd52be0ecbb0331328f5e2dbbeea02273e4a827cd23",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

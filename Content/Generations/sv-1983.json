@@ -1,0 +1,19 @@
+{
+  "id": "sv-1983",
+  "english": "pool",
+  "swedish": "en pool",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en pool\". Smaller English meaning verbatim: \"pool\".\nScene: A bright outdoor swimming pool with two adults swimming calmly, blue water and clear pool edges, no billiards equipment.\nMemory-link caption verbatim: \"pool has the same spelling; here it is a swimming pool.\".\nSwedish example in bottom strip verbatim: \"Vi simmar i en pool.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-a5316cfb-7794-4fe2-8af8-87d7829d6dc9.png",
+  "artwork": "Content/Artwork/sv-1983.png",
+  "sha256": "9c8fd579c75b8eb19537c8476c158557e330e1fe2e49511da56a189b2232a84b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

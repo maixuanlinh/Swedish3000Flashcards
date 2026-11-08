@@ -1,0 +1,19 @@
+{
+  "id": "sv-2919",
+  "english": "wet",
+  "swedish": "våt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"våt\". Smaller English meaning verbatim: \"wet\".\nScene: An adult holding a rain-soaked jacket above a porch mat, visible drops falling from the hem and dark wet patches on fabric, rain outside, no text.\nMemory-link caption verbatim: \"våt = wet; picture rainwater soaking a jacket.\".\nSwedish example in bottom strip verbatim: \"Jackan är våt efter regnet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-3c1fd9d0-2efb-4f5a-98d7-ec80bb9db3f5.png",
+  "artwork": "Content/Artwork/sv-2919.png",
+  "sha256": "dfedc935fd3e830d65e181b732ecd402e8ba6d540ed7733e85798008bb8c2508",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

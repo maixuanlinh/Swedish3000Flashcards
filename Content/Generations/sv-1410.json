@@ -1,0 +1,19 @@
+{
+  "id": "sv-1410",
+  "english": "introduce",
+  "swedish": "presentera",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"presentera\". Smaller English meaning verbatim: \"introduce\".\nScene: An adult warmly introducing a friend to a new acquaintance, with welcoming gestures.\nMemory-link caption verbatim: \"presentera = introduce; picture making people known to each other.\".\nSwedish example in bottom strip verbatim: \"Jag vill presentera min vän.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-3531ecf3-91b3-4052-8948-5bc1ac4167f5.png",
+  "artwork": "Content/Artwork/sv-1410.png",
+  "sha256": "70715f824f34b50ffbeaeb9a73d39616dc89d623e41f41b5c44c51c9b40076b5",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

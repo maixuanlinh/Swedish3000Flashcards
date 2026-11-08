@@ -1,0 +1,19 @@
+{
+  "id": "sv-2120",
+  "english": "raise",
+  "swedish": "höja",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"höja\". Smaller English meaning verbatim: \"raise\".\nScene: An adult woman in a classroom raising one hand above her head to answer, other hand resting naturally on desk.\nMemory-link caption verbatim: \"höja = raise; move something higher.\".\nSwedish example in bottom strip verbatim: \"Hon höjer handen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-f303963b-b092-405a-aee0-924950534c3a.png",
+  "artwork": "Content/Artwork/sv-2120.png",
+  "sha256": "92a494feadddefb6c4fbfb33a4919bd2dd00aa8bea18dbb23ecc64a873e98b6f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

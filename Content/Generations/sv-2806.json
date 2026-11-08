@@ -1,0 +1,19 @@
+{
+  "id": "sv-2806",
+  "english": "unemployed",
+  "swedish": "arbetslös",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"arbetslös\". Smaller English meaning verbatim: \"unemployed\".\nScene: An adult man searching job listings on a laptop at home, work shoes and a closed tool bag beside the desk, screen uses only simple vacancy icons and blank rows, no readable text.\nMemory-link caption verbatim: \"arbetslös = unemployed; without a job at present.\".\nSwedish example in bottom strip verbatim: \"Han är arbetslös och söker jobb.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"He is unemployed and looking for work.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-dd7ff5d2-06a1-4b5e-9908-322856967d4f.png",
+  "artwork": "Content/Artwork/sv-2806.png",
+  "sha256": "bdeea57a1db8d8011ce9a11101009e142094ff5620a2631196c098ce332917f7",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

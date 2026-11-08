@@ -1,0 +1,19 @@
+{
+  "id": "sv-1382",
+  "english": "insist",
+  "swedish": "insistera",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"insistera\". Smaller English meaning verbatim: \"insist\".\nScene: At a café counter, a woman firmly but politely offering her payment card while her friend gestures to pay instead.\nMemory-link caption verbatim: \"insistera resembles insist.\".\nSwedish example in bottom strip verbatim: \"Hon insisterade på att betala.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-648ecb51-bef2-42bc-95d9-24dcc62817f8.png",
+  "artwork": "Content/Artwork/sv-1382.png",
+  "sha256": "4ef08ca1690ed177d335efe9ed90a044d9feffddb711b384bf5f7cea64f02e37",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2992",
+  "english": "yet",
+  "swedish": "än",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"än\". Smaller English meaning verbatim: \"yet\".\nScene: An adult waiting at a bus stop beside a clock, the bus lane is empty and stretches into the distance, expectant glance down the road, bus pictogram on stop sign and no readable timetable.\nMemory-link caption verbatim: \"inte ... än = not ... yet; we are still waiting.\".\nSwedish example in bottom strip verbatim: \"Bussen har inte kommit än.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-bcf1ee89-decd-47b6-b956-65f18bdcb38d.png",
+  "artwork": "Content/Artwork/sv-2992.png",
+  "sha256": "481a85c15ac3f9aca0a8b331c0b96c354f770c5366912858c5d6f716034e3cf7",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

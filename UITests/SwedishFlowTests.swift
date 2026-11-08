@@ -13,6 +13,7 @@ final class SwedishFlowTests: XCTestCase {
         XCTAssertEqual(app.staticTexts["card.answer"].label, "en / ett")
         XCTAssertEqual(app.staticTexts["card.sentence"].label, "Jag ser en katt och ett äpple.")
         app.tabBars.buttons["Words"].tap()
+        if app.buttons["words.allVocabulary"].exists { app.buttons["words.allVocabulary"].tap() }
         XCTAssertTrue(app.buttons["word.sv-0001"].waitForExistence(timeout: 5))
         app.tabBars.buttons["Progress"].tap()
         XCTAssertTrue(app.staticTexts["Your progress"].waitForExistence(timeout: 5))

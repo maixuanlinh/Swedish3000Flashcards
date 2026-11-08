@@ -7,7 +7,7 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.linapps.swedish3000.data.DeviceSpeech
+import com.linapps.swedish3000.data.RecordedSpeech
 import com.linapps.swedish3000.ui.*
 
 class MainActivity: ComponentActivity() {
@@ -19,7 +19,7 @@ class MainActivity: ComponentActivity() {
         val vm = ViewModelProvider(this, object: ViewModelProvider.Factory {
             @Suppress("UNCHECKED_CAST")
             override fun <T: ViewModel> create(modelClass: Class<T>): T =
-                StudyViewModel(app.repository,app.entitlements,app.preferences,DeviceSpeech(app)) as T
+                StudyViewModel(app.repository,app.entitlements,app.preferences,RecordedSpeech(app,app.media)) as T
         })[StudyViewModel::class.java]
         study=vm
         route(intent)

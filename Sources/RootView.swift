@@ -12,8 +12,12 @@ final class AppNavigation {
     var topic: String?
     var request = 0
     var promptEnglishFirst: Bool?
+    var resumeSessionRequested = false
+    var isReminderSession = false
 
     func openReminder(wordID: String, englishFirst: Bool) {
+        isReminderSession = true
+        resumeSessionRequested = false
         scope = .all
         startingLetter = nil
         topic = nil
@@ -24,6 +28,8 @@ final class AppNavigation {
     }
 
     func review(_ scope: ReviewScope, ids: [String]? = nil) {
+        isReminderSession = false
+        resumeSessionRequested = false
         promptEnglishFirst = nil
         self.scope = scope
         requestedIDs = ids
@@ -39,6 +45,8 @@ final class AppNavigation {
     }
 
     func applyFilters(scope: ReviewScope, letter: String?, topic: String?) {
+        isReminderSession = false
+        resumeSessionRequested = false
         promptEnglishFirst = nil
         self.scope = scope
         startingLetter = letter
@@ -46,12 +54,27 @@ final class AppNavigation {
         requestedIDs = nil
         request += 1
     }
+    func resumeStudy() {
+        isReminderSession = false
+        resumeSessionRequested = true
+        promptEnglishFirst = nil
+        request += 1
+        tab = 0
+    }
+
+    func studyLearningWords() {
+        startingLetter = nil
+        topic = nil
+        review(.learning)
+    }
+
 }
 
 struct RootView: View {
     @Environment(StudyStore.self) private var store
     @Environment(WordReminders.self) private var reminders
     @Environment(PremiumStore.self) private var premium
+    @Environment(LessonMedia.self) private var media
     @Environment(\.scenePhase) private var scenePhase
     @State private var inbox = ReminderInbox.shared
     @State private var showingReminders = false
@@ -69,26 +92,40 @@ struct RootView: View {
             ProgressViewScreen()
                 .tabItem { Label("Progress", systemImage: "chart.bar.xaxis") }
                 .tag(2)
+            SettingsView()
+                .tabItem { Label("Settings", systemImage: "gearshape") }
+                .tag(3)
         }
         .environment(navigation)
-        .tint(Palette.forest)
+        .tint(Palette.accent)
+        .sheet(isPresented: Binding(get: { media.showingPremiumDownloadPrompt }, set: { media.showingPremiumDownloadPrompt = $0 }), onDismiss: { media.dismissPremiumDownloadPrompt() }) {
+            PremiumOfflineDownloadPrompt()
+        }
         .sheet(isPresented: $showingReminders) { WordReminderSettingsView(settings: reminders.settings) }
         .task {
             consumeReminder()
             await premium.start()
+            await media.setPremium(premium.isPremium)
             await reminders.setPremium(premium.isPremium, store: store)
             await reminders.refresh(store: store)
+            await media.activateDownloads(premium: premium.isPremium, offerPrompt: true)
         }
         .onChange(of: inbox.pending) { _, _ in consumeReminder() }
         .onChange(of: scenePhase) { _, phase in
             if phase == .active { Task {
                 await premium.refreshAccess()
+                await media.setPremium(premium.isPremium)
+                await media.activateDownloads(premium: premium.isPremium)
                 await reminders.setPremium(premium.isPremium, store: store)
                 await reminders.refresh(store: store)
             } }
         }
         .onChange(of: premium.isPremium) { _, value in
-            Task { await reminders.setPremium(value, store: store) }
+            Task {
+                await media.setPremium(value)
+                await media.activateDownloads(premium: value, offerPrompt: true)
+                await reminders.setPremium(value, store: store)
+            }
         }
         .onReceive(NotificationCenter.default.publisher(for: UIApplication.significantTimeChangeNotification)) { _ in
             Task { await reminders.refresh(store: store) }
@@ -102,7 +139,7 @@ struct RootView: View {
             showingReminders = false
             navigation.openReminder(wordID: id, englishFirst: destination.englishFirst)
         } else {
-            navigation.tab = 2
+            navigation.tab = 3
             showingReminders = true
         }
     }

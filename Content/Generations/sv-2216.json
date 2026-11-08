@@ -1,0 +1,19 @@
+{
+  "id": "sv-2216",
+  "english": "reserve",
+  "swedish": "boka",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"boka\". Smaller English meaning verbatim: \"reserve\".\nScene: An adult restaurant host setting a small card with a clock-and-check symbol on a neatly laid table, customer making booking by phone in a small inset, no extra words.\nMemory-link caption verbatim: \"boka = reserve or book in advance.\".\nSwedish example in bottom strip verbatim: \"Vi bokar ett bord.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-3efd326e-dc7a-4604-9f5f-ff4f44326e58.png",
+  "artwork": "Content/Artwork/sv-2216.png",
+  "sha256": "233af3ed552bb8a7d0748972bca63627a77e65bb044ea69dd7986819bc2e2439",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

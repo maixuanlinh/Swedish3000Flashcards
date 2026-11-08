@@ -1,0 +1,19 @@
+{
+  "id": "sv-1298",
+  "english": "human",
+  "swedish": "en människa",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en människa\". Smaller English meaning verbatim: \"human\".\nScene: A diverse group of adults taking a peaceful rest in a park, one person gently emphasised in the foreground.\nMemory-link caption verbatim: \"människa = human or person; picture one person among us all.\".\nSwedish example in bottom strip verbatim: \"Varje människa behöver vila.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-56e42249-ef57-4c6d-90cf-2ce96b01f5c6.png",
+  "artwork": "Content/Artwork/sv-1298.png",
+  "sha256": "a8d0ad708f04295f0bf58c4dc4d11601035f70b02717556ab8fc718dfaf1590c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

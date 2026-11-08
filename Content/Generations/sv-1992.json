@@ -1,0 +1,19 @@
+{
+  "id": "sv-1992",
+  "english": "position",
+  "swedish": "en position",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en position\". Smaller English meaning verbatim: \"position\".\nScene: An adult moving a chair from a crowded corner to an open spot by a desk, faint outline marking its old location and one arrow to the new spot.\nMemory-link caption verbatim: \"position has the same spelling; picture where something is placed.\".\nSwedish example in bottom strip verbatim: \"Flytta stolen till en bättre position.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ad2215e9-71ee-4b26-8877-86212fc6a4af.png",
+  "artwork": "Content/Artwork/sv-1992.png",
+  "sha256": "2707583db9ba579e140ebe5809fe690d1a6c63e829b028bc0fb48aba77d12418",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

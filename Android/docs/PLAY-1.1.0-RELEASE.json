@@ -1,0 +1,58 @@
+{
+  "versionName": "1.1.0",
+  "versionCode": 3,
+  "sha256": "2842a24d278751b7281a3738feed413b3aa0f61fbd452ecc2e1f6f62bb7a82c4",
+  "bytes": 28755432,
+  "sameUploadCertificateAsPreviousRelease": true,
+  "uploadCertificateSHA256": "41:17:F3:D9:89:54:42:7D:C1:A6:F0:E0:69:46:B3:BC:A3:3A:33:53:9F:B9:81:69:6B:8B:26:78:5F:6F:23:12",
+  "resourceHashesMatchIOS": {
+    "catalog3000.json": true,
+    "examples3000.json": true,
+    "starter100.json": true,
+    "artworkBriefs.json": true,
+    "BundledArtwork/manifest.json": true
+  },
+  "testFixturesAbsentFromShippedDex": true,
+  "appName": "3000 Swedish Words",
+  "packageName": "com.linapps.swedish3000",
+  "productId": "swedish_complete",
+  "bundletoolVersion": "1.18.1",
+  "bundleValidation": "passed",
+  "optimizedProductionPayloadSmoke": "passed with independent SDK UI harness; APK re-signed locally with debug key solely for emulator installation",
+  "existingUploadCertificatePreserved": true,
+  "screenshots": 8,
+  "screenshotSize": "1080x1920 JPEG",
+  "sourceGitHeadBeforeLocalReleaseChanges": "cf43d94b34684116a55a68d54dd8cedd25bc97f6",
+  "publishingStatus": "SUBMITTED: Play Console shows Changes in review; automated quick checks running before review",
+  "productionSubmissionAuthorizedByUser": true,
+  "googlePlayProductionPage": "https://play.google.com/console/u/0/developers/8850863360061339505/app/4976374116707766861/tracks/production",
+  "submissionVerifiedAtUTC": "2026-11-08T11:32:44.105648+00:00",
+  "rolloutPercentage": 100,
+  "allExistingTargetCountries": true,
+  "managedPublishing": false,
+  "automaticPublicationAfterApproval": true,
+  "googlePlayPublishingPage": "https://play.google.com/console/u/0/developers/8850863360061339505/app/4976374116707766861/publishing",
+  "submittedChanges": [
+    "Production full rollout",
+    "English en-US short description",
+    "English en-US full description",
+    "English en-US phone screenshots"
+  ],
+  "screenshotOrder": [
+    "03-inline-topic-filters.jpg",
+    "06-settings.jpg",
+    "08-premium-reminders.jpg",
+    "01-study-answer.jpg",
+    "04-word-groups.jpg",
+    "05-progress-learning.jpg",
+    "02-topic-library.jpg",
+    "07-offline-free-lessons.jpg"
+  ],
+  "aiLabeledAssets": [
+    "feature-graphic.png",
+    "01-study-answer.jpg"
+  ],
+  "validationBlockingErrors": 0,
+  "validationWarning": "Optional native debug symbols not uploaded",
+  "liveReleaseVerified": false
+}

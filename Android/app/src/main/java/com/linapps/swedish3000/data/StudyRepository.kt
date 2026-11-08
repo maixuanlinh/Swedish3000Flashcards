@@ -30,19 +30,18 @@ class LocalStudyRepository(context: Context) : StudyRepository {
         val briefs = JSONObject(assets.open("artworkBriefs.json").bufferedReader().use { it.readText() })
         val rows = catalog.getJSONArray("entries").rows()
         val ids = rows.map { it.getString("id") }.toSet()
-        val count = catalog.getInt("entryCount")
-        require(count in 1..3000 && rows.size == count && ids.size == count)
-        require(examples.keys == ids && art.keys.all { it in ids } && seeds.keys.all { it in ids })
+        require(rows.size == 3000 && ids.size == 3000 && catalog.getInt("entryCount") == 3000)
+        require(examples.keys == ids && art.keys == ids && seeds.keys.all { it in ids })
         rows.map { row ->
             val id = row.getString("id")
             val seed = seeds[id]
             val example = examples.getValue(id)
-            val image = art[id]
+            val image = art.getValue(id)
             Word(id, row.getInt("sourceID"), seed?.getString("english") ?: row.getString("english"),
                 seed?.getString("swedish") ?: row.getString("swedish"), example.getString("sentence"),
                 example.getString("sentenceEnglish"), seed?.getString("topic") ?: "Vocabulary",
-                image?.getString("filename") ?: "", image?.getString("thumbnailFilename") ?: "",
-                image?.getString("memoryHook") ?: briefs.getJSONObject(id).getString("memoryHook"), image?.getString("prompt") ?: briefs.getJSONObject(id).getString("prompt"),
+                image.getString("filename"), image.getString("thumbnailFilename"),
+                image.getString("memoryHook"), image.getString("prompt"),
                 briefs.getJSONObject(id).getString("prompt")+"\nWord ID (metadata): $id\nSource dictionary alternatives (context only; do not print): ${seed?.getString("swedish") ?: row.getString("swedish")}\nSwedish example: ${example.getString("sentence")}",
                 briefs.getJSONObject(id).getString("memoryHook"))
                 .also { require(it.sentence.isNotBlank() && it.sentenceEnglish.isNotBlank()) }

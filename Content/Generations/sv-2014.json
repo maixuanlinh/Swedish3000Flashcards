@@ -1,0 +1,19 @@
+{
+  "id": "sv-2014",
+  "english": "prayer",
+  "swedish": "en bön",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en bön\". Smaller English meaning verbatim: \"prayer\".\nScene: An adult seated in a quiet place with hands clasped and eyes softly closed in prayer, a small candle nearby, respectful peaceful mood, no beans.\nMemory-link caption verbatim: \"bön = prayer in this sentence.\".\nSwedish example in bottom strip verbatim: \"Hon säger en stilla bön.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-a6598f70-40e7-47f6-9351-33cd9b791400.png",
+  "artwork": "Content/Artwork/sv-2014.png",
+  "sha256": "4ca6264a59eab242332fb03eef272e49a79e485f293db7fa78256e908d0d1cbb",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

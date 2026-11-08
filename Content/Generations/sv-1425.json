@@ -1,0 +1,19 @@
+{
+  "id": "sv-1425",
+  "english": "IT",
+  "swedish": "IT",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"IT\". Smaller English meaning verbatim: \"IT\".\nScene: An IT professional working with computers and a server rack, a simple digital network linking the devices.\nMemory-link caption verbatim: \"IT = information technology in both languages.\".\nSwedish example in bottom strip verbatim: \"Hon arbetar med IT.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-20458f26-b6ba-4f91-a654-d63287d87027.png",
+  "artwork": "Content/Artwork/sv-1425.png",
+  "sha256": "8ce70fb57a7c1ac54bb35a47960e0a7578f9d46c758b4b801caf8dbae41bd253",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

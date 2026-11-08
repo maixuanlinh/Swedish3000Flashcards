@@ -1,0 +1,19 @@
+{
+  "id": "sv-1944",
+  "english": "pink",
+  "swedish": "rosa",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"rosa\". Smaller English meaning verbatim: \"pink\".\nScene: An adult wearing a distinctly pink jacket outdoors against a neutral background, jacket color dominant and unambiguous.\nMemory-link caption verbatim: \"rosa = pink.\".\nSwedish example in bottom strip verbatim: \"Hon har en rosa jacka.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-07f5fef7-4151-464b-8736-a9656898bd77.png",
+  "artwork": "Content/Artwork/sv-1944.png",
+  "sha256": "f1e246891b393d8494262bc2953974e0713cdc3185d236562a3577463b68e5ad",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

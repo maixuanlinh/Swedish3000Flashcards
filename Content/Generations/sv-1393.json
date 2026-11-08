@@ -1,0 +1,19 @@
+{
+  "id": "sv-1393",
+  "english": "insurance",
+  "swedish": "en försäkring",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en försäkring\". Smaller English meaning verbatim: \"insurance\".\nScene: A family house under a symbolic protective shield, with a policy document and coin symbols nearby.\nMemory-link caption verbatim: \"försäkring = insurance; picture financial protection.\".\nSwedish example in bottom strip verbatim: \"Vi har en försäkring för huset.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-abcadbf7-a4ba-4628-8d92-22ddf1fb63e8.png",
+  "artwork": "Content/Artwork/sv-1393.png",
+  "sha256": "a450572b0253e0a8c8e63af5226630c27304fac85402005b0c4403d7de9efa38",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

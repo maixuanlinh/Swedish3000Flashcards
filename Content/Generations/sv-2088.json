@@ -1,0 +1,19 @@
+{
+  "id": "sv-2088",
+  "english": "pull",
+  "swedish": "dra",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"dra\". Smaller English meaning verbatim: \"pull\".\nScene: Close view of an adult pulling a drawer outward by its handle, clear arrow toward the person and visible opening gap, no pushing gesture.\nMemory-link caption verbatim: \"dra = pull.\".\nSwedish example in bottom strip verbatim: \"Dra lådan mot dig.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-571676f7-9d07-4aa3-98cb-460f2585410b.png",
+  "artwork": "Content/Artwork/sv-2088.png",
+  "sha256": "81acd9868ec22e8b3e1231fcc24ce2c6c9b792d7d67f3b8380a8edbd8065e015",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

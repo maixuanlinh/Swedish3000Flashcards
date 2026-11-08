@@ -1,0 +1,3 @@
+# Compatibility for previously installed Swedish test builds.
+RewriteEngine On
+RewriteRule ^(.*)$ https://yki.essaykingapp.com/swedish3000/$1 [R=301,L,NE]

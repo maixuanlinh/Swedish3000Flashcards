@@ -1,0 +1,19 @@
+{
+  "id": "sv-1317",
+  "english": "ignore",
+  "swedish": "ignorera",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ignorera\". Smaller English meaning verbatim: \"ignore\".\nScene: A woman concentrating on her book while a nearby phone vibrates, deliberately looking away from the phone.\nMemory-link caption verbatim: \"ignorera resembles ignore.\".\nSwedish example in bottom strip verbatim: \"Hon försökte ignorera ljudet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-d966931a-c4c2-4125-b8cc-a67411b603a4.png",
+  "artwork": "Content/Artwork/sv-1317.png",
+  "sha256": "8da1e238d635998d18b1cdfb953d68d0e940a02089acd80e6dd8298f2371f124",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

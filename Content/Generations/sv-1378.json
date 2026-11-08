@@ -1,0 +1,19 @@
+{
+  "id": "sv-1378",
+  "english": "inquiry",
+  "swedish": "en förfrågan",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en förfrågan\". Smaller English meaning verbatim: \"inquiry\".\nScene: An adult composing a polite price inquiry beside a product catalogue and a question-mark symbol, no extra readable text.\nMemory-link caption verbatim: \"förfrågan = inquiry; picture asking for details.\".\nSwedish example in bottom strip verbatim: \"Vi skickade en förfrågan om priset.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-a1ae75b9-662f-4f90-9c3f-3d1c08c36e52.png",
+  "artwork": "Content/Artwork/sv-1378.png",
+  "sha256": "6101d8869c4a71dbd6fd776339c8900912e5fc21dba75a0df21791109871c661",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

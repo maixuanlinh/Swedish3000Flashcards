@@ -1,0 +1,9 @@
+{
+  "generationMode": "built-in",
+  "source": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-cc3e7532-fefc-415d-b194-b57f1aa739b0.png",
+  "asset": "Design/SwedishIcon-blue-master.png",
+  "reference": "Design/SwedishIcon-green-original.png",
+  "promptSummary": "Preserve the existing cream S and three-dot design; change the background to Swedish-flag-inspired blue #006AA7 and the three dots to yellow #FECC00. Square opaque iOS app icon.",
+  "review": "Visually approved: cream S, blue field, three yellow dots; no extra lettering.",
+  "sha256": "432a6b672408faf13b8732be8d96f1aed683e974ff8ead7f3b9fa2ac6bb23fc0"
+}

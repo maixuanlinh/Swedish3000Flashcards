@@ -127,34 +127,25 @@ enum BundledArtwork {
     }
 
     static let records: [String: Record] = {
-        guard let url = Bundle.main.url(forResource: "manifest", withExtension: "json", subdirectory: "BundledArtwork"),
+        guard let url = Bundle.main.url(forResource: "manifest", withExtension: "json"),
               let data = try? Data(contentsOf: url),
               let records = try? JSONDecoder().decode([Record].self, from: data),
               Set(records.map(\.wordID)).count == records.count else { return [:] }
         return Dictionary(uniqueKeysWithValues: records.map { ($0.wordID, $0) })
     }()
 
-    private static let directory = Bundle.main.resourceURL?.appending(path: "BundledArtwork", directoryHint: .isDirectory)
-
     static func preload() { _ = records }
 
-    static func url(for wordID: String, thumbnail: Bool = false) -> URL? {
+    static func mediaKey(for wordID: String, thumbnail: Bool = false) -> String? {
         guard let record = records[wordID] else { return nil }
-        return directory?.appending(path: thumbnail ? record.thumbnailFilename : record.filename)
-    }
-
-    static func image(for wordID: String, thumbnail: Bool = false) -> UIImage? {
-        url(for: wordID, thumbnail: thumbnail).flatMap { ArtworkFiles.image(at: $0) }
+        return "image/\(thumbnail ? record.thumbnailFilename : record.filename)"
     }
 }
 
 enum ArtworkPromptBuilder {
     private struct Brief: Decodable { let prompt: String; let memoryHook: String }
     private static let curated: [String: Brief] = {
-        guard let url = Bundle.main.url(forResource: "artworkBriefs", withExtension: "json"),
-              let data = try? Data(contentsOf: url),
-              let briefs = try? JSONDecoder().decode([String: Brief].self, from: data) else { return [:] }
-        return briefs
+        BundledArtwork.records.mapValues { Brief(prompt: $0.prompt, memoryHook: $0.memoryHook) }
     }()
 
     static func preload() { _ = curated }
@@ -186,12 +177,16 @@ enum ArtworkPromptBuilder {
 enum ArtworkImageSource: Hashable, Sendable {
     case file(URL)
     case asset(String)
+    case hosted(String)
 
-    func loadForDisplay() -> UIImage? {
+    func loadForDisplay(media: LessonMedia) async -> UIImage? {
         let image: UIImage?
         switch self {
         case .file(let url): image = ArtworkFiles.image(at: url)
         case .asset(let name): image = UIImage(named: name)
+        case .hosted(let key):
+            guard let data = try? await media.data(for: key) else { return nil }
+            image = UIImage(data: data)
         }
         guard let image else { return nil }
         let prepared = image.preparingForDisplay() ?? image
@@ -206,8 +201,10 @@ enum ArtworkImageSource: Hashable, Sendable {
 struct WordArtworkImage: View {
     @Environment(StudyStore.self) private var store
     @Environment(PremiumStore.self) private var premium
+    @Environment(LessonMedia.self) private var media
     let word: VocabularyWord
     var thumbnail = false
+    var onLoad: ((UIImage) -> Void)?
     @State private var image: UIImage?
     @State private var loadedSources: [ArtworkImageSource] = []
 
@@ -216,7 +213,7 @@ struct WordArtworkImage: View {
         let sources = allowed ? store.artworkSources(for: word, thumbnail: thumbnail) : []
         Group {
             if !allowed {
-                Image(systemName: "lock.fill").foregroundStyle(Palette.forest)
+                Image(systemName: "lock.fill").foregroundStyle(Palette.accent)
             } else if loadedSources == sources, let image {
                 Image(uiImage: image).resizable().scaledToFit()
             } else {
@@ -229,19 +226,15 @@ struct WordArtworkImage: View {
             guard !Task.isCancelled else { return }
             guard allowed else { image = nil; loadedSources = []; return }
             guard loadedSources != sources || image == nil else { return }
-            let request = Task.detached(priority: .userInitiated) {
-                for source in sources {
-                    if Task.isCancelled { return UIImage?.none }
-                    if let image = source.loadForDisplay() { return Optional(image) }
-                }
-                return UIImage?.none
+            var result: UIImage?
+            for source in sources {
+                guard !Task.isCancelled else { return }
+                if let loaded = await source.loadForDisplay(media: media) { result = loaded; break }
             }
-            let result = await withTaskCancellationHandler {
-                await request.value
-            } onCancel: { request.cancel() }
             guard !Task.isCancelled else { return }
             loadedSources = sources
             image = result
+            if let result { onLoad?(result) }
         }
     }
 }
@@ -297,7 +290,7 @@ struct ArtworkEditor: View {
                     Button("Choose from Files", systemImage: "folder") { pickingFile = true }
                         .accessibilityIdentifier("artwork.files")
                     if importing { ProgressView("Saving image…") }
-                    if let message { Text(message).font(.caption).foregroundStyle(Palette.forest).accessibilityIdentifier("artwork.message") }
+                    if let message { Text(message).font(.caption).foregroundStyle(Palette.accent).accessibilityIdentifier("artwork.message") }
                     if ProcessInfo.processInfo.arguments.contains("-ui-artwork-fixture") {
                         Button("Import test image") {
                             Task {
@@ -506,7 +499,7 @@ struct ArtworkPackImporter: View {
                         Text("\(completed) of \(total) words")
                     }
                 }
-                if let message { Text(message).foregroundStyle(Palette.forest).accessibilityIdentifier("artwork.pack.message") }
+                if let message { Text(message).foregroundStyle(Palette.accent).accessibilityIdentifier("artwork.pack.message") }
             }
             .scrollContentBackground(.hidden).background(Palette.background)
             .navigationTitle("Import artwork").navigationBarTitleDisplayMode(.inline)

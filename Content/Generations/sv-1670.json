@@ -1,0 +1,19 @@
+{
+  "id": "sv-1670",
+  "english": "mixture",
+  "swedish": "en blandning",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en blandning\". Smaller English meaning verbatim: \"mixture\".\nScene: A bowl containing a clearly visible mixture of several nuts and seeds, small separate ingredient piles nearby to show what was combined.\nMemory-link caption verbatim: \"blanda = mix; blandning = mixture.\".\nSwedish example in bottom strip verbatim: \"Det är en blandning av nötter och frön.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-a649d350-4923-4421-bd99-e831e4f01585.png",
+  "artwork": "Content/Artwork/sv-1670.png",
+  "sha256": "504c8079dab647d3cd708aadb19237a4d179fc8511701f7116feec60566ddb53",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-1582",
+  "english": "magic",
+  "swedish": "magi",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"magi\". Smaller English meaning verbatim: \"magic\".\nScene: A theatrical magician producing a surprising cascade of glowing paper butterflies from an empty hat as children watch in wonder, clearly a stage performance.\nMemory-link caption verbatim: \"magi resembles magic.\".\nSwedish example in bottom strip verbatim: \"Barnen tror på magi.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-87e8681b-657d-4f04-bfeb-89adbf07b6e7.png",
+  "artwork": "Content/Artwork/sv-1582.png",
+  "sha256": "e7fd6f6fd86917df29fb05026b31a7cf35f8d0734149195d8e7e9cb4dba32e93",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

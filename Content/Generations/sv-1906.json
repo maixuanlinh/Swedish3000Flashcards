@@ -1,0 +1,19 @@
+{
+  "id": "sv-1906",
+  "english": "per",
+  "swedish": "per",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"per\". Smaller English meaning verbatim: \"per\".\nScene: A rental car beside a simple price placard showing exactly \"500 kr / dag\", with a one-day calendar icon, no other readable text.\nMemory-link caption verbatim: \"per has the same spelling and means for each.\".\nSwedish example in bottom strip verbatim: \"Bilen kostar femhundra kronor per dag.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-2bb843ae-2f19-449f-ac17-4d37b34c53d0.png",
+  "artwork": "Content/Artwork/sv-1906.png",
+  "sha256": "c6f6f05a80cad07fa69b97b64bf284b9fde99ca9316f8e02f5c8417b1f3250d6",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

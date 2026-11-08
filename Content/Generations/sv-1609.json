@@ -1,0 +1,19 @@
+{
+  "id": "sv-1609",
+  "english": "match (contest)",
+  "swedish": "en match",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en match\". Smaller English meaning verbatim: \"match (contest/correspond)\".\nScene: Two football teams competing in a match, a clear contest on a pitch with a referee and spectators, no readable branding.\nMemory-link caption verbatim: \"match has the same spelling in both languages.\".\nSwedish example in bottom strip verbatim: \"Vi såg en spännande match.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nRevision instruction: Use case: text-localization. Keep all artwork and the Swedish heading, memory caption and example unchanged. Change only the English subtitle from \"match (contest/correspond)\" to \"match (contest)\". The card teaches the noun meaning a sports contest, not the verb correspond. Exact subtitle: \"match (contest)\".",
+  "referenceImage": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-9963b38a-0a67-4980-acb6-12425d696470.png",
+  "styleReference": "Supplied image edited with the built-in image tool.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-59e15e69-4104-47d4-bd24-2e0a89868fbc.png",
+  "artwork": "Content/Artwork/sv-1609.png",
+  "sha256": "c059834db89a3e0788622310b9a4b121516bee2fb5dec52ec85fec070bdaf0ce",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

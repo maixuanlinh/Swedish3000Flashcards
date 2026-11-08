@@ -1,0 +1,19 @@
+{
+  "id": "sv-2953",
+  "english": "wire",
+  "swedish": "en tråd",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en tråd\". Smaller English meaning verbatim: \"wire\".\nScene: A small spool of thin copper wire on a workshop table, one adult hand gently draws out a single clearly visible strand with its cut end visible, close view of warm metallic copper, no electrical circuit, battery, bulb or text.\nMemory-link caption verbatim: \"tråd = wire here; picture a thin copper conductor.\".\nSwedish example in bottom strip verbatim: \"Det här är en tunn tråd av koppar.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-e828f64b-b51b-4e39-a2cb-011ce77f5436.png",
+  "artwork": "Content/Artwork/sv-2953.png",
+  "sha256": "1a16095bd25e3ed17b4fbc763265a1c09e58603814fe3bb6f7f963b21c3584df",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

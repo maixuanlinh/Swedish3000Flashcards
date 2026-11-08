@@ -1,0 +1,19 @@
+{
+  "id": "sv-1297",
+  "english": "huge",
+  "swedish": "enorm",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"enorm\". Smaller English meaning verbatim: \"huge\".\nScene: A huge ocean wave breaking on an empty beach, dramatic scale and no people in danger.\nMemory-link caption verbatim: \"enorm resembles enormous: huge.\".\nSwedish example in bottom strip verbatim: \"En enorm våg slog mot stranden.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-bda331ac-6c87-41f9-8add-80902ab0c6db.png",
+  "artwork": "Content/Artwork/sv-1297.png",
+  "sha256": "ede521c94861f88bf6f267470a7651a21b3c16fdbf8f05768d9550bc51fc0d10",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

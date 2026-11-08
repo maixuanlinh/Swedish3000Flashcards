@@ -1,0 +1,19 @@
+{
+  "id": "sv-2962",
+  "english": "wonderful",
+  "swedish": "underbar",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"underbar\". Smaller English meaning verbatim: \"wonderful\".\nScene: Two adults enjoying a beautiful calm seaside picnic, bright relaxed smiles, sparkling sea and warm sunlight, clear sense of delight, no text or logos.\nMemory-link caption verbatim: \"underbar = wonderful; picture a day full of delight.\".\nSwedish example in bottom strip verbatim: \"Vi hade en underbar dag vid havet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-bef53466-2bcc-4c21-8ed9-4a033118fc0f.png",
+  "artwork": "Content/Artwork/sv-2962.png",
+  "sha256": "d91b894c1cfd6fbf4e25c4476feade7d634cf98757d6d640b63c1ab4c196e3a9",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2026",
+  "english": "president",
+  "swedish": "en president",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en president\". Smaller English meaning verbatim: \"president\".\nScene: An unnamed fictional president speaking formally at a lectern in a civic hall, neutral flag shapes without national or party insignia, no recognizable public figure.\nMemory-link caption verbatim: \"president has the same spelling in both languages.\".\nSwedish example in bottom strip verbatim: \"Landets president håller ett tal.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ba15f481-a8ca-4e26-af4f-781b55e2c10c.png",
+  "artwork": "Content/Artwork/sv-2026.png",
+  "sha256": "e32a0489c2a7428574e73a81c1970c04738d2a4e30670794cdcf2e922a1339f4",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

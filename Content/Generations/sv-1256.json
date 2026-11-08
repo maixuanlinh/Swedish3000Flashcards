@@ -1,0 +1,18 @@
+{
+  "id": "sv-1256",
+  "english": "hi",
+  "swedish": "hejsan",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"hejsan\". Smaller English meaning verbatim: \"hi\".\nScene: Two friends meeting by chance in a cafe and greeting one another with cheerful waves.\nMemory-link caption verbatim: \"hejsan = a friendly, informal hi.\".\nSwedish example in bottom strip verbatim: \"Hejsan, vad kul att se dig!\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-7b0a58ee-cd38-4798-afe4-0be8f225221c.png",
+  "artwork": "Content/Artwork/sv-1256.png",
+  "sha256": "a16e93a727ed2318c79da98b3b1f08c7eddd64aea57354a516c5a5cafd0ed297",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

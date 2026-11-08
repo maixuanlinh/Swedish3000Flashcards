@@ -1,0 +1,19 @@
+{
+  "id": "sv-1786",
+  "english": "obviously",
+  "swedish": "uppenbarligen",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"uppenbarligen\". Smaller English meaning verbatim: \"obviously\".\nScene: A person entering a snowy garden and immediately noticing a clear trail of fresh human footprints leading from the gate to the doorstep, footprints central and unambiguous.\nMemory-link caption verbatim: \"uppenbarligen = obviously; clear evidence makes it apparent.\".\nSwedish example in bottom strip verbatim: \"Uppenbarligen har någon varit här.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-18aff7e6-ea06-41a2-9728-0401157e2f5b.png",
+  "artwork": "Content/Artwork/sv-1786.png",
+  "sha256": "8c7b8343edff823e6b9c638ddbe8beebe449cce7d35732e92dbab7110aa7390e",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

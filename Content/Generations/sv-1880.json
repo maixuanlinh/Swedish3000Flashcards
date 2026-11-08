@@ -1,0 +1,19 @@
+{
+  "id": "sv-1880",
+  "english": "part",
+  "swedish": "en del",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en del\". Smaller English meaning verbatim: \"part\".\nScene: A cake on a plate with only one large remaining segment, empty space clearly showing where the rest has been eaten, no confusing extra cakes.\nMemory-link caption verbatim: \"del = part; picture a portion of a whole.\".\nSwedish example in bottom strip verbatim: \"En del av kakan är kvar.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-c31246e2-d5f4-4a49-8802-13d072ce7b00.png",
+  "artwork": "Content/Artwork/sv-1880.png",
+  "sha256": "d29353f24e339003de36e0a5ea0de80776a583b43c18a222cc2726fd8b557866",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

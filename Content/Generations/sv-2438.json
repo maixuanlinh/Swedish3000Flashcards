@@ -1,0 +1,19 @@
+{
+  "id": "sv-2438",
+  "english": "sky",
+  "swedish": "en himmel",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en himmel\". Smaller English meaning verbatim: \"sky\".\nScene: Wide blue cloudless sky taking most of scene above low green field horizon, tiny adult gazes up.\nMemory-link caption verbatim: \"himmel = sky; the open space above the earth.\".\nSwedish example in bottom strip verbatim: \"Himlen är klar i dag.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-156bb91d-5d9d-41a4-bfcf-09c63f11cad8.png",
+  "artwork": "Content/Artwork/sv-2438.png",
+  "sha256": "bf528bf407ca6d2daa967e41082c0c839640cd2dc5afa713d0402b65e6fee84c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

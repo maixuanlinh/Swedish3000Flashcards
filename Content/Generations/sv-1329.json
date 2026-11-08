@@ -1,0 +1,19 @@
+{
+  "id": "sv-1329",
+  "english": "immigrant",
+  "swedish": "en invandrare",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en invandrare\". Smaller English meaning verbatim: \"immigrant\".\nScene: A woman arriving with moving suitcases at a new home in Sweden, a small Swedish flag near the doorway and a welcoming neighbour.\nMemory-link caption verbatim: \"invandrare = immigrant; picture arriving to live in a new country.\".\nSwedish example in bottom strip verbatim: \"Hon kom till Sverige som invandrare.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-80280e91-d807-4bce-929e-2db93ab250b8.png",
+  "artwork": "Content/Artwork/sv-1329.png",
+  "sha256": "2de6e9f07d063c5c166d5eed0203dc3fc52290a8aac77791a33db579b073527b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

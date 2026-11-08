@@ -1,0 +1,19 @@
+{
+  "id": "sv-1460",
+  "english": "kilometer",
+  "swedish": "en kilometer",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en kilometer\". Smaller English meaning verbatim: \"kilometer\".\nScene: A clear flat educational distance diagram: two exactly equal-length horizontal brackets with aligned ends, the upper labelled 1 km and the lower labelled 1 000 m. No ruler ticks or other numbers.\nMemory-link caption verbatim: \"kilo- means thousand; en kilometer = 1 000 meter.\".\nSwedish example in bottom strip verbatim: \"En kilometer är tusen meter.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-e6252930-7ebe-4c7a-96d8-4dee6778d24c.png",
+  "artwork": "Content/Artwork/sv-1460.png",
+  "sha256": "873cfdc7e498dc6f9122e4775c114be20fd0b5d62b413544f7c03e8d1f00d262",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

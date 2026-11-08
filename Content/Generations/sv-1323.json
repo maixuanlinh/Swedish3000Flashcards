@@ -1,0 +1,19 @@
+{
+  "id": "sv-1323",
+  "english": "image",
+  "swedish": "en bild",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en bild\". Smaller English meaning verbatim: \"image\".\nScene: An adult hanging a framed landscape picture on a living-room wall.\nMemory-link caption verbatim: \"bild = image or picture; picture a framed scene.\".\nSwedish example in bottom strip verbatim: \"Jag hänger en bild på väggen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-f42d8743-5f08-4cd4-b43b-82c20e9fde96.png",
+  "artwork": "Content/Artwork/sv-1323.png",
+  "sha256": "a932930360dc63ef329fe35e98dfd2ea0e6517897ad71e673dc45e5ed270a88c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

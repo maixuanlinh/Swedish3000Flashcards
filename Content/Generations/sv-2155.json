@@ -1,0 +1,19 @@
+{
+  "id": "sv-2155",
+  "english": "recording",
+  "swedish": "en inspelning",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en inspelning\". Smaller English meaning verbatim: \"recording\".\nScene: Two adults listening through headphones to a saved audio waveform on a laptop, clear play triangle, no interface words or logos.\nMemory-link caption verbatim: \"inspelning = recording; saved sound you can play again.\".\nSwedish example in bottom strip verbatim: \"Vi lyssnar på en inspelning.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-5423abad-2cb2-4c1f-85bc-afefdf86a7c8.png",
+  "artwork": "Content/Artwork/sv-2155.png",
+  "sha256": "f4a5bee445af509cbaf10f8a5fbced41a7ac179daaab0b22375381c4563e379c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

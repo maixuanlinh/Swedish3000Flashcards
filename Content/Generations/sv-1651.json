@@ -1,0 +1,19 @@
+{
+  "id": "sv-1651",
+  "english": "military",
+  "swedish": "militär",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"militär\". Smaller English meaning verbatim: \"military\".\nScene: An adult service member in plain unbranded uniform practising map reading during a calm training exercise, no weapons or combat.\nMemory-link caption verbatim: \"militär resembles military.\".\nSwedish example in bottom strip verbatim: \"Han har militär utbildning.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nRevision instruction: Use case: text-localization. Preserve all art and all other text. Change only the bottom sentence from \"Han har militär utbildning.\" to exactly \"Hon har militär utbildning.\"",
+  "referenceImage": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-047fef59-f7a3-49c2-92f0-4c734a964c4e.png",
+  "styleReference": "Supplied image edited with the built-in image tool.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-fbb1324e-9609-413a-bb8e-033237dadc29.png",
+  "artwork": "Content/Artwork/sv-1651.png",
+  "sha256": "5af4f9146ac79e85f6d00fb2cd08843a7801d5ca2f1af2bd5104c94ba52d3b90",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

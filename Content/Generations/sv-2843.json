@@ -1,0 +1,19 @@
+{
+  "id": "sv-2843",
+  "english": "usually",
+  "swedish": "vanligtvis",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"vanligtvis\". Smaller English meaning verbatim: \"usually\".\nScene: An adult cycling to work, a small weekly calendar inset has five workday squares with bicycle pictograms in four squares and a walking pictogram in one, no numbers or words.\nMemory-link caption verbatim: \"vanligtvis = usually; picture the routine on most days.\".\nSwedish example in bottom strip verbatim: \"Jag cyklar vanligtvis till jobbet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"I usually cycle to work.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-768b36b1-486e-42d5-b36f-7a2580d8365b.png",
+  "artwork": "Content/Artwork/sv-2843.png",
+  "sha256": "589cc6610e46d3895e3a81edae56ddb987429572a85e7b5447b9bcde1b201c77",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

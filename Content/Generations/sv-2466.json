@@ -1,0 +1,19 @@
+{
+  "id": "sv-2466",
+  "english": "soft",
+  "swedish": "mjuk",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"mjuk\". Smaller English meaning verbatim: \"soft\".\nScene: Adult hand gently presses fluffy cushion leaving obvious soft indentation, warm tactile fabric close-up.\nMemory-link caption verbatim: \"mjuk = soft; easy to press and pleasant to touch.\".\nSwedish example in bottom strip verbatim: \"Kudden är mjuk.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-88daa4e3-5187-4b0d-a715-adf4d3c09f78.png",
+  "artwork": "Content/Artwork/sv-2466.png",
+  "sha256": "6ed1956261b0fa403cef3fe81684044b865accf506958fbaba292254394dc5fd",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

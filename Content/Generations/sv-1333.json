@@ -1,0 +1,19 @@
+{
+  "id": "sv-1333",
+  "english": "import",
+  "swedish": "importera",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"importera\". Smaller English meaning verbatim: \"import\".\nScene: Coffee sacks arriving from abroad at a Swedish port, with a clear inward arrow toward a warehouse.\nMemory-link caption verbatim: \"importera resembles import.\".\nSwedish example in bottom strip verbatim: \"Sverige importerar kaffe.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-136dd668-dfcf-429d-8b1c-f0986d2b6206.png",
+  "artwork": "Content/Artwork/sv-1333.png",
+  "sha256": "81a325de975eb495a14603a047f8aa441e3b974c8c529d160e3160bce90fa728",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-1455",
+  "english": "keyboard",
+  "swedish": "ett tangentbord",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett tangentbord\". Smaller English meaning verbatim: \"keyboard\".\nScene: Hands typing on a clearly visible computer keyboard connected to a monitor.\nMemory-link caption verbatim: \"tangent = a keyboard key; bord = table. Picture a board of keys.\".\nSwedish example in bottom strip verbatim: \"Jag skriver på ett tangentbord.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-840c82ac-8303-4c90-8a4c-22ec60f48577.png",
+  "artwork": "Content/Artwork/sv-1455.png",
+  "sha256": "df669b20f54cc18f05198e3824e58ad4990e62f912c24ad6cfc30290e537da49",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2692",
+  "english": "thirsty",
+  "swedish": "törstig",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"törstig\". Smaller English meaning verbatim: \"thirsty\".\nScene: An adult after a walk reaching for a glass of clear water, mild thirsty expression and a water bottle nearby, no signs of dangerous dehydration or words.\nMemory-link caption verbatim: \"törstig = thirsty; picture wanting a drink.\".\nSwedish example in bottom strip verbatim: \"Jag är törstig och behöver vatten.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"I am thirsty and need water.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-2b1b3e26-0559-4a2a-a951-e1fd5f525fb7.png",
+  "artwork": "Content/Artwork/sv-2692.png",
+  "sha256": "faa0d919ebe33fbf51d8cf6769e47479d9b8f2bb5abaec5f4d3b45a8cfe669b8",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

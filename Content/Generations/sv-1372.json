@@ -1,0 +1,19 @@
+{
+  "id": "sv-1372",
+  "english": "initiative",
+  "swedish": "ett initiativ",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett initiativ\". Smaller English meaning verbatim: \"initiative\".\nScene: A proactive colleague suggesting a meeting and arranging chairs while others join in.\nMemory-link caption verbatim: \"initiativ resembles initiative.\".\nSwedish example in bottom strip verbatim: \"Hon tog initiativ till mötet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-4b84f20d-66e5-4b4d-98bc-29e46f9c2708.png",
+  "artwork": "Content/Artwork/sv-1372.png",
+  "sha256": "412ee56a1ffc6d8bce79aea229532894d6b1e2709542a38154e041ed66cf704c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

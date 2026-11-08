@@ -1,0 +1,18 @@
+{
+  "id": "sv-1253",
+  "english": "herself",
+  "swedish": "sig själv",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"sig själv\". Smaller English meaning verbatim: \"herself\".\nScene: A woman looking directly at her own matching reflection in a mirror, same face and clothing.\nMemory-link caption verbatim: \"sig själv = herself in this sentence.\".\nSwedish example in bottom strip verbatim: \"Hon såg sig själv i spegeln.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-4727976a-b6d2-499f-9a3d-f7ae7e2d29ac.png",
+  "artwork": "Content/Artwork/sv-1253.png",
+  "sha256": "ae683a0e28ffa807ce368a0de24b5feebb9e9d47f1f6c97eda7b951c5d926016",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

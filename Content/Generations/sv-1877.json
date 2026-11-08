@@ -1,0 +1,19 @@
+{
+  "id": "sv-1877",
+  "english": "parent",
+  "swedish": "en förälder",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en förälder\". Smaller English meaning verbatim: \"parent\".\nScene: An adult parent waiting by a school gate as their child with a backpack approaches warmly; ordinary school setting, no readable names.\nMemory-link caption verbatim: \"förälder = parent; picture a mother or father meeting a child.\".\nSwedish example in bottom strip verbatim: \"En förälder väntar utanför skolan.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-28900ddd-3418-471f-a642-3939666e8160.png",
+  "artwork": "Content/Artwork/sv-1877.png",
+  "sha256": "b9691cc10310215829d034b23d17dbaac89a2e4afb510466cf565e77bf3b8c77",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

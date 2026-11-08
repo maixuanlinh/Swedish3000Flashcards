@@ -1,0 +1,19 @@
+{
+  "id": "sv-2969",
+  "english": "working",
+  "swedish": "arbetande",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"arbetande\". Smaller English meaning verbatim: \"working\".\nScene: Two parents in everyday work clothes arriving at a childcare entrance after work, one carries a laptop bag and the other a tool bag, children greet them with a caregiver nearby, no signs.\nMemory-link caption verbatim: \"arbetande = working; describes people who work.\".\nSwedish example in bottom strip verbatim: \"De arbetande föräldrarna hämtar barnen senare.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-43f8c7d6-7d3c-44dc-8c65-bc44645ff3b5.png",
+  "artwork": "Content/Artwork/sv-2969.png",
+  "sha256": "bc9ce8a775722a50664484a6006de413453a1c9d82fa65db3e30d9c1e5ebcf1a",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

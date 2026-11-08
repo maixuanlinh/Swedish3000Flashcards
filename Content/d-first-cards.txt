@@ -8,7 +8,7 @@
 663|farlig|Den tunna isen är farlig.|The thin ice is dangerous.|fara → farlig: danger → dangerous.|Adult points to warning sign beside cracked thin ice from shore.
 664|mörk|Skogen är mörk på natten.|The forest is dark at night.|mörk = dark.|Dark forest with small warm lantern.
 665|data|Vi samlar in data om vädret.|We collect data about the weather.|data = recorded information.|Adult records weather readings beside simple chart and thermometer.
-666|ett datum|Vilket datum är mötet?|What is the date of the meeting?|datum = calendar date.|Adult circles meeting date on desk calendar.
+666|ett datum|Vilket datum är mötet?|What is the date of the meeting?|datum = calendar date.|An adult circles 16 on a single-page desk calendar marked 16 april; no monthly number grid.
 667|en dotter|Deras dotter läser en bok.|Their daughter is reading a book.|dotter = daughter.|Parents sit beside their daughter reading a book.
 668|en dag|En dag har tjugofyra timmar.|A day has twenty-four hours.|dag = day.|Circular day clock shows sunrise, daylight, sunset and night.
 669|död|Växten är död.|The plant is dead.|död = dead, no longer living.|Dry dead houseplant beside healthy living plant, focus on dried plant.

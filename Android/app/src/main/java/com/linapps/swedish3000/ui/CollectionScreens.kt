@@ -27,41 +27,7 @@ import java.time.format.DateTimeFormatter
 import java.time.format.TextStyle
 import java.util.Locale
 
-@Composable internal fun Words(s: StudyUiState,vm: StudyViewModel,filters: ()->Unit,import: ()->Unit) {
-    Column(Modifier.widthIn(max=700.dp).fillMaxSize().padding(horizontal=18.dp)) {
-        Row(Modifier.padding(top=12.dp,bottom=8.dp),verticalAlignment=Alignment.CenterVertically) {
-            Text("Words",fontFamily=FontFamily.Serif,fontSize=26.sp,fontWeight=FontWeight.SemiBold,modifier=Modifier.weight(1f))
-            Text("${s.words.size} words",color=Muted,fontSize=14.sp)
-            var menu by remember { mutableStateOf(false) }
-            Box { IconAction("more","Word collection options",{ menu=true },modifier=Modifier.testTag("words.options"));DropdownMenu(menu,{ menu=false }) { DropdownMenuItem(text={ Text("Import artwork pack") },onClick={ menu=false;import() }) } }
-        }
-        OutlinedTextField(value=s.search,onValueChange=vm::search,placeholder={ Text("Search English or Swedish",fontSize=14.sp) },leadingIcon={ Symbol("search",color=Muted) },trailingIcon=if(s.search.isEmpty()) null else ({ IconAction("close","Clear search",{ vm.search("") }) }),singleLine=true,shape=RoundedCornerShape(15.dp),colors=OutlinedTextFieldDefaults.colors(unfocusedContainerColor=Color.White,focusedContainerColor=Color.White,unfocusedBorderColor=Color.Transparent),modifier=Modifier.fillMaxWidth().testTag("words.search"))
-        Row(Modifier.fillMaxWidth(),verticalAlignment=Alignment.CenterVertically) {
-            TextButton(onClick=filters,modifier=Modifier.weight(1f).testTag("words.filters")) { Symbol("filter");Spacer(Modifier.width(6.dp));Text(listOfNotNull(s.filter.scope.title,s.filter.letter,s.filter.topic).joinToString(" · "),maxLines=1) }
-            Text("${s.matches.size} shown",fontSize=12.sp,color=Muted,modifier=Modifier.testTag("words.filteredCount"))
-        }
-        if(s.matches.isEmpty()) {
-            Column(Modifier.weight(1f).fillMaxWidth(),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.Center) {
-                Symbol("search",Modifier.size(40.dp),Muted);Spacer(Modifier.height(16.dp));SectionTitle("No matching words")
-                Text("Try another word or change your filters.",color=Muted,textAlign=TextAlign.Center)
-                TextButton(onClick={ vm.search("");vm.filter(WordFilter(scope=Scope.ALL)) }) { Text("Clear filters") }
-            }
-        } else {
-            LazyColumn(Modifier.weight(1f),verticalArrangement=Arrangement.spacedBy(9.dp),contentPadding=PaddingValues(bottom=12.dp)) {
-                items(s.matches,key={ it.id }) { word ->
-                    Row(Modifier.fillMaxWidth().clip(RoundedCornerShape(20.dp)).background(Color.White).clickable { vm.detail(word.id) }.padding(14.dp).testTag("word.${word.id}"),verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.spacedBy(14.dp)) {
-                        Box(Modifier.size(width=51.dp,height=55.dp).background(Cream,RoundedCornerShape(15.dp)),contentAlignment=Alignment.Center) {
-                            if(AccessPolicy.hasLesson(word,s.access)) Artwork(word,Modifier.fillMaxSize(),thumbnail=true) else Symbol("lock")
-                        }
-                        Column(Modifier.weight(1f),verticalArrangement=Arrangement.spacedBy(5.dp)) { Text(word.swedish,fontFamily=FontFamily.Serif,fontSize=20.sp,fontWeight=FontWeight.Medium);Text(word.english,fontSize=14.sp,color=Muted) }
-                        StatusBadge(s.ratings[word.id]?.status ?: LearningStatus.NEW)
-                    }
-                }
-            }
-            FilledAction(if(s.matches.size==1) "Practise this word" else "Practise these ${s.matches.size} words",vm::practice,Modifier.padding(vertical=10.dp).testTag("words.practice"))
-        }
-    }
-}
+@Composable internal fun Words(s: StudyUiState,vm: StudyViewModel,filters: ()->Unit,import: ()->Unit) = TopicWords(s,vm,filters,import)
 @Composable internal fun Detail(word: Word,s: StudyUiState,vm: StudyViewModel,onZoom: ()->Unit) {
     val app=LocalApp.current
     val hook=remember(word.id,LocalArtworkVersion.current) { app.artwork.active(word.id)?.memoryHook ?: word.memoryHook }
@@ -93,41 +59,33 @@ import java.util.Locale
     }
 }
 @Composable internal fun Progress(s: StudyUiState,vm: StudyViewModel,open: (String)->Unit,reminderVersion: Int) {
-    val app=LocalApp.current
-    val billing=app.entitlements as? com.linapps.swedish3000.data.PlayEntitlementRepository
-    val purchaseMessage=billing?.message?.collectAsStateWithLifecycle()?.value
-    val purchaseBusy=billing?.busy?.collectAsStateWithLifecycle()?.value ?: false
     val known=s.ratings.values.count { it.status==LearningStatus.KNOWN };val learning=s.ratings.values.count { it.status==LearningStatus.LEARNING }
     val today=LocalDate.now();val zone=ZoneId.systemDefault()
     val byDay=remember(s.events,today,zone) { s.events.groupingBy { Instant.ofEpochMilli(it.at).atZone(zone).toLocalDate() }.eachCount() }
     val days=(6L downTo 0L).map { today.minusDays(it) }
-    val reminders=remember(reminderVersion) { app.reminders.settings }
-    val next=remember(reminderVersion) { app.reminders.nextDate }
     Column(Modifier.widthIn(max=624.dp).fillMaxSize().verticalScroll(rememberScrollState()).padding(22.dp),verticalArrangement=Arrangement.spacedBy(23.dp)) {
         Row(verticalAlignment=Alignment.Top) {
             Column(Modifier.weight(1f),verticalArrangement=Arrangement.spacedBy(6.dp)) { Eyebrow("Your Swedish, growing");Text("Your progress",fontFamily=FontFamily.Serif,fontSize=31.sp,fontWeight=FontWeight.SemiBold) }
-            TextButton(onClick={ open("support") },modifier=Modifier.testTag("progress.support")) { Symbol("help",Modifier.size(18.dp));Spacer(Modifier.width(5.dp));Text("Help") }
         }
+        s.savedSession?.takeIf {it.ids.isNotEmpty()}?.let { saved ->
+            SectionCard {
+                Text("Continue your last session",fontWeight=FontWeight.SemiBold,color=Forest)
+                Text(saved.title,fontFamily=FontFamily.Serif,fontSize=22.sp)
+                Text("${saved.ids.size} words remaining · your place is saved",fontSize=13.sp,color=Muted)
+                FilledAction("Resume studying",vm::resumeSession,Modifier.testTag("progress.resume"))
+            }
+        }
+        val learningWords=s.words.filter {s.ratings[it.id]?.status==LearningStatus.LEARNING}
         SectionCard {
-            Row(Modifier.fillMaxWidth().clickable { vm.premium(true) }.testTag("progress.premium"),verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.spacedBy(14.dp)) {
-                Symbol(if(s.access==Entitlement.COMPLETE) "check" else "sparkle",Modifier.size(44.dp).background(Sage,RoundedCornerShape(50)).padding(10.dp))
-                Column(Modifier.weight(1f),verticalArrangement=Arrangement.spacedBy(4.dp)) { Text(if(s.access==Entitlement.COMPLETE) "3000 Swedish Words Premium" else "3000 Swedish Words Free",fontWeight=FontWeight.SemiBold,color=Forest,fontSize=16.sp);Text(if(s.access==Entitlement.COMPLETE) "Available Swedish lessons unlocked" else "211 A-set words; artwork in progress",fontSize=12.sp,color=Muted) }
-                Symbol("chevron",Modifier.size(16.dp))
+            Row(Modifier.fillMaxWidth(),horizontalArrangement=Arrangement.SpaceBetween) {SectionTitle("Currently learning");Text("${learningWords.size}",fontSize=24.sp,fontWeight=FontWeight.SemiBold)}
+            Text("Saved on this device, ready next time.",fontSize=13.sp,color=Muted)
+            learningWords.take(5).forEach { word ->
+                Row(Modifier.fillMaxWidth().clickable {vm.detail(word.id)}.padding(vertical=7.dp).testTag("learning.${word.id}"),verticalAlignment=Alignment.CenterVertically) {
+                    Column(Modifier.weight(1f)) {Text(word.swedish,fontSize=18.sp,fontWeight=FontWeight.SemiBold);Text(word.english,fontSize=13.sp,color=Muted)};Symbol("chevron")
+                }
             }
-            Row(Modifier.fillMaxWidth(),verticalAlignment=Alignment.CenterVertically) {
-                if(s.access!=Entitlement.COMPLETE) TextButton(onClick={ vm.premium(true) }) { Text("Explore Premium") }
-                Spacer(Modifier.weight(1f))
-                TextButton(onClick={ billing?.restore() },enabled=!purchaseBusy) { Text("Restore Purchases",fontSize=12.sp) }
-            }
-            purchaseMessage?.let { Text(it,fontSize=12.sp,color=Muted) }
-        }
-        Row(Modifier.fillMaxWidth().clip(RoundedCornerShape(23.dp)).background(Color.White).clickable { open("reminders") }.padding(16.dp).testTag("progress.reminders"),verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.spacedBy(14.dp)) {
-            Symbol("bell",Modifier.size(44.dp).background(Sage,RoundedCornerShape(50)).padding(10.dp))
-            Column(Modifier.weight(1f),verticalArrangement=Arrangement.spacedBy(4.dp)) {
-                Text("Word reminders",fontWeight=FontWeight.SemiBold,color=Forest)
-                Text(if(reminders.enabled && next!=null) "Next: "+Instant.ofEpochMilli(next).atZone(zone).format(DateTimeFormatter.ofPattern("d MMM, HH:mm")) else if(reminders.enabled) "Check notification settings" else "A little Swedish, throughout your day",fontSize=12.sp,color=Muted)
-            }
-            Symbol("chevron",Modifier.size(16.dp))
+            if(learningWords.isEmpty()) Text("Swipe a study card left to add a word here.",fontSize=13.sp,color=Muted)
+            else FilledAction(if(learningWords.size==1) "Practise this learning word" else "Practise all ${learningWords.size} learning words",vm::learningWords,Modifier.testTag("progress.learningWords"))
         }
         Row(Modifier.fillMaxWidth().background(Forest,RoundedCornerShape(27.dp)).padding(25.dp),verticalAlignment=Alignment.CenterVertically) {
             Column(Modifier.weight(1f),verticalArrangement=Arrangement.spacedBy(11.dp)) {
@@ -136,7 +94,7 @@ import java.util.Locale
                 Text("of ${s.words.size} words",color=Color.White.copy(alpha=.8f),fontSize=14.sp)
             }
             Box(Modifier.size(105.dp),contentAlignment=Alignment.Center) {
-                Canvas(Modifier.fillMaxSize()) { drawArc(Color.White.copy(alpha=.15f),-90f,360f,false,style=androidx.compose.ui.graphics.drawscope.Stroke(9.dp.toPx()));drawArc(Color(0xFFD4E8A8),-90f,360f*known/s.words.size.coerceAtLeast(1),false,style=androidx.compose.ui.graphics.drawscope.Stroke(9.dp.toPx(),cap=androidx.compose.ui.graphics.StrokeCap.Round)) }
+                Canvas(Modifier.fillMaxSize()) { drawArc(Color.White.copy(alpha=.15f),-90f,360f,false,style=androidx.compose.ui.graphics.drawscope.Stroke(9.dp.toPx()));drawArc(Color(0xFFFECC00),-90f,360f*known/s.words.size.coerceAtLeast(1),false,style=androidx.compose.ui.graphics.drawscope.Stroke(9.dp.toPx(),cap=androidx.compose.ui.graphics.StrokeCap.Round)) }
                 Column(horizontalAlignment=Alignment.CenterHorizontally) { Text("${known*100/s.words.size.coerceAtLeast(1)}%",fontSize=26.sp,fontWeight=FontWeight.SemiBold,color=Color.White);Text("familiar",fontSize=11.sp,color=Color.White.copy(alpha=.7f)) }
             }
         }
@@ -165,9 +123,9 @@ import java.util.Locale
 }
 @Composable internal fun Filters(s: StudyUiState,onDismiss: ()->Unit,onApply: (WordFilter)->Unit) {
     var filter by remember { mutableStateOf(s.filter) }
-    val words=remember(s.words,s.tab,s.search) { if(s.tab==1) s.words.filter { it.searchText.contains(s.search.trim().lowercase(Locale.ROOT)) } else s.words }
+    val words=remember(s.words,s.tab,s.search) { if(s.tab==1) s.words.filter { it.searchText.contains(searchKey(s.search.trim())) } else s.words }
     val counts=remember(filter,s.ratings,words) { words.filter { filter.copy(query="",letter=null).matches(it,s.ratings[it.id]?.status ?: LearningStatus.NEW) }.groupingBy { it.initial }.eachCount() }
-    Panel("Filters",onDismiss,action={ TextButton(onClick={ filter=WordFilter(scope=Scope.ALL) }) { Text("Reset") } }) {
+    Panel("Filters",onDismiss,closeLabel="Cancel",action={ TextButton(onClick={ filter=WordFilter(scope=Scope.ALL) },modifier=Modifier.testTag("filter.reset")) { Text("Reset") } }) {
         Column(Modifier.weight(1f).verticalScroll(rememberScrollState()).padding(20.dp),verticalArrangement=Arrangement.spacedBy(24.dp)) {
             Column(verticalArrangement=Arrangement.spacedBy(10.dp)) {
                 Eyebrow("Learning status")
@@ -175,6 +133,10 @@ import java.util.Locale
                     Row(Modifier.fillMaxWidth().background(if(filter.scope==scope) Sage else Color.White,RoundedCornerShape(12.dp)).clickable { filter=filter.copy(scope=scope) }.padding(13.dp).testTag("filter.scope.${scope.name.lowercase()}"),verticalAlignment=Alignment.CenterVertically) { Text(scope.title,color=Forest,modifier=Modifier.weight(1f));if(filter.scope==scope) Symbol("check") else Text("○",color=Forest) }
                 }
             }
+            Eyebrow("Topic")
+            Row(Modifier.fillMaxWidth().background(if(filter.topic==null) Sage else Color.White,RoundedCornerShape(14.dp)).clickable {filter=filter.copy(topic=null)}.padding(14.dp).testTag("filter.topic.all"),verticalAlignment=Alignment.CenterVertically) {Text("All topics",color=Forest,modifier=Modifier.weight(1f));if(filter.topic==null) Symbol("check")}
+            TopicCardGrid(VocabularyTopic.entries,words,s.ratings,filter.topic,"filter.topic") {topic -> filter=filter.copy(topic=topic.title)}
+            Text("A word can belong to several topics. Its progress is shared everywhere.",fontSize=12.sp,color=Muted)
             Eyebrow("English starts with")
             Row(Modifier.fillMaxWidth().background(if(filter.letter==null) Sage else Color.White,RoundedCornerShape(12.dp)).clickable { filter=filter.copy(letter=null) }.padding(13.dp).testTag("letter.all"),verticalAlignment=Alignment.CenterVertically) { Text("All letters",color=Forest,modifier=Modifier.weight(1f));Text("${counts.values.sum()}",color=Muted);if(filter.letter==null) Symbol("check",Modifier.padding(start=8.dp)) }
             Column(verticalArrangement=Arrangement.spacedBy(8.dp)) {
@@ -187,17 +149,12 @@ import java.util.Locale
                     }
                 }
             }
-            Eyebrow("Topic")
-            var topics by remember { mutableStateOf(false) }
-            Box { TextButton(onClick={ topics=true }) { Text(filter.topic ?: "All topics");Symbol("chevron") };DropdownMenu(topics,{ topics=false }) {
-                DropdownMenuItem(text={ Text("All topics") },onClick={ filter=filter.copy(topic=null);topics=false })
-                s.words.map { it.topic }.distinct().sorted().forEach { topic -> DropdownMenuItem(text={ Text(topic) },onClick={ filter=filter.copy(topic=topic);topics=false }) }
-            } }
+
         }
         FilledAction("Show ${if(filter.letter==null) counts.values.sum() else counts[filter.letter] ?: 0} words",{ onApply(filter) },Modifier.padding(20.dp).testTag("filter.apply"))
     }
 }
-@Composable internal fun PlaybackOptions(initial: PlaybackSettings,onDismiss: ()->Unit,onChange: (PlaybackSettings)->Unit,onStart: ()->Unit) {
+@Composable internal fun PlaybackOptions(initial: PlaybackSettings,onDismiss: ()->Unit,onChange: (PlaybackSettings)->Unit,onStart: ()->Unit,active: Boolean=false,onStop: ()->Unit={}) {
     var settings by remember { mutableStateOf(initial) }
     fun update(value: PlaybackSettings) { settings=value;onChange(value) }
     Panel("Automatic study",onDismiss) {
@@ -216,11 +173,13 @@ import java.util.Locale
                 Toggle("Read the Swedish sentence",settings.readSentence) { update(settings.copy(readSentence=it)) }
                 Text("Voice speed",fontWeight=FontWeight.Medium)
                 FlowRow(horizontalArrangement=Arrangement.spacedBy(8.dp)) { listOf("Slow" to .76f,"Natural" to 1f,"Brisk" to 1.19f).forEach { (label,rate) -> FilterChip(selected=kotlin.math.abs(settings.rate-rate)<.03,onClick={ update(settings.copy(rate=rate)) },label={ Text(label) }) } }
-                Text("Uses your device’s speech voices. Install a Swedish voice for offline pronunciation.",fontSize=12.sp,color=Muted)
+                Text("Ready-made Swedish and English recordings. No phone voice setup is needed. Lessons use the internet unless they are downloaded for offline study.",fontSize=12.sp,color=Muted)
+                Text("For silent automatic study, turn off all three reading switches above.",fontSize=12.sp,color=Muted)
             }
         }
-        FilledAction("Start automatic study",onStart,Modifier.padding(16.dp))
+        if(active) TextButton(onClick=onStop,modifier=Modifier.fillMaxWidth().testTag("playback.stop")) {Text("Return to manual study")}
+        FilledAction("Start automatic study",onStart,Modifier.padding(16.dp).testTag("playback.start"))
     }
 }
 @Composable private fun Stepper(label: String,value: Int,change: (Int)->Unit) { Column { Text("$label: $value seconds",fontSize=14.sp);Row(verticalAlignment=Alignment.CenterVertically) { TextButton(onClick={ change((value-1).coerceAtLeast(1)) },enabled=value>1,modifier=Modifier.testTag("$label.minus")) { Text("−",fontSize=24.sp) };Text("$value",modifier=Modifier.padding(horizontal=8.dp));TextButton(onClick={ change((value+1).coerceAtMost(15)) },enabled=value<15) { Text("+",fontSize=24.sp) } } } }
-@Composable internal fun Toggle(label: String,value: Boolean,change: (Boolean)->Unit) { Row(Modifier.fillMaxWidth(),verticalAlignment=Alignment.CenterVertically) { Text(label,Modifier.weight(1f),fontSize=14.sp);Switch(checked=value,onCheckedChange=change,modifier=Modifier.testTag("toggle.$label")) } }
+@Composable internal fun Toggle(label: String,value: Boolean,enabled: Boolean=true,change: (Boolean)->Unit) { Row(Modifier.fillMaxWidth(),verticalAlignment=Alignment.CenterVertically) { Text(label,Modifier.weight(1f),fontSize=14.sp);Switch(checked=value,onCheckedChange=change,enabled=enabled,modifier=Modifier.testTag("toggle.$label")) } }

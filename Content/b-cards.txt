@@ -13,7 +13,7 @@
 224|en banan|Jag äter en banan till mellanmål.|I eat a banana as a snack.|banana → banan.|Adult peels a yellow banana at a kitchen table beside fruit bowl.
 225|ett band|Bandet spelar på scenen.|The band is playing on stage.|band → band: musicians together.|Four adult musicians perform with guitar, drums, keyboard and microphone.
 226|en bank|Jag sätter in pengar på banken.|I deposit money at the bank.|bank = a bank for money.|Adult customer deposits banknotes at a bank counter.
-227|en flodbank|Vi sitter på flodbanken.|We are sitting on the river bank.|flod = river; bank = bank of the river.|Two adults sit on the grassy raised bank beside a flowing river.
+227|en flodstrand|Vi sitter på flodstranden.|We are sitting on the river bank.|flod = river; strand = bank or shore.|Two adults sit on the grassy raised bank beside a flowing river.
 228|en bar|Vi träffas på en bar.|We meet at a bar.|bar → bar.|Two clearly adult friends meet at a polished bar counter with stools.
 229|en barriär|En barriär blockerar vägen.|A barrier blocks the road.|barrier → barriär.|Road barrier clearly spans a closed road; adult cyclist waits before it.
 230|en bas|Tornet har en stabil bas.|The tower has a stable base.|base → bas.|Wooden model tower with a broad stable base highlighted below.

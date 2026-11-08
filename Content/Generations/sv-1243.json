@@ -1,0 +1,18 @@
+{
+  "id": "sv-1243",
+  "english": "height",
+  "swedish": "en höjd",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en höjd\". Smaller English meaning verbatim: \"height\".\nScene: A person measuring vertically from the floor to a tabletop with a tape measure, clear vertical arrow.\nMemory-link caption verbatim: \"höjd = height; picture the upward measurement.\".\nSwedish example in bottom strip verbatim: \"Vi mätte bordets höjd.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-836073d6-039d-4e22-b41c-ef754823a367.png",
+  "artwork": "Content/Artwork/sv-1243.png",
+  "sha256": "5dbb693f374ebd1f706929d3113322fd8b53a4c3834241af1d0ec079c04d4eee",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

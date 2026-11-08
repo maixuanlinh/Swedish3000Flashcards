@@ -1,0 +1,7 @@
+{
+  "id": "sv-1751",
+  "prompt": "Use case: scientific-educational. Edit the supplied Swedish vocabulary card. Keep all heading text, English translation, memory caption and bottom Swedish sentence EXACTLY unchanged, and retain cream, gold and blue card styling. Replace the ENTIRE central abacus scene: remove every bead and the abacus frame completely. In its place show a large realistic cream desktop calculator on a warm wooden table in the same sunny Swedish interior. Its large, perfectly legible digital display shows exactly '100 − 10 = 90'. Make 90 the clear result. No other number displays. This visual directly explains the bottom sentence 'Tio mindre än hundra är nittio.' Do not include an abacus or loose beads anywhere. Prior attempts failed to count beads, so the new scene must use arithmetic digits instead.",
+  "source": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-b62a360a-5cbf-4607-9b95-afc4ad7e8256.png",
+  "referenceImage": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-d8102155-47b1-49cb-b6f0-4f50b839a0e4.png",
+  "reviewed": false
+}

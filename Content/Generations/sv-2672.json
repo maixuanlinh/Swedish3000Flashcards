@@ -1,0 +1,19 @@
+{
+  "id": "sv-2672",
+  "english": "the",
+  "swedish": "den",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"den\". Smaller English meaning verbatim: \"the\".\nScene: One red car in the foreground highlighted by a gold frame, a blue car farther away provides contrast, an adult points to the specific red car, no readable text.\nMemory-link caption verbatim: \"den ... -en marks the definite form with an adjective here: den röda bilen.\".\nSwedish example in bottom strip verbatim: \"Den röda bilen står här.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".\nCanvas: fully opaque square edge-to-edge. Outside rounded teaching panels, use solid cream or the scene continuing to the edges. No checkerboard pattern, transparency simulation, or cutout corners.\nScene interpretation only; do NOT print this English translation: \"The red car is here.\". The scene must match who performs each action, including the gender of any person specified by a pronoun. Keep all visible teaching text exactly as specified above.",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-4acb5cd6-42b5-460b-91f1-07aa0360c4be.png",
+  "artwork": "Content/Artwork/sv-2672.png",
+  "sha256": "f0408315eb171ef200cbcf585d47fdd2dd2d41c09b39dad4b3bc54f61aa69d67",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

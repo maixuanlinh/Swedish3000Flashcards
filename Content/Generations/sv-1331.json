@@ -1,0 +1,19 @@
+{
+  "id": "sv-1331",
+  "english": "impatient",
+  "swedish": "otålig",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"otålig\". Smaller English meaning verbatim: \"impatient\".\nScene: A man waiting at a bus stop, repeatedly checking his watch with an impatient expression, an empty road beyond him.\nMemory-link caption verbatim: \"o- can mean not; otålig = impatient.\".\nSwedish example in bottom strip verbatim: \"Han blev otålig när bussen var sen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-7b6f25b1-cbe8-4751-b59b-63e5e28a027e.png",
+  "artwork": "Content/Artwork/sv-1331.png",
+  "sha256": "f0bc2993dfb6a31ff978c141a8e475eae7b6324ca30fb7be98ca826b66ce02ed",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

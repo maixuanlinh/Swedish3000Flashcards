@@ -1,0 +1,19 @@
+{
+  "id": "sv-1358",
+  "english": "indirect",
+  "swedish": "indirekt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"indirekt\". Smaller English meaning verbatim: \"indirect\".\nScene: Sunlight reflecting from a pale wall into a room, with simple arrows showing the light bouncing before reaching a plant.\nMemory-link caption verbatim: \"indirekt resembles indirect.\".\nSwedish example in bottom strip verbatim: \"Rummet får indirekt ljus.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-a02bfbc9-2d8c-40fd-b6bb-271b9144b8ad.png",
+  "artwork": "Content/Artwork/sv-1358.png",
+  "sha256": "6b84e7f4180cde9f7de00cc58d2bcee66d1effece166aca4807974ef8b28462d",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

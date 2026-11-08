@@ -1,0 +1,19 @@
+{
+  "id": "sv-1291",
+  "english": "hour",
+  "swedish": "en timme",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en timme\". Smaller English meaning verbatim: \"hour\".\nScene: A traveller beside a train and a simple clock diagram showing the minute hand completing one full circle.\nMemory-link caption verbatim: \"timme = hour; picture one full turn of the minute hand.\".\nSwedish example in bottom strip verbatim: \"Resan tar en timme.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-a7f553d7-d5e1-4df8-a99b-a1ebccdf1f52.png",
+  "artwork": "Content/Artwork/sv-1291.png",
+  "sha256": "53f463f9783d2f94b48e3b1cad66556567069a6998d9d3634ac18b4dad1093f4",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

@@ -133,11 +133,24 @@ final class PremiumStore {
             listener = Task { [weak self] in
                 for await _ in updates {
                     guard !Task.isCancelled else { return }
-                    await self?.refreshAccess()
+                    await self?.refreshAfterTransactionUpdate()
                 }
             }
         }
         await refreshAccess()
+    }
+
+    private func refreshAfterTransactionUpdate() async {
+        let previous = isPremium
+        // StoreKit may publish the event before its entitlement cache is current.
+        for pause in [0.0, 0.15, 0.4, 1.0] {
+            if pause > 0 {
+                do { try await Task.sleep(for: .seconds(pause)) }
+                catch { return }
+            }
+            await refreshAccess()
+            if isPremium != previous { return }
+        }
     }
 
     func refreshAccess() async {
@@ -146,9 +159,15 @@ final class PremiumStore {
             return
         }
         refreshRevision += 1
-        let revision = refreshRevision
-        let owns = await client.hasPurchase()
-        guard revision == refreshRevision else { return }
+        var revision = refreshRevision
+        var owns = await client.hasPurchase()
+        // A transaction update can start another check while this call awaits
+        // StoreKit. Keep awaiting a current result so purchase/start/restore
+        // cannot return before the latest entitlement decision is applied.
+        while revision != refreshRevision {
+            revision = refreshRevision
+            owns = await client.hasPurchase()
+        }
         let wasPremium = isPremium
         isPremium = owns
         checked = true
@@ -174,9 +193,16 @@ final class PremiumStore {
         do {
             switch try await client.purchase() {
             case .purchased:
-                await refreshAccess()
+                for attempt in 0..<12 {
+                    await refreshAccess()
+                    if isPremium { break }
+                    if attempt < 11 {
+                        do { try await Task.sleep(for: .milliseconds(250)) }
+                        catch { break }
+                    }
+                }
                 if !isPremium { message = "We’re checking your purchase. Try Restore Purchases if Premium doesn’t appear." }
-                else { message = "Premium unlocked for the available Swedish lessons." }
+                else { message = "Premium unlocked. All 3,000 Swedish lessons are ready." }
             case .cancelled: break
             case .pending:
                 pending = true
@@ -194,7 +220,7 @@ final class PremiumStore {
         do {
             try await client.restore()
             await refreshAccess()
-            message = isPremium ? "Premium restored. All your complete lessons are unlocked." :
+            message = isPremium ? "Premium restored. All 3,000 Swedish lessons are unlocked." :
                 "No Premium purchase was found. Use the Apple Account that originally purchased 3000 Swedish Words Premium."
         } catch { message = "Purchases couldn’t be restored. Check your connection and Apple Account, then try again." }
     }

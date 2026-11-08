@@ -1,0 +1,19 @@
+{
+  "id": "sv-1365",
+  "english": "influence",
+  "swedish": "ett inflytande",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett inflytande\". Smaller English meaning verbatim: \"influence\".\nScene: An inspiring teacher sharing ideas with attentive students, with gentle connecting lines showing ideas spreading.\nMemory-link caption verbatim: \"inflytande = influence; picture ideas spreading to others.\".\nSwedish example in bottom strip verbatim: \"Läraren har stort inflytande på eleverna.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-f9cdb15e-52b8-4f87-8f0e-cc2ef72b0f7b.png",
+  "artwork": "Content/Artwork/sv-1365.png",
+  "sha256": "f724c25b7aa75aac3bc3b1dde5a90c434889296c6983431be12028cdb51df45a",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

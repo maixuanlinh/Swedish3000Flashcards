@@ -63,13 +63,33 @@ struct VocabularyFilterSheet: View {
                                     Image(systemName: scope == value ? "checkmark.circle.fill" : "circle")
                                 }
                                 .font(.subheadline.weight(.medium))
-                                .foregroundStyle(Palette.forest)
+                                .foregroundStyle(Palette.accent)
                                 .padding(13)
-                                .background(scope == value ? Palette.sage : .white, in: RoundedRectangle(cornerRadius: 12))
+                                .background(scope == value ? Palette.accentSoft : .white, in: RoundedRectangle(cornerRadius: 12))
                             }
                             .accessibilityIdentifier("filter.scope.\(value.rawValue)")
                             .accessibilityAddTraits(scope == value ? .isSelected : [])
                         }
+                    }
+                    VStack(alignment: .leading, spacing: 12) {
+                        Eyebrow(text: "Topic")
+                        Button { topic = nil } label: {
+                            HStack {
+                                Text("All topics")
+                                Spacer()
+                                if topic == nil { Image(systemName: "checkmark.circle.fill") }
+                            }
+                            .font(.subheadline.weight(.medium)).padding(14)
+                            .foregroundStyle(Palette.accent)
+                            .background(topic == nil ? Palette.accentSoft : .white, in: RoundedRectangle(cornerRadius: 14))
+                        }
+                        .accessibilityIdentifier("filter.topic.all")
+                        TopicCardGrid(progress: store.topicProgress(words: words), selected: topic) { value in
+                            topic = value.rawValue
+                        }
+                        .accessibilityIdentifier("filter.topic")
+                        Text("A word can belong to several topics. Its learning progress is shared everywhere.")
+                            .font(.caption).foregroundStyle(Palette.muted)
                     }
                     VStack(alignment: .leading, spacing: 12) {
                         Eyebrow(text: "English starts with")
@@ -81,8 +101,8 @@ struct VocabularyFilterSheet: View {
                                 if letter == nil { Image(systemName: "checkmark") }
                             }
                             .font(.subheadline.weight(.medium)).padding(13)
-                            .foregroundStyle(Palette.forest)
-                            .background(letter == nil ? Palette.sage : .white, in: RoundedRectangle(cornerRadius: 12))
+                            .foregroundStyle(Palette.accent)
+                            .background(letter == nil ? Palette.accentSoft : .white, in: RoundedRectangle(cornerRadius: 12))
                         }
                         .accessibilityIdentifier("letter.all")
                         LazyVGrid(columns: Array(repeating: GridItem(.flexible(), spacing: 8), count: 6), spacing: 8) {
@@ -93,24 +113,13 @@ struct VocabularyFilterSheet: View {
                                         Text("\(summary.letterCounts[value, default: 0])").font(.caption2).opacity(0.75)
                                     }
                                     .frame(maxWidth: .infinity).frame(height: 52)
-                                    .foregroundStyle(letter == value ? .white : Palette.forest)
-                                    .background(letter == value ? Palette.forest : .white, in: RoundedRectangle(cornerRadius: 12))
+                                    .foregroundStyle(letter == value ? .white : Palette.accent)
+                                    .background(letter == value ? Palette.accent : .white, in: RoundedRectangle(cornerRadius: 12))
                                 }
                                 .accessibilityLabel("\(value), \(summary.letterCounts[value, default: 0]) words")
                                 .accessibilityIdentifier("letter.\(value)")
                             }
                         }
-                    }
-                    VStack(alignment: .leading, spacing: 10) {
-                        Eyebrow(text: "Topic")
-                        Picker("Topic", selection: $topic) {
-                            Text("All topics").tag(String?.none)
-                            ForEach(summary.topics, id: \.self) { value in
-                                Text(value).tag(Optional(value))
-                            }
-                        }
-                        .pickerStyle(.menu).tint(Palette.forest)
-                        .accessibilityIdentifier("filter.topic")
                     }
                 }
                 .padding(20)

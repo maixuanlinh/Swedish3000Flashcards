@@ -1,0 +1,19 @@
+{
+  "id": "sv-1461",
+  "english": "kind (type)",
+  "swedish": "en sort",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en sort\". Smaller English meaning verbatim: \"kind (type)\".\nScene: Three visibly distinct types of loose-leaf tea in separate bowls, a person offering the choice to a friend. No readable labels.\nMemory-link caption verbatim: \"sort = kind or type; picture choosing between varieties.\".\nSwedish example in bottom strip verbatim: \"Vilken sorts te vill du ha?\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-9038ff9a-4a72-459b-bd71-a459ae4c9f2e.png",
+  "artwork": "Content/Artwork/sv-1461.png",
+  "sha256": "3de6f10a3328d12979b759d30d2921012a9fc2d8c44e545f262a315329d1782b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

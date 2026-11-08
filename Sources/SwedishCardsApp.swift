@@ -7,12 +7,18 @@ struct SwedishCardsApp: App {
     @UIApplicationDelegateAdaptor(ReminderAppDelegate.self) private var appDelegate
     @State private var reminders = WordReminders()
     @State private var premium = PremiumStore()
+    @State private var media = LessonMedia.shared
     @State private var store: StudyStore?
     @State private var startupError: String?
 
     @State private var loading = false
 
     private func start() async {
+        #if DEBUG
+        // Unit tests configure StoreKit themselves; do not query the store before
+        // their SKTestSession has selected the local purchase environment.
+        if NSClassFromString("XCTestCase") != nil && !ProcessInfo.processInfo.arguments.contains("-ui-testing") { return }
+        #endif
         guard store == nil, !loading else { return }
         loading = true
         startupError = nil
@@ -43,7 +49,10 @@ struct SwedishCardsApp: App {
         } else if let testURL {
             artworkDirectory = URL.applicationSupportDirectory.appending(path: "TestArtwork/" + testURL.lastPathComponent)
         } else { artworkDirectory = nil }
-        return try StudyStore(container: container, seeds: StudyStore.readSeeds(), artworkDirectory: artworkDirectory)
+        let sessionDefaults: UserDefaults? = args.contains("-ui-testing") ? nil :
+            testURL.flatMap { UserDefaults(suiteName: "study-session-" + $0.lastPathComponent) } ?? .standard
+        return try StudyStore(container: container, seeds: StudyStore.readSeeds(), artworkDirectory: artworkDirectory,
+                              sessionDefaults: sessionDefaults)
     }
 
     var body: some Scene {
@@ -54,6 +63,7 @@ struct SwedishCardsApp: App {
                         .environment(store)
                         .environment(reminders)
                         .environment(premium)
+                        .environment(media)
                         .modelContainer(store.container)
                 } else if let startupError {
                     ContentUnavailableView {
@@ -66,14 +76,14 @@ struct SwedishCardsApp: App {
                         }
                     }
                 } else {
-                    ProgressView().tint(Palette.forest)
+                    ProgressView().tint(Palette.accent)
                         .frame(maxWidth: .infinity, maxHeight: .infinity)
                         .background(Palette.background)
                         .accessibilityLabel("Loading vocabulary")
                 }
             }
             .task { await start() }
-            .tint(Palette.forest)
+            .tint(Palette.accent)
             .preferredColorScheme(.light)
         }
     }

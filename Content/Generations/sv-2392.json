@@ -1,0 +1,19 @@
+{
+  "id": "sv-2392",
+  "english": "shot",
+  "swedish": "ett skott",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ett skott\". Smaller English meaning verbatim: \"shot\".\nScene: An adult football player taking a shot toward a goal, one ball moving from foot toward net, goalkeeper positioned coherently, no duplicate balls.\nMemory-link caption verbatim: \"skott = shot here; a strike toward a sports goal.\".\nSwedish example in bottom strip verbatim: \"Spelaren skjuter ett skott mot mål.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-36329140-4d36-4fbe-aeff-d1fe934837b2.png",
+  "artwork": "Content/Artwork/sv-2392.png",
+  "sha256": "7bbefc91c6a53241a93d39aacb84cea3e4c63a49525e0a7d5e9ee616019e2d35",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

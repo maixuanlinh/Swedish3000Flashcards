@@ -1,0 +1,48 @@
+1209|en vana|Det är en god vana att läsa varje dag.|It is a good habit to read every day.|vana = habit; picture the same daily reading ritual.|A reader enjoying a book in the same cosy chair, a small calendar with repeated book symbols showing a daily habit.
+1210|hår|Hon har långt hår.|She has long hair.|hår resembles hair.|A woman with long flowing hair gently brushing it beside a mirror.
+1211|en halv|Jag åt en halv apelsin.|I ate half an orange.|halv resembles half.|An orange cut into two equal halves, one half on a plate and the other being eaten.
+1212|en hall|Vi väntar i hotellets hall.|We are waiting in the hotel hall.|hall has the same spelling in both languages.|Travellers waiting with suitcases in a spacious hotel entrance hall.
+1213|en hand|Hon håller min hand.|She is holding my hand.|hand has the same spelling in both languages.|A close view of two people gently holding hands while walking.
+1214|hantera|Hon kan hantera den nya maskinen.|She can handle the new machine.|hantera resembles handle; picture confident control.|A trained operator calmly using the controls of a new machine in a tidy workshop.
+1215|hänga|Jag ska hänga jackan på kroken.|I will hang the jacket on the hook.|hänga resembles hang.|A hand hanging a jacket on a wall hook in a hallway.
+1216|hända|Vad kommer att hända nu?|What will happen now?|hända = happen; picture the next event unfolding.|A person watching the first of a row of dominoes begin to fall, anticipating what happens next.
+1217|lyckligt|De levde lyckligt tillsammans.|They lived happily together.|lycka = happiness; lyckligt = happily.|An older adult couple laughing together while tending their sunny garden.
+1218|lycka|Barnets skratt fyllde henne med lycka.|The child's laughter filled her with happiness.|lycka = happiness; picture joy spreading from a laugh.|A mother smiling with visible joy as her young child laughs during play.
+1219|lycklig|Hon är lycklig i sitt nya hem.|She is happy in her new home.|lycka = happiness; lycklig = happy.|A delighted woman relaxing among moving boxes and plants in her bright new home.
+1220|hård|Stolen är för hård.|The chair is too hard.|hård resembles hard.|A person finding an unpadded wooden chair uncomfortable, comparing it with a soft cushion nearby.
+1221|knappt|Jag kan knappt se något i mörkret.|I can hardly see anything in the dark.|knappt = hardly or barely; only a tiny amount.|A person peering into a dim room where only a faint outline is visible through the darkness.
+1222|en skada|Stormen orsakade stor skada.|The storm caused great harm.|skada = harm or damage; picture a broken branch.|A garden after a storm with a fallen branch and damaged fence, no injured people.
+1223|skadlig|Röken är skadlig för miljön.|The smoke is harmful to the environment.|skada → skadlig: harm → harmful.|Dark smoke drifting from a chimney over wilted plants, clear environmental damage symbolism.
+1224|en hatt|Han har en svart hatt.|He has a black hat.|hatt resembles hat.|A man wearing a clearly visible black brimmed hat in a bright neutral setting.
+1225|hata|Jag hatar att vänta i kö.|I hate waiting in line.|hata resembles hate.|An adult looking very frustrated while waiting in a long queue, a nearby clock emphasising the wait.
+1226|ha|Vi har en hund.|We have a dog.|ha resembles have.|A family happily sitting beside their pet dog at home.
+1227|måste|Jag måste gå nu.|I have to go now.|måste resembles must: have to.|A person looking at a clock and hurriedly picking up their coat to leave for an appointment.
+1228|han|Han väntar på bussen.|He is waiting for the bus.|han = he; point to the man in the scene.|A man waiting alone at a bus stop, a simple gold pointer clearly identifying him.
+1229|ett huvud|Hon skakade på huvudet.|She shook her head.|huvud = head; picture the head turning side to side.|A woman gently shaking her head, subtle side-to-side motion arrows around her head.
+1230|huvudvärk|Jag har huvudvärk i dag.|I have a headache today.|huvud + värk = head + ache.|An adult resting with a hand against their forehead, a subtle soft ache symbol near the head.
+1231|en rubrik|Tidningen har en stor rubrik.|The newspaper has a large headline.|rubrik = headline; picture the biggest line of print.|A newspaper with one very large headline area above smaller columns, only abstract unreadable print in the scene.
+1232|hälsa|God sömn är viktig för hälsan.|Good sleep is important for health.|hälsa = health; picture rested energy.|A well-rested adult waking refreshed in a peaceful bedroom with gentle morning light.
+1233|hälsosam|Hon äter hälsosam mat.|She eats healthy food.|hälsa → hälsosam: health → healthy.|A woman preparing a varied colourful meal of vegetables, beans, whole grains and fruit.
+1234|höra|Jag kan höra fåglarna sjunga.|I can hear the birds singing.|höra resembles hear.|A person pausing to listen to birds singing in a sunlit tree, gentle sound-wave symbols.
+1235|hörsel|Min farfar har dålig hörsel.|My grandfather has poor hearing.|höra → hörsel: hear → hearing.|An older man turning his ear toward a speaker to hear better, calm respectful everyday conversation.
+1236|ett hjärta|Hjärtat slår snabbt efter löpningen.|The heart beats fast after running.|hjärta resembles heart.|A runner resting after exercise with a simple glowing heart symbol and a faster pulse line, no medical advice.
+1237|värme|Vi njuter av solens värme.|We enjoy the sun's heat.|värme = heat or warmth; picture warm sunlight.|Two adults sitting outdoors and enjoying gentle warm sunshine on their faces.
+1238|uppvärmning|Huset har elektrisk uppvärmning.|The house has electric heating.|värme = heat; uppvärmning = heating.|A cosy home warmed by an electric wall radiator with a clear power cord and soft heat-wave symbols.
+1239|himlen|Hon trodde att hennes hund var i himlen.|She believed that her dog was in heaven.|himlen = heaven or the sky; here, a comforting belief.|A woman looking at a photo of her dog while imagining it peacefully playing among glowing clouds, clearly a thought or belief.
+1240|kraftigt|Det regnar kraftigt i kväll.|It is raining heavily this evening.|kraft = force; kraftigt = heavily in this rain example.|Heavy rain pouring down outside a window in the evening, dense visible raindrops and a person watching from indoors.
+1241|tung|Väskan är mycket tung.|The bag is very heavy.|tung = heavy; picture a bag pulling down your arm.|An adult struggling to lift a very heavy suitcase, bent knees and the bag firmly near the ground.
+1242|en häl|Jag har ont i min häl.|My heel hurts.|häl resembles heel.|A close view of a person gently pointing to the back underside of their heel, no injury detail.
+1243|en höjd|Vi mätte bordets höjd.|We measured the table's height.|höjd = height; picture the upward measurement.|A person measuring vertically from the floor to a tabletop with a tape measure, clear vertical arrow.
+1244|en helikopter|En helikopter flög över skogen.|A helicopter flew over the forest.|helikopter resembles helicopter.|A helicopter flying above a green forest in daylight, distinct rotor and safe distant view.
+1245|ett helvete|I berättelsen hamnar han i helvetet.|In the story, he ends up in hell.|helvete = hell; picture a fictional fiery underworld.|An open storybook revealing a symbolic fictional fiery underworld, no suffering people, no gore.
+1246|hej|Hej, hur mår du?|Hello, how are you?|hej resembles hey: a friendly hello.|Two neighbours smiling and waving hello outside their homes.
+1247|hjälpa|Kan du hjälpa mig med väskan?|Can you help me with the bag?|hjälpa resembles help.|One person helping another lift a suitcase onto a train luggage rack.
+1248|hjälpsam|Personalen är mycket hjälpsam.|The staff are very helpful.|hjälpa → hjälpsam: help → helpful.|A helpful shop assistant patiently guiding a shopper to the correct shelf.
+1249|henne|Jag såg henne på stationen.|I saw her at the station.|henne = her when she receives the action.|A traveller noticing a woman across a station concourse, a subtle gold pointer identifying the woman being seen.
+1250|här|Kom och sätt dig här.|Come and sit here.|här resembles here.|A person inviting a friend to sit on the empty chair directly beside them, hand pointing at that nearby chair.
+1251|en hjälte|Brandmannen blev en hjälte i staden.|The firefighter became a hero in the town.|hjälte = hero; picture someone bravely helping others.|A firefighter safely carrying a rescued cat back to its relieved owner while neighbours applaud.
+1252|hennes|Den röda cykeln är hennes.|The red bicycle is hers.|hennes = hers; picture the bicycle belonging to her.|A woman standing proudly beside her red bicycle, a clear ownership gesture with her hand resting on its handlebars.
+1253|sig själv|Hon såg sig själv i spegeln.|She saw herself in the mirror.|sig själv = herself in this sentence.|A woman looking directly at her own matching reflection in a mirror, same face and clothing.
+1254|tveka|Tveka inte att fråga.|Do not hesitate to ask.|tveka = hesitate; picture a hand almost raised.|A student hesitating briefly before raising a hand to ask a welcoming teacher a question.
+1255|hörru|Hörru, du tappade din vante!|Hey, you dropped your mitten!|hörru = hey, listen; an informal call for attention.|A person calling after another adult and holding up the mitten they just dropped.
+1256|hejsan|Hejsan, vad kul att se dig!|Hi, how nice to see you!|hejsan = a friendly, informal hi.|Two friends meeting by chance in a cafe and greeting one another with cheerful waves.

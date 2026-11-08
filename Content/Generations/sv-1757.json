@@ -1,0 +1,19 @@
+{
+  "id": "sv-1757",
+  "english": "no one",
+  "swedish": "ingen",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"ingen\". Smaller English meaning verbatim: \"no one\".\nScene: An open doorway into a well-lit completely empty room with a chair, table and plant, no person anywhere, strong view into every corner.\nMemory-link caption verbatim: \"ingen = no one; picture an empty place.\".\nSwedish example in bottom strip verbatim: \"Det finns ingen i rummet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ca121c5c-01f0-4c5c-8046-e893d06cb4f4.png",
+  "artwork": "Content/Artwork/sv-1757.png",
+  "sha256": "4eca7027c8e4fa607d4e2a76595cdda0561038540c8760b67042735ced12aa46",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

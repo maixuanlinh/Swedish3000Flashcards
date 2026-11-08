@@ -1,0 +1,19 @@
+{
+  "id": "sv-2394",
+  "english": "shoulder",
+  "swedish": "en axel",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en axel\". Smaller English meaning verbatim: \"shoulder\".\nScene: Two adult friends, one resting a single natural hand on the other's clearly visible shoulder, coherent arms and friendly pose.\nMemory-link caption verbatim: \"axel = shoulder; where the upper arm meets the body.\".\nSwedish example in bottom strip verbatim: \"Hon lägger handen på hans axel.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-a1e93a40-7ef9-4ff0-8f14-5c0aa1447e51.png",
+  "artwork": "Content/Artwork/sv-2394.png",
+  "sha256": "9f34d2608ca4dc539133e074823408bc8e5a1228b1d5000d3ac6cd0ba894cfa1",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

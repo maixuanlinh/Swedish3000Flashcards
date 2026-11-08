@@ -1,0 +1,18 @@
+{
+  "id": "sv-1267",
+  "english": "his",
+  "swedish": "hans",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"hans\". Smaller English meaning verbatim: \"his\".\nScene: A man placing his hand on his own jacket hanging on a coat stand.\nMemory-link caption verbatim: \"hans = his; picture the jacket belonging to him.\".\nSwedish example in bottom strip verbatim: \"Det här är hans jacka.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-114aa49b-8f12-40df-a90b-cf37e102055d.png",
+  "artwork": "Content/Artwork/sv-1267.png",
+  "sha256": "328f46cd102afdd3756038dd8c1ddba36139980eb7e51fe14ee4606889de7521",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

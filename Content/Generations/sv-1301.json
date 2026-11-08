@@ -1,0 +1,19 @@
+{
+  "id": "sv-1301",
+  "english": "hundred",
+  "swedish": "hundra",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"hundra\". Smaller English meaning verbatim: \"hundred\".\nScene: A hall with a neatly arranged ten-by-ten grid of seats, an unobtrusive 100 symbol reinforcing the total.\nMemory-link caption verbatim: \"hundra resembles hundred.\".\nSwedish example in bottom strip verbatim: \"Det finns hundra platser i salen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-c627bb92-ca23-425d-9576-557d13b58393.png",
+  "artwork": "Content/Artwork/sv-1301.png",
+  "sha256": "423daa98ba05595baee2ed734e1c331651507eccf28cfba5237082887da74a2e",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

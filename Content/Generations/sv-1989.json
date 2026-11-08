@@ -1,0 +1,19 @@
+{
+  "id": "sv-1989",
+  "english": "port",
+  "swedish": "en hamn",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en hamn\". Smaller English meaning verbatim: \"port\".\nScene: A large cargo ship moored safely at a working harbor with cranes, docks and calm water, clear maritime context.\nMemory-link caption verbatim: \"hamn = port or harbor.\".\nSwedish example in bottom strip verbatim: \"Fartyget ligger i hamnen.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-e1297aeb-bbdf-4ea6-864d-d41aa6c77d9b.png",
+  "artwork": "Content/Artwork/sv-1989.png",
+  "sha256": "f9c4a2e934bb83795862c04b5cd310bbafb74a51c0b5b4bc127b7c34b609a546",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

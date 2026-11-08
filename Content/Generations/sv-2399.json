@@ -1,0 +1,19 @@
+{
+  "id": "sv-2399",
+  "english": "shy",
+  "swedish": "blyg",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"blyg\". Smaller English meaning verbatim: \"shy\".\nScene: An adult man at a friendly gathering standing quietly at edge with tentative smile, another adult gently welcoming him.\nMemory-link caption verbatim: \"blyg = shy; feeling hesitant around unfamiliar people.\".\nSwedish example in bottom strip verbatim: \"Han är blyg inför nya människor.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-b9b35dd9-1d4c-4095-8623-be231479ee34.png",
+  "artwork": "Content/Artwork/sv-2399.png",
+  "sha256": "da0944d12056dff1147e42b40cfc1ded201f845cd5389884d6baf9dac6f63712",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

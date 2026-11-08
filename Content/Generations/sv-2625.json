@@ -1,0 +1,19 @@
+{
+  "id": "sv-2625",
+  "english": "sympathy",
+  "swedish": "medkänsla",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"medkänsla\". Smaller English meaning verbatim: \"sympathy\".\nScene: Adult woman listens warmly to sad friend at kitchen table and offers tissue, respectful comforting gesture, no pity stereotype.\nMemory-link caption verbatim: \"medkänsla = sympathy; understanding and caring about another's sadness.\".\nSwedish example in bottom strip verbatim: \"Hon visar medkänsla med sin vän.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-17586f10-89b6-4198-b16d-468d13e8eede.png",
+  "artwork": "Content/Artwork/sv-2625.png",
+  "sha256": "8184b6c65317598f9c0f054c235e19f4748abb503d39fee1b5ef67144cef314c",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

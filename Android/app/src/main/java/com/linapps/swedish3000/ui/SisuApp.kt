@@ -20,6 +20,8 @@ import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.*
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.LocalFocusManager
+import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.platform.testTag
@@ -34,6 +36,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
+import androidx.lifecycle.repeatOnLifecycle
 import androidx.lifecycle.compose.LocalLifecycleOwner
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.linapps.swedish3000.SwedishApplication
@@ -43,7 +46,11 @@ import kotlinx.coroutines.withContext
 
 @Composable fun SisuApp(vm: StudyViewModel) {
     val s by vm.uiState.collectAsStateWithLifecycle()
-    val app=LocalContext.current.applicationContext as SwedishApplication
+    val focus=LocalFocusManager.current
+    val keyboard=LocalSoftwareKeyboardController.current
+    LaunchedEffect(s.tab,s.detail) { focus.clearFocus();keyboard?.hide() }
+    val context=LocalContext.current
+    val app=context.applicationContext as SwedishApplication
     var panel by rememberSaveable { mutableStateOf<String?>(null) }
     var zoom by rememberSaveable { mutableStateOf<String?>(null) }
     var artWord by rememberSaveable { mutableStateOf<String?>(null) }
@@ -51,6 +58,16 @@ import kotlinx.coroutines.withContext
     var reminderVersion by remember { mutableIntStateOf(0) }
     val owner=LocalLifecycleOwner.current
     val latestAccess by rememberUpdatedState(s.access)
+    val nextMedia = remember(s.current?.id,s.playback,s.queue,s.playIds,s.cursor,s.playIndex,s.detail,s.tab,panel) {
+        if(s.detail!=null) listOfNotNull(s.byId[s.detail])
+        else if(s.tab==0 && panel==null) {
+            val ids=if(s.playback==PlaybackState.IDLE) s.queue.drop(s.cursor) else s.playIds.drop(s.playIndex)
+            ids.take(4).mapNotNull { s.byId[it] }
+        } else emptyList()
+    }
+    LaunchedEffect(nextMedia,s.access,owner) {
+        owner.lifecycle.repeatOnLifecycle(Lifecycle.State.RESUMED) { app.media.prefetch(nextMedia,s.access) }
+    }
     LaunchedEffect(s.navigationRequest) { panel=null;artWord=null;zoom=null }
     DisposableEffect(owner) {
         val observer=LifecycleEventObserver { _, event ->
@@ -64,16 +81,16 @@ import kotlinx.coroutines.withContext
         if(!s.loading && latestAccess!=Entitlement.UNKNOWN) runCatching { app.reminders.refresh(latestAccess,force=true) }.onFailure { vm.message(it.message ?: "Reminders could not be refreshed.") }
     }
     LaunchedEffect(s.access) { if(s.access!=Entitlement.COMPLETE) { artWord=artWord?.takeIf { id -> s.byId[id]?.let { AccessPolicy.hasLesson(it,s.access) }==true };zoom=zoom?.takeIf { id -> s.byId[id]?.let { AccessPolicy.hasLesson(it,s.access) }==true } } }
-    LaunchedEffect(s.reminderSettingsRequested) { if(s.reminderSettingsRequested) { panel="reminders";vm.consumeReminderSettings() } }
-    MaterialTheme(colorScheme=lightColorScheme(primary=Forest,secondary=Forest,background=Cream,surface=Color.White,onBackground=Ink,onSurface=Ink,onSurfaceVariant=Muted,outline=Color(0xFFDCE0D6))) {
+    LaunchedEffect(s.reminderSettingsRequested,s.access) { if(s.reminderSettingsRequested && s.access!=Entitlement.UNKNOWN) { if(s.access==Entitlement.COMPLETE) panel="reminders" else vm.premium(true);vm.consumeReminderSettings() } }
+    MaterialTheme(colorScheme=lightColorScheme(primary=Forest,secondary=Forest,background=Cream,surface=Color.White,onBackground=Ink,onSurface=Ink,onSurfaceVariant=Muted,outline=Color(0xFFD7E2EC))) {
         CompositionLocalProvider(LocalApp provides app,LocalArtworkVersion provides artworkVersion) {
             BackHandler(s.detail!=null) { vm.detail(null) }
             Scaffold(containerColor=Cream,bottomBar={
-                Box(Modifier.fillMaxWidth().navigationBarsPadding().padding(horizontal=44.dp).padding(top=4.dp,bottom=2.dp),contentAlignment=Alignment.Center) {
+                Box(Modifier.fillMaxWidth().navigationBarsPadding().padding(horizontal=22.dp).padding(top=4.dp,bottom=2.dp),contentAlignment=Alignment.Center) {
                     Row(Modifier.widthIn(max=400.dp).fillMaxWidth().background(Color.White.copy(alpha=.85f),RoundedCornerShape(50)).padding(3.dp)) {
-                        listOf("Study","Words","Progress").forEachIndexed { index,label ->
+                        listOf("Study","Words","Progress","Settings").forEachIndexed { index,label ->
                             Column(Modifier.weight(1f).heightIn(min=48.dp).clip(RoundedCornerShape(50)).background(if(s.tab==index) Sage.copy(alpha=.7f) else Color.Transparent).selectable(selected=s.tab==index,role=Role.Tab,onClick={ vm.tab(index) }).padding(vertical=4.dp).testTag("tab.$label"),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.spacedBy(1.dp)) {
-                                Symbol(listOf("study","words","progress")[index],color=if(s.tab==index) Forest else Ink)
+                                Symbol(listOf("study","words","progress","settings")[index],color=if(s.tab==index) Forest else Ink)
                                 Text(label,fontSize=12.sp,lineHeight=16.sp,fontWeight=FontWeight.SemiBold,color=if(s.tab==index) Forest else Ink)
                             }
                         }
@@ -84,9 +101,10 @@ import kotlinx.coroutines.withContext
                     if(s.loading) CircularProgressIndicator(Modifier.align(Alignment.Center))
                     else if(s.loadFailed) Column(Modifier.align(Alignment.Center).padding(24.dp),verticalArrangement=Arrangement.spacedBy(16.dp)) { Text("Vocabulary could not be loaded.");FilledAction("Retry",vm::load) }
                     else when(s.tab) {
-                        0 -> Study(s,vm,{ vm.pause();panel="filters" },{ vm.pause();panel="playback" })
+                        0 -> Study(s,vm,{ vm.pause();panel="filters" },{ vm.pause();panel="playback" },{panel="offline"})
                         1 -> Words(s,vm,{ vm.pause();panel="filters" },{ if(s.access==Entitlement.COMPLETE) panel="pack" else vm.premium(true) })
-                        else -> Progress(s,vm,{ panel=it },reminderVersion)
+                        2 -> Progress(s,vm,{ panel=it },reminderVersion)
+                        else -> SettingsScreen(s,vm,{ panel=it },reminderVersion)
                     }
                 }
             }
@@ -97,40 +115,31 @@ import kotlinx.coroutines.withContext
             } }
             when(panel) {
                 "filters" -> Filters(s,onDismiss={ panel=null },onApply={ vm.filter(it);panel=null })
-                "playback" -> PlaybackOptions(s.settings,onDismiss={ panel=null },onChange=vm::settings,onStart={ panel=null;vm.play() })
-                "reminders" -> ReminderOptions(s,vm,onClose={ panel=null;reminderVersion++ })
-                "support" -> Support { panel=null }
+                "playback" -> PlaybackOptions(s.settings,onDismiss={ panel=null },onChange=vm::settings,onStart={ panel=null;vm.play() },active=s.playback!=PlaybackState.IDLE,onStop={vm.stop();panel=null})
+                "offline" -> OfflineOptions(vm,onClose={ panel=null })
+                "reminders" -> if(s.access==Entitlement.COMPLETE) ReminderOptions(s,vm,onClose={ panel=null;reminderVersion++ }) else LaunchedEffect(Unit) {panel=null;vm.premium(true)}
                 "pack" -> ArtworkPackImporter(s,vm,onClose={ panel=null },onChanged={ artworkVersion++ })
             }
             artWord?.let { id -> s.byId[id]?.let { word -> ArtworkEditor(word,vm,onClose={ artWord=null },onChanged={ artworkVersion++ },onPreview={ zoom=id }) } }
             zoom?.let { id -> s.byId[id]?.takeIf { AccessPolicy.hasLesson(it,s.access) }?.let { ZoomArtwork(it) { zoom=null } } }
             if(s.premiumRequested) Premium(s,vm) { vm.premium(false) }
+            val prompt by app.offline.premiumPrompt.collectAsStateWithLifecycle()
+            if(prompt && !s.loading && s.access==Entitlement.COMPLETE && !s.premiumRequested && panel==null) PremiumDownloadChoice(vm)
+
             s.message?.let { AlertDialog(onDismissRequest=vm::clearMessage,title={ Text("Couldn’t complete that action") },text={ Text(it) },confirmButton={ TextButton(onClick=vm::clearMessage) { Text("OK") } }) }
         }
     }
 }
-@Composable private fun Study(s: StudyUiState,vm: StudyViewModel,filters: ()->Unit,settings: ()->Unit) {
-    var menu by remember { mutableStateOf(false) }
+@Composable private fun Study(s: StudyUiState,vm: StudyViewModel,filters: ()->Unit,settings: ()->Unit,downloads: ()->Unit) {
+    var options by remember { mutableStateOf(false) }
     Column(Modifier.widthIn(max=520.dp).fillMaxSize().padding(horizontal=18.dp).padding(top=8.dp,bottom=8.dp),verticalArrangement=Arrangement.spacedBy(12.dp)) {
-        Row(Modifier.fillMaxWidth().heightIn(min=44.dp),verticalAlignment=Alignment.CenterVertically) {
-            Row(Modifier.weight(1f).heightIn(min=44.dp).clickable(onClick=filters).testTag("study.filters"),verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.spacedBy(8.dp)) {
-                Symbol("filter");Text(s.filterTitle,fontSize=14.sp,fontWeight=FontWeight.Medium,color=Forest,maxLines=1,overflow=TextOverflow.Ellipsis)
-            }
-            Text(if(s.playback!=PlaybackState.IDLE) "${s.completed.size} / ${s.playIds.size}" else "${s.initialCount-s.queue.size} / ${s.initialCount}",fontSize=11.sp,fontFamily=FontFamily.Monospace,color=Muted,modifier=Modifier.testTag("session.count"))
-            IconAction("undo","Undo last swipe",vm::undo,enabled=s.undo!=null && !s.busy,modifier=Modifier.size(40.dp).testTag("review.undo"))
-            Box {
-                IconAction(if(s.playback==PlaybackState.PLAYING) "pause" else "play",if(s.playback==PlaybackState.PLAYING) "Pause automatic study" else "Play automatic study",vm::play,enabled=s.current!=null && !s.busy,modifier=Modifier.size(40.dp).testTag("study.autoplay"))
-                if(s.access!=Entitlement.COMPLETE && s.queue.any { s.byId[it]?.initial!="A" }) Symbol("lock",Modifier.size(12.dp).align(Alignment.TopEnd))
-            }
-            Box {
-                IconAction("more","Study options",{ menu=true },modifier=Modifier.size(36.dp).testTag("study.options"))
-                DropdownMenu(expanded=menu,onDismissRequest={ menu=false }) {
-                    DropdownMenuItem(text={ Text("Playback settings") },onClick={ menu=false;settings() })
-                    DropdownMenuItem(text={ Text(if(s.showsEnglishFirst) "Show Swedish first" else "Show English first") },onClick={ menu=false;vm.direction() })
-                    DropdownMenuItem(text={ Text("Shuffle this session") },onClick={ menu=false;vm.shuffle() })
-                }
-            }
+        Row(Modifier.fillMaxWidth().heightIn(min=44.dp).testTag("study.header"),verticalAlignment=Alignment.CenterVertically) {
+            Text(s.listTitle,fontFamily=FontFamily.Serif,fontSize=21.sp,fontWeight=FontWeight.SemiBold,maxLines=2,overflow=TextOverflow.Ellipsis,modifier=Modifier.weight(1f).testTag("study.listTitle"))
+            Text(if(s.playback!=PlaybackState.IDLE) "${s.completed.size} / ${s.playIds.size}" else "${s.initialCount-s.queue.size} / ${s.initialCount}",fontSize=11.sp,fontFamily=FontFamily.Monospace,color=Muted,modifier=Modifier.padding(horizontal=8.dp).testTag("session.count"))
+            IconAction("filter","Filters: ${s.filterTitle}",filters,modifier=Modifier.size(48.dp).testTag("study.filters"))
         }
+        val downloadStatus by LocalApp.current.offline.status.collectAsStateWithLifecycle()
+        if(downloadStatus.active) TextButton(onClick={downloads()},modifier=Modifier.fillMaxWidth().testTag("study.downloadProgress")) {Text("Downloading lessons in the background · keep studying",fontSize=12.sp)}
         val word=s.current
         if(word==null) {
             Column(Modifier.weight(1f).fillMaxWidth().background(Color.White,RoundedCornerShape(27.dp)).padding(24.dp).verticalScroll(rememberScrollState()),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.spacedBy(20.dp)) {
@@ -152,9 +161,9 @@ import kotlinx.coroutines.withContext
                     detectHorizontalDragGestures(onDragStart={ vm.pause();drag=0f },onHorizontalDrag={ change,amount -> change.consume();drag+=amount },onDragCancel={ drag=0f },onDragEnd={ if(!s.busy && kotlin.math.abs(drag)>75.dp.toPx()) vm.rate(word.id,if(drag>0) LearningStatus.KNOWN else LearningStatus.LEARNING);drag=0f })
                 }.testTag("study.card")) {
                     if(!s.revealed) {
-                        Column(Modifier.weight(1f).fillMaxWidth().clickable(enabled=!s.busy,onClick=vm::flip).padding(24.dp).testTag("card.reveal"),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.Center) {
-                            Eyebrow(if(s.showsEnglishFirst) "English" else "Swedish");Spacer(Modifier.height(16.dp))
-                            Text(if(s.showsEnglishFirst) word.english else word.swedish,fontSize=42.sp,fontWeight=FontWeight.Medium,fontFamily=FontFamily.Serif,textAlign=TextAlign.Center,color=Ink,modifier=Modifier.testTag("card.prompt"))
+                        Column(Modifier.weight(1f).fillMaxWidth().clickable(enabled=!s.busy,onClick=vm::flip).then(if(scrollAnswer) Modifier.verticalScroll(rememberScrollState()) else Modifier).padding(if(compact) 12.dp else 24.dp).testTag("card.reveal"),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.Center) {
+                            Eyebrow(if(s.showsEnglishFirst) "English" else "Swedish");Spacer(Modifier.height(if(compact) 8.dp else 16.dp))
+                            Text(if(s.showsEnglishFirst) word.english else word.swedish,fontSize=if(compact) 28.sp else 42.sp,fontWeight=FontWeight.Medium,fontFamily=FontFamily.Serif,textAlign=TextAlign.Center,color=Ink,modifier=Modifier.testTag("card.prompt"))
                         }
                     } else {
                         Column(Modifier.weight(1f).fillMaxWidth().then(if(scrollAnswer) Modifier.verticalScroll(rememberScrollState()) else Modifier).padding(horizontal=20.dp).padding(top=if(compact) 14.dp else 20.dp,bottom=10.dp),verticalArrangement=Arrangement.spacedBy(if(compact) 8.dp else 12.dp)) {
@@ -178,15 +187,26 @@ import kotlinx.coroutines.withContext
                 }
                 if(kotlin.math.abs(drag)>24) Text(if(drag>0) "KNOWN" else "LEARNING",fontWeight=FontWeight.Bold,color=if(drag>0) Forest else Clay,modifier=Modifier.padding(18.dp).background(Color.White,RoundedCornerShape(12.dp)).padding(12.dp))
             }
-            Spacer(Modifier.height(1.dp))
-            if(s.playback==PlaybackState.IDLE) Ratings(s.busy) { vm.rate(word.id,it) }
-            else Row(Modifier.fillMaxWidth().background(Sage,RoundedCornerShape(17.dp)),verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.SpaceEvenly) {
-                IconAction("prev","Previous card",{ vm.step(-1) },enabled=s.playIndex>0)
-                IconAction(if(s.playback==PlaybackState.PLAYING) "pause" else "play",if(s.playback==PlaybackState.FINISHED) "Replay automatic study" else "Pause or resume automatic study",vm::play,modifier=Modifier.weight(1f))
-                IconAction("next","Next card",{ vm.step(1) },enabled=s.playIndex<s.playIds.lastIndex)
-                IconAction("stop","Return to manual study",vm::stop)
+
+        }
+        Row(Modifier.fillMaxWidth().background(Color.White,RoundedCornerShape(22.dp)).border(1.dp,Sage,RoundedCornerShape(22.dp)).padding(horizontal=8.dp,vertical=5.dp).testTag("study.toolbar"),verticalAlignment=Alignment.CenterVertically) {
+            if(s.playback!=PlaybackState.IDLE) IconAction("prev","Previous card",{vm.step(-1)},enabled=s.playIndex>0,modifier=Modifier.weight(1f).height(50.dp).testTag("playback.previous"))
+            else IconAction("undo","Undo last swipe",vm::undo,enabled=s.undo!=null && !s.busy,modifier=Modifier.weight(1f).height(50.dp).testTag("review.undo"))
+            Box(Modifier.weight(1f),contentAlignment=Alignment.Center) {
+                IconAction(if(s.playback==PlaybackState.PLAYING) "pause" else "play",if(s.playback==PlaybackState.PLAYING) "Pause automatic study" else "Play automatic study",vm::play,enabled=s.current!=null && !s.busy,color=Color.White,modifier=Modifier.size(50.dp).background(Forest,RoundedCornerShape(50)).testTag("study.autoplay"))
+                if(s.access!=Entitlement.COMPLETE && s.queue.any {s.byId[it]?.initial!="A"}) Symbol("lock",Modifier.size(12.dp).align(Alignment.TopEnd))
+            }
+            if(s.playback!=PlaybackState.IDLE) IconAction("next","Next card",{vm.step(1)},enabled=s.playIndex<s.playIds.lastIndex,modifier=Modifier.weight(1f).height(50.dp).testTag("playback.next"))
+            IconAction("playbackSettings","Playback settings",settings,modifier=Modifier.weight(1f).height(50.dp).testTag("study.playbackSettings"))
+            Box(Modifier.weight(1f)) {
+                IconAction("more","Study options",{options=true},modifier=Modifier.fillMaxWidth().height(50.dp).testTag("study.options"))
+                DropdownMenu(options,{options=false}) {
+                    DropdownMenuItem(text={Text(if(s.showsEnglishFirst) "Show Swedish first" else "Show English first")},leadingIcon={Symbol("flip")},onClick={vm.direction();options=false},modifier=Modifier.testTag("study.option.direction"))
+                    DropdownMenuItem(text={Text("Shuffle this session")},leadingIcon={Symbol("shuffle")},onClick={vm.shuffle();options=false},modifier=Modifier.testTag("study.option.shuffle"))
+                }
             }
         }
+
     }
 }
 @Composable internal fun Ratings(busy: Boolean,onRate: (LearningStatus)->Unit) {
@@ -208,14 +228,26 @@ private val imageCache=object: LruCache<String,ImageBitmap>(24*1024*1024) { over
     val personal=revision?.let { if(thumbnail) it.thumbnail else it.filename }
     val bundled=if(thumbnail) word.thumbnail else word.image
     val key=personal ?: bundled
-    val bitmap by produceState<ImageBitmap?>(null,key) {
-        value=withContext(Dispatchers.IO) { imageCache.get(key) ?: runCatching {
-            personal?.let { BitmapFactory.decodeFile(app.artwork.file(it).path)?.asImageBitmap() }
-                ?: app.assets.open("BundledArtwork/$bundled").use { BitmapFactory.decodeStream(it)?.asImageBitmap() }
-        }.getOrNull()?.also { imageCache.put(key,it) } }
+    var retry by remember(key) { mutableIntStateOf(0) }
+    val downloads by app.media.status.collectAsStateWithLifecycle()
+    val result by produceState<Pair<ImageBitmap?,Boolean>>(null to true,key,retry,downloads.packsReady) {
+        value=withContext(Dispatchers.IO) {
+            try {
+                val bitmap=imageCache.get(key) ?: (personal?.let { BitmapFactory.decodeFile(app.artwork.file(it).path)?.asImageBitmap() }
+                    ?: app.media.load("image/$bundled").let { BitmapFactory.decodeByteArray(it,0,it.size)?.asImageBitmap() })?.also { imageCache.put(key,it) }
+                bitmap to false
+            } catch(e: kotlinx.coroutines.CancellationException) { throw e }
+            catch(_: Exception) { null to false }
+        }
     }
     Box(modifier.clip(RoundedCornerShape(16.dp)).background(Cream),contentAlignment=Alignment.Center) {
-        bitmap?.let { Image(it,contentDescription="Illustration for ${word.swedish}",contentScale=ContentScale.Fit,modifier=Modifier.fillMaxSize()) } ?: Symbol("photo",Modifier.size(30.dp))
+        result.first?.let { Image(it,contentDescription="Illustration for ${word.swedish}",contentScale=ContentScale.Fit,modifier=Modifier.fillMaxSize()) }
+            ?: if(result.second) CircularProgressIndicator(Modifier.size(24.dp))
+            else if(thumbnail) Symbol("photo",Modifier.size(30.dp))
+            else Column(Modifier.padding(16.dp),horizontalAlignment=Alignment.CenterHorizontally) {
+                Symbol("photo",Modifier.size(30.dp));Text("Connect to load this image",fontSize=12.sp,color=Muted)
+                TextButton(onClick={ retry++ }) { Text("Retry") }
+            }
     }
 }
 @Composable private fun ZoomArtwork(word: Word,onDismiss: ()->Unit) {

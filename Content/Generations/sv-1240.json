@@ -1,0 +1,18 @@
+{
+  "id": "sv-1240",
+  "english": "heavily",
+  "swedish": "kraftigt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"kraftigt\". Smaller English meaning verbatim: \"heavily\".\nScene: Heavy rain pouring down outside a window in the evening, dense visible raindrops and a person watching from indoors.\nMemory-link caption verbatim: \"kraft = force; kraftigt = heavily in this rain example.\".\nSwedish example in bottom strip verbatim: \"Det regnar kraftigt i kväll.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-86764321-587b-4c8e-ad10-a97a8efde2f0.png",
+  "artwork": "Content/Artwork/sv-1240.png",
+  "sha256": "8c5102b5451e5fae260770e31b2f8c49c5e5cdb01573f3e54efde867924bc52b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

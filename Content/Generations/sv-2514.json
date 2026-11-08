@@ -1,0 +1,19 @@
+{
+  "id": "sv-2514",
+  "english": "sport",
+  "swedish": "en sport",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en sport\". Smaller English meaning verbatim: \"sport\".\nScene: Two adults playing tennis on marked court, racket and one ball, active movement with plausible anatomy.\nMemory-link caption verbatim: \"sport = sport; a game or activity involving physical skill.\".\nSwedish example in bottom strip verbatim: \"Tennis är en sport.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ffaaed28-ea0b-4411-8a1a-532840c1ba38.png",
+  "artwork": "Content/Artwork/sv-2514.png",
+  "sha256": "79d6c7281f202ad06785bbb08705992cf44a69065f43a8d7c3f410861ff5a3ee",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

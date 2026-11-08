@@ -1,0 +1,19 @@
+{
+  "id": "sv-2458",
+  "english": "sneaker",
+  "swedish": "en gymnastiksko",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en gymnastiksko\". Smaller English meaning verbatim: \"sneaker\".\nScene: Close-up adult tying laces of one unbranded athletic shoe on foot, rubber sole and fabric upper visible, anatomically natural hands.\nMemory-link caption verbatim: \"gymnastiksko = sneaker; a comfortable sports shoe.\".\nSwedish example in bottom strip verbatim: \"Hon knyter sin gymnastiksko.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-79627b05-3dd3-45ff-af57-c387736c82d0.png",
+  "artwork": "Content/Artwork/sv-2458.png",
+  "sha256": "2a22208bb04ed6d664505d9db09219097b5ffc532c1f9ec48fd2c8b7f51bb5e5",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

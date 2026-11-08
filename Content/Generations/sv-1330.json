@@ -1,0 +1,19 @@
+{
+  "id": "sv-1330",
+  "english": "impact",
+  "swedish": "påverkan",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"påverkan\". Smaller English meaning verbatim: \"impact\".\nScene: A city planner comparing a grey paved area with the same area transformed into a green park, a clear visual link showing the effect of a decision.\nMemory-link caption verbatim: \"påverkan = impact or influence; picture a change spreading outward.\".\nSwedish example in bottom strip verbatim: \"Beslutet har stor påverkan på miljön.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-b8eed23d-cd6b-4aa5-b939-481bd71b27de.png",
+  "artwork": "Content/Artwork/sv-1330.png",
+  "sha256": "0cd31f212b68a0d2a49dabb9b51abce299ccac5ac39ba9d16705ca8504fb5e28",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

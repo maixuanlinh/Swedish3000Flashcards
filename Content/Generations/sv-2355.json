@@ -1,0 +1,19 @@
+{
+  "id": "sv-2355",
+  "english": "setting",
+  "swedish": "en miljö",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en miljö\". Smaller English meaning verbatim: \"setting\".\nScene: An open illustrated storybook with a small farmhouse and fields rising gently into the central scene, rural surroundings unmistakable and no readable prose.\nMemory-link caption verbatim: \"miljö = setting here; the place and surroundings of a story.\".\nSwedish example in bottom strip verbatim: \"Berättelsen har en lantlig miljö.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-6c4255b7-2f9f-4b6b-8c89-40882ac83d41.png",
+  "artwork": "Content/Artwork/sv-2355.png",
+  "sha256": "6254db27344da89360b7e6768e5967abfa15d5a50362ef34c0c6f150141786a9",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

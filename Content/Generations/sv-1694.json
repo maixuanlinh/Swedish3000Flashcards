@@ -1,0 +1,19 @@
+{
+  "id": "sv-1694",
+  "english": "mouth",
+  "swedish": "en mun",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en mun\". Smaller English meaning verbatim: \"mouth\".\nScene: A calm adult opening their mouth during a routine dental check, a dentist nearby, no invasive tools or distress.\nMemory-link caption verbatim: \"mun = mouth; picture the opening used to speak and eat.\".\nSwedish example in bottom strip verbatim: \"Öppna munnen och säg ah.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-7694d2e2-32d4-4a40-83e7-95339aa1721b.png",
+  "artwork": "Content/Artwork/sv-1694.png",
+  "sha256": "127f4287a30890c824288ef5b5f75d6ce2d80aa0a2e9aaa04d81aad2bb6d6ec8",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

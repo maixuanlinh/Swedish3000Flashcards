@@ -1,0 +1,19 @@
+{
+  "id": "sv-1613",
+  "english": "mathematics",
+  "swedish": "matematik",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"matematik\". Smaller English meaning verbatim: \"mathematics\".\nScene: An adult university student working carefully on geometric diagrams with compass and ruler, clear mathematical shapes on paper, no dense formula text.\nMemory-link caption verbatim: \"matematik resembles mathematics.\".\nSwedish example in bottom strip verbatim: \"Hon studerar matematik vid universitetet.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-81c679a5-cea5-4743-8c0d-7bbe399d841b.png",
+  "artwork": "Content/Artwork/sv-1613.png",
+  "sha256": "75c165a6cc47653c190043ee05f845b4074b9ba0147541146659493008c677a9",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

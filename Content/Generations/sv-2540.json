@@ -1,0 +1,19 @@
+{
+  "id": "sv-2540",
+  "english": "steep",
+  "swedish": "brant",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"brant\". Smaller English meaning verbatim: \"steep\".\nScene: Adult hiker looks up sharply inclined grassy hill, small path zigzags up slope, level distant horizon makes incline obvious.\nMemory-link caption verbatim: \"brant = steep; rising at a sharp angle.\".\nSwedish example in bottom strip verbatim: \"Backen är brant.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-c08f7d48-be74-48a4-b0fe-b2c2e911d960.png",
+  "artwork": "Content/Artwork/sv-2540.png",
+  "sha256": "a8c90cb67de8afd05de1b61e8665892fe0ef25fc5aea98406c2e22adf3f1416f",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

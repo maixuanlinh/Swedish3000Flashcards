@@ -25,12 +25,17 @@ for (const item of batch) {
   const metadata = {
     id: item.id, english: card.english, swedish: card.swedish,
     generationMode: 'built-in', prompt: item.prompt,
-    referenceImage: 'Content/Artwork/sv-0001.png', sourceFile: source,
+    referenceImage: item.referenceImage ?? null,
+    styleReference: item.referenceImage ? 'Supplied image edited with the built-in image tool.' : 'Established card style described in the prompt; no image supplied.',
+    sourceFile: source,
     artwork: relative, sha256: hash(target),
     review: { heading: true, englishMeaning: true, swedishExample: true, memoryCaption: true, status: 'visually-reviewed' },
   };
   fs.writeFileSync(path.join(root, `Content/Generations/${item.id}.json`), JSON.stringify(metadata, null, 2) + '\n');
   manifest[item.id] = { path: relative, reviewed: true };
 }
-fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n');
+// Preserve unrelated imports completed while this batch copied and hashed images.
+const latestManifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+for (const item of batch) latestManifest[item.id] = manifest[item.id];
+fs.writeFileSync(manifestPath, JSON.stringify(latestManifest, null, 2) + '\n');
 console.log(`Imported ${batch.length} reviewed cards; artwork coverage ${Object.keys(manifest).length}/${catalog.entries.filter(e => e.contentStatus !== 'pending').length} authored cards.`);

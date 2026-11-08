@@ -1,0 +1,19 @@
+{
+  "id": "sv-2997",
+  "english": "yourself",
+  "swedish": "dig själv",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"dig själv\". Smaller English meaning verbatim: \"yourself\".\nScene: One adult looking into a bathroom mirror, accurate matching reflection with the same clothes and pose, finger gently pointing toward their own reflected chest, no other people.\nMemory-link caption verbatim: \"dig själv = yourself; the mirror shows the same person.\".\nSwedish example in bottom strip verbatim: \"Du kan se dig själv i spegeln.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-95714854-3995-494b-80cb-3b690e979d5d.png",
+  "artwork": "Content/Artwork/sv-2997.png",
+  "sha256": "7484717a0eddeed4524f1a8216182f55b61f1800edc6ea26b27b4807bc2f6cab",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-1390",
+  "english": "instruction",
+  "swedish": "en instruktion",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en instruktion\". Smaller English meaning verbatim: \"instruction\".\nScene: An adult reading a clear illustrated assembly instruction before starting a simple wooden kit.\nMemory-link caption verbatim: \"instruktion resembles instruction.\".\nSwedish example in bottom strip verbatim: \"Läs instruktionen innan du börjar.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-70b97b2e-57a7-45af-9183-6fb87d40c35e.png",
+  "artwork": "Content/Artwork/sv-1390.png",
+  "sha256": "6fbabdd082ed6e4a32559a4eda23d3cbb7eacbaff1da5c3fe187ebe57c7aebf7",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

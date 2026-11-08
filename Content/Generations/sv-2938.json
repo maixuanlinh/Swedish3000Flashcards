@@ -1,0 +1,19 @@
+{
+  "id": "sv-2938",
+  "english": "widely",
+  "swedish": "i stor utsträckning",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"i stor utsträckning\". Smaller English meaning verbatim: \"widely\".\nScene: A broad city scene with adults cycling along several connected safe bicycle lanes in different neighborhoods, many ordinary bicycles showing widespread use, no labels or traffic conflict.\nMemory-link caption verbatim: \"i stor utsträckning = widely; common across many places.\".\nSwedish example in bottom strip verbatim: \"Cyklar används i stor utsträckning i staden.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1973b-f2e6-7ae0-a959-e9971c97d17c/exec-2b085639-dfba-42eb-af6c-a03f98fc06d3.png",
+  "artwork": "Content/Artwork/sv-2938.png",
+  "sha256": "a16fe9a68dd12ffed33e2d7774a83a087d3d56aa01e4a9a2745abc1eb8525fd1",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

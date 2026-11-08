@@ -15,8 +15,8 @@ settings:
     TARGETED_DEVICE_FAMILY: "1,2"
     CODE_SIGN_STYLE: Automatic
     GENERATE_INFOPLIST_FILE: YES
-    CURRENT_PROJECT_VERSION: 1
-    MARKETING_VERSION: "0.1"
+    CURRENT_PROJECT_VERSION: 8
+    MARKETING_VERSION: "1.1.0"
     DEVELOPMENT_TEAM: 2FN25VD7TR
     # Phone development plus the approved temporary iPad simulator validation.
     SUPPORTED_PLATFORMS: "iphoneos iphonesimulator"
@@ -24,6 +24,7 @@ settings:
     SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: NO
   configs:
     Debug:
+      CODE_SIGN_ENTITLEMENTS: Configuration/Debug.entitlements
       ONLY_ACTIVE_ARCH: YES
       DEBUG_INFORMATION_FORMAT: dwarf
       ENABLE_PREVIEWS: NO
@@ -42,8 +43,10 @@ targets:
         buildPhase: resources
         excludes:
           - BundledArtwork
-      - path: Resources/BundledArtwork
-        type: folder
+          - artworkBriefs.json
+      - path: Resources/BundledArtwork/manifest.json
+        buildPhase: resources
+      - path: MediaDelivery/generated/assets
         buildPhase: resources
     settings:
       base:
@@ -56,14 +59,15 @@ targets:
         INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone: UIInterfaceOrientationPortrait
         INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad: UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
       configs:
         Personal:
           # Preserve the identity and data of the installed personal copy.
           PRODUCT_BUNDLE_IDENTIFIER: com.linapps.swedish3000.personal
           INFOPLIST_KEY_CFBundleDisplayName: Swedish Words Dev
           ASSETCATALOG_COMPILER_APPICON_NAME: PersonalIcon
-          MARKETING_VERSION: "0.1"
-          CURRENT_PROJECT_VERSION: 1
+          MARKETING_VERSION: "0.2"
+          CURRENT_PROJECT_VERSION: 3
   SwedishCardsTests:
     type: bundle.unit-test
     platform: iOS

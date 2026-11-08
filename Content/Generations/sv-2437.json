@@ -1,0 +1,19 @@
+{
+  "id": "sv-2437",
+  "english": "skirt",
+  "swedish": "en kjol",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en kjol\". Smaller English meaning verbatim: \"skirt\".\nScene: Adult woman wearing knee-length blue skirt with simple white blouse, full garment clearly visible, normal street scene.\nMemory-link caption verbatim: \"kjol = skirt; clothing hanging from the waist.\".\nSwedish example in bottom strip verbatim: \"Hon har en blå kjol.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-8ebfb8ea-0872-4289-9c02-76d8108dc5cc.png",
+  "artwork": "Content/Artwork/sv-2437.png",
+  "sha256": "f861730d82d3226f984bfe4cdacccf14bce50c51776f33992bb81c773598f0ee",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

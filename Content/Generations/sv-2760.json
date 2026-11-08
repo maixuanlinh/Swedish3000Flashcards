@@ -1,0 +1,22 @@
+{
+  "id": "sv-2760",
+  "english": "transportation",
+  "swedish": "transport",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE complete square Swedish vocabulary flashcard. Match the supplied card style: warm editorial realistic illustration, cream header with thin gold edge, large navy heading, smaller English meaning, cream and gold memory caption, pale blue example strip. All text is integrated, legible on a phone, with accurate Swedish å ä ö. Opaque square canvas, no watermarks or extra text.\nHeader verbatim: \"transport\"\nEnglish meaning verbatim: \"transportation\"\nScene: A coherent urban transport hub with a city bus, tram and bicycles at separate safe stops, adults transferring between services, no brand names, maps or text.\nMemory caption verbatim: \"transport = transportation; moving people or goods.\"\nBottom Swedish example verbatim: \"Kollektivtrafik är en viktig form av transport.\"\nMeaning for scene interpretation only, do not print: Public transit is an important form of transportation.\nIf the memory caption is a spelling association, add the small label Memory trick. Preserve exact teaching text.",
+  "referenceImage": "Content/Artwork/sv-2760.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-2f8e17b2-7df2-411b-b932-b6ac33e39a50.png",
+  "artwork": "Content/Artwork/Revisions/sv-2760-qa01.png",
+  "sha256": "deead88b1e60ed7c42e31c8e8282d236dcbb870a690674dc16419997ea632480",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "scene": true,
+    "status": "visually-reviewed"
+  },
+  "correctionReason": "The example teaches transportation as an activity, rather than one specific shipment.",
+  "originalProvenance": "Verification/QualityAudit/original-generations/sv-2760.json",
+  "reviewScope": "AI visual review; independent Swedish proofreader sign-off pending."
+}

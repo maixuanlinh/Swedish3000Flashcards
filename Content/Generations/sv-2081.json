@@ -1,0 +1,19 @@
+{
+  "id": "sv-2081",
+  "english": "prove",
+  "swedish": "bevisa",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"bevisa\". Smaller English meaning verbatim: \"prove\".\nScene: An adult demonstrating a simple working model bridge holding a stack of books without bending, observers seeing the successful test, green check near the intact bridge.\nMemory-link caption verbatim: \"bevisa = prove; picture demonstrating something is true.\".\nSwedish example in bottom strip verbatim: \"Experimentet kan bevisa att idén fungerar.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-4c627954-21d3-43a2-a7b0-bade7da5a9b2.png",
+  "artwork": "Content/Artwork/sv-2081.png",
+  "sha256": "2d7acf66baa9bad67f660fd929b0f8881d67453a00ae03e954a137857185c116",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

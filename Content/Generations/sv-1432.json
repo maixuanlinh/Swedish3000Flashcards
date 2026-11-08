@@ -1,0 +1,19 @@
+{
+  "id": "sv-1432",
+  "english": "January",
+  "swedish": "januari",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"januari\". Smaller English meaning verbatim: \"January\".\nScene: A snowy Scandinavian street with a small calendar page clearly labelled januari, no dates or other text.\nMemory-link caption verbatim: \"januari resembles January; Swedish month names use lowercase.\".\nSwedish example in bottom strip verbatim: \"I januari är det ofta kallt.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-ff236a75-16bd-4e27-b5ef-304cfaf6ec1e.png",
+  "artwork": "Content/Artwork/sv-1432.png",
+  "sha256": "1640e83668797d1c01b32dce07e0e4d29b2222da90ed9a3c26ba9943e35c46c6",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

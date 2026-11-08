@@ -1,0 +1,18 @@
+{
+  "id": "sv-1224",
+  "english": "hat",
+  "swedish": "en hatt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"en hatt\". Smaller English meaning verbatim: \"hat\".\nScene: A man wearing a clearly visible black brimmed hat in a bright neutral setting.\nMemory-link caption verbatim: \"hatt resembles hat.\".\nSwedish example in bottom strip verbatim: \"Han har en svart hatt.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": "Content/Artwork/sv-0001.png",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a1744d-5bbc-7733-8f48-c68d3ae40521/exec-e93a47c7-0257-475b-9371-68464064fc38.png",
+  "artwork": "Content/Artwork/sv-1224.png",
+  "sha256": "67eabb48854691fe369e82af576f2a5f94f81acb9ee36fd0cc811a61661bce8a",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}

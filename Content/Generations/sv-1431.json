@@ -1,0 +1,19 @@
+{
+  "id": "sv-1431",
+  "english": "jam",
+  "swedish": "sylt",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"sylt\". Smaller English meaning verbatim: \"jam\".\nScene: A hand spreading bright berry jam from an open jar onto a slice of bread.\nMemory-link caption verbatim: \"sylt = jam; picture a jar of berry jam.\".\nSwedish example in bottom strip verbatim: \"Jag vill ha sylt på mitt bröd.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-b86ec94a-7d89-4b09-aeca-03198e7a96e1.png",
+  "artwork": "Content/Artwork/sv-1431.png",
+  "sha256": "92948f20c7375796e8af265c8a9d50044af6e7d05419b44f8b280d52231d2e4b",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  },
+  "styleReference": "Established Swedish vocabulary card layout, described in the prompt; no image supplied to generation."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sv-2020",
+  "english": "prepare",
+  "swedish": "förbereda",
+  "generationMode": "built-in",
+  "prompt": "Use case: scientific-educational. Create ONE finished square Swedish vocabulary artwork for an adult mobile flashcard app. Use the Finnish iOS card style: vivid tactile realistic editorial illustration, memorable scale and clear action, warm light, cream header with fine gold edging, bold navy typography, integrated cream/gold memory-link caption, pale blue bottom example strip. One strong central scene occupies about two thirds. All supplied teaching text MUST be rendered INSIDE the image. Preserve Swedish å, ä, ö and every letter exactly. Generous margins, phone-legible text. No watermark, logo, app chrome, contact sheet, or unsupplied paragraphs. Sound/spelling associations are memory aids, never pronunciation or etymological claims.\nHeader text verbatim: \"förbereda\". Smaller English meaning verbatim: \"prepare\".\nScene: Two adults preparing ingredients before cooking dinner, washed vegetables, chopping board and empty pot ready, clear preparation stage.\nMemory-link caption verbatim: \"förbereda = prepare.\".\nSwedish example in bottom strip verbatim: \"Vi förbereder middagen tillsammans.\".\nTeach only the sense shown by this sentence. Print only the supplied heading, English meaning, memory caption and Swedish example. If the caption contains a sound/spelling association, mark it with the small exact label \"Memory trick\".",
+  "referenceImage": null,
+  "styleReference": "Established card style described in the prompt; no image supplied.",
+  "sourceFile": "/Users/linhmai/.codex/generated_images/01a18a36-e95f-7623-8c62-d99bcdecab0a/exec-47f13c6a-4651-4b68-a3b3-59f4060ff290.png",
+  "artwork": "Content/Artwork/sv-2020.png",
+  "sha256": "7dad820e6f26a083c500bb913a16eb09f986467640ce65c5946e8d16db664f43",
+  "review": {
+    "heading": true,
+    "englishMeaning": true,
+    "swedishExample": true,
+    "memoryCaption": true,
+    "status": "visually-reviewed"
+  }
+}
